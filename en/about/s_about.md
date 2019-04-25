@@ -19,6 +19,7 @@ Our team:
 *   Vesna Planko -> designs things
 *   Douglas Mesquita -> droids things
 *   Lucas Correa -> apples things
+*   Jacopo Carboni -> helps things
 *   Gregor Stamejcic -> corrals things 
 *   Madeline Earp -> writes things
 
