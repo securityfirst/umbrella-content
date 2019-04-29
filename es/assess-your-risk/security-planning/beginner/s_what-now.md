@@ -17,5 +17,5 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### FUENTES
 
-* Frontline Defenders, [Libro de Trabajo Sobre Seguridad: Pasos Prácticos para Defensores y Defensoras de Derechos Humanos en Riesgo] (https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) 23 de junio de 2016.
-*  Protection International, [Nuevo Manual de Protección para Defensores de Derechos Humanos] (https://www.protectioninternational.org/en/node/1106).
+* Frontline Defenders, [Libro de Trabajo Sobre Seguridad: Pasos Prácticos para Defensores y Defensoras de Derechos Humanos en Riesgo](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) 23 de junio de 2016.
+*  Protection International, [Nuevo Manual de Protección para Defensores de Derechos Humanos](https://www.protectioninternational.org/en/node/1106).
