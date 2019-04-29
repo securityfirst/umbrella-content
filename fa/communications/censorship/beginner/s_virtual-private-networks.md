@@ -29,7 +29,7 @@ VPN:
 
 (در مورد [برنامه ریزی امنیت] بیشتر بدانید ((umbrella://assess-your-risk/security-planning).)
 
-ارائه دهندگان VPN ممکن است تجاری یا غیر انتفاعی باشند و در کشورهای مختلف با ارائه سیاست های مختلف حفظ حریم خصوصی قرار داشته باشند. برای اطلاعات در مورد سرویس VPN خاص، روی [اینجا] (https://thatoneprivacysite.net/vpn-section/) کلیک کنید.
+ارائه دهندگان VPN ممکن است تجاری یا غیر انتفاعی باشند و در کشورهای مختلف با ارائه سیاست های مختلف حفظ حریم خصوصی قرار داشته باشند. برای اطلاعات در مورد سرویس VPN خاص، روی [اینجا](https://thatoneprivacysite.net/vpn-section/) کلیک کنید.
 
 از یک VPN که به آن اعتماد ندارید،استفاده نکنید.
 
@@ -37,10 +37,10 @@ VPN:
 
 Psiphon یک VPN رایگان و امن برای ویندوز، اندروید و iOS است.
 
-(چگونگی استفاده از [Psiphon] (umbrella://tools/messagging/s_psiphon.md) یاد بگیرید.)
+(چگونگی استفاده از [Psiphon](umbrella://tools/messagging/s_psiphon.md) یاد بگیرید.)
 
 سایفون برای جلوگیری از سانسور است. ناشناس بودن را تضمین نمی کند.
 
-( آنلاین و ناشناس باقی ماندن را در [حریم خصوصی آنلاین] (umbrella://communications/online-privacy/advanced) یاد بگیرید.
+( آنلاین و ناشناس باقی ماندن را در [حریم خصوصی آنلاین](umbrella://communications/online-privacy/advanced) یاد بگیرید.
 
-! [image] (internetb4.png)
+! [image](internetb4.png)

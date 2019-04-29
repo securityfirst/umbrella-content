@@ -14,18 +14,18 @@ title: إعداد
 
 *   إنشاء بروتوكول للسلوك أثناء الاستجواب. بمعنى آخر ، قرر كيف تتصرف وما الذي أنت مستعد للكشف عنه.
 
-(تعرف على [تخطيط الأمان] (umbrella://assess-your-risk/security-planning).)
+(تعرف على [تخطيط الأمان](umbrella://assess-your-risk/security-planning).)
 
 ## حماية المعلومات الخاصة بك
 
 *   حدد المعلومات الحساسة. تحمل فقط ما تحتاجه حقا.
 
-(تعرف على المزيد حول هذا الموضوع في [إدارة المعلومات] (umbrella://information/managing-information).)
+(تعرف على المزيد حول هذا الموضوع في [إدارة المعلومات](umbrella://information/managing-information).)
 
 *   إذا تم الاستيلاء على أجهزتك ، قم بتشديدها ضد عمليات البحث.
 
-(تعرف على المزيد حول هذا الموضوع في [الاحتجاجات] (umbrella://work/protests/advanced).)
+(تعرف على المزيد حول هذا الموضوع في [الاحتجاجات](umbrella://work/protests/advanced).)
 
 *   إذا كنت قد تضطر إلى الكشف عن كلمات المرور الخاصة بك ، فقم بإعداد حساب بمعلومات غير مهمة للكشف عنها من أجل حماية حساب حساس بنفس الخدمة.
 
-(تعرف على المزيد حول هذا الموضوع في [Passwords Expert] (umbrella://information/passwords/expert).)
+(تعرف على المزيد حول هذا الموضوع في [Passwords Expert](umbrella://information/passwords/expert).)

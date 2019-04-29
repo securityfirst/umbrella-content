@@ -10,4 +10,4 @@ Aprenda qué hacer si se le puede obligar a entregar su contraseña en [Experto 
 
 ### OTRAS LECTURAS
 
-* Primero la Seguridad, [Contraseñas Seguras y Cifrado de Datos] (https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
+* Primero la Seguridad, [Contraseñas Seguras y Cifrado de Datos](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.

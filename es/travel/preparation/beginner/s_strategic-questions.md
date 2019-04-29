@@ -16,7 +16,7 @@ title: Preguntas Estrategicas
 
 *   ¿Qué daño podría causar este viaje a su adversario? ¿Qué tan interesados estarán en su viaje?
 
-(Aprenda a identificar a su adversario en la lección [manejo de información] (umbrella://information/managing-information).)
+(Aprenda a identificar a su adversario en la lección [manejo de información](umbrella://information/managing-information).)
 
 ## Realice una evaluación de contexto
 

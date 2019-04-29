@@ -33,4 +33,4 @@ title: Al Acercarse
     * ¿Qué lleva el vehículo?
 *   Elija un portavoz.
 
-(Obtenga más información sobre historias de pantalla en la lección [fronteras] (umbrella://travel/borders) lesson.)
+(Obtenga más información sobre historias de pantalla en la lección [fronteras](umbrella://travel/borders) lesson.)

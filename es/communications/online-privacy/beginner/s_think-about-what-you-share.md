@@ -6,7 +6,7 @@ title: Piense en lo que comparte
 
 ¿Se siente cómodo con la cantidad de información sobre usted que ya es pública?
 
-Descúbralo [investigándose a usted mismo] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
+Descúbralo [investigándose a usted mismo](https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
 # Antes de publicar más información, siempre pregunte:
 

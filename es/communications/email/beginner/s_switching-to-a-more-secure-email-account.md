@@ -14,20 +14,20 @@ Google ofrece algunas funciones de seguridad, pero no se recomienda para correo 
 
 *   Las cuentas de Gmail utilizan una conexión segura y no revelan su dirección IP a los destinatarios de correo electrónico.
 *   Sin embargo, Google escanea y registra el contenido del correo electrónico para una variedad de propósitos y ha aceptado las demandas de los gobiernos que restringieron la libertad digital en el pasado.
-*   Siempre active la verificación de 2 pasos, un tipo de autenticación de dos factores (2FA). La configuración es [simple] (https://support.google.com/accounts/answer/185839?hl=es).
+*   Siempre active la verificación de 2 pasos, un tipo de autenticación de dos factores (2FA). La configuración es [simple](https://support.google.com/accounts/answer/185839?hl=es).
 
 (Aprende sobre 2FA en
-[Contraseñas Avanzadas] (umbrella://information/passwords/advanced).)
+[Contraseñas Avanzadas](umbrella://information/passwords/advanced).)
 
 ## Protonmail y Tutanota
 
-[Protonmail] (https://protonmail.com) y [Tutanota] (https://tutanota.com) ofrecen cuentas de correo electrónico gratuitas con políticas de privacidad sólidas.
+[Protonmail](https://protonmail.com) y [Tutanota](https://tutanota.com) ofrecen cuentas de correo electrónico gratuitas con políticas de privacidad sólidas.
 
 Los correos electrónicos entre usuarios del mismo servicio se cifran de extremo a extremo, por lo que el proveedor no puede leerlos.
 
 ## RiseUp
 
-RiseUp [https://mail.riseup.net] (https://mail.riseup.net) ofrece correo electrónico gratuito para activistas, políticas de privacidad sólidas y el compromiso de proteger la información en sus servidores.
+RiseUp [https://mail.riseup.net](https://mail.riseup.net) ofrece correo electrónico gratuito para activistas, políticas de privacidad sólidas y el compromiso de proteger la información en sus servidores.
 
 Para crear una cuenta de RiseUp:
 

@@ -36,4 +36,4 @@ Secure Drop هو برنامج مجاني ومفتوح المصدر يمكن لب
 
 مثال على ذلك [Ricochet.im] من (https://ricochet.im/). إنه برنامج مجاني مفتوح المصدر يسمح لك بتبادل الرسائل المشفرة من طرف إلى طرف عبر شبكة Tor باستخدام عنوان فريد بدلاً من اسم مستخدم.
 
-(تعرف على [إرسال رسالة] (umbrella://communications/sending-a-message).)
+(تعرف على [إرسال رسالة](umbrella://communications/sending-a-message).)

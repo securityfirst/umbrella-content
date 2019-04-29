@@ -10,4 +10,4 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### FUENTES
 
-* Security in a Box [Proteja su Información de Amenazas Físicas] (https://securityinabox.org/en/guide/physical/), actualizada el 28 de junio de 2018.
+* Security in a Box [Proteja su Información de Amenazas Físicas](https://securityinabox.org/en/guide/physical/), actualizada el 28 de junio de 2018.

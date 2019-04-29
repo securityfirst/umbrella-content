@@ -56,7 +56,7 @@ Los metadatos son compatibles con la credibilidad de las imágenes y los videos 
 
 ## Utilice ObscuraCam
 
-ObscuraCam es una aplicación gratuita y de código abierto del [Proyecto Guardian] (https://guardianproject.info/). Úsela para proteger la privacidad cuando comparta imágenes o videos.
+ObscuraCam es una aplicación gratuita y de código abierto del [Proyecto Guardian](https://guardianproject.info/). Úsela para proteger la privacidad cuando comparta imágenes o videos.
 
 ObscuraCam puede:
 
@@ -68,7 +68,7 @@ ObscuraCam puede:
 
 ## Use CameraV
 
-[CameraV] (https://guardianproject.info/apps/camerav/) es un complemento para ObscuraCam.
+[CameraV](https://guardianproject.info/apps/camerav/) es un complemento para ObscuraCam.
 
 CameraV puede:
 
@@ -85,8 +85,8 @@ eyeWitness puede:
 *   Subir imágenes a un servidor seguro para su análisis legal;
 *   Almacenar copias fuera de línea de las imágenes que pueden usarse como evidencia y documente quién tiene acceso.
 
-[eyeWitness to Atrocities] (http://www.eyewitnessproject.org/) está disponible en Google Play, o solicite una descarga directa en [general@eyewitnessproject.org] (general@eyewitnessproject.org).
+[eyeWitness to Atrocities](http://www.eyewitnessproject.org/) está disponible en Google Play, o solicite una descarga directa en [general@eyewitnessproject.org](general@eyewitnessproject.org).
 
 ## Usa Mobile Justice
 
-En los EE. UU., las afiliadas de ACLU en varios estados ofrecen una aplicación gratuita Mobile Justice para ayudar a los usuarios a documentar los intercambios con la policía y comprender sus derechos locales. Obtenga más información en [ACLU Apps to Record Police Conduct] (https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct).
+En los EE. UU., las afiliadas de ACLU en varios estados ofrecen una aplicación gratuita Mobile Justice para ayudar a los usuarios a documentar los intercambios con la policía y comprender sus derechos locales. Obtenga más información en [ACLU Apps to Record Police Conduct](https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct).

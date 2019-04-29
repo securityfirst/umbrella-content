@@ -7,7 +7,7 @@ title: VeraCrypt
 
 تخزين الملفات الآمن
 
-**درس للقراءة: [حماية الملفات] (umbrella://information/protecting-files)**
+**درس للقراءة: [حماية الملفات](umbrella://information/protecting-files)**
 **المستوى:** متقدم
 **الوقت المطلوب:** 30-60 دقيقة
 
@@ -53,7 +53,7 @@ Microsoft Windows Server 2003، 2008، 2012؛ XP و Vista و 7 و 8 و 10
 لمزيد من المعلومات حول VeraCrypt ، راجع:
 
 *   ال [المستندات الرسمية](https://www.veracrypt.fr/en/Documentation.html)
-*   [الأسئلة الشائعة الرسمية] (https://www.veracrypt.fr/ar/FAQ.html)
+*   [الأسئلة الشائعة الرسمية](https://www.veracrypt.fr/ar/FAQ.html)
 
 1.1 أدوات أخرى مثل VeraCrypt
 ------------------------------

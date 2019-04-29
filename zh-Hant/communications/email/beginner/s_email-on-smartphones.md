@@ -12,4 +12,4 @@ title: 智能手機上的電子郵件
 
 *   通過可用的安全應用程序來加密電子郵件。
 
-(在[電子郵件-進階課程] (umbrella://communications/email/advanced)中了解加密以及如何使用[k-9和Open Keychain] (umbrella://tools/encryption/s_k9-apg.md)為Android加密電子郵件。)
+(在[電子郵件-進階課程](umbrella://communications/email/advanced)中了解加密以及如何使用[k-9和Open Keychain](umbrella://tools/encryption/s_k9-apg.md)為Android加密電子郵件。)

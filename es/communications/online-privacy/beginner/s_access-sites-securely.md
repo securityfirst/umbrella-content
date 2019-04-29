@@ -10,7 +10,7 @@ HTTPS es la versión segura del protocolo HTTP utilizado para acceder a los siti
 
 El uso de https:// evita que las personas intercepten su nombre de usuario, contraseña y cualquier otra información que publique.
 
-(Obtenga más información sobre esto en [Privacidad en línea](umbrella://communications/online-privacy/advanced) y [correo electrónico] (umbrella://communications/email/beginner).)
+(Obtenga más información sobre esto en [Privacidad en línea](umbrella://communications/online-privacy/advanced) y [correo electrónico](umbrella://communications/email/beginner).)
 
 Nunca acceda a las redes sociales desde:
 

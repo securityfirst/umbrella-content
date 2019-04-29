@@ -4,7 +4,7 @@ title: الان چی؟
 ---
 برای چک لیست این درس به سمت راست بکشید.
 
-بیاموزید که در اینترنت [آنلاین حریم خصوصی پیشرفته] (چتر: // ارتباطات / حفظ حریم خصوصی / پیشرفته) آنلاین بی نام بمانید.
+بیاموزید که در اینترنت [آنلاین حریم خصوصی پیشرفته](چتر: // ارتباطات / حفظ حریم خصوصی / پیشرفته) آنلاین بی نام بمانید.
 
 ### درس های مرتبط / ابزارها
 
@@ -19,13 +19,13 @@ title: الان چی؟
 
 ### منابع
 
-*   فناوری تاکتیکی [من و سایه من] (https://myshadow.org/).
-*   EFF، نظارت بر دفاع از خود، [محافظت از خود در شبکه های اجتماعی] (https://ssd.eff.org/en/module/protecting-yourself- social networks)، آخرین بررسی 30 اکتبر 2018 است.
+*   فناوری تاکتیکی [من و سایه من](https://myshadow.org/).
+*   EFF، نظارت بر دفاع از خود، [محافظت از خود در شبکه های اجتماعی](https://ssd.eff.org/en/module/protecting-yourself- social networks)، آخرین بررسی 30 اکتبر 2018 است.
 
 ### خواندن بیشتر
 
-*   فناوری تاکتیکی، XYZ، [مبارزه با ابزارهای تبلیغاتی حقوق زنان] (https://xyz.informationactivism.org/en/womens-rights-campaigning-info-activism-toolkit).
-* * گاردین * [گزارش خبری] (https://www.theguardian.com/uk-news/cambridge-analytica) در کمبریج Analytica.
-*   Baratunde Thurston، Medium [یافتن آنچه گوگل و فیس بوک درباره شما می دانند] (https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61).
-*   Global Partners Digital، [راهنمای سفر به دنیای دیجیتال: حفاظت از اطلاعات برای مدافعان حقوق بشر] (https://www.gp-digital.org/wp-content/uploads/2018/07/travelguidetodataprotection.pdf).
-* EFF، [Panopticlick: آیا مرورگر شما در مقابل ردیابی امن است؟] (https://panopticlick.eff.org/).
+*   فناوری تاکتیکی، XYZ، [مبارزه با ابزارهای تبلیغاتی حقوق زنان](https://xyz.informationactivism.org/en/womens-rights-campaigning-info-activism-toolkit).
+* * گاردین * [گزارش خبری](https://www.theguardian.com/uk-news/cambridge-analytica) در کمبریج Analytica.
+*   Baratunde Thurston، Medium [یافتن آنچه گوگل و فیس بوک درباره شما می دانند](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61).
+*   Global Partners Digital، [راهنمای سفر به دنیای دیجیتال: حفاظت از اطلاعات برای مدافعان حقوق بشر](https://www.gp-digital.org/wp-content/uploads/2018/07/travelguidetodataprotection.pdf).
+* EFF، [Panopticlick: آیا مرورگر شما در مقابل ردیابی امن است؟](https://panopticlick.eff.org/).

@@ -12,4 +12,4 @@ title: البريد الإلكتروني على الهواتف الذكية
 
 *   قم بتشفير البريداإلكتروني بواسطة تطبيقات الحماية أينما وجدت.
 
-(تعلّم عن التشفير   [البريد الإلكتروني المتقدم] (umbrella://communications/email/advanced) وكيفية تشفير البريد الإلكتروني لنظام تشغيل الأندرويد  [k-9 & Open Keychain] (umbrella://tools/encryption/s_k9-apg.md).)
+(تعلّم عن التشفير   [البريد الإلكتروني المتقدم](umbrella://communications/email/advanced) وكيفية تشفير البريد الإلكتروني لنظام تشغيل الأندرويد  [k-9 & Open Keychain](umbrella://tools/encryption/s_k9-apg.md).)

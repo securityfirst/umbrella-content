@@ -16,6 +16,6 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu] (https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
-*   منظمة CARE الدولية ، [دليل السلامة والأمن] (https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
-*   لجنة احتجاج الصحفيين ، [دليل أمن الصحفي] (https://cpj.org/reports/2012/04/journalist-security-guide.php).
+*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
+*   منظمة CARE الدولية ، [دليل السلامة والأمن](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
+*   لجنة احتجاج الصحفيين ، [دليل أمن الصحفي](https://cpj.org/reports/2012/04/journalist-security-guide.php).

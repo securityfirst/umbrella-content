@@ -10,4 +10,4 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   EFF ، مراقبة الدفاع عن النفس ، ["تقييم مخاطرك"] (https://ssd.eff.org/en/module/assessing-your-risks)
+*   EFF ، مراقبة الدفاع عن النفس ، ["تقييم مخاطرك"](https://ssd.eff.org/en/module/assessing-your-risks)

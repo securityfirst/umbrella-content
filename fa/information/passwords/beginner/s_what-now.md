@@ -10,4 +10,4 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-* اول امنیت ، [رمزهای عبور امن و رمزگذاری داده ها] (https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1)، یک آموزش رایگان آنلاین در Advocacy Assembly است.
+* اول امنیت ، [رمزهای عبور امن و رمزگذاری داده ها](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1)، یک آموزش رایگان آنلاین در Advocacy Assembly است.

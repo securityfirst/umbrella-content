@@ -44,7 +44,7 @@ _Recuerde: las redes de telecomunicaciones y las aplicaciones móviles pueden es
 
 Si la policía toma su dispositivo, el contenido puede ser eliminado, ya sea intencionalmente o no.
 
-(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files)  y [copia de seguridad] (umbrella://information/backing-up).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files)  y [copia de seguridad](umbrella://information/backing-up).)
 
 *   **Cierre sesión de aplicaciones y cuentas innecesarias.**
 
@@ -63,7 +63,7 @@ Evalúe los riesgos de usar las redes sociales para organizar o documentar prote
 
 Si puede verse obligado a revelar sus contraseñas, revele una cuenta con información sin importancia para proteger a una persona sensible con el mismo servicio.
 
-(Obtenga más información sobre esto en [experto en contraseñas] (umbrella://information/passwords/expert).)
+(Obtenga más información sobre esto en [experto en contraseñas](umbrella://information/passwords/expert).)
 
 ## Use un teléfono desechable
 

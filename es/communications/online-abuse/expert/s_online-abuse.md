@@ -8,7 +8,7 @@ El abuso en línea usualmente involucra:
 *   Acosar a familiares, amigos y empleadores para aislar al objetivo;
 *   Tácticas para dar miedo al objetivo.
 
-El abuso dirigido a personas más jóvenes puede denominarse acoso cibernético. Lea sobre esto en [cyberbullying.org] (https://cyberbullying.org/).
+El abuso dirigido a personas más jóvenes puede denominarse acoso cibernético. Lea sobre esto en [cyberbullying.org](https://cyberbullying.org/).
 
 Hay muchos tipos diferentes de abuso en línea.
 
@@ -16,7 +16,7 @@ Hay muchos tipos diferentes de abuso en línea.
 
 Amenazar con revelar información vergonzosa o perjudicial sobre una persona al público, a la familia o a los asociados, a menudo para obtener dinero o favores.
 
-La información o las imágenes pueden ser robadas (a menudo a través de piratería ilegal) o falsificadas. (Audios y videos falsos conocidos como [deepfakes] (https://www.buzzfeed.com/craigsilverman/obama-jordan-peele-deepfake-video-debunk-buzzfeed?utm_term=.hlxWpqMOO#.rlDN6YM4o) pueden ser muy convincentes.)
+La información o las imágenes pueden ser robadas (a menudo a través de piratería ilegal) o falsificadas. (Audios y videos falsos conocidos como [deepfakes](https://www.buzzfeed.com/craigsilverman/obama-jordan-peele-deepfake-video-debunk-buzzfeed?utm_term=.hlxWpqMOO#.rlDN6YM4o) pueden ser muy convincentes.)
 
 Los chantajistas pueden amenazar con diseminar la información en línea o pedir dinero para eliminar imágenes de sitios web que publican maliciosamente material sexualmente explícito sin el consentimiento del sujeto (consulte Porno Vengativo).
 
@@ -38,7 +38,7 @@ Repetición de visitas o solicitudes de información diseñadas para causar que 
 
 Los ataques DDoS (denegación de servicio distribuida) usan una red de computadoras para llevar a cabo el ataque, posiblemente controladas mediante piratería ilegal o malware.
 
-(Obtenga información sobre [malware] (umbrella://information/malware/beginner).)
+(Obtenga información sobre [malware](umbrella://information/malware/beginner).)
 
 ## Doxing
 
@@ -76,6 +76,6 @@ Las imágenes privadas publicadas sin consentimiento por extorsión, chantaje o 
 
 El porno de venganza es un acto de violencia y no debe combinarse con la pornografía.
 
-[Abuso en línea Avanzado] (umbrella://communications/online-abuse/advanced) describe el discurso del odio y el trolleo.
+[Abuso en línea Avanzado](umbrella://communications/online-abuse/advanced) describe el discurso del odio y el trolleo.
 
-[Definición de Acoso en Línea] (https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) por PEN America y [Hostigamiento en línea de mujeres políticamente activas] (https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) de Tachtical Tech incluye otros tipos de abuso.
+[Definición de Acoso en Línea](https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) por PEN America y [Hostigamiento en línea de mujeres políticamente activas](https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) de Tachtical Tech incluye otros tipos de abuso.

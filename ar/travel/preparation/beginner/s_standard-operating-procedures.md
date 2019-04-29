@@ -42,7 +42,7 @@ title: إجراءات التشغيل القياسية
     * النسخ الاحتياطي للمعلومات بشكل آمن قبل السفر.
     * احمل المعلومات الحساسة بأمان.
 
-(تعرف على [النسخ الاحتياطي](umbrella://information/backing-up)، [حذف بأمان](umbrella://information/safely-deleting)، و [حماية الملفات] (umbrella://information/protecting-files).)
+(تعرف على [النسخ الاحتياطي](umbrella://information/backing-up)، [حذف بأمان](umbrella://information/safely-deleting)، و [حماية الملفات](umbrella://information/protecting-files).)
 
 *   وضع بروتوكولات للاحتجاز أو الاستجواب.
 
@@ -63,7 +63,7 @@ title: إجراءات التشغيل القياسية
 
 رفيق ثابت يحتوي على الأساسيات في حالة الإخلاء أو الطوارئ.
 
-(تعرف على [الإخلاء] (umbrella://incident-response/evacuation).)
+(تعرف على [الإخلاء](umbrella://incident-response/evacuation).)
 
 خذ بعين الاعتبار:
 

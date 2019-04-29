@@ -27,4 +27,4 @@ title: مراحل الخطف
 
 [اختطاف متقدم](umbrella://incident-response/kidnapping/advanced) يحدد استراتيجيات البقاء على قيد الحياة للقبض ، والنقل ، والحبس والإفراج.
 
-[خبير الاختطاف] (umbrella://incident-response/kidnapping/expert) يحدد إدارة الحوادث عندما يتم اختطاف زميل له.
+[خبير الاختطاف](umbrella://incident-response/kidnapping/expert) يحدد إدارة الحوادث عندما يتم اختطاف زميل له.

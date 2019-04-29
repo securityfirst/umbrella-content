@@ -20,4 +20,4 @@ title: الدفاع عن خصوصيتك
 
 [uBlock Origin]من (https://github.com/gorhill/uBlock) و [Privacy Badger] من (https://www.eff.org/privacybadger) بواسطة EFF ، هي أمثلة على امتدادات متصفح حظر المرور.
 
-[منع التتبع عبر الإنترنت] (https://myshadow.org/prevent-online-tracking) بواسطة Me و My Shadow يسرد ملحقات مفيدة.
+[منع التتبع عبر الإنترنت](https://myshadow.org/prevent-online-tracking) بواسطة Me و My Shadow يسرد ملحقات مفيدة.

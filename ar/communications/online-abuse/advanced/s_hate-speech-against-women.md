@@ -6,7 +6,7 @@ title: خطاب الكراهية ضد المرأة
 
 تتحدى رؤية المرأة في المساحات عبر الإنترنت عدم المساواة بين الجنسين وامتياز الذكور.
 
-(تعرف على المزيد حول هذا الموضوع في [خبير إساءة الاستخدام عبر الإنترنت] (umbrella://communications/online-abuse/expert))
+(تعرف على المزيد حول هذا الموضوع في [خبير إساءة الاستخدام عبر الإنترنت](umbrella://communications/online-abuse/expert))
 
 ## الهدف من إساءة الاستخدام
 
@@ -28,12 +28,12 @@ title: خطاب الكراهية ضد المرأة
 
 *   توثيق والاقرار بالمشكلة.
 
-* اقرأ المزيد: [دليل أنيتا سركيسيان للإنترنيت بينما الإناث] (https://www.marieclaire.com/culture/news/a13403/online-harassment-terms-fight-back/) *
+* اقرأ المزيد: [دليل أنيتا سركيسيان للإنترنيت بينما الإناث](https://www.marieclaire.com/culture/news/a13403/online-harassment-terms-fight-back/) *
 
 *   تقديم الدعم.
 
-* اقرأ المزيد: PEN America ، [أفضل الممارسات للحلفاء والشهود] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/) *
+* اقرأ المزيد: PEN America ، [أفضل الممارسات للحلفاء والشهود](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/) *
 
 *   قم بالطلب أكثر من الناس أصحاب المسؤولية.
 
-* اقرأ المزيد: منظمة العفو الدولية [Twitter Toxic: مكان سام للمرأة] (https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*
+* اقرأ المزيد: منظمة العفو الدولية [Twitter Toxic: مكان سام للمرأة](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*

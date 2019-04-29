@@ -8,7 +8,7 @@ Las marchas de protesta, las manifestaciones o las reuniones no planificadas pue
 
 Periodistas y civiles deben prepararse antes de observar o cubrir protestas.
 
-(Obtenga información sobre cómo organizar o participar en protestas en [protestas avanzadas] (umbrella://work/protests/advanced).)
+(Obtenga información sobre cómo organizar o participar en protestas en [protestas avanzadas](umbrella://work/protests/advanced).)
 
 ## Preparación
 
@@ -32,7 +32,7 @@ _Recuerde: las redes de telecomunicaciones y las aplicaciones móviles pueden es
 
 *No use tacones altos o zapatos abiertos.*
 
-(Obtenga más información sobre [equipo de protección] (umbrella://travel/protective-equipment).)
+(Obtenga más información sobre [equipo de protección](umbrella://travel/protective-equipment).)
 
 *   **Primeros auxilios**
 

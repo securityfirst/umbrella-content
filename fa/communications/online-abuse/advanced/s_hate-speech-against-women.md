@@ -32,8 +32,8 @@ title: سخنان نفرت انگیز در برابر زنان
 
 *   پشتیبانی ارائه دهید.
 
-* اطلاعات بیشتر: PEN America، [بهترین روش برای متفقین و شاهدان] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/) *
+* اطلاعات بیشتر: PEN America، [بهترین روش برای متفقین و شاهدان](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/) *
 
 *    از افراد مسئول تقاضای بیشتر داشته باشید.
 
-* اطلاعات بیشتر: سازمان عفو بین الملل، [توییتر سمی: محل سمی برای زنان] (https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/ #topanchor) *
+* اطلاعات بیشتر: سازمان عفو بین الملل، [توییتر سمی: محل سمی برای زنان](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/ #topanchor) *

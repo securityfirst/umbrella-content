@@ -14,7 +14,7 @@ title: الوقاية
 
 *   فهم السياق المحلي وطاعة القوانين والعادات المحلية حيثما أمكن ذلك.
 
-(تعرف على [الاتصالات العامة] (umbrella://work/public-communications).) 
+(تعرف على [الاتصالات العامة](umbrella://work/public-communications).) 
 
 ## فهم السياق
 
@@ -30,4 +30,4 @@ title: الوقاية
 
 *   انتبه إذا كانت المجموعات التي لا تعمل معها تشعر بالتمييز ضدك.
 
-(تعرف على [السياق] (umbrella://assess-your-risk/security-planning/beginner/s_context.md).)
+(تعرف على [السياق](umbrella://assess-your-risk/security-planning/beginner/s_context.md).)

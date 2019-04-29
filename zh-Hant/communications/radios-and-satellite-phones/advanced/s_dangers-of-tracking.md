@@ -17,4 +17,4 @@ title: 被追踪的危險
 *   內置GPS設備可以傳輸弱加密或根本不加密的位置數據。
 
 *“衛星電話追踪不僅是可能的，它還被軍事和安全局廣泛使用，”一位以人權導向的技術專家（並在敘利亞擁有公民活動人士培訓的經驗）告訴CPJ。
-“* [保護記者委員會] (https://cpj.org/blog/2012/02/caveat-utilitor-satellite-phones-can-always-be-tra.php), 2012
+“* [保護記者委員會](https://cpj.org/blog/2012/02/caveat-utilitor-satellite-phones-can-always-be-tra.php), 2012

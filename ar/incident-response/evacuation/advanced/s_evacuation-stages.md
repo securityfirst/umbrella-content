@@ -12,6 +12,6 @@ title: مراحل الاخلاء
 
 ### 4. الإخلاء
 
-[إخلاء المبتدئين] (umbrella://incident-response/evacuation/beginner) الخطوط العريضة للتخطيط والتنبيه.
+[إخلاء المبتدئين](umbrella://incident-response/evacuation/beginner) الخطوط العريضة للتخطيط والتنبيه.
 
 يوضح هذا الدرس الإخلاء المسبق والإخلاء.

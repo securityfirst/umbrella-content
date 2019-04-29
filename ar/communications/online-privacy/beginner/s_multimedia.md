@@ -30,7 +30,7 @@ title: الوسائط المتعددة
 
 *   هل يمكن أن يتسبب بثك في ضرر غير مقصود؟
 
-(تعرف على [توثيق] (umbrella://work/protests/beginner) و [حضور] الاحتجاجات (umbrella://work/protests/advanced).)
+(تعرف على [توثيق](umbrella://work/protests/beginner) و [حضور] الاحتجاجات (umbrella://work/protests/advanced).)
 
 ## المحتوى المشترك من قبل شخص آخر
 
@@ -56,7 +56,7 @@ title: الوسائط المتعددة
 
 ## استخدم ObscuraCam
 
-ObscuraCam هو تطبيق مجاني ومفتوح المصدر من قبل [مشروع الجارديان] (https://guardianproject.info/). استخدمها لحماية الخصوصية عند مشاركة الصور أو الفيديو.
+ObscuraCam هو تطبيق مجاني ومفتوح المصدر من قبل [مشروع الجارديان](https://guardianproject.info/). استخدمها لحماية الخصوصية عند مشاركة الصور أو الفيديو.
 
 ObscuraCam can:
 
@@ -85,8 +85,8 @@ eyeWitness هو تطبيق أندرويد مجاني يمكنك استخدامه
 *   تحميل الصور إلى خادم آمن للتحليل القانوني ؛
 *   قم بتخزين النسخ غير المتصلة من الصور التي يمكن استخدامها كدليل ومستند لديه حق الوصول.
 
-[eyeWitness to Atrocities] (http://www.eyewitnessproject.org/) متاح من Google Play ، أو اطلب تنزيلًا مباشرًا من [general@eyewitnessproject.org] من (general@eyewitnessproject.org).
+[eyeWitness to Atrocities](http://www.eyewitnessproject.org/) متاح من Google Play ، أو اطلب تنزيلًا مباشرًا من [general@eyewitnessproject.org] من (general@eyewitnessproject.org).
 
 ## استخدم العدل المحمول
 
-في الولايات المتحدة ، تقدم الشركات التابعة لـ ACLU في عدة ولايات تطبيق Mobile Justice مجاني لمساعدة المستخدمين على توثيق التبادلات مع الشرطة وفهم حقوقهم المحلية. اكتشف المزيد على [ACLU Apps لتسجيل سلوك الشرطة] (https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct).
+في الولايات المتحدة ، تقدم الشركات التابعة لـ ACLU في عدة ولايات تطبيق Mobile Justice مجاني لمساعدة المستخدمين على توثيق التبادلات مع الشرطة وفهم حقوقهم المحلية. اكتشف المزيد على [ACLU Apps لتسجيل سلوك الشرطة](https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct).

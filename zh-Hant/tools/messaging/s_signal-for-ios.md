@@ -7,7 +7,7 @@ title: 適用於iOS的Signal
 
 安全消息
 
-**閱讀課程：[發送信息] (umbrella://communications/sending-a-message)**
+**閱讀課程：[發送信息](umbrella://communications/sending-a-message)**
 **級別**：初級 - 中級
 **所需時間**：15-20分鐘
 **發佈時間：** 2018年4月（部分圖片可追溯至早期版本）

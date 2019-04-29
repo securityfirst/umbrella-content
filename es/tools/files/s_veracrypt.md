@@ -7,7 +7,7 @@ Guía de la Herramienta VeraCrypt
 
 Almacenamiento Seguro de Archivos
 
-**Lección a leer: [Protección de Archivos] (umbrella://information/protecting-files) **
+**Lección a leer: [Protección de Archivos](umbrella://information/protecting-files) **
 **Nivel:** Avanzado
 **Tiempo requerido:** 30-60 minutos
 
@@ -26,7 +26,7 @@ Almacenamiento Seguro de Archivos
 **Requisitos del sistema:**
 
 GNU / Linux  (versiones de 32 bits y 64 bits, kernel 2.6 o compatible)
-Apple Mac OS X ** 10.7 o superior, con la última versión de [FUSE para Mac OS] (https://osxfuse.github.io/)
+Apple Mac OS X ** 10.7 o superior, con la última versión de [FUSE para Mac OS](https://osxfuse.github.io/)
 Microsoft Windows Server 2003, 2008, 2012; XP, Vista, 7, 8, 10
 
 Nota: Se Requiere una cuenta de administrador para la instalación y para crear volúmenes
@@ -35,7 +35,7 @@ Nota: Se Requiere una cuenta de administrador para la instalación y para crear 
 1\. Introducción
 ================
 
-[**VeraCrypt**] (https://www.veracrypt.fr/en/Home.html) es un software_libre que le permite cifrar sus archivos. Es una versión actualizada del proyecto TrueCrypt sin mantenimiento, y está disponible para Microsoft Windows, Mac OS X y GNU / Linux. Aborda varias vulnerabilidades de seguridad que desde entonces se han identificado en TrueCrypt.
+[**VeraCrypt**](https://www.veracrypt.fr/en/Home.html) es un software_libre que le permite cifrar sus archivos. Es una versión actualizada del proyecto TrueCrypt sin mantenimiento, y está disponible para Microsoft Windows, Mac OS X y GNU / Linux. Aborda varias vulnerabilidades de seguridad que desde entonces se han identificado en TrueCrypt.
 
 1.0. Cosas que debes saber sobre VeraCrypt antes de comenzar
 ------------------------------------------------------------
@@ -52,8 +52,8 @@ Recuerde, si usted olvida su contraseña, ¡perderá el acceso a sus datos! No h
 
 Para obtener más información acerca de VeraCrypt, consulte:
 
-*   La [documentación oficial] (https://www.veracrypt.fr/en/Documentation.html)
-*   Las [preguntas frecuentes oficiales] (https://www.veracrypt.fr/en/FAQ.html)
+*   La [documentación oficial](https://www.veracrypt.fr/en/Documentation.html)
+*   Las [preguntas frecuentes oficiales](https://www.veracrypt.fr/en/FAQ.html)
 
 1.1 Otras herramientas como VeraCrypt
 ------------------------------
@@ -64,7 +64,7 @@ Para **Mac OS X** podrá utilizar la utilidad **FileVault** para el cifrado de d
 
 Tanto **FileVault** (para **Mac OS X**)  y **BitLocker** (para **Windows**) son software de propietario. Como resultado, la seguridad que proporcionan no puede ser verificada independientemente. No obstante, es una buena idea habilitarlos, si es posible. Puede utilizar **VeraCrypt**, además de estas herramientas integradas, para proteger sus archivos más sensibles y para moverlos entre Linux, Mac OS X y Windows.
 
-Muchas distribuciones de **GNU Linux**, incluyendo [**Ubuntu**] (http://www.ubuntu.com/), son compatibles con el cifrado de disco completo como una característica estándar. Se recomienda habilitar el cifrado de disco completo cuando se instala Linux, ya que es mucho más fácil que hacerlo más adelante. Además, se puede utilizar la **utilidad de disco** incluida en la mayoría de las distribuciones de Linux para crear un volumen cifrado en un dispositivo de almacenamiento USB. A diferencia de VeraCrypt, sin embargo, esto solo le permite acceder a sus archivos en otras computadoras Linux. Puede usar VeraCrypt para mover archivos entre Linux, Mac OS X y Windows.
+Muchas distribuciones de **GNU Linux**, incluyendo [**Ubuntu**](http://www.ubuntu.com/), son compatibles con el cifrado de disco completo como una característica estándar. Se recomienda habilitar el cifrado de disco completo cuando se instala Linux, ya que es mucho más fácil que hacerlo más adelante. Además, se puede utilizar la **utilidad de disco** incluida en la mayoría de las distribuciones de Linux para crear un volumen cifrado en un dispositivo de almacenamiento USB. A diferencia de VeraCrypt, sin embargo, esto solo le permite acceder a sus archivos en otras computadoras Linux. Puede usar VeraCrypt para mover archivos entre Linux, Mac OS X y Windows.
 
 2\. Instalando VeraCrypt
 ========================
@@ -73,27 +73,27 @@ Para instalar VeraCrypt en su computadora, siga los pasos a continuación:
 
 **Paso 1**. **Haga doble clic** en el archivo de instalación llamado "VeraCrypt Setup 1.16.exe".
 
-![imagen] (tool_veracrypt1.png)
+![imagen](tool_veracrypt1.png)
 
 _Figura 1: El instalador VeraCrypt_
 
-Nota: a los usuarios de Mac OS se les pedirá que descarguen [FUSE para Mac OS] (https://osxfuse.github.io/), un paquete de software necesario para ejecutar VeraCrypt.
+Nota: a los usuarios de Mac OS se les pedirá que descarguen [FUSE para Mac OS](https://osxfuse.github.io/), un paquete de software necesario para ejecutar VeraCrypt.
 
 **VeraCrypt** le pedirá si desea permitir al instalador realizar cambios en su PC, com ose muestra debajo.
 
-![imagen] (tool_veracrypt2.png)
+![imagen](tool_veracrypt2.png)
 
 _Figura 2: Pantalla de Control de Acceso de Usuario de VeraCrypt_
 
 **Paso 2**. **Haga clic** en **\[Sí \]** para ejecutar el programa de **instalación de VeraCrypt** , que activará la pantalla _licencia_
 
-![imagen] (tool_veracrypt3.png)
+![imagen](tool_veracrypt3.png)
 
 _Figura 3: La licencia VeraCrypt_
 
 **Paso 3**. ** Marque ** la casilla _Acepto los términos de la licencia_ para habilitar el botón **\[Siguiente\] **, luego **haga clic** en **\[Siguiente\]**. Podrá entonces elegir si desea _instalar_ VeraCrypt o _extraerlo_ para usarlo en _modo portable_
 
-![imagen] (tool_veracrypt4.png)
+![imagen](tool_veracrypt4.png)
 
 _Figura 4: El asistente de instalación que muestra el modo de instalación predeterminado_
 
@@ -106,43 +106,43 @@ _Figura 4: El asistente de instalación que muestra el modo de instalación pred
 
 **Paso 4**. **Haga clic** en **\[Siguiente\] ** y elija dónde instalar **VeraCrypt**.
 
-![imagen] (tool_veracrypt5.png)
+![imagen](tool_veracrypt5.png)
 
 _Figura 5: La ventana de Opciones de Instalación_
 
 **Paso 5**. **Haga clic en** **\[Instalar\]** para comenzar a instalar **VeraCrypt** en la ubicación predeterminada en el equipo como se muestra a continuación
 
-![imagen] (tool_veracrypt6.png)
+![imagen](tool_veracrypt6.png)
 
 _Figura 6: progreso del instalador de VeraCrypt_
 
 Una vez terminado, el instalador le hará saber
 
-![imagen] (tool_veracrypt7.png)
+![imagen](tool_veracrypt7.png)
 
 _Figura 7: Instalación exitosa de VeraCrypt_
 
 **Paso 6**. **Haga clic** en **\[OK\]** para reconocer la finalización de la instalación y consierar hacer una donación a quienes desarrollan y mantienen **VeraCrypt**.
 
-![imagen] (tool_veracrypt8.png)
+![imagen](tool_veracrypt8.png)
 
 _Figura 8: Solicitud de donación de VeraCrypt_
 
 **Paso 7**. **Haga clic** en **\[Terminar\]** y considere leer el tutorial de **VeraCrypt**. 
 
-![imagen] (tool_veracrypt9.png)
+![imagen](tool_veracrypt9.png)
 
 _Figura 9: El indicador del tutorial de VeraCrypt_
 
 **Paso 8**. **Haga clic** en cualquiera de los botones para finalizar la instalación de **VeraCrypt**. Dependiendo de las preferencias de instalación, es posible que ahora tenga un acceso directo a **VeraCrypt** en el escritorio.
 
-![imagen] (tool_veracrypt10.png)
+![imagen](tool_veracrypt10.png)
 
 _Figura 10: El acceso directo de aplicación VeraCrypt_
 
 **IMPORTANTE**: Si no desea anunciar el hecho de que tiene archivos cifrados en el equipo, es posible que desee eliminar este acceso directo y, si tener el software de cifrado en el equipo pudiera provcocarle problemas _serios_, debería quitar **VeraCrypt** por completo, y luego, extraerlo en un dispositivo de almacenamiento USB en _modo portable_ (ver abajo).
 
-**Nota**: A los usuarios se les motiva a consultar el [Tutorial para Principiantes de **VeraCrypt**] (https://www.veracrypt.fr/en/Beginner%27s%20Tutorial.html) al terminar con esta guía.
+**Nota**: A los usuarios se les motiva a consultar el [Tutorial para Principiantes de **VeraCrypt**](https://www.veracrypt.fr/en/Beginner%27s%20Tutorial.html) al terminar con esta guía.
 
 3\. Creando un volumen estándar
 ==============================
@@ -158,21 +158,21 @@ Para crear un _volumen Estándar_ con **VeraCrypt**, realice los siguientes paso
 
 **Paso 1**. Inicia **VeraCrypt** (**\[Inicio\]** \> **\[Programas\]** \> **\[VeraCrypt\]** \> **\[VeraCrypt\]**) para abrir la ventana de la aplicación.
 
-![imagen] (tool_veracrypt11.png)
+![imagen](tool_veracrypt11.png)
 
 _Figura 1: La ventana principal de VeraCrypt_
 
 **Paso 2**. **Haga clic** en *\[Crear Volumen\]** para activar el _Asistente de Creación de Volumen de VeraCrypt_ 
 
-![imagen] (tool_veracrypt12.png)
+![imagen](tool_veracrypt12.png)
 
 _Figura 2: Ventana del Asistente de Creación de volúmenes_
 
-Un archivo de contenedor VeraCrypt es un volumen cifrado que se almacena en un solo archivo. Este contenedor se puede renombrar, mover, copiar o borrar como cualquier otro archivo En esta sección, vamos a crear un archivo contenedor. Por favor, consulte la **[Documentación de VeraCrypt] (https://www.veracrypt.fr/en/Documentation.html)** para aprender más sobre otras opciones.
+Un archivo de contenedor VeraCrypt es un volumen cifrado que se almacena en un solo archivo. Este contenedor se puede renombrar, mover, copiar o borrar como cualquier otro archivo En esta sección, vamos a crear un archivo contenedor. Por favor, consulte la **[Documentación de VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)** para aprender más sobre otras opciones.
 
 **Paso 3.** **Haga clic** en **\[Siguiente\]** para elegir el tipo de volumen que desea crear.
 
-![imagen] (tool_veracrypt13.png)
+![imagen](tool_veracrypt13.png)
 
 _Figura 3: La ventana de Tipo de Volumen_
 
@@ -182,13 +182,13 @@ La ventana _Tipo de Volumen del Asistente de Creación de Volumen VeraCrypt_ le 
 
 **Paso 4**. Asegúrese de que _Volumen VeraCrypt Estándar_ esté seleccionado y **haga clic** en **\[Siguiente\]** para elegir un nombre y una ubicación para el archivo contenedor VeraCrypt.
 
-![imagen] (tool_veracrypt14.png)
+![imagen](tool_veracrypt14.png)
 
 _Figura 4: El Asistente de Creación de Volúmenes - Entrada de Ubicación de Volumen_
 
 **Paso 5**. **Haga clic** en **\[Seleccionar Archivo...\]** para elegir una ubicación.
 
-![imagen] (tool_veracrypt15.png)
+![imagen](tool_veracrypt15.png)
 
 _Figura 5: Especifique la ubicación y el nombre de archivo del contenedor VeraCrypt que está a punto de crear_
 
@@ -200,13 +200,13 @@ Necesitará recordar dónde lo puso y cómo lo llama. En esta sección, crearemo
 
 **Paso 7**. **Haga clic** en **\[Guardar\]** para cerrar la ventana _Especificar Ruta y Nombre de Archivo_ y volver a la ventana _Asistente de Creación de Volúmenes_.
 
-![imagen] (tool_veracrypt16.png)
+![imagen](tool_veracrypt16.png)
 
 _Figura 6: Asistente de Creación de Volúmenes mostrando la ventana Ubicación de Volumen_
 
 **Paso 8**. **Haga clic** en **\[Siguiente\]** para activar la pantalla _Opciones de Cifrado_
 
-![imagen] (tool_veracrypt17.png)
+![imagen](tool_veracrypt17.png)
 
 _Figura 7: Ventana de Opciones de Cifrado del Asistente de Creación de Volúmenes_
 
@@ -214,7 +214,7 @@ Aquí, puede elegir un método específico (o _algoritmo_) para usar al cifrar y
 
 **Paso 9**. **Haga clic** en **\[Siguiente\]** y determine el tamaño del volumen cifrado.
 
-![imagen] (tool_veracrypt18.png)
+![imagen](tool_veracrypt18.png)
 
 _Figura 8: el Asistente de Creación de Volúmenes mostrando la ventana Tamaño del Volumen_
 
@@ -224,11 +224,11 @@ La ventana _Tamaño de Volumen_ le permite especificar el tamaño del _contenedo
 
 **Paso 10**. **Escriba** el tamaño del volumen que desea crear. Asegúrese de seleccionar el valor correcto para **KB** (kilobytes), **MB** (megabytes), **GB** (gigabytes) o **TB** (terabytes). Luego,**haga clic** en **\[Siguiente\]** para elegir una frase de contraseña.
 
-![imagen] (tool_veracrypt19.png)
+![imagen](tool_veracrypt19.png)
 
 _Figura 9: Asistente de Creación de Volúmenes en la ventana de Contraseña de Volumen_
 
-**IMPORTANTE**: Elegir una contraseña segura es uno de los pasos más importantes que realizará al crear un volumen ** VeraCrypt **. Cuanto más fuerte sea la frase de contraseña, mejor. No tiene que elegir sus propias frases de contraseña (¡ni siquiera recordarlas!) Si usa un _gestor de contraseñas_ como **KeePassXC**. Consulte las lecciones **[Contraseñas]** (umbrella://information/passwords) y [**Guía de Herramienta KeePassXC**] (umbrella://tools/encryption/s_keepassxc.md)) para obtener más información sobre las buenas prácticas de frase de contraseña.
+**IMPORTANTE**: Elegir una contraseña segura es uno de los pasos más importantes que realizará al crear un volumen ** VeraCrypt **. Cuanto más fuerte sea la frase de contraseña, mejor. No tiene que elegir sus propias frases de contraseña (¡ni siquiera recordarlas!) Si usa un _gestor de contraseñas_ como **KeePassXC**. Consulte las lecciones **[Contraseñas]** (umbrella://information/passwords) y [**Guía de Herramienta KeePassXC**](umbrella://tools/encryption/s_keepassxc.md)) para obtener más información sobre las buenas prácticas de frase de contraseña.
 
 **Paso 11**. **Escriba** su frase de contraseña y luego **vuelva a escribir** su frase de contraseña en el campo _Confirmar__ para activar el botón **\[Siguiente\]**.
 
@@ -236,7 +236,7 @@ _Figura 9: Asistente de Creación de Volúmenes en la ventana de Contraseña de 
 
 **Paso 12**. **Haga clic en **\[Siguiente\]** para seleccionar un tipo de sistema de archivos.
 
-![imagen] (tool_veracrypt20.png)
+![imagen](tool_veracrypt20.png)
 
 _Figura 10: Asistente de Creación de Volúmenes en la ventana Formato de Volumen_
 
@@ -246,19 +246,19 @@ _Figura 10: Asistente de Creación de Volúmenes en la ventana Formato de Volume
 
 VeraCrypt ahora está listo para crear un volumen cifrado estándar dentro de un archivo contenedor. Si mueve el mouse dentro de la ventana _Asistente de Creación de Volumen VeraCrypt_, producirá datos aleatorios que ayudarán a fortalecer el cifrado.
 
-![imagen] (tool_veracrypt21.png)
+![imagen](tool_veracrypt21.png)
 
 _Figura 11: Barra de progreso del Asistente de Creación de Volúmenes_
 
 **VeraCrypt** ahora creará un archivo llamado _Mi Volumen_ en el _Escritorio_, como se especificó anteriormente. Este archivo contendrá un contenedor de _ volumen estándar_ de 250 MB **VeraCrypt**, que puede utilizar para almacenar sus archivos de forma segura. **VeraCrypt** te avisará cuando esté hecho.
 
-![imagen] (tool_veracrypt22.png)
+![imagen](tool_veracrypt22.png)
 
 _Figura 12: Volumen creado exitosamente_
 
 **Paso 14**. **Haga clic** en **\[OK\]** para confirmar la finalización del proceso de creación y volver al asistente de creación de volúmenes.
 
-![imagen] (tool_veracrypt23.png)
+![imagen](tool_veracrypt23.png)
 
 _Figura 13: Salir o crear otro volumen encriptado_
 
@@ -266,7 +266,7 @@ _Figura 13: Salir o crear otro volumen encriptado_
 
 Ahora debería ver su archivo _contenedor_ de 250 MB donde lo haya creado.
 
-![imagen] (tool_veracrypt24.png)
+![imagen](tool_veracrypt24.png)
 
 _Figura 14: Archivo contenedor VeraCrypt recién creado en el Escritorio_
 
@@ -296,19 +296,19 @@ En esta sección, nos centraremos en el modo directo. Si aún no tiene un _volum
 
 **Paso 1**. Inicie VeraCrypt (**\[Inicio\]** \> **\[Todas las Aplicaciones\]** \> **\[VeraCrypt\]** \> **\[VeraCrypt\]**) para abrir la ventana principal de la aplicación.
 
-![imagen] (tool_veracrypt25.png)
+![imagen](tool_veracrypt25.png)
 
 _Figura 1: La ventana principal de VeraCrypt_
 
 **Paso 2**. ** Haga clic** en **\[Crear Volumen\]** para activar el _Asistente de Creación de Volúmenes VeraCrypt_.
 
-![imagen] (tool_veracrypt26.png)
+![imagen](tool_veracrypt26.png)
 
 _Figura 2: La pantalla de Creación de Volumen de VeraCrypt_
 
 **Paso 3**. **Haga clic** en **\[Siguiente\]** para aceptar la opción _Crear un contenedor de archivo cifrado_ predeterminado.
 
-![imagen] (tool_veracrypt27.png)
+![imagen](tool_veracrypt27.png)
 
 _Figura 3: Creando un volumen oculto de VeraCrypt_
 
@@ -316,7 +316,7 @@ _Figura 3: Creando un volumen oculto de VeraCrypt_
 
 **Paso 5**. **Haga clic** en **\[Siguiente\]** para elegir si desea crear su _volumen oculto_ usando _modo normal_ o _modo directo_.
 
-![imagen] (tool_veracrypt28.png)
+![imagen](tool_veracrypt28.png)
 
 _Figura 4: Ventana de Modo - Asistente de Creación de Volúmenes de VeraCrypt_
 
@@ -324,7 +324,7 @@ _Figura 4: Ventana de Modo - Asistente de Creación de Volúmenes de VeraCrypt_
 
 **Paso 7**. **Haga clic** en **\[Siguiente\]** para seleccionar su _volumen estándar_ existente.
 
-![imagen] (tool_veracrypt29.png)
+![imagen](tool_veracrypt29.png)
 
 _Figura 5: Pantalla de Ubicación del Volumen de VeraCrypt_
 
@@ -332,7 +332,7 @@ _Figura 5: Pantalla de Ubicación del Volumen de VeraCrypt_
 
 **Paso 8**. **Haga clic* en **\[Seleccionar archivo\]** y ubique su archivo de  _contenedor de volumen estándar_.
 
-![imagen] (tool_veracrypt30.png)
+![imagen](tool_veracrypt30.png)
 
 _Figura 6: Selección de su archivo de contenedor de volumen estándar de VeraCrypt existente_
 
@@ -342,13 +342,13 @@ Si desea crear un contenedor VeraCrypt en un dispositivo de **almacenamiento USB
 
 **Paso 10**. **Haga clic** en **\[Abrir\]** para volver al _Asistente de Creación de Volumen VeraCrypt_.
 
-![imagen] (tool_veracrypt31.png)
+![imagen](tool_veracrypt31.png)
 
 _Figura 7: Contenedor de volumen estándar de VeraCrypt seleccionado_
 
 **Paso 11**. **Haga clic** en **\[Siguiente\]** para ingresar la frase de contraseña de su volumen estándar existente.
 
-![imagen] (tool_veracrypt32.png)
+![imagen](tool_veracrypt32.png)
 
 _Figura 8: Pantalla de Contraseña del Volumen Externo de VeraCrypt_
 
@@ -356,13 +356,13 @@ _Figura 8: Pantalla de Contraseña del Volumen Externo de VeraCrypt_
 
 **Paso 13**. **Haga clic** en **\[Siguiente\]** para preparar este _volumen estándar_ para la adición de un _ volumen oculto_.
 
-![imagen] (tool_veracrypt33.png)
+![imagen](tool_veracrypt33.png)
 
 _Figura 9: Volumen estándar de VeraCrypt preparado_
 
 **Paso 14**. **Haga clic** en **\[Siguiente\]** para seleccionar Opciones de Cifrado de Volumen Oculto.
 
-![imagen] (tool_veracrypt34.png)
+![imagen](tool_veracrypt34.png)
 
 _Figura 10: Pantalla de Opciones de Cifrado de Volumen Oculto de VeraCrypt_
 
@@ -370,7 +370,7 @@ _Figura 10: Pantalla de Opciones de Cifrado de Volumen Oculto de VeraCrypt_
 
 **Nota**: deje la configuración predeterminada de _Algoritmo de Cifrado_ y _Algoritmo de Hash_ para el _Volumen Oculto_ como se encuentra.
 
-![imagen] (tool_veracrypt35.png)
+![imagen](tool_veracrypt35.png)
 
 _Figura 11: Pantalla de Tamaño de Volumen Oculto de VeraCrypt_
 
@@ -380,7 +380,7 @@ Como cuando creó su _volumen estándar_, considere la cantidad y los tipos de a
 
 **Paso 17**. **Haga clic** en **\[Siguiente\]** para elegir una frase de contraseña para su _volumen oculto_.
 
-![imagen] (tool_veracrypt36.png)
+![imagen](tool_veracrypt36.png)
 
 _Figura 12: Pantalla de creación de Contraseña para Volumen Oculto de VeraCrypt_
 
@@ -392,7 +392,7 @@ Ahora debe elegir una frase de paso para el _volumen oculto_ que sea _diferente_
 
 **Paso 19**. **Haga clic** en **\[Siguiente\]** para activar la pantalla _Formato de Volumen Oculto_.
 
-![imagen] (tool_veracrypt37.png)
+![imagen](tool_veracrypt37.png)
 
 _Figura 13: Pantalla de Formato de Volumen Oculto de VeraCrypt_
 
@@ -402,13 +402,13 @@ _Figura 13: Pantalla de Formato de Volumen Oculto de VeraCrypt_
 
 **VeraCrypt** ahora está listo para crear un volumen cifrado estándar dentro de un archivo contenedor. Si mueve el mouse dentro de la ventana _Asistente de Creador de Volúmenes VeraCrypt_, producirá datos aleatorios que ayudarán a fortalecer el cifrado.
 
-![imagen] (tool_veracrypt38.png)
+![imagen](tool_veracrypt38.png)
 
 _Figura 14: Progreso del Formato de Volumen Oculto de VeraCrypt_
 
 Cuando termine VeraCrypt, aparecerá una advertencia sobre la protección de los archivos en su _volumen oculto_ cuando agregue contenido a su _volumen estándar_.
 
-![imagen] (tool_veracrypt39.png)
+![imagen](tool_veracrypt39.png)
 
 _Figura 15: Mensaje de advertencia de protección de Volumen Oculto de VeraCrypt_
 
@@ -422,7 +422,7 @@ Los pasos específicos requeridos para modificar el contenido de su _volumen est
 
 **Paso 21**. **Haga clic** en **\[OK\]** para terminar de crear su _volumen oculto_.
 
-![imagen] (tool_veracrypt40.png)
+![imagen](tool_veracrypt40.png)
 
 _Figura 16: La pantalla de Creación de Volumen Oculto de VeraCrypt_
 
@@ -446,7 +446,7 @@ Para montar su volumen, realice los siguientes pasos:
 
 **Paso 2.** **Seleccione** un disco de la lista en la ventana principal de **VeraCrypt **
 
-![imagen] (tool_veracrypt41.png)
+![imagen](tool_veracrypt41.png)
 
 _Figura 1: la ventana principal de VeraCrypt con una unidad disponible seleccionada_
 
@@ -454,19 +454,19 @@ _Figura 1: la ventana principal de VeraCrypt con una unidad disponible seleccion
 
 **Paso 3.** **Haga clic** en **\[Seleccionar Archivo...\]** y ubique su archivo _contenedor_ VeraCrypt.
 
-![imagen] (tool_veracrypt42.png)
+![imagen](tool_veracrypt42.png)
 
 _Figura 2: La pantalla Seleccionar un Volumen de VeraCrypt_
 
 **Paso 4.** **Seleccione** el archivo _contenedor_ que desea montar, luego **haga clic** en **\[Abrir\]** para volver a la ventana principal **VeraCrypt**. La ubicación de su archivo _contenedor_ se mostrará justo a la izquierda del botón **\[Seleccionar Archivo...\]** en el que hizo clic anteriormente.
 
-![imagen] (tool_veracrypt43.png)
+![imagen](tool_veracrypt43.png)
 
 _Figura 3: la ventana principal de VeraCrypt con un contenedor seleccionado_
 
 **Paso 5.** **Haga clic** en **\[Montar\]** para ingresar su frase de contraseña.
 
-![imagen] (tool_veracrypt45.png)
+![imagen](tool_veracrypt45.png)
 
 _Figura 4: La pantalla Introducir Contraseña_
 
@@ -485,7 +485,7 @@ Si su _contenedor_ tiene un volumen oculto, elija una de las siguientes opciones
 
 Si la frase de contraseña que ingresó es incorrecta, **VeraCrypt** le pedirá que la ingrese nuevamente. Si es correcta, su volumen cifrado se montará de la siguiente manera:
 
-![imagen] (tool_veracrypt44.png)
+![imagen](tool_veracrypt44.png)
 
 _Figura 5: la ventana principal de VeraCrypt mostrando el volumen recién montado_
 
@@ -496,13 +496,13 @@ Hay dos formas de ingresar a un volumen montado:
 1.  **Haga doble clic** en la entrada resaltada en la ventana principal de **VeraCrypt** como se muestra en _Figura 5_, arriba
 2.  **Haga doble clic** en la letra de unidad correspondiente (aquí estamos usando _F:_) dentro de _Este Equipo_, como se muestra en _Figura 6_, a continuación
 
-![imagen] (tool_veracrypt46.png)
+![imagen](tool_veracrypt46.png)
 
 _Figura 6: Acceso al volumen de VeraCrypt a través de "Este Equipo"_
 
 El volumen que se muestra a continuación está vacío. Una vez que haya almacenado los archivos allí, serán accesibles (y editables) cada vez que abra el volumen.
 
-![imagen] (tool_veracrypt47.png)
+![imagen](tool_veracrypt47.png)
 
 _Figura 7: Dentro del volumen de VeraCrypt montado_
 
@@ -519,7 +519,7 @@ En VeraCrypt, desmontar un volumen es dejarlo no disponible para su uso. Para de
 
 **Paso 1**. **Seleccione** el volumen de la lista de volúmenes montados en la ventana principal **VeraCrypt**
 
-![imagen] (tool_veracrypt48.png)
+![imagen](tool_veracrypt48.png)
 
 _Figura 1: Selección del Volumen Estándar para ser desmontado_
 
@@ -536,7 +536,7 @@ Para recuperar un archivo almacenado en su volumen estándar una vez que lo haya
 
 **Paso 3**. **Haga clic derecho** en el icono de **VeraCrypt ** en la _Bandeja del Sistema_ —  en la esquina inferior derecha de su escritorio de Windows - y seleccione **\[Salir\]** para cerrar **VeraCrypt** por completo .
 
-![imagen] (tool_veracrypt49.png)
+![imagen](tool_veracrypt49.png)
 
 _Figura 2: Saliendo de VeraCrypt en limpio con el ícono de la Bandeja del Sistema_
 
@@ -553,7 +553,7 @@ Para usar la función _Proteger volumen oculto_, realice los siguientes pasos:
 
 **Paso 1**. **Seleccione** una unidad de la lista en la ventana principal de **VeraCrypt**
 
-![imagen] (tool_veracrypt50.png)
+![imagen](tool_veracrypt50.png)
 
 _Figura 1: La ventana principal de VeraCrypt con una unidad disponible seleccionada_
 
@@ -638,7 +638,7 @@ Para el primer elemento, arriba, vea **Creación de un volumen estándar** (y, s
 
 Con la _ventana principal_ de **VeraCrypt** abierta y su nuevo volumen **VeraCrypt** montado, lleve a cabo los siguientes pasos:
 
-![imagen] (tool_veracrypt59.png)
+![imagen](tool_veracrypt59.png)
 
 _Figura 1: Ventana principal de VeraCrypt mostrando un volumen montado_
 
@@ -646,7 +646,7 @@ _Figura 1: Ventana principal de VeraCrypt mostrando un volumen montado_
 
 **Paso 2**. **Haga clic** en **\[Seleccionar Archivo...\]** para elegir su contenedor **TrueCrypt**.
 
-![imagen] (tool_veracrypt60.png)
+![imagen](tool_veracrypt60.png)
 
 _Figura 2: Elección de un contenedor TrueCrypt_
 
@@ -654,13 +654,13 @@ _Figura 2: Elección de un contenedor TrueCrypt_
 
 **Etapa 4**. **Haga clic** en **\[Abrir\]** para volver a la _ventana principal_.
 
-![imagen] (tool_veracrypt61.png)
+![imagen](tool_veracrypt61.png)
 
 _Figura 3: ventana principal de VeraCrypt con un contenedor TrueCrypt seleccionado_
 
 **Paso 5**. **Haga clic** en **\[Montar\]** para ingresar la frase de contraseña para su volumen **TrueCrypt**.
 
-![imagen] (tool_veracrypt62.png)
+![imagen](tool_veracrypt62.png)
 
 _Figura 4: La pantalla de contraseña de VeraCrypt en modo TrueCrypt_
 
@@ -682,19 +682,19 @@ _Figura 6: Dentro del volumen de TrueCrypt montado_
 
 **Paso 10**. Vuelva a la _ventana principal_.
 
-![imagen] (tool_veracrypt65.png)
+![imagen](tool_veracrypt65.png)
 
 _Figura 7: Ventana principal de VeraCrypt con ambos volúmenes montados_
 
 **Paso 11**. **Haga doble clic** en la letra de la unidad para su contenedor **VeraCrypt ** montado para ingresar.
 
-![imagen] (tool_veracrypt66.png)
+![imagen](tool_veracrypt66.png)
 
 _Figura 8: Volúmenes de TrueCrypt y VeraCrypt montados y mostrados lado a lado_
 
 **Paso 12**. **Seleccione** el contenido de su volumen **TrueCrypt** y arrástrelos a la ventana que representa su volumen **VeraCrypt**.
 
-![imagen] (tool_veracrypt67.png)
+![imagen](tool_veracrypt67.png)
 
 _Figura 9: Contenido de un volumen de TrueCrypt copiado en un volumen de VeraCrypt_
 
@@ -702,7 +702,7 @@ Después de que se hayan copiado los archivos, debe _desmontar_ ambos volúmenes
 
 **Paso 13**. Regrese a la _ventana principal_ de **VeraCrypt**.
 
-![imagen] (tool_veracrypt68.png)
+![imagen](tool_veracrypt68.png)
 
 _Figura 10: Ventana principal de VeraCrypt_
 
@@ -710,7 +710,7 @@ _Figura 10: Ventana principal de VeraCrypt_
 
 **Paso 15**. **Haga clic** en **\[Dismount\]** para desmontar su volumen **TrueCrypt**.
 
-![imagen] (tool_veracrypt69.png)
+![imagen](tool_veracrypt69.png)
 
 _Figura 11: Ventana principal de VeraCrypt_
 
@@ -723,13 +723,13 @@ _Figura 11: Ventana principal de VeraCrypt_
 
 Para cambiar la frase de contraseña de un _volumen_ **VeraCrypt**, comience desde la pantalla principal y siga los pasos a continuación. Estos pasos se aplican tanto a _volúmenes estándar_ como a _volúmenes ocultos_ dentro de _contenedores_ **VeraCrypt**. Sin embargo, si desea cambiar las frases de contraseña de ambos, deberá pasar por este proceso dos veces.
 
-![imagen] (tool_veracrypt70.png)
+![imagen](tool_veracrypt70.png)
 
 _Figura 1: Ventana principal de VeraCrypt_
 
 **Paso 1**. **Haga clic** en **\[Seleccionar Archivo...\]** para elegir el _contenedor_ para el que desea cambiar la frase de contraseña.
 
-![imagen] (tool_veracrypt71.png)
+![imagen](tool_veracrypt71.png)
 
 _Figura 2: Seleccionando un archivo contenedor en VeraCrypt_
 
@@ -737,7 +737,7 @@ _Figura 2: Seleccionando un archivo contenedor en VeraCrypt_
 
 **Paso 3**. **Haga clic** en **\[Abrir\]** para volver a la _ventana principal_.
 
-![imagen] (tool_veracrypt72.png)
+![imagen](tool_veracrypt72.png)
 
 _Figura 3: Ventana principal de VeraCrypt_
 
@@ -745,13 +745,13 @@ _Figura 3: Ventana principal de VeraCrypt_
 
 **Paso 5**. **Seleccione** **\[Cambiar Contraseña de Volumen...\] ** como se muestra a continuación.
 
-![imagen] (tool_veracrypt73.png)
+![imagen](tool_veracrypt73.png)
 
 _Figura 4: Cambiando la frase de contraseña de un volumen de VeraCrypt_
 
 Esto activará la pantalla **Cambiar Contraseña**
 
-![imagen] (tool_veracrypt74.png)
+![imagen](tool_veracrypt74.png)
 
 _Figura 5: Pantalla de cambio de contraseña de VeraCrypt_
 
@@ -765,13 +765,13 @@ _Figura 5: Pantalla de cambio de contraseña de VeraCrypt_
 
 **Nota:** Las versiones anteriores de VeraCrypt pueden mostrar una advertencia sobre su valor de "Personal Iterations Multiplier (PIM)" aunque haya elegido una frase de contraseña segura. Si ve esta advertencia, vuelva a verificar que su frase de contraseña tenga más de 20 caracteres y que la casilla Usar PIM esté desactivada. Luego haga clic en \[Sí\] para continuar.
 
-![imagen] (tool_veracrypt75.png)
+![imagen](tool_veracrypt75.png)
 
 _Figura 6: Barra de progreso de cambio de contraseña de VeraCrypt_
 
 Cuando esté listo, **VeraCrypt** mostrará la pantalla _Enriquecimiento Aleatorio_.
 
-![imagen] (tool_veracrypt76.png)
+![imagen](tool_veracrypt76.png)
 
 _Figura 7: Pantalla de Enriquecimiento Aleatorio de VeraCrypt_
 
@@ -779,13 +779,13 @@ _Figura 7: Pantalla de Enriquecimiento Aleatorio de VeraCrypt_
 
 **Paso 9**. **Haga clic** en **\[Continuar\]** para continuar con el proceso de cambiar su frase de contraseña.
 
-![imagen] (tool_veracrypt77.png)
+![imagen](tool_veracrypt77.png)
 
 _Figura 8: Barra de progreso de cambio de contraseña de VeraCrypt_
 
 **VeraCrypt** le avisará cuando termine de generar una nueva clave para su volumen cifrado
 
-![imagen] (tool_veracrypt78.png)
+![imagen](tool_veracrypt78.png)
 
 _Figura 9: La frase de contraseña de VeraCrypt cambió exitosamente_
 
@@ -822,7 +822,7 @@ Hay muy pocas diferencias entre las versiones instaladas y portables de **VeraCr
 
 **Paso 3**. **Seleccione** el elemento _Nuevo_ del menú, luego **seleccione** el elemento _Carpeta_ del submenú, como se muestra a continuación.
 
-![imagen] (tool_veracrypt79.png)
+![imagen](tool_veracrypt79.png)
 
 _Figura 1: Creando una carpeta en Windows_
 
@@ -830,25 +830,25 @@ _Figura 1: Creando una carpeta en Windows_
 
 **Paso 5**. **Presione** _Enter_ para terminar de nombrar la nueva carpeta.
 
-![imagen] (tool_veracrypt80.png)
+![imagen](tool_veracrypt80.png)
 
 _Figura 2: Nombrando una carpeta en Windows_
 
 **Paso 6**. **Haga doble clic** en el instalador de **VeraCrypt** para abrir la pantalla de instalación.
 
-![imagen] (tool_veracrypt81.png)
+![imagen](tool_veracrypt81.png)
 
 _Figura 3: El instalador de VeraCrypt_
 
 **Paso 7**. **Haga doble clic** en el instalador de **VeraCrypt** para activar la pantalla Control de Cuenta de Usuario.
 
-![imagen] (tool_veracrypt82.png)
+![imagen](tool_veracrypt82.png)
 
 _Figura 4: La pantalla de Control de Cuenta de Usuario de VeraCrypt_
 
 **Paso 8**. **Haga clic** en **\[Sí\]** para cargar la pantalla de licencia.
 
-![imagen] (tool_veracrypt83.png)
+![imagen](tool_veracrypt83.png)
 
 _Figura 5: La pantalla de la licencia de VeraCrypt_
 
@@ -856,7 +856,7 @@ _Figura 5: La pantalla de la licencia de VeraCrypt_
 
 **Paso 10**. **Haga clic** en **\[Siguiente\]** para activar el instalador.
 
-![imagen] (tool_veracrypt84.png)
+![imagen](tool_veracrypt84.png)
 
 _Figura 6: La pantalla principal de instalación de VeraCrypt_
 
@@ -866,25 +866,25 @@ _Figura 6: La pantalla principal de instalación de VeraCrypt_
 
 Las dos pantallas de advertencia a continuación son solo la forma en que VeraCrypt le informa que tendrá que descartar una pantalla de _Cuenta de Control de Usuario_ (UAC) cada vez que inicie la versión portable de **VeraCrypt**. (No tendrá que hacer esto si instala el software normalmente).
 
-![imagen] (tool_veracrypt85.png)
+![imagen](tool_veracrypt85.png)
 
 _Figura 7: Un mensaje relacionado con cómo la versión portable de VeraCrypt instala los controladores de Windows_
 
 **Paso 13**. **Haga clic** en **\[OK\]** para activar otra pantalla de advertencia relacionada con el controlador.
 
-![imagen] (tool_veracrypt86.png)
+![imagen](tool_veracrypt86.png)
 
 _Figura 8: Una advertencia sobre la necesidad de reconocer una advertencia de Control de Cuentas de Usuario al iniciar la versión portable de VeraCrypt_
 
 **Paso 14**. **Haga clic** en **\[Sí\]** para comenzar a elegir su ubicación de extracción.
 
-![imagen] (tool_veracrypt87.png)
+![imagen](tool_veracrypt87.png)
 
 _Figura 9: Pantalla de Opciones de Extracción_
 
 **Paso 15**. **Haga clic** en **\[Examinar\]** para elegir su ubicación de extracción.
 
-![imagen] (tool_veracrypt88.png)
+![imagen](tool_veracrypt88.png)
 
 _Figura 10: eligiendo dónde extraer la versión portátil de VeraCrypt_
 
@@ -894,23 +894,23 @@ En esta guía, extraeremos la versión portable de **VeraCrypt** en la carpeta "
 
 **Paso 17**. **Haga clic** en **\[OK\]** para volver a la pantalla _Opciones de Extracción_.
 
-![imagen] (tool_veracrypt89.png)
+![imagen](tool_veracrypt89.png)
 
 _Figura 11: La pantalla Opciones de Extracción después de elegir una ubicación_
 
 **Paso 18**. **Haga clic** en **\[Extraer\]** para comenzar a extraer **VeraCrypt**. El instalador de **VeraCrypt** le avisará cuando esté listo.
 
-![imagen] (tool_veracrypt90.png)
+![imagen](tool_veracrypt90.png)
 
 _Figura 12: La pantalla de progreso de extracción de archivo_
 
-![imagen] (tool_veracrypt91.png)
+![imagen](tool_veracrypt91.png)
 
 _Figura 13: La versión portable de VeraCrypt extraída con éxito_
 
 **Paso 19**. **Haga clic** en **\[OK\]** para activar la solicitud de donación.
 
-![imagen] (tool_veracrypt92.png)
+![imagen](tool_veracrypt92.png)
 
 _Figura 14: Solicitud de donación de VeraCrypt_
 
@@ -925,23 +925,23 @@ _Figura 14: Solicitud de donación de VeraCrypt_
 
 **Paso 2**. **Haga doble clic** ya sea en el archivo **VeraCrypt** (_Figura 1_, a continuación) o el archivo **VeraCrypt-x64** (_Figure 2_), dependiendo de si su sistema de Windows es de 32 bits o 64 bits.
 
-![imagen] (tool_veracrypt93.png)
+![imagen](tool_veracrypt93.png)
 
 _Figura 1: El lanzador de VeraCrypt portable de 32 bits_
 
-![imagen] (tool_veracrypt94.png)
+![imagen](tool_veracrypt94.png)
 
 _Figura 2: El lanzador de VeraCrypt portable de 64 bits_
 
 Esto activará la ventana _Control de Cuenta de Usuario_ de **VeraCrypt**
 
-![imagen] (tool_veracrypt95.png)
+![imagen](tool_veracrypt95.png)
 
 _Figura 2: La pantalla de Control de Cuenta de Usuario de VeraCrypt_
 
 **Paso 3**. **Haga clic** en **\[Sí\]** para iniciar la versión porable de **VeraCrypt**.
 
-![imagen] (tool_veracrypt96.png)
+![imagen](tool_veracrypt96.png)
 
 _Figura 3: La ventana principal de VeraCrypt_
 

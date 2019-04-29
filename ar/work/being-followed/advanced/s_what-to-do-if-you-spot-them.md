@@ -43,4 +43,4 @@ title: ما عليك فعله
 
 * فكر في قيادة مراقب إلى مركز الشرطة إذا كنت تتوقع وقوع حادث خطير ولم تكن في خطر من الشرطة. هذا يعتمد على نموذج تهديدك. *
 
-(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان] (umbrella://assess-your-risk/security-planning) و [إدارة المعلومات.] (umbrella://information/managing-information))
+(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان](umbrella://assess-your-risk/security-planning) و [إدارة المعلومات.](umbrella://information/managing-information))

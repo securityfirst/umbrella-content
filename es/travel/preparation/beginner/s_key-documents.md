@@ -19,7 +19,7 @@ title: Documentos Clave
 *   Obtenga una prueba de inmunización y cree una tarjeta médica de emergencia (consulte "Medicina").
 *   Obtenga permisos para viajar a áreas restringidas o transporte artículos restringidos si es necesario.
 
-(Obtenga más información sobre las rutas restringidas en [vehículos] (umbrella://travel/vehicles).)
+(Obtenga más información sobre las rutas restringidas en [vehículos](umbrella://travel/vehicles).)
 
 *   Obtenga o establezca procedimientos escritos. Por ejemplo:
 
@@ -35,11 +35,11 @@ title: Documentos Clave
     * Considere llevar la copia y asegurar el original.
     * Considere enviar de forma segura copias de documentos clave para usted mismo.
 
-(Aprenda seguridad de correo electrónico [principiante](umbrella://communications/email/beginner) y [avanzada] (umbrella://communications/email/advanced).)
+(Aprenda seguridad de correo electrónico [principiante](umbrella://communications/email/beginner) y [avanzada](umbrella://communications/email/advanced).)
 
 * Considere asegurar un dispositivo de almacenamiento como una memoria USB para llevar copias.
 
-(Obtenga información sobre [protección de archivos] (umbrella://information/protecting-files).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files).)
 
 *   Comparta documentos clave con las personas adecuadas. Por ejemplo:
 

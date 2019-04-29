@@ -18,8 +18,8 @@ Dependiendo del método utilizado, la censura de internet puede afectar:
 
 Censura principiante describe la elusión.
 
-[Censura Experto] (umbrella://communications/censorship/expert) describe cómo probar y recopilar evidencia de censura.
+[Censura Experto](umbrella://communications/censorship/expert) describe cómo probar y recopilar evidencia de censura.
 
 Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital] de Access Now (https://www.accessnow.org/help/#contact-us).
 
-(Obtenga más información sobre esto en [Asistencia de Emergencia] (umbrella://emergency-support).)
+(Obtenga más información sobre esto en [Asistencia de Emergencia](umbrella://emergency-support).)

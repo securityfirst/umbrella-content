@@ -15,5 +15,5 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu] (https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
-*   شبكة الممارسات الإنسانية ، [مراجعة الممارسة الجيدة رقم 8: إدارة الأمن التشغيلي في البيئات العنيفة (المراجعة المنقحة)] (http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).
+*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
+*   شبكة الممارسات الإنسانية ، [مراجعة الممارسة الجيدة رقم 8: إدارة الأمن التشغيلي في البيئات العنيفة (المراجعة المنقحة)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).

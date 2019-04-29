@@ -9,7 +9,7 @@ title: Facebook
 **Lección para leer:** [Redes Sociales](umbrella://communications/social-media)
 **Nivel:** Principiante — Avanzado
 **Actualizado:** Abril de 2018 (algunas imágenes datan de versiones anteriores)
-**Fuentes:** Security in a Box, [Redes Sociales] (https://securityinabox.org/en/guide/social-networking/web/); EFF, ["Cómo Cambiar la Configuración de Facebook para Inhabilitar el Uso Compartido de la API de la Plataforma"] (https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out- plataforma-api-compartir); [Términos] de Facebook (https://www.facebook.com/legal/terms) y [Política de Datos] (https://www.facebook.com/about/privacy/).
+**Fuentes:** Security in a Box, [Redes Sociales](https://securityinabox.org/en/guide/social-networking/web/); EFF, ["Cómo Cambiar la Configuración de Facebook para Inhabilitar el Uso Compartido de la API de la Plataforma"](https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out- plataforma-api-compartir); [Términos] de Facebook (https://www.facebook.com/legal/terms) y [Política de Datos](https://www.facebook.com/about/privacy/).
 
 ## Consejos Rápidos
 
@@ -19,11 +19,11 @@ title: Facebook
 
 * Si desea cifrar los correos electrónicos de notificación que recibe de Facebook, lea la Parte 1 en Seguridad.
 
-* Acceda a Facebook a través de un navegador habilitado para Tor en [https://facebookcorewwwi.onion/] (https://facebookcorewwwi.onion/). (Aprenda a usar Tor para [Linux] (umbrella://tools/tor/s_tor-for-linux.md), [Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md) o [Windows](umbrella://tools/tor/s_tor-for-windows.md).)
+* Acceda a Facebook a través de un navegador habilitado para Tor en [https://facebookcorewwwi.onion/](https://facebookcorewwwi.onion/). (Aprenda a usar Tor para [Linux](umbrella://tools/tor/s_tor-for-linux.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md) o [Windows](umbrella://tools/tor/s_tor-for-windows.md).)
 
-* Puede activar el cifrado en las aplicaciones de Facebook Messenger para iOS y Android, aunque no en un escritorio. Haga clic en *i*, *Configuración*, *Conversación Secreta*, *Activar*, o haga clic en el icono de bloqueo cuando abra una nueva conversación. (Lea las instrucciones de Facebook [aquí] (https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).)
+* Puede activar el cifrado en las aplicaciones de Facebook Messenger para iOS y Android, aunque no en un escritorio. Haga clic en *i*, *Configuración*, *Conversación Secreta*, *Activar*, o haga clic en el icono de bloqueo cuando abra una nueva conversación. (Lea las instrucciones de Facebook [aquí](https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink).)
 
-* La configuración de privacidad predeterminada para las publicaciones de Facebook también se aplica al video transmitido en Facebook Live. Puede ajustar la configuración de cualquier publicación individual. (Lea las instrucciones de Facebook [aquí] (https://www.facebook.com/help/120939471321735?helpref=related).)
+* La configuración de privacidad predeterminada para las publicaciones de Facebook también se aplica al video transmitido en Facebook Live. Puede ajustar la configuración de cualquier publicación individual. (Lea las instrucciones de Facebook [aquí](https://www.facebook.com/help/120939471321735?helpref=related).)
 
 * Desde cualquier página de Facebook, abra el menú Ayuda debajo del icono de signo de interrogación y seleccione *Verificación de Privacidad* o *Atajos de Privacidad* para obtener respuestas rápidas sobre la privacidad y su cuenta.
 
@@ -59,7 +59,7 @@ Esto lo llevará al menú *Configuración*.
 
 **Nota**: Si selecciona recibir alertas a través de un mensaje de texto, vinculará su número de teléfono móvil con su cuenta **Facebook**, haciendo que sus actividades en el sitio sean más fácilmente identificables. Los mensajes de texto generalmente son inseguros, y usarlos para proteger su cuenta lo deja vulnerable a la piratería.
 
-**Paso 6.** *Código de Recuperación:* Esto aparece en *Usar autenticación de dos factores.* Haga clic en *Obtener códigos* y almacene los códigos de forma segura. (Obtenga información sobre [Protección de Archivos] (umbrella://information/protecting-files).) Este es un paso muy importante, ya que necesitará estos códigos de respaldo si no tiene acceso a su generador de códigos, por ejemplo, si su teléfono es robado y usted necesita asegurar su cuenta.
+**Paso 6.** *Código de Recuperación:* Esto aparece en *Usar autenticación de dos factores.* Haga clic en *Obtener códigos* y almacene los códigos de forma segura. (Obtenga información sobre [Protección de Archivos](umbrella://information/protecting-files).) Este es un paso muy importante, ya que necesitará estos códigos de respaldo si no tiene acceso a su generador de códigos, por ejemplo, si su teléfono es robado y usted necesita asegurar su cuenta.
 
 **Paso 7.** *Contraseñas de la Aplicación*: También en *Usar autenticación de dos factores,* esta opción le permite generar contraseñas individuales si usa aplicaciones en **Facebook**. Sin embargo, a menos que tenga una necesidad específica de hacerlo, le recomendamos que evite las aplicaciones de Facebook.
 
@@ -71,9 +71,9 @@ Esto lo llevará al menú *Configuración*.
 
 **Paso 10.** *Elija de 3 a 5 amigos para que lo ayuden si queda bloqueado*: Esta opción le permite seleccionar ciertos contactos de sus **amigos** de Facebook que pueden ayudarlo a iniciar sesión en su cuenta si por alguna razón no puede. Esto se hace compartiendo un código secreto con su contacto. Si decide utilizar esta opción, asegúrese de elegir cuidadosamente a sus contactos de confianza y establecer un medio de comunicación seguro para compartir el código. (Obtenga más información sobre [Enviar un Mensaje](umbrella://communications/sending-a-message) de forma segura.)
 
-**Paso 11.** *Correos electrónicos de notificación cifrados.* Esta configuración *Avanzada* le permite cargar su clave PGP pública y agregar cifrado de extremo a extremo a los correos electrónicos de notificación que reciba de Facebook. (Obtenga más información sobre PGP en la lección [Correo electrónico](umbrella://communications/email/expert), y cómo generar su propia clave usando PGP para [LINUX](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), y [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md).)
+**Paso 11.** *Correos electrónicos de notificación cifrados.* Esta configuración *Avanzada* le permite cargar su clave PGP pública y agregar cifrado de extremo a extremo a los correos electrónicos de notificación que reciba de Facebook. (Obtenga más información sobre PGP en la lección [Correo electrónico](umbrella://communications/email/expert), y cómo generar su propia clave usando PGP para [LINUX](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), y [Windows](umbrella://tools/pgp/s_pgp-for-windows.md).)
 
-**Paso 12.** *Ver correos electrónicos recientes de Facebook*. Use esta configuración para determinar si los correos electrónicos que recibe son en realidad de Facebook, o podría ser un ataque de phishing. (Obtenga más información sobre [Phishing] (umbrella://communications/phishing).)
+**Paso 12.** *Ver correos electrónicos recientes de Facebook*. Use esta configuración para determinar si los correos electrónicos que recibe son en realidad de Facebook, o podría ser un ataque de phishing. (Obtenga más información sobre [Phishing](umbrella://communications/phishing).)
 
 
 ## 2. Privacidad

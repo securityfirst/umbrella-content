@@ -47,7 +47,7 @@ Recomendamos hacer esto si se siente cómodo confiando en las autoridades.
 
 Esto dependerá de su modelo de amenaza.
 
-(Obtenga más información sobre esto en [Planificación de seguridad] (umbrella://assess-your-risk/security-planning) y [Gestión de información.] (umbrella://information/managing-information))
+(Obtenga más información sobre esto en [Planificación de seguridad](umbrella://assess-your-risk/security-planning) y [Gestión de información.](umbrella://information/managing-information))
 
 Si sigue adelante, traiga a un amigo o familiar de confianza para que lo apoye emocionalmente.
 
@@ -61,7 +61,7 @@ Si la persona puede acosarlo en el lugar de trabajo, es importante que lo notifi
 
 Si un chantajista o alguien más distribuye sus imágenes privadas sin su consentimiento, hay pasos que puede tomar.
 
-*   Solicite que los sitios web eliminen la información. Las políticas de eliminación de sitios populares están disponibles [aquí] (https://oag.ca.gov/cyberexploitation)
+*   Solicite que los sitios web eliminen la información. Las políticas de eliminación de sitios populares están disponibles [aquí](https://oag.ca.gov/cyberexploitation)
 
 *   Póngase en contacto con los motores de búsqueda para eliminar enlaces a la información;
 
@@ -77,7 +77,7 @@ Si un chantajista o alguien más distribuye sus imágenes privadas sin su consen
 
 Compartir su experiencia puede ayudarlo a usted y a otros a aprender y recuperarse del abuso en línea.
 
-Reporte los incidentes a [Take Back the Tech] (https://www.takebackthetech.net/mapit/), [HeartMob] (https://iheartmob.org/), o busque proyectos en su región.
+Reporte los incidentes a [Take Back the Tech](https://www.takebackthetech.net/mapit/), [HeartMob](https://iheartmob.org/), o busque proyectos en su región.
 
 Experimentar y responder al abuso puede ser aislante y estresante. Una comunidad de apoyo, en línea u offline, puede ayudar.
 
@@ -85,4 +85,4 @@ Experimentar y responder al abuso puede ser aislante y estresante. Una comunidad
 
 # Ayude a otros
 
-*Lea: PEN América, [Mejores Prácticas para Aliados y Testigos] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* y *[Mejores Prácticas para Empleadores de Escritores y Periodistas](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
+*Lea: PEN América, [Mejores Prácticas para Aliados y Testigos](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* y *[Mejores Prácticas para Empleadores de Escritores y Periodistas](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

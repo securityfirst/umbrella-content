@@ -6,9 +6,9 @@ title: كيفية حماية الملفات الحساسة
 
 ## كثير من الناس لديهم معلومات حساسة للحماية من الخصم.
 
-(تعلم التعرف على خصمك في درس [إدارة المعلومات] (umbrella://information/managing-information).)
+(تعلم التعرف على خصمك في درس [إدارة المعلومات](umbrella://information/managing-information).)
 
-سيساعدك درس [البرامج الضارة] (umbrella://information/malware) و [كلمات المرور] (umbrella://information/passwords/beginner) على حماية جهازك وحساباتك من الهجوم.
+سيساعدك درس [البرامج الضارة](umbrella://information/malware) و [كلمات المرور](umbrella://information/passwords/beginner) على حماية جهازك وحساباتك من الهجوم.
 
 ومع ذلك ، قد تفشل هذه الاحتياطات ، أو قد تكون هناك حاجة لتقويضها.
 

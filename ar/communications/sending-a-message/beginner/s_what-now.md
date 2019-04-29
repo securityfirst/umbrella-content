@@ -14,5 +14,5 @@ title: ماذا الان؟
 
 *   Security First، [الاتصالات الآمنة](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1)، تدريب مجاني على الإنترنت في جمعية المناصرة.
 *   EFF، المراقبة الذاتية للدفاع ، [التواصل مع الآخرين](https://ssd.eff.org/en/module/communicating-others).
-*   EFF، ["لماذا لا يمكننا تقديم توصية لك"] (https://www.eff.org/deeplinks/2018/03/why-we-cant-give-you-recommendation) في [الرسائل الآمنة؟ أشبه بـ Secure Mess)(https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess),مارس 2018.
+*   EFF، ["لماذا لا يمكننا تقديم توصية لك"](https://www.eff.org/deeplinks/2018/03/why-we-cant-give-you-recommendation) في [الرسائل الآمنة؟ أشبه بـ Secure Mess)(https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess),مارس 2018.
 *   Security in a Box, [ابق الاتصالات الخاصة بك على الانترنت سرية](https://securityinabox.org/en/guide/secure-communication).

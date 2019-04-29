@@ -15,7 +15,7 @@ title: الدعم النفسي
 
 يمكن أن تختلف الاستجابات الانفعالية الفورية بعد الاغتصاب.
 
-(تعرف على المزيد حول هذا الموضوع في [الاعتداء الجنسي المتقدم] (umbrella://incident-response/sexual-assault/advanced).)
+(تعرف على المزيد حول هذا الموضوع في [الاعتداء الجنسي المتقدم](umbrella://incident-response/sexual-assault/advanced).)
 
 مهما كان رد فعلهم:
 

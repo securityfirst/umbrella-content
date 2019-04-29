@@ -26,7 +26,7 @@ title: تقليل الفرص
 
 *   قد يتم تنظيم حواجز الطرق أو حوادث السيارات لتوفير غطاء للمختطفين المتنكرين في زي المسؤولين.
 
-(تعرف على [نقاط التفتيش] (umbrella://travel/checkpoints).)
+(تعرف على [نقاط التفتيش](umbrella://travel/checkpoints).)
 
 ## تقليل الرؤية.
 
@@ -36,13 +36,13 @@ title: تقليل الفرص
 
 * قم بحماية الاتصالات الخاصة بك.
 
-(تعرف على [إرسال رسالة](umbrella://communications/sending-a-message) و [إجراء مكالمة] (umbrella://communications/making-a-call).) 
+(تعرف على [إرسال رسالة](umbrella://communications/sending-a-message) و [إجراء مكالمة](umbrella://communications/making-a-call).) 
 
 * لا تناقش المعلومات الشخصية أو الخطط إذا كنت قد سمعت.
 
 * استخدم كلمات الرموز للأسماء والمواقع ومعلومات السفر.
 
-(تعرف على [راديو] (umbrella://communications/radios-and-satellite-phones/beginner) و [Satphones] (umbrella://communications/radios-and-satellite-phones/advanced).)
+(تعرف على [راديو](umbrella://communications/radios-and-satellite-phones/beginner) و [Satphones](umbrella://communications/radios-and-satellite-phones/advanced).)
 
 ## ضمان أمن الموقع الجيد.
 

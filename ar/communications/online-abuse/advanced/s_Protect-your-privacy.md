@@ -37,7 +37,7 @@ title: Protect الخاص بك privacy
 
 *   عندما ينتهك شخص ما الشروط ، أبلغ عنه.
 
-(قم بتأمين حساباتك باستخدام [كلمات مرور قوية] (umbrella://information/passwords/beginner)  و [2FA.] من  (umbrella://information/passwords/advanced)
+(قم بتأمين حساباتك باستخدام [كلمات مرور قوية](umbrella://information/passwords/beginner)  و [2FA.] من  (umbrella://information/passwords/advanced)
 
 ## وضع سياسة التعليقات.
 
@@ -63,4 +63,4 @@ title: Protect الخاص بك privacy
 
 قم بإنشاء سياسات لمساعدة فريقك على حماية أنفسهم من خطاب الكراهية.
 
-* اقرأ: PEN America ، [أفضل الممارسات لأصحاب الكتاب والصحفيين] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/) *
+* اقرأ: PEN America ، [أفضل الممارسات لأصحاب الكتاب والصحفيين](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/) *

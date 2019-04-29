@@ -4,7 +4,7 @@ title: تور لنظام التشغيل Mac OS X
 ---
 # دليل أدوات TOR لنظام التشغيل MAC 
 
-** درس القراءة: [الإنترنت] (umbrella://communications/the-internet) **
+** درس القراءة: [الإنترنت](umbrella://communications/the-internet) **
 ** يوضح هذا الدليل كيفية استخدام [حزمة متصفح تور] https://www.torproject.org/projects/torbrowser.html.en) على نظام Mac. **
 ** متطلبات الكمبيوتر: ** اتصال بالإنترنت ، جهاز كمبيوتر يعمل بنظام macOS
 ** الإصدار المستخدم في هذا الدليل: ** حزمة متصفح Tor: 3.6.2

@@ -43,4 +43,4 @@ Tenga en cuenta que esta estrategia puede:
 
 *Considere llevar a un vigilante a una estación de policía si anticipa un incidente grave y no corre el riesgo de la policía. Esto dependerá de su modelo de amenaza.*
 
-(Obtenga más información sobre esto en [Planificación de Seguridad] (umbrella://assess-your-risk/security-planning) y [Gestión de Información].(umbrella://information/managing-information))
+(Obtenga más información sobre esto en [Planificación de Seguridad](umbrella://assess-your-risk/security-planning) y [Gestión de Información].(umbrella://information/managing-information))

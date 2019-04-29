@@ -7,7 +7,7 @@ title: Psiphon
 Elusión de la Censura
 
 **Lección para leer: [Internet](umbrella://communications/the-internet)**
-**Ubicación de descarga:** [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) o [Psiphon] (https://psiphon.ca/en/download.html).
+**Ubicación de descarga:** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) o [Psiphon](https://psiphon.ca/en/download.html).
 **Requisitos de la computadora:** Una conexión a Internet y un dispositivo con Windows, Android 2.3 o posterior, o iOS 10.2 o posterior (iOS 8 para el navegador Psiphon)
 **Licencia:** Software libre de código abierto; GNU GPL Versión 3
 **Nivel:** Principiante
@@ -34,9 +34,9 @@ Elusión de la Censura
 
 ### 2. Psiphon para Android
 
-Descargue Psiphon Pro de la tienda [Google Play] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription).
+Descargue Psiphon Pro de la tienda [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription).
 
-Si no tiene acceso a la tienda Google Play, seleccione Psiphon Pro para Android en la página de descarga oficial de Psiphon (https://psiphon.ca/en/download.html?10Years). (Verifique que el archivo descargado sea auténtico [aquí] (https://psiphon.ca/en/faq.html#authentic-android).) Es posible que deba [habilitar el sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
+Si no tiene acceso a la tienda Google Play, seleccione Psiphon Pro para Android en la página de descarga oficial de Psiphon (https://psiphon.ca/en/download.html?10Years). (Verifique que el archivo descargado sea auténtico [aquí](https://psiphon.ca/en/faq.html#authentic-android).) Es posible que deba [habilitar el sideloading](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
 
 Abra la aplicación y haga clic en *inicio* para conectarse a la red Psiphon.
 
@@ -50,7 +50,7 @@ La "P" de Psiphon en la esquina superior izquierda de su dispositivo indica que 
 
 ### 3. Psiphon para Windows
 
-Descargue la última versión de Psiphon para Windows [aquí] (https://psiphon.ca/en/download.html). Verifique que el archivo descargado sea auténtico [aquí] (https://psiphon.ca/en/faq.html#authentic-windows).)
+Descargue la última versión de Psiphon para Windows [aquí](https://psiphon.ca/en/download.html). Verifique que el archivo descargado sea auténtico [aquí](https://psiphon.ca/en/faq.html#authentic-windows).)
 
 Cuando ejecute el programa, debería ver un aviso de seguridad que muestra que este programa es un producto legítimo de Psiphon Inc.
 
@@ -60,7 +60,7 @@ Cuando cierra el programa, Psiphon se desconecta automáticamente. También pued
 
 ### 4. Psiphon para iOS
 
-Descargue Psiphon desde la [Apple App Store] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8).
+Descargue Psiphon desde la [Apple App Store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8).
 
 Abra la aplicación y haga clic en el botón gris *Desconectado*.
 

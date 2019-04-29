@@ -14,4 +14,4 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   Security in a Box ، [حماية الملفات الحساسة على جهاز الكمبيوتر الخاص بك] (https://securityinabox.org/en/guide/secure-file-storage/).
+*   Security in a Box ، [حماية الملفات الحساسة على جهاز الكمبيوتر الخاص بك](https://securityinabox.org/en/guide/secure-file-storage/).

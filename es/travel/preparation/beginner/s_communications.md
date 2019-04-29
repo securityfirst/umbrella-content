@@ -37,4 +37,4 @@ Estos pueden ser necesarios si las redes de telecomunicaciones no son confiables
 
 *Disfrace números como fechas, medidas, coordenadas, cantidades en una lista de compras u otra formulación.*
 
-(Obtenga información sobre [protección de archivos] (umbrella://information/protecting-files).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files).)

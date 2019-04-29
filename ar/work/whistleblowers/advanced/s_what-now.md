@@ -4,7 +4,7 @@ title: ماذا الان؟
 ---
 مرر سريعًا لليمين للحصول على قائمة مراجعة هذا الدرس.
 
-تعرّف على كيفية إرسال المعلومات كمبلغ عن المخالفات في [Whistleblowers للمبتدئين] (umbrella://work/whistleblowers/beginner).
+تعرّف على كيفية إرسال المعلومات كمبلغ عن المخالفات في [Whistleblowers للمبتدئين](umbrella://work/whistleblowers/beginner).
 
 ### الدروس ذات الصلة
 

@@ -3,7 +3,7 @@ index: 1
 title: مراقبة
 ---
 المراقبة هي مراقبة سلوك الأشخاص أو أنشطتهم أو أنماط أخرى لإلحاق الأذى بهم أو التأثير عليهم أو إدارتهم أو توجيههم أو حمايتهم.
-! [صورة] (surveillance1.png)
+! [صورة](surveillance1.png)
 
 تساعدك تدابير المراقبة المضادة على اكتشاف وتخفيف المراقبة المعادية.
 
@@ -24,7 +24,7 @@ title: مراقبة
 *   لمعرفة ما تفعله ؛
 *   أثناء التخطيط لحادث خطير ، مثل السرقة أو الاعتقال أو الخطف أو التخويف أو الهجوم.
 
-(تعرف على المزيد حول [الاختطاف] (umbrella://incident-response/kidnapping/beginner) and [arrest](umbrella://incident-response/arrests).)
+(تعرف على المزيد حول [الاختطاف](umbrella://incident-response/kidnapping/beginner) and [arrest](umbrella://incident-response/arrests).)
 
 ## كيف؟
 
@@ -32,13 +32,13 @@ title: مراقبة
 
 الأخطاء أو أجهزة الاستماع أو كاميرات الفيديو أو أجهزة قراءة لوحات الأرقام.
 
-(تعرف على المزيد حول هذا الموضوع في [الاجتماعات] (umbrella://work/meetings).)
+(تعرف على المزيد حول هذا الموضوع في [الاجتماعات](umbrella://work/meetings).)
 
 ### المراقبة الرقمية
 
 مراقبة الاتصالات والأجهزة الرقمية.
 
-(تعرف على [البرامج الضارة](umbrella://information/malware/beginner)، [التصيد] (umbrella://communications/phishing)، و [الهواتف المحمولة] (umbrella://communications/mobile-phones).)
+(تعرف على [البرامج الضارة](umbrella://information/malware/beginner)، [التصيد](umbrella://communications/phishing)، و [الهواتف المحمولة](umbrella://communications/mobile-phones).)
 
 ### مراقبة الإنسان
 

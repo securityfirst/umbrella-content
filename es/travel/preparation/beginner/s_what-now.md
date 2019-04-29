@@ -18,4 +18,4 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 *   ECHO, Generic Security Guide for Humanitarian Organisations, disponible en  [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
 *   CARE International, [Safety & Security Handbook](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
-*   Comité para la Protección de Periodistas, [Journalist Security Guide] (https://cpj.org/reports/2012/04/journalist-security-guide.php).
+*   Comité para la Protección de Periodistas, [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php).

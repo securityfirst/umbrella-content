@@ -4,7 +4,7 @@ title: ماذا الآن؟
 ---
 مرر سريعًا لليمين للحصول على قائمة مراجعة هذا الدرس.
 
-تعرّف على كيفية حماية المصادر والمبلغين في [Whistleblowers المستوى المتقدم] (umbrella://work/whistleblowers/advanced).
+تعرّف على كيفية حماية المصادر والمبلغين في [Whistleblowers المستوى المتقدم](umbrella://work/whistleblowers/advanced).
 
 ### دروس ذات صلة
 

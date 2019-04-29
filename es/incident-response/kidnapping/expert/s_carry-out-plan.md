@@ -26,4 +26,4 @@ La mayor ayuda para la moral es manejar bien el incidente.
 *   Pagar un rescate o hacer una concesión puede poner en peligro a más colegas al alentar nuevos secuestros.
 *   Tenga una política pública de no rescate.
 
-(Obtenga más información sobre esto en [Secuestro Principiante] (umbrella://incident-response/kidnapping/beginner).)
+(Obtenga más información sobre esto en [Secuestro Principiante](umbrella://incident-response/kidnapping/beginner).)

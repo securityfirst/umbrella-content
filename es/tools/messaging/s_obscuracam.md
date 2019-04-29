@@ -9,7 +9,7 @@ title: ObscuraCam
 **Lección para leer:**
 - [Teléfonos Móviles](umbrella://communications/mobile-phones)
 - [Redes sociales](umbrella://communications/social-media)
-**Ubicación de descarga:** [Página de Inicio de ObscuraCam] (https://guardianproject.info/apps/obscuracam/)
+**Ubicación de descarga:** [Página de Inicio de ObscuraCam](https://guardianproject.info/apps/obscuracam/)
 **Requisitos del teléfono:** Android 2.3.3 y superior
 **Versión utilizada en esta guía:** 2.0-RC2b
 **Licencia: * Software libre y de código abierto (GPL v3)
@@ -29,7 +29,7 @@ title: ObscuraCam
 
 ### 2.0 Cómo instalar ObscuraCam
 
-**Paso 1.** En su dispositivo Android, descargue e instale la aplicación desde [Google Play store aquí] (https://play.google.com/store/apps/details?id=org.witness.sscphase1) pulsando "Instalar".
+**Paso 1.** En su dispositivo Android, descargue e instale la aplicación desde [Google Play store aquí](https://play.google.com/store/apps/details?id=org.witness.sscphase1) pulsando "Instalar".
 ![image](tool_obscura1.png)
 
 **Paso 2:** Antes de que comience el proceso de instalación, se le pedirá que revise el acceso que la aplicación tendrá en su teléfono. Revise esto con cuidado. Una vez que esté satisfecho con los permisos que se otorgarán, presione "Aceptar" y la instalación se completará. Si no está de acuerdo con los permisos que se otorgarán, presione el botón Atrás y la instalación se cancelará.

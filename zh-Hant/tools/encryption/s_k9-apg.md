@@ -8,7 +8,7 @@ title: K9和Open Keychain
 **課程內容：[電子郵件-進階課程](umbrella://communications/email/advanced)。**
 **程度**：進階課程
 **發佈時間：** 2018年5月
-**來源：**Security in a Box，[適用於K9和APG的ANDROID](https://securityinabox.org/en/guide/k9/android/)，Open Keychain [常問問題] (https://www.openkeychain.org/faq/).
+**來源：**Security in a Box，[適用於K9和APG的ANDROID](https://securityinabox.org/en/guide/k9/android/)，Open Keychain [常問問題](https://www.openkeychain.org/faq/).
 
 [APG 官網](http://www.thialfihar.org/projects/apg/)  
 

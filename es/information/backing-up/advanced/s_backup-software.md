@@ -11,4 +11,4 @@ Cobian Backup es una herramienta fácil de usar que puede:
 *   Incluir solo los archivos que han cambiado desde su última copia de seguridad;
 *   Comprimir las copias de seguridad para hacerlas más pequeñas.
 
-Aprenda cómo instalar y ejecutar [Cobian Backup] (umbrella://tools/files/s_cobian-backup.md).
+Aprenda cómo instalar y ejecutar [Cobian Backup](umbrella://tools/files/s_cobian-backup.md).

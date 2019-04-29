@@ -53,7 +53,7 @@ Pidgin es un programa complejo, que no se ha escrito con la seguridad como una p
 ### 2.1 Obteniendo Pidgin
 
 Puede obtener Pidgin en Windows descargando el instalador desde la página de descargas de Pidgin.
-! [imagen] (tool_pidgin1.png)
+! [imagen](tool_pidgin1.png)
 
 Haga clic en la pestaña _púrpura_ DESCARGAR. _ **No** haga clic en el botón verde Descargar ahora porque querrá elegir un archivo de instalación diferente.
 Serás llevado a la página de descarga.
@@ -64,7 +64,7 @@ El instalador predeterminado para Pidgin es pequeño porque no contiene toda la 
 
 Haga clic en el enlace "**instalador offline**". Se lo llevará a una nueva página titulada "Sourceforge" y después de unos segundos, una pequeña ventana emergente le preguntará si desea guardar un archivo.
 
-- Nota: aunque la página de descarga de Pidgin usa "HTTPS" y, por lo tanto, está relativamente a salvo de manipulación, el sitio web al que lo dirige a descargar la versión de Windows de Pidgin es actualmente Sourceforge, que usa "HTTP" no cifrado y, por lo tanto, no ofrece protección. Eso significa que el software que descarga puede ser manipulado antes de descargarlo. La mayoría de estos riesgos provendrían de alguien con acceso a la infraestructura de Internet local que intente realizar una vigilancia dirigida contra usted personalmente (por ejemplo, un proveedor malicioso de puntos calientes) o un plan estatal o gubernamental para distribuir software comprometido a muchos usuarios. La extensión [HTTPS Everywhere] (https://www.eff.org/https-everywhere) puede reescribir las URL de descarga de Sourceforge en HTTPS, por lo que se recomienda que instale HTTPS Everywhere antes de descargar cualquier otro software. Además, según nuestra experiencia, Sourceforge a menudo tiene anuncios confusos de página completa en sus páginas de descarga que pueden engañar a las personas para que instalen algo que quizás no quieran. Puede instalar un bloqueador de anuncios antes de cualquier otro software para evitar estos anuncios confusos.
+- Nota: aunque la página de descarga de Pidgin usa "HTTPS" y, por lo tanto, está relativamente a salvo de manipulación, el sitio web al que lo dirige a descargar la versión de Windows de Pidgin es actualmente Sourceforge, que usa "HTTP" no cifrado y, por lo tanto, no ofrece protección. Eso significa que el software que descarga puede ser manipulado antes de descargarlo. La mayoría de estos riesgos provendrían de alguien con acceso a la infraestructura de Internet local que intente realizar una vigilancia dirigida contra usted personalmente (por ejemplo, un proveedor malicioso de puntos calientes) o un plan estatal o gubernamental para distribuir software comprometido a muchos usuarios. La extensión [HTTPS Everywhere](https://www.eff.org/https-everywhere) puede reescribir las URL de descarga de Sourceforge en HTTPS, por lo que se recomienda que instale HTTPS Everywhere antes de descargar cualquier otro software. Además, según nuestra experiencia, Sourceforge a menudo tiene anuncios confusos de página completa en sus páginas de descarga que pueden engañar a las personas para que instalen algo que quizás no quieran. Puede instalar un bloqueador de anuncios antes de cualquier otro software para evitar estos anuncios confusos.
 
 Muchos navegadores le pedirán que confirme si desea descargar este archivo. Internet Explorer 11 muestra una barra en la parte inferior de la ventana del navegador con un borde naranja.
 ![image](tool_pidgin3.png)

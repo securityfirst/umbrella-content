@@ -35,7 +35,7 @@ title: وسائل الاعلام
 
 - استخدم البث المباشر حتى يتمكن الآخرون من رؤية ما تقوم به مباشرة.
 
-(تعرف على [الوسائط المتعددة] (umbrella://communications/online-privacy/beginner/s_multimedia.md).)
+(تعرف على [الوسائط المتعددة](umbrella://communications/online-privacy/beginner/s_multimedia.md).)
 
 * إجراء تقييم للمخاطر إذا كان هذا يمكن أن يعرض الأشخاص للخطر. *
 

@@ -6,7 +6,7 @@ title: Teléfonos Móviles
 
 Los teléfonos lo ayudan a organizar protestas, así como a documentarlos y comunicarse en caso de emergencia.
 
-(Obtenga más información sobre esto en [protestas principiante] (umbrella://work/protests/beginner).)
+(Obtenga más información sobre esto en [protestas principiante](umbrella://work/protests/beginner).)
 
 Pero llevar tu teléfono a una protesta podría:
 

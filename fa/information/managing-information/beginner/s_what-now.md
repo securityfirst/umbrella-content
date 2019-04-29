@@ -10,4 +10,4 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-*   EFF، نظارت دفاع از خود، ["ارزیابی خطرات شما"] (https://ssd.eff.org/en/module/assessing-yourrisks)
+*   EFF، نظارت دفاع از خود، ["ارزیابی خطرات شما"](https://ssd.eff.org/en/module/assessing-yourrisks)

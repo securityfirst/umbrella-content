@@ -36,4 +36,4 @@ title: إذا تم الاعتداء عليك
 
 * إذا كان الاعتداء الجنسي جاء بعد الاعتقال أو الاختطاف ، فقد يكون لديك خيارات محدودة. إن تطوير علاقة مع حراسك أو خاطفيك قد يقلل من خطر جميع أشكال الاعتداء. حماية حياتك هي الهدف الأساسي. *
 
-(تعرف على [الاعتقالات] (umbrella://incident-response/arrests)  و [الاختطاف] (umbrella://incident-response/kidnapping))
+(تعرف على [الاعتقالات](umbrella://incident-response/arrests)  و [الاختطاف](umbrella://incident-response/kidnapping))

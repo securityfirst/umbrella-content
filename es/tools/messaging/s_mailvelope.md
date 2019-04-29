@@ -7,11 +7,11 @@ Mailvelope
 
 Webmail Seguro
 
-**Lección para leer: [Protección de Archivos] (umbrella://information/protecting-files), [Email](umbrella://communications/email)**
+**Lección para leer: [Protección de Archivos](umbrella://information/protecting-files), [Email](umbrella://communications/email)**
 **Nivel:** Avanzado
 **Tiempo requerido:** 30-60 minutos.
 **Actualizado:** Abril de 2018 (algunas imágenes datan de versiones anteriores)
-**Fuentes: ** Security in a Box, [MAILVELOPE - CIFRADO OPENPGP PARA WEBMAIL] (https://securityinabox.org/en/guide/mailvelope/web/).
+**Fuentes: ** Security in a Box, [MAILVELOPE - CIFRADO OPENPGP PARA WEBMAIL](https://securityinabox.org/en/guide/mailvelope/web/).
 
 **Usar Mailvelope le brindará:**
 
@@ -59,11 +59,11 @@ Dado que Mailvelope es una extensión del navegador, solo funcionará con el nav
 
 Debido a que Mailvelope es una extensión del navegador, funciona en la mayoría de los sistemas operativos de escritorio. Esto incluye GNU / Linux, Microsoft Windows y Mac OS X. No funciona en dispositivos móviles Android o iOS. A continuación se presentan algunas alternativas gratuitas y de código abierto:
 
-- [**Thunderbird con Enigmail**] (../../thunderbird/windows) completa el cliente de correo electrónico con cifrado PGP agregado para GNU/Linux, Microsoft Windows y Mac OS X
-- [**GPG4Win**] (https://www.gpg4win.org/) Conjunto de herramientas de cifrado de archivos y correo electrónico de PGP para Microsoft Windows
-- [**GPG Tools Suite**] (https://gpgtools.org/) para Mac OS X
-- [**gpg4usb**] (https://www.gpg4usb.org/) herramienta PGP portable e independiente para GNU/Linux y Microsoft Windows
-- [**Mailpile**] (https://www.mailpile.is/) Un venidero cliente de correo compatible con OpenPGP para GNU/Linux, Microsoft Windows y Mac OS X
+- [**Thunderbird con Enigmail**](../../thunderbird/windows) completa el cliente de correo electrónico con cifrado PGP agregado para GNU/Linux, Microsoft Windows y Mac OS X
+- [**GPG4Win**](https://www.gpg4win.org/) Conjunto de herramientas de cifrado de archivos y correo electrónico de PGP para Microsoft Windows
+- [**GPG Tools Suite**](https://gpgtools.org/) para Mac OS X
+- [**gpg4usb**](https://www.gpg4usb.org/) herramienta PGP portable e independiente para GNU/Linux y Microsoft Windows
+- [**Mailpile**](https://www.mailpile.is/) Un venidero cliente de correo compatible con OpenPGP para GNU/Linux, Microsoft Windows y Mac OS X
 
 
 # 2. Generar y compartir claves de cifrado.
@@ -207,7 +207,7 @@ Nota: Debido a que las huellas digitales de clave no son sensibles, puede anotar
 
 ## 2.5 Hacer copia de seguridad y recuperar todas sus claves
 
-Los pares de claves que ha generado y las claves públicas que ha recopilado y verificado son el elemento más importante de su instalación de Mailvelope. Puede guardar todas estas claves en un solo archivo para hacer una copia de seguridad de ellas. Consulte [Recuperarse de la pérdida de información] (../../backup) para planificar una estrategia de copia de seguridad segura. Recomendamos actualizar esta copia de seguridad cada vez que genere un nuevo par de claves o importe y verifique una clave pública importante.
+Los pares de claves que ha generado y las claves públicas que ha recopilado y verificado son el elemento más importante de su instalación de Mailvelope. Puede guardar todas estas claves en un solo archivo para hacer una copia de seguridad de ellas. Consulte [Recuperarse de la pérdida de información](../../backup) para planificar una estrategia de copia de seguridad segura. Recomendamos actualizar esta copia de seguridad cada vez que genere un nuevo par de claves o importe y verifique una clave pública importante.
 
 **Importante:** Debido a que este archivo contendrá su clave privada, no debe subirla a un servidor ni a ningún tipo de "almacenamiento en la nube".
 
@@ -241,7 +241,7 @@ Mailvelope viene preconfigurado para trabajar con varios servicios de correo web
 
 Si ve este botón, puede omitir los pasos restantes en esta sección.
 
-Para hacer que Mailvelope funcione con la interfaz de correo web *Roundcube * utilizada por [Riseup] (https://mail.riseup.net) y otros proveedores, siga los pasos a continuación. Siguiendo un proceso similar, también debería poder configurar Mailvelope para otros proveedores de correo web.
+Para hacer que Mailvelope funcione con la interfaz de correo web *Roundcube * utilizada por [Riseup](https://mail.riseup.net) y otros proveedores, siga los pasos a continuación. Siguiendo un proceso similar, también debería poder configurar Mailvelope para otros proveedores de correo web.
 
 
 **Paso 1**. **Inicie** el navegador en el que instaló Mailvelope
@@ -285,7 +285,7 @@ Debería ver un botón de Mailvelope en la esquina superior derecha del área de
 
 Después de intercambiar las claves y asegurarse de que Mailvelope esté configurado para trabajar con su proveedor de correo web, puede comenzar a cifrar y descifrar los mensajes.
 
-Para obtener una explicación de cómo funciona Mailvelope, consulte la sección [Cosas que debe saber sobre esta herramienta antes de comenzar] (#things-you-should-know-about-mailvelope-before-you-startr), más arriba. Y tenga en cuenta que Mailvelope solo protege el *contenido* de los mensajes y archivos adjuntos. **La siguiente información nunca está encriptada:**
+Para obtener una explicación de cómo funciona Mailvelope, consulte la sección [Cosas que debe saber sobre esta herramienta antes de comenzar](#things-you-should-know-about-mailvelope-before-you-startr), más arriba. Y tenga en cuenta que Mailvelope solo protege el *contenido* de los mensajes y archivos adjuntos. **La siguiente información nunca está encriptada:**
 
 - La línea *Asunto*.
 - La dirección de correo electrónico del remitente.

@@ -12,7 +12,7 @@ Acceder a Internet y publicar información en Internet deja huellas.
 
 Esto puede ponerlo en riesgo.
 
-(Obtenga más información sobre esto en [Planificación de Seguridad] (umbrella://assess-your-risk/security-planning) y [Gestión de Información](umbrella://information/managing-information).)
+(Obtenga más información sobre esto en [Planificación de Seguridad](umbrella://assess-your-risk/security-planning) y [Gestión de Información](umbrella://information/managing-information).)
 
 Puedes reducir el riesgo usando Tor.
 

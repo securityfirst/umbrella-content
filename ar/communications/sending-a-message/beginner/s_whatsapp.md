@@ -12,7 +12,7 @@ title: واتساب
 
 *   لا يقوم بتكوين رسائل WhatsApp مشفرة من طرف إلى طرف طالما أن جميع الأطراف تستخدم أحدث إصدار. لا يمكن عرض WhatsApp أو إجباره على الكشف عن المحتوى.
 
-(اقرأ WhatsApp [السياسة الأمنية] (https://www.whatsapp.com/security/).)  
+(اقرأ WhatsApp [السياسة الأمنية](https://www.whatsapp.com/security/).)  
 
 ## اعتبارات أمنية
 

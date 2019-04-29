@@ -15,4 +15,4 @@ title: الحذف الآمن على نظام التشغيل Mac OS
 * تأكد من تمكين الأداة المساعدة FileVault المدمجة (وهذا يتطلب منك إدخال كلمة مرور لاستخدام جهاز Mac).
 * استخدم VeraCrypt ، وهي أداة مجانية مفتوحة المصدر لتشفير الملفات.
 
-تعرف على المزيد حول [حماية الملفات] (umbrella://information/protecting-files) واستخدام [VeraCrypt] (umbrella://tools/files/s_veracrypt.md).
+تعرف على المزيد حول [حماية الملفات](umbrella://information/protecting-files) واستخدام [VeraCrypt](umbrella://tools/files/s_veracrypt.md).

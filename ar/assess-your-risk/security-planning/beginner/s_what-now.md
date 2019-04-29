@@ -17,5 +17,5 @@ title: ماذا الان؟
 
 ### مصادر
 
-* Frontline Defenders، [كتاب عن الأمن: خطوات عملية للمدافعين عن حقوق الإنسان المعرضين للخطر] (https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) ، 23 يونيو 2016.
-*  الحماية الدولية ، [دليل الحماية الجديد للمدافعين عن حقوق الإنسان] (https://www.protectioninternational.org/en/node/1106).
+* Frontline Defenders، [كتاب عن الأمن: خطوات عملية للمدافعين عن حقوق الإنسان المعرضين للخطر](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) ، 23 يونيو 2016.
+*  الحماية الدولية ، [دليل الحماية الجديد للمدافعين عن حقوق الإنسان](https://www.protectioninternational.org/en/node/1106).

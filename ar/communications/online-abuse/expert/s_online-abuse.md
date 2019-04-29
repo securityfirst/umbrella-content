@@ -8,7 +8,7 @@ title: سوء الاستخدام عبر الإنترنت
 *   مضايقة الأسرة والأصدقاء وأصحاب العمل لعزل الهدف ؛
 *   تكتيكات لجعل الهدف خوفاً.
 
-يمكن اعتبار إساءة المعاملة التي تستهدف الأشخاص الأصغر سنا البلطجة الإلكترونية. اقرأ عن هذا في [cyberbullying.org] (https://cyberbullying.org/).
+يمكن اعتبار إساءة المعاملة التي تستهدف الأشخاص الأصغر سنا البلطجة الإلكترونية. اقرأ عن هذا في [cyberbullying.org](https://cyberbullying.org/).
 
 هناك العديد من أنواع إساءة الاستخدام عبر الإنترنت.
 
@@ -56,7 +56,7 @@ Doxing (أو doxxing) انتهاك واضح لحقك في الخصوصية. بش
 
 ينطوي الاختطاف على وصول غير صحيح إلى حساب الهدف عبر القرصنة غير القانونية أو سرقة كلمة المرور.
 
-(تعرف على [كلمات المرور](umbrella://information/passwords/beginner) و [2FA] (umbrella://information/passwords/advanced).)
+(تعرف على [كلمات المرور](umbrella://information/passwords/beginner) و [2FA](umbrella://information/passwords/advanced).)
 
 Catfishing هو استخدام حسابات مزيفة لخداع شخص ما لبدء علاقة ومشاركة المعلومات الشخصية. تستخدم مصائد العسل نفس الأسلوب للتحقق من الهدف من أجل الحصول على المال أو إتلاف المعلومات.
 
@@ -76,6 +76,6 @@ Catfishing هو استخدام حسابات مزيفة لخداع شخص ما ل
 
 الانتقام الاباحي هو عمل عنف ويجب عدم الخلط بينه وبين المواد الإباحية.
 
-[الابلاغ عن اساءة عبر الإنترنت المستوى المتقدم] (umbrella://communications/online-abuse/advanced) يحدد خطاب الكراهية والتصيد.
+[الابلاغ عن اساءة عبر الإنترنت المستوى المتقدم](umbrella://communications/online-abuse/advanced) يحدد خطاب الكراهية والتصيد.
 
-[تعريف المضايقة على الإنترنت] (https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) بقلم PEN America و [التحرش عبر الإنترنت للنساء الناشطات سياسيا] (https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) من Tachtical Tech يشمل أنواعًا أخرى من الإساءة.
+[تعريف المضايقة على الإنترنت](https://onlineharassmentfieldmanual.pen.org/additional-resources/defining-online-harassment-a-glossary-of-terms/) بقلم PEN America و [التحرش عبر الإنترنت للنساء الناشطات سياسيا](https://xyz.informationactivism.org/en/online-harassment-of-politically-active-women-introduction) من Tachtical Tech يشمل أنواعًا أخرى من الإساءة.

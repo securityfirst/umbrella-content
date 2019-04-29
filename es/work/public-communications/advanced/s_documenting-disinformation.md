@@ -31,7 +31,7 @@ Los métodos pueden incluir:
 * Cuentas reales hackeadas o suplantadas para difundir información falsa;
 * Fugas de material embarazoso o sensible, real o curado.
 
-(Obtenga más información sobre esto en [Abuso en Línea] (umbrella://communications/online-abuse).)
+(Obtenga más información sobre esto en [Abuso en Línea](umbrella://communications/online-abuse).)
 
 ## Busque apoyo
 

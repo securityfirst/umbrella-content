@@ -16,7 +16,7 @@ _Cualquier persona que supervise su actividad en Internet podrá ver que está e
 
 Que este sea un problema para usted dependerá de su modelo de amenaza.
 
-(Obtenga más información sobre esto en [gestión de la información.] (umbrella://information/managing-information))
+(Obtenga más información sobre esto en [gestión de la información.](umbrella://information/managing-information))
 
 ### Cierre todas las pestañas del navegador y otras aplicaciones antes de desactivar su VPN.
 
@@ -34,8 +34,8 @@ La Iniciativa de Red del Observatorio Abierto (OONI, por sus siglas en inglés) 
 
 OONI proporciona herramientas para probar su red, WhatsApp, Facebook Messenger y Telegram, o sitios web específicos.
 
-*   Lea los [riesgos potenciales] (https://ooni.torproject.org/about/risks/) de la ejecución de OONI;
+*   Lea los [riesgos potenciales](https://ooni.torproject.org/about/risks/) de la ejecución de OONI;
 
-*   [Instale] (https://ooni.torproject.org/install/ooniprobe/) OONI Probe en Linux, MacOS o en una Raspberry Pi;
+*   [Instale](https://ooni.torproject.org/install/ooniprobe/) OONI Probe en Linux, MacOS o en una Raspberry Pi;
 
-*   Instale la aplicación OONI para [Android] (https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) o [iOS](https://itunes.apple.com/us/app/id1199566366).
+*   Instale la aplicación OONI para [Android](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe) o [iOS](https://itunes.apple.com/us/app/id1199566366).

@@ -18,6 +18,6 @@ Acceda a Secure Drop a través de Tor para asegurarse de que lo está usando de 
 
 Algunos mensajeros seguros están conectados a un número de teléfono o cuenta que puede ser suficiente para revelar con quién se está comunicando, incluso si lo que dice está encriptado.
 
-Si los posibles adversarios en su contexto incluyen agencias gubernamentales o de inteligencia, considere usar [Ricochet.im] (https://ricochet.im/). Es un software gratuito de código abierto que le permite intercambiar mensajes cifrados de extremo a extremo a través de la red Tor utilizando una dirección única en lugar de un nombre de usuario.
+Si los posibles adversarios en su contexto incluyen agencias gubernamentales o de inteligencia, considere usar [Ricochet.im](https://ricochet.im/). Es un software gratuito de código abierto que le permite intercambiar mensajes cifrados de extremo a extremo a través de la red Tor utilizando una dirección única en lugar de un nombre de usuario.
 
-(Obtenga información sobre [Enviar un mensaje] (paraguas: // comunicaciones / enviar un mensaje).)
+(Obtenga información sobre [Enviar un mensaje](paraguas: // comunicaciones / enviar un mensaje).)

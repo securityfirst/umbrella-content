@@ -4,7 +4,7 @@ title: الان چی؟
 ---
  برای چک لیست این درس به سمت راست بکشید.
 
-در موردسخنان نفرت انگیز در [سو استفاده آنلاین] (چتر: // ارتباطات / آنلاین سوء استفاده / پیشرفته)  مطلع شوید.
+در موردسخنان نفرت انگیز در [سو استفاده آنلاین](چتر: // ارتباطات / آنلاین سوء استفاده / پیشرفته)  مطلع شوید.
 
 ### درس های مرتبط / ابزارها
 
@@ -17,11 +17,11 @@ title: الان چی؟
 
 ### منابع
 
-*   نگاهی به پشت فناوری، [ضربالمثل] (https://www.takebackthetech.net/know-more/blackmail).
-*   نگاهی به پشت فناوری، [Cyberstalking] (https://www.takebackthetech.net/know-more/cyberstalking)
-*   PEN America، [راهنمای آنلاین مزاحمت آنلاین] (https://onlineharassmentfieldmanual.pen.org/)
+*   نگاهی به پشت فناوری، [ضربالمثل](https://www.takebackthetech.net/know-more/blackmail).
+*   نگاهی به پشت فناوری، [Cyberstalking](https://www.takebackthetech.net/know-more/cyberstalking)
+*   PEN America، [راهنمای آنلاین مزاحمت آنلاین](https://onlineharassmentfieldmanual.pen.org/)
 
 ### خواندن بیشتر
 
-* Wirecutter، [چگونه خانه هوشمند خود را از سو استفاده کنندگان در امان نگه دارید] (https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/)، 23 اکتبر 2018.
-* Rory Peck Trust، [رسانه های اجتماعی: Trolling و Doxxing] (https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing؟cu=en-GB).
+* Wirecutter، [چگونه خانه هوشمند خود را از سو استفاده کنندگان در امان نگه دارید](https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/)، 23 اکتبر 2018.
+* Rory Peck Trust، [رسانه های اجتماعی: Trolling و Doxxing](https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing؟cu=en-GB).

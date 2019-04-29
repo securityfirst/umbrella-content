@@ -11,13 +11,13 @@ Mensajes Seguros
 **Nivel**: Principiante - Intermedio
 **Tiempo requerido**: 15 - 20 minutos.
 **Publicado:** Abril de 2018 (algunas imágenes datan de versiones anteriores)
-**Fuentes:** EFF, autodefensa de vigilancia [Cómo: Usar Signal en iOS] (https://ssd.eff.org/en/module/how-use-signal-ios); Security in a Box [SIGNAL PARA ANDROID] (https://securityinabox.org/en/guide/signal/android/).
+**Fuentes:** EFF, autodefensa de vigilancia [Cómo: Usar Signal en iOS](https://ssd.eff.org/en/module/how-use-signal-ios); Security in a Box [SIGNAL PARA ANDROID](https://securityinabox.org/en/guide/signal/android/).
 
 **Usar Signal le dará:**
 
 - La capacidad de enviar mensajes cifrados de extremo a extremo de grupo, texto, imagen y video, y tener conversaciones telefónicas cifradas con otros usuarios de Signal.
 
-**Ubicación de descarga**: La [Apple App Store] (https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+**Ubicación de descarga**: La [Apple App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 
 **Requisitos del sistema**: iOS 8.0 o posterior. Compatible con iPhone, iPad y iPod touch.
 (es necesario tener una cuenta de Apple que se vinculará a la instalación de la aplicación).
@@ -53,7 +53,7 @@ Instalando Signal - Private Messenger en su iPhone
 
 ### Paso 1: Descargar e instalar Signal - Private Messenger
 
-En su dispositivo iOS, ingrese a la App Store y busque "Signal". Seleccione [Signal - Private Messenger] (https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) Por Open Whisper Systems.
+En su dispositivo iOS, ingrese a la App Store y busque "Signal". Seleccione [Signal - Private Messenger](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) Por Open Whisper Systems.
 
 Toque "OBTENER" para descargar la aplicación, luego "INSTALAR". Es posible que se le solicite ingresar sus credenciales de ID de Apple. Una vez que se haya descargado, haga clic en "ABRIR" para iniciar la aplicación.
 

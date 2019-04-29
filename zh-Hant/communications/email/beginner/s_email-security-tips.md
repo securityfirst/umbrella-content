@@ -4,11 +4,11 @@ title: 改善電子郵件安全的竅門
 ---
 # 少用電子郵件。
 
-請注意你所寫的信息内容，並瞭解如果它落入第三者之手的後果。如有疑問，請勿通過電子郵件發送。 通過[Sending message] (umbrella://communications/sending-a-message) 更為安全。
+請注意你所寫的信息内容，並瞭解如果它落入第三者之手的後果。如有疑問，請勿通過電子郵件發送。 通過[Sending message](umbrella://communications/sending-a-message) 更為安全。
 
 ## 保護您的帳戶
 
-使用[高强度密碼] (umbrella://information/passwords/beginner) 與 [2FA.] (umbrella://information/passwords/advanced)
+使用[高强度密碼](umbrella://information/passwords/beginner) 與 [2FA.](umbrella://information/passwords/advanced)
 
 ## 使用最新版本的防病毒軟件。
 
@@ -16,7 +16,7 @@ title: 改善電子郵件安全的竅門
 
 ## 請勿點擊可疑鏈接或附件。
 
-學會識別[網絡釣魚] (umbrella://communications/phishing)。
+學會識別[網絡釣魚](umbrella://communications/phishing)。
 
 ## 使用pseudeonym。
 
@@ -28,7 +28,7 @@ title: 改善電子郵件安全的竅門
 
 ## 使用一次性電子郵件。
 
-像[Mailinator] (https://www.mailinator.com/) 和 [Guerillamail] (https://www.guerrillamail.com/)一樣的一次性電子郵件地址提供商，使用者不需要註冊。使用提供商的擴展程序創建您自己的電子郵件地址，並用它來满足像WiFi注册等的短期需求 （收件箱是公用的，因此請勿在此交换敏感信息。）
+像[Mailinator](https://www.mailinator.com/) 和 [Guerillamail](https://www.guerrillamail.com/)一樣的一次性電子郵件地址提供商，使用者不需要註冊。使用提供商的擴展程序創建您自己的電子郵件地址，並用它來满足像WiFi注册等的短期需求 （收件箱是公用的，因此請勿在此交换敏感信息。）
 
 ## 使用代碼系統。
 

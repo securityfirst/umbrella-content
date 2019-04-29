@@ -22,7 +22,7 @@ title: Procedimientos de radio
 
 *   Sea breve pero preciso con pausas claras entre las declaraciones.
 
-*   Use palabras comunes de procedimiento (prowords). Vea una lista [aquí] (http://arkisto.teres.fi/toiminta/koulutus/procedure_for_radio_communication.pdf).
+*   Use palabras comunes de procedimiento (prowords). Vea una lista [aquí](http://arkisto.teres.fi/toiminta/koulutus/procedure_for_radio_communication.pdf).
 
 *   Utilice distintivos de llamada en lugar de nombres personales.
 

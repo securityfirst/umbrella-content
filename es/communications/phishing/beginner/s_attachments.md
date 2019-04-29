@@ -6,7 +6,7 @@ title: Archivos adjuntos
 
 * No abra el archivo a menos que pueda verificar de dónde viene.
 * Póngase en contacto con el remitente a través de otro canal para preguntar si es real.
-* Cárguelo en [VirusTotal] (https://www.virustotal.com/), un servicio propiedad de Google que buscará malware conocido. (No atrapará todos los ataques.)
+* Cárguelo en [VirusTotal](https://www.virustotal.com/), un servicio propiedad de Google que buscará malware conocido. (No atrapará todos los ataques.)
 * Si aún sospechas lee si ha sido engañado.
 
 ## Si recibe algún archivo adjunto inesperado, incluso si no es sospechoso:

@@ -17,5 +17,5 @@ title: الان چی؟
 
 ### منابع
 
-* مدافعان خط مقدم، [کتاب در مورد امنیت: اقدامات عملی برای مدافعان حقوق بشر در معرض خطر] (https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) ، 23 ژوئن 2016.
-*  محافظت بین المللی، [راهنمای حفاظت جدید برای مدافعان حقوق بشر] (https://www.protectioninternational.org/en/node/1106).
+* مدافعان خط مقدم، [کتاب در مورد امنیت: اقدامات عملی برای مدافعان حقوق بشر در معرض خطر](https://www.frontlinedefenders.org/en/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk) ، 23 ژوئن 2016.
+*  محافظت بین المللی، [راهنمای حفاظت جدید برای مدافعان حقوق بشر](https://www.protectioninternational.org/en/node/1106).

@@ -12,7 +12,7 @@ title: تشفير القرص الكامل
 
 * تصف أجهزة Apple مثل iPhone و iPad التشفير بـ "حماية البيانات" وتقوم بتشغيله إذا قمت بتعيين رمز مرور.
 
-(تعلم أن [تشفير الـ iPhone الخاص بك] (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
+(تعلم أن [تشفير الـ iPhone الخاص بك](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## أجهزة الكمبيوتر:
 

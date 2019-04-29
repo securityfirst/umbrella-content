@@ -21,9 +21,9 @@ Obtenga información sobre cómo presenciar protestas en [protestas principiante
 
 ### FUENTES
 
-*   EFF - Asistir a las protestas [Estados Unidos] (https://ssd.eff.org/en/module/attending-protests-united-states) e [Internacional] (https://ssd.eff.org/en/module/ asistentes-protestas-internacional)
-*   EFF - [Consejos de seguridad digital para manifestantes] (https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+*   EFF - Asistir a las protestas [Estados Unidos](https://ssd.eff.org/en/module/attending-protests-united-states) e [Internacional](https://ssd.eff.org/en/module/ asistentes-protestas-internacional)
+*   EFF - [Consejos de seguridad digital para manifestantes](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
 ### OTRAS LECTURAS
 
-*   Oficina de la OSCE para Instituciones Democráticas y Derechos Humanos, [Directrices sobre la libertad de reunión pacífica] (https://www.osce.org/odihr/73405?download=true), Segunda edición, 2010.
+*   Oficina de la OSCE para Instituciones Democráticas y Derechos Humanos, [Directrices sobre la libertad de reunión pacífica](https://www.osce.org/odihr/73405?download=true), Segunda edición, 2010.

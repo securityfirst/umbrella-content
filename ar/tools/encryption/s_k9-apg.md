@@ -5,7 +5,7 @@ title: K9 و سلسلة المفاتيح المفتوحة
 #  دليل أداة K-9 و OPEN KEYCHAIN
 
 
-** درس للقراءة: [البريد الإلكتروني المتقدم] (umbrella://communications/email/advanced).**
+** درس للقراءة: [البريد الإلكتروني المتقدم](umbrella://communications/email/advanced).**
 ** المستوى **: متقدم
 ** نشرت: ** مايو 2018
 ** المصادر: **  Security in a Box ب ، [K9 مع  APG للأندرويد] في  (https://securityinabox.org/en/guide/k9/android/) و Open Keychain ب [FAQ] في (https://www.openkeychain.org/faq/). 
@@ -17,7 +17,7 @@ title: K9 و سلسلة المفاتيح المفتوحة
 ** باستخدام K-9 Mail مع Open Keychain سيمنحك: **
 - القدرة على استخدام البريد الإلكتروني المشفر على جهاز Android الخاص بك.
 
-** موقع التنزيل: ** [K-9 Mail] (https://play.google.com/store/apps/details?id=com.fsck.k9) و [Open Keychain] من (https://play.google.com/store/apps/details?) في متجر Google Play.
+** موقع التنزيل: ** [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) و [Open Keychain] من (https://play.google.com/store/apps/details?) في متجر Google Play.
 ** متطلبات البرنامج: ** أندرويد 4.0.3 فما فوق.
 ** الإصدار المستخدم في هذا الدليل **: 5.403 (K-9 Mail) ؛ 5.0.2 (سلسلة المفاتيح المفتوحة)
 ** رخصة **: البرمجيات المجانية والمفتوحة المصدر.
@@ -33,10 +33,10 @@ title: K9 و سلسلة المفاتيح المفتوحة
 
 قبل البدء في استخدام ** K-9 Mail ** ، ستحتاج إلى:
 - اتصال بالإنترنت على هاتفك.
-- حساب بريد إلكتروني يدعم اتصالات POP3 أو IMAP الآمنة. (راجع الإعدادات التي ستستخدمها مع موفري البريد الإلكتروني الأكثر شيوعًا [هنا] (https://k9mail.github.io/documentation/accounts/providerSettings.html). 
+- حساب بريد إلكتروني يدعم اتصالات POP3 أو IMAP الآمنة. (راجع الإعدادات التي ستستخدمها مع موفري البريد الإلكتروني الأكثر شيوعًا [هنا](https://k9mail.github.io/documentation/accounts/providerSettings.html). 
 - مفتاح OpenPGP المزدوج ومفاتيح عامة للأشخاص الذين ستتواصل معهم.
 
-(تعرف على المزيد حول تشفير المفتاح العام / الخاص في درس [البريد الإلكتروني] (umbrella://communications/email). تعرف على كيفية إنشاء مفتاحك الخاص في أدلة الأدوات لـ [Mailvelope]من (umbrella://tools/messaging/s_mailvelope.md)، أو PGP لـ [LINUX] من (umbrella://tools/pgp/s_pgp-for-linux.md) أو[Mac OSX] من (umbrella://tools/pgp/s_pgp-for-mac-os-x.md) ، أو [Windows] من (umbrella://tools/pgp/s_pgp-for-windows.md).)
+(تعرف على المزيد حول تشفير المفتاح العام / الخاص في درس [البريد الإلكتروني](umbrella://communications/email). تعرف على كيفية إنشاء مفتاحك الخاص في أدلة الأدوات لـ [Mailvelope]من (umbrella://tools/messaging/s_mailvelope.md)، أو PGP لـ [LINUX] من (umbrella://tools/pgp/s_pgp-for-linux.md) أو[Mac OSX] من (umbrella://tools/pgp/s_pgp-for-mac-os-x.md) ، أو [Windows] من (umbrella://tools/pgp/s_pgp-for-windows.md).)
 
 # 2. تثبيت وتكوين بريد K9
 
@@ -63,8 +63,8 @@ title: K9 و سلسلة المفاتيح المفتوحة
 ** ملاحظة **: قد يحتاج المستخدمون الذين تم تمكين مصادقة عاملين في حساب بريدهم الإلكتروني إلى اتخاذ خطوة إضافية لاستخدام بريد K-9.
 
 فمثلا:
-* يجب على مستخدمي Gmail السماح للتطبيقات الأقل أمانًا بالوصول إلى حساباتهم ضمن الإعدادات ، وإنشاء كلمة مرور لمرة واحدة. اقرأ المزيد [هنا] (https://support.google.com/accounts/answer/6010255?hl=en). 
-* يمكن لمستخدمي Yahoo السماح للتطبيقات التي تستخدم تسجيل دخول أقل أمانًا ضمن إعدادات الحساب. اقرأ المزيد [هنا] (https://help.yahoo.com/kb/SLN27791.html?guccounter=1). 
+* يجب على مستخدمي Gmail السماح للتطبيقات الأقل أمانًا بالوصول إلى حساباتهم ضمن الإعدادات ، وإنشاء كلمة مرور لمرة واحدة. اقرأ المزيد [هنا](https://support.google.com/accounts/answer/6010255?hl=en). 
+* يمكن لمستخدمي Yahoo السماح للتطبيقات التي تستخدم تسجيل دخول أقل أمانًا ضمن إعدادات الحساب. اقرأ المزيد [هنا](https://help.yahoo.com/kb/SLN27791.html?guccounter=1). 
 
 (يصنف الموفرون K-9 Mail على أنه "أقل أمانًا" لأنه لا يستخدم بروتوكول المصادقة نفسه ، ولكن لا تزال أدوات المصادر المفتوحة الموثوقة مثل K-9 Mail آمنة للبريد الإلكتروني المشفر.)
 

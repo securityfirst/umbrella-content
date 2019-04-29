@@ -8,9 +8,9 @@ Signal es una herramienta gratuita, simple y de código abierto que protege los 
 
 Descargar Signal para:
 
-*   [Android] (https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms);
-*   [iPhone] (https://itunes.apple.com/ie/app/signal-private-messenger/id874139669);
-*   [Escritorio] (https://signal.org/download/).
+*   [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms);
+*   [iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669);
+*   [Escritorio](https://signal.org/download/).
 
 La persona con la que se está comunicando también debe instalar Signal.
 
@@ -24,7 +24,7 @@ La persona con la que se está comunicando también debe instalar Signal.
 
 ## Signall utiliza un servidor central.
 
-*   Los desarrolladores de Signal [Open Whisper Systems] (https://signal.org/about/) operan un servidor central. No puede ejecutar el suyo propio, lo que le daría más control sobre su seguridad.
+*   Los desarrolladores de Signal [Open Whisper Systems](https://signal.org/about/) operan un servidor central. No puede ejecutar el suyo propio, lo que le daría más control sobre su seguridad.
 *   Sin embargo, no pueden escuchar sus conversaciones, por lo que nadie más puede hacerlo.
 
 (Obtenga más información sobre esto en Signal para [Android](umbrella://tools/messaging/s_signal-for-android.md) y [iOS](umbrella://tools/messaging/s_signal-for-ios.md).)

@@ -21,6 +21,6 @@ Incluso si su contraseña es hackeada o robada, el ladrón no podrá iniciar ses
 
 ## Las aplicaciones 2FA son más seguras que los SMS
 
-Los mensajes de texto SMS pueden ser interceptados, y la mayoría de los dispositivos U2F cuestan dinero. La mejor solución para la mayoría de las personas es utilizar una aplicación como [Google Authenticator] (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).
+Los mensajes de texto SMS pueden ser interceptados, y la mayoría de los dispositivos U2F cuestan dinero. La mejor solución para la mayoría de las personas es utilizar una aplicación como [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).
 
-El proyecto [Two Factor Auth] (https://twofactorauth.org/) realiza un seguimiento de los servicios y el software que le permiten agregar 2FA.
+El proyecto [Two Factor Auth](https://twofactorauth.org/) realiza un seguimiento de los servicios y el software que le permiten agregar 2FA.

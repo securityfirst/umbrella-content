@@ -18,7 +18,7 @@ Aprenda a rootear y cifrar su teléfono en [Teléfono Móvil Experto](umbrella:/
 
 ### OTRAS LECTURAS
 
-*   Primero la Seguridad, [Comunicaciones Seguras] (https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
-*   Security in a Box, [Use los teléfonos móviles de la forma más segura posible] (https://securityinabox.org/en/guide/mobile-phones)
-*   Security in a Box, [Use los teléfonos inteligentes de la manera más segura posible] (https://securityinabox.org/en/guide/smartphones)
-*   EFF, Security Self-Defense, [El problema con los teléfonos móviles.] (Https://ssd.eff.org/en/module/problem-mobile-phones)
+*   Primero la Seguridad, [Comunicaciones Seguras](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
+*   Security in a Box, [Use los teléfonos móviles de la forma más segura posible](https://securityinabox.org/en/guide/mobile-phones)
+*   Security in a Box, [Use los teléfonos inteligentes de la manera más segura posible](https://securityinabox.org/en/guide/smartphones)
+*   EFF, Security Self-Defense, [El problema con los teléfonos móviles.](Https://ssd.eff.org/en/module/problem-mobile-phones)

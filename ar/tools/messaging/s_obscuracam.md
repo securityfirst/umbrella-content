@@ -9,7 +9,7 @@ title: ObscuraCam
 ** درس القراءة: **
 - [الهواتف المحمولة](umbrella://communications/mobile-phones) 
 - [التواصل الاجتماعي](umbrella://communications/social-media)  
-** تنزيل الموقع: ** [ObscuraCam الصفحة الرئيسية] (https://guardianproject.info/apps/obscuracam/)
+** تنزيل الموقع: ** [ObscuraCam الصفحة الرئيسية](https://guardianproject.info/apps/obscuracam/)
 ** متطلبات الهاتف: ** أندرويد 2.3.3 وما فوق
 ** الإصدار المستخدم في هذا الدليل: ** 2.0-RC2b
 ** الترخيص: ** البرامج المجانية والمفتوحة المصدر (GPL v3)
@@ -29,7 +29,7 @@ title: ObscuraCam
 
 ### 2.0 كيفية تثبيت ObscuraCam
 
-** الخطوة 1. ** على جهازك الأندرويد، نزّل التطبيق وثبته من [متجر Google Play هنا] (https://play.google.com/store/apps/details?id=org.witness.sscphase1) عن طريق النقر على "تثبيت".
+** الخطوة 1. ** على جهازك الأندرويد، نزّل التطبيق وثبته من [متجر Google Play هنا](https://play.google.com/store/apps/details?id=org.witness.sscphase1) عن طريق النقر على "تثبيت".
 ![صورة](tool_obscura1.png)
 
 ** الخطوة 2: ** قبل بدء عملية التثبيت ، ستتم مطالبتك بمراجعة الدخول الذي سيحصل عليه التطبيق على هاتفك. راجع هذا بعناية. بمجرد أن تصبح سعيدًا بالأذونات التي سيتم منحها ، اضغط على "قبول" وستكتمل عملية التثبيت. إذا كنت لا توافق على الأذونات التي سيتم منحها ، فاضغط على زر الرجوع وسوف يتم إلغاء التثبيت.

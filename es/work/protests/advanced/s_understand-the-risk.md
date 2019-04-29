@@ -12,7 +12,7 @@ Sus derechos legales varían dependiendo de dónde se encuentre.
 
 Incluso si el rechazo es su derecho legal, la policía puede demorarlo, incautarlo o acusarlo de obstrucción, lo que puede ser un delito más grave que protestar.
 
-(Obtenga más información sobre esto en [experto en contraseñas] (umbrella://information/passwords/expert).)
+(Obtenga más información sobre esto en [experto en contraseñas](umbrella://information/passwords/expert).)
 
 ## Mascarillas
 
@@ -30,4 +30,4 @@ La documentación de las protestas puede desalentar la conducta indebida de la p
 
 Incluso si la grabación es su derecho legal, la policía u otros actores pueden identificarlo por usar una cámara.
 
-(Obtenga más información sobre esto en [protestas principiante] (umbrella://work/protests/beginner).)
+(Obtenga más información sobre esto en [protestas principiante](umbrella://work/protests/beginner).)

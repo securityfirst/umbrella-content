@@ -20,7 +20,7 @@ title: الموقع
 
 *   القصة المختلقة للحدود أو نقاط التفتيش.
 
-(تعرف على المزيد حول هذا الموضوع في [الحدود] (umbrella://travel/borders) و [نقاط التفتيش] (umbrella://travel/checkpoints).)
+(تعرف على المزيد حول هذا الموضوع في [الحدود](umbrella://travel/borders) و [نقاط التفتيش](umbrella://travel/checkpoints).)
 
 # اختيار مكان الاجتماع
 

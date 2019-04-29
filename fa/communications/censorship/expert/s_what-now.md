@@ -16,5 +16,5 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-*   Access Now [مبارزه با سانسور در فصل انتخابات 2018] (https://www.accessnow.org/fighting-censorship-in-2018-elections/).
-*   OONI، [تحقیق در مورد حذف اینترنت از لبه شبکه: روش جدید آینده OONI] (https://ooni.torproject.org/post/investigating-internet-blackouts/).
+*   Access Now [مبارزه با سانسور در فصل انتخابات 2018](https://www.accessnow.org/fighting-censorship-in-2018-elections/).
+*   OONI، [تحقیق در مورد حذف اینترنت از لبه شبکه: روش جدید آینده OONI](https://ooni.torproject.org/post/investigating-internet-blackouts/).

@@ -12,7 +12,7 @@ Hay muchas herramientas para evitar el bloqueo y el filtrado. Algunas son más s
 
 La herramienta más adecuada para usted depende de su modelo de amenaza.
 
-(Obtenga más información sobre esto en [gestión de la información] (umbrella://information/managing-information).)
+(Obtenga más información sobre esto en [gestión de la información](umbrella://information/managing-information).)
 
 # Cuando la elusión no funciona
 

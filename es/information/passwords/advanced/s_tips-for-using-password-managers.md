@@ -4,7 +4,7 @@ title: Consejos para usar gestores de contraseñas
 ---
 ## Respaldar
 
-Si pierde o borra accidentalmente su única copia de una base de datos de contraseñas, perderá el acceso a sus cuentas. Esto hace que sea extremadamente importante que realice una copia de seguridad de su base de datos KeePassXC. (Obtenga más información sobre [copia de seguridad] (umbrella://information/backing-up).)
+Si pierde o borra accidentalmente su única copia de una base de datos de contraseñas, perderá el acceso a sus cuentas. Esto hace que sea extremadamente importante que realice una copia de seguridad de su base de datos KeePassXC. (Obtenga más información sobre [copia de seguridad](umbrella://information/backing-up).)
 
 ## Cree una contraseña maestra segura y memorable.
 
@@ -14,7 +14,7 @@ Si olvida su contraseña maestra de KeePassXC, no hay forma de recuperarla ni el
 
 * **En su ordenador.**
 
-Su administrador de contraseñas es tan sólido como la seguridad del dispositivo en el que lo usa. Si su dispositivo está comprometido, un atacante podría verlo escribir su contraseña maestra y acceder a todas sus cuentas. Mantenga su dispositivo libre de malware cuando use un administrador de contraseñas. (Aprenda cómo en la [Lección de malware] (umbrella://information/malware).)
+Su administrador de contraseñas es tan sólido como la seguridad del dispositivo en el que lo usa. Si su dispositivo está comprometido, un atacante podría verlo escribir su contraseña maestra y acceder a todas sus cuentas. Mantenga su dispositivo libre de malware cuando use un administrador de contraseñas. (Aprenda cómo en la [Lección de malware](umbrella://information/malware).)
 
 *  **En la nube.**
 

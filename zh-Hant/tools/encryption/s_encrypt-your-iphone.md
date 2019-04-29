@@ -4,7 +4,7 @@ title: 加密你的iPhone
 ---
 加密你的iPhone===========================
 
-**課程内容: [手機] (umbrella://communications/mobile-phones), [抗議] (umbrella://work/protests), [密碼](umbrella://information/passwords)** **級別**: 初學者 **所需時間** 5 分鐘 **發佈于:** 2018年 4月 **來源:** EFF, 監管防護 [如何: 加密您的iPhone] (https://ssd.eff.org/en/module/how-encrypt-your-iphone)
+**課程内容: [手機](umbrella://communications/mobile-phones), [抗議](umbrella://work/protests), [密碼](umbrella://information/passwords)** **級別**: 初學者 **所需時間** 5 分鐘 **發佈于:** 2018年 4月 **來源:** EFF, 監管防護 [如何: 加密您的iPhone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
 
 如果你有iPhone 3GS或更高版本，iPod touch第3代或更高版本，或任何iPad，你可以[保護你設備的內容]（https://www.apple.com/privacy/privacy-built-in/ ）使用加密。 這意味著，如果有人物理訪問您的設備，他們還需要您的密碼來解密存儲在其上的內容，包括聯繫人，即時消息或文本，通話記錄和電子郵件。
 Rúguǒ 

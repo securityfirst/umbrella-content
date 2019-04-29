@@ -10,7 +10,7 @@ title: حبس
 
 * إذا كنت تواجه اعتداءًا أو عنفًا جنسيًا ، فينبغي أن يكون هدفك هو البقاء على قيد الحياة وتقليل الأذى الجسدي والنفسي. *
 
-(تعرف على [التمييز والتعذيب] (umbrella://incident-response/arrests/beginner/s_discrimination-and-torture.md).)
+(تعرف على [التمييز والتعذيب](umbrella://incident-response/arrests/beginner/s_discrimination-and-torture.md).)
 
 ## كن محترما
 

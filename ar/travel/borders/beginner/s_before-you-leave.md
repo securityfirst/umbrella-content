@@ -47,7 +47,7 @@ title: قبل أن تغادر
 * النسخ الاحتياطي للمعلومات بشكل آمن وعن بعد قبل السفر.
 * احمل معلومات حساسة بأمان. (إذا لزم الأمر ، احتفظ ببطاقة USB صغيرة أو بطاقة microSD في مكان يصعب العثور عليه).
 
-(تعرف على [النسخ الاحتياطي](umbrella://information/backing-up)، [حذف بأمان](umbrella://information/safely-deleting)، و [حماية الملفات] (umbrella://information/protecting-files).)
+(تعرف على [النسخ الاحتياطي](umbrella://information/backing-up)، [حذف بأمان](umbrella://information/safely-deleting)، و [حماية الملفات](umbrella://information/protecting-files).)
 
 ### قم بحمل المعلومات والمعدات الحساسة في حقائب اليد.
 إذا كانت العناصر الحساسة معك ، فستعرف ما إذا كان قد تم العبث بها.

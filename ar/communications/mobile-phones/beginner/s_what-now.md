@@ -21,5 +21,5 @@ title: ماذا الان؟
 
 *   Security First، [الاتصالات الآمنة](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1)، تدريب مجاني على الإنترنت في جمعية المناصرة.
 *   Security in a Box، [استخدم الهواتف المحمولة بأمان قدر الإمكان](https://securityinabox.org/en/guide/mobile-phones)
-*   Security in a Box، [استخدم الهواتف الذكية بأمان قدر الإمكان] (https://securityinabox.org/en/guide/smartphones)
-*   EFF، الدفاع عن النفس الأمن ، [المشكلة مع الهواتف المحمولة.] (https://ssd.eff.org/en/module/problem-mobile-phones)
+*   Security in a Box، [استخدم الهواتف الذكية بأمان قدر الإمكان](https://securityinabox.org/en/guide/smartphones)
+*   EFF، الدفاع عن النفس الأمن ، [المشكلة مع الهواتف المحمولة.](https://ssd.eff.org/en/module/problem-mobile-phones)

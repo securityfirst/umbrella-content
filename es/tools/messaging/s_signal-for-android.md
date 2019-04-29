@@ -10,7 +10,7 @@ Mensajes Seguros
 **Nivel**: Principiante-Intermedio
 **Tiempo requerido**: 15-20 minutos.
 **Publicado:** Abril de 2018 (algunas imágenes datan de versiones anteriores)
-**Fuentes:** EFF, EFF, Surveillance Self-Defense [Cómo: Usar Signal para Android] (https://ssd.eff.org/en/module/how-use-signal-android); Security in a Box [SIGNAL FOR ANDROID](https://securityinabox.org/en/guide/signal/android/).
+**Fuentes:** EFF, EFF, Surveillance Self-Defense [Cómo: Usar Signal para Android](https://ssd.eff.org/en/module/how-use-signal-android); Security in a Box [SIGNAL FOR ANDROID](https://securityinabox.org/en/guide/signal/android/).
 
 **Usar Signal le dará:**
 

@@ -43,7 +43,7 @@ La desinformación puede implicar fugas, reales o falsas, de datos que lo arroja
 
 *Si alguien está orquestando una campaña en su contra, buscará puntos débiles de seguridad que puedan explotar.*
 
-(Obtenga información sobre [Phishing] (umbrella://communications/phishing/beginner), [Passwords](umbrella://information/passwords), and [Protect your Workspace] (umbrella://information/protect-your-workspace).)
+(Obtenga información sobre [Phishing](umbrella://communications/phishing/beginner), [Passwords](umbrella://information/passwords), and [Protect your Workspace](umbrella://information/protect-your-workspace).)
 
 ## Planifique comunicaciones de crisis.
 
@@ -69,4 +69,4 @@ Si encuentra desinformación, ¿respondería? ¿y qué debería decir?
 
 *Comparta las responsabilidades de monitoreo y cuídese.*
 
-(Aprenda sobre [Stress] (umbrella://stress/stress/beginner).)
+(Aprenda sobre [Stress](umbrella://stress/stress/beginner).)

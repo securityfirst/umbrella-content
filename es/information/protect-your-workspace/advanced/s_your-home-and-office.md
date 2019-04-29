@@ -36,6 +36,6 @@ Un intruso con acceso a su equipo puede instalar malware capaz de robar datos en
 
 ## Use herramientas seguras
 
-- [Haven] (https://play.google.com/store/apps/details?id=org.havenapp.main&hl=en) es una aplicación de Android de código abierto y gratuita desarrollada por la Fundación Libertad de Prensa y Guardian Project. Si tiene un teléfono inteligente adicional para dejar en su área de trabajo, Haven usa los sensores incorporados del dispositivo para monitorear los cambios en la luz y el sonido que pueden indicar un intruso no deseado, y le envía una alerta segura.
+- [Haven](https://play.google.com/store/apps/details?id=org.havenapp.main&hl=en) es una aplicación de Android de código abierto y gratuita desarrollada por la Fundación Libertad de Prensa y Guardian Project. Si tiene un teléfono inteligente adicional para dejar en su área de trabajo, Haven usa los sensores incorporados del dispositivo para monitorear los cambios en la luz y el sonido que pueden indicar un intruso no deseado, y le envía una alerta segura.
 
 *Haven está en BETA, o en modo de prueba.*

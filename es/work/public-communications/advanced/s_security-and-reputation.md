@@ -35,6 +35,6 @@ Los resultados negativos de los ataques de reputación podrían incluir:
 * Incidentes de seguridad física (hostigamiento, ataque, arresto);
 * Respuesta a la crisis inhibida.
 
-[Principiante de Comunicaciones Públicas] (umbrella://work/public-communications/beginner) describe cómo convertir diferentes partes interesadas en aliados que pueden ayudarlo a desarrollar y proteger su reputación.
+[Principiante de Comunicaciones Públicas](umbrella://work/public-communications/beginner) describe cómo convertir diferentes partes interesadas en aliados que pueden ayudarlo a desarrollar y proteger su reputación.
 
 Esta lección describe cómo identificar y responder a los ataques a su reputación.

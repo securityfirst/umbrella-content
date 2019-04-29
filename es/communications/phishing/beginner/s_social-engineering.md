@@ -11,4 +11,4 @@ Aquí hay algunos consejos clave para ayudar a limitar su exposición en platafo
 *   Nunca se convierta en amigo de alguien que realmente no conoce, incluso si parece tener amigos en común.
 *   Tenga cuidado con los grupos a los que se une. No comparta nada en un grupo privado que no compartiría públicamente. No haga clic en los enlaces o archivos adjuntos publicados en el grupo por miembros que no conoce.
 *   Sospeche de los mensajes que solicitan cualquier tipo de información confidencial o personal.
-*   No comparta la información personal que usa para responder preguntas de seguridad, como su fecha de nacimiento o dónde asistió a la escuela. (Aprenda a responder mejor las preguntas de seguridad en [Contraseñas] (umbrella://information/passwords).)
+*   No comparta la información personal que usa para responder preguntas de seguridad, como su fecha de nacimiento o dónde asistió a la escuela. (Aprenda a responder mejor las preguntas de seguridad en [Contraseñas](umbrella://information/passwords).)

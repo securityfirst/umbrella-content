@@ -66,7 +66,7 @@ Para configurar su dirección de correo electrónico existente, haga clic en "Om
 
 Si utiliza un servicio de correo electrónico gratuito popular como Gmail, Thunderbird debería poder detectar automáticamente su configuración de correo electrónico cuando haga clic en "Continuar".
 
-**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña de Gmail estándar con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [la propia guía de Google] (https://support.google.com/mail/answer/1173270?hl=es) para hacer esto.**
+**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña de Gmail estándar con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [la propia guía de Google](https://support.google.com/mail/answer/1173270?hl=es) para hacer esto.**
 ![image](tool_pgplin3.png)
 
 Si no es así, es posible que deba configurar manualmente sus configuraciones IMAP y SMTP. Si no sabe cómo hacerlo, hable con su proveedor de correo electrónico o pregúntele a un técnico que esté familiarizado con su proveedor de correo electrónico (por lo tanto, una persona de TI en el trabajo o un amigo técnico que use el mismo ISP que usted; no necesita saber cómo usar PGP, pero puede preguntarles "¿Conoce la configuración de IMAP y SMTP para mi dirección de correo electrónico?").
@@ -91,7 +91,7 @@ Haga clic en el botón "Siguiente".
 
 Ahora tiene una opción para firmar digitalmente todos los correos electrónicos salientes. Firmar su correo electrónico con PGP le permite al destinatario verificar que usted envió el mensaje y que su contenido no fue alterado. Haga clic en el botón "Firmar mis mensajes de manera predeterminada" para activar esta función.
 
-La desventaja de hacer esto, sin embargo, es que también puede marcar a cualquier persona a la que le envíe correo que use PGP. [En algunas partes del mundo] (www.cryptolaw.org/) (incluyendo China, Irán, Bielorrusia y algunos estados del Medio Oriente) el uso de cifrado sin licencia, incluso para uso personal, es ilegal, por lo que es posible que tenga muy buenas razones para no dejar que otros sepan que usa PGP.
+La desventaja de hacer esto, sin embargo, es que también puede marcar a cualquier persona a la que le envíe correo que use PGP. [En algunas partes del mundo](www.cryptolaw.org/) (incluyendo China, Irán, Bielorrusia y algunos estados del Medio Oriente) el uso de cifrado sin licencia, incluso para uso personal, es ilegal, por lo que es posible que tenga muy buenas razones para no dejar que otros sepan que usa PGP.
 
 Haga clic en el botón "Siguiente".
 

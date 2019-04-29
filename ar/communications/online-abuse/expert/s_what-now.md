@@ -4,7 +4,7 @@ title: ماذا الان؟
 ---
 مرر سريعًا لليمين للحصول على قائمة مراجعة هذا الدرس.
 
-تعرف على كلام الكراهية في [Online Abuse المتقدمة] (umbrella://communications/online-abuse/advanced).
+تعرف على كلام الكراهية في [Online Abuse المتقدمة](umbrella://communications/online-abuse/advanced).
 
 ### الدروس ذات الصلة / الأدوات
 
@@ -23,5 +23,5 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-* Wirecutter ، [كيف تحافظ على تقنية المنزل الذكي الخاصة بك آمنة من المعتدين المحليين] (https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/) ، 23 أكتوبر 2018.
+* Wirecutter ، [كيف تحافظ على تقنية المنزل الذكي الخاصة بك آمنة من المعتدين المحليين](https://thewirecutter.com/blog/keep-your-smart-home-secure-from-domestic-abusers/) ، 23 أكتوبر 2018.
 * Rory Peck Trust, [Social Media: Trolling and Doxxing](https://rorypecktrust.org/resources/Digital-Security-Guide/Social-Media-Trolling-and-Doxxing?cu=en-GB).

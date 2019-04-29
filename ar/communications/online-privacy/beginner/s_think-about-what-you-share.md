@@ -6,7 +6,7 @@ title: فكر فيما تشاركه
 
 هل أنت مرتاح لمقدار المعلومات الخاصة بك التي تكون عامة بالفعل؟
 
-اكتشف ذلك من خلال [التحقيق بنفسك.] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
+اكتشف ذلك من خلال [التحقيق بنفسك.](https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
 # قبل نشر المزيد من المعلومات ، اسأل دائمًا:
 

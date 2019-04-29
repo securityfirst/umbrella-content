@@ -10,7 +10,7 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 
 *   [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms); 
 *   [iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669); 
-*   [桌面] (https://signal.org/download/). 
+*   [桌面](https://signal.org/download/). 
 
 與您正在通信的人也必須安裝Signal。
 
@@ -42,4 +42,4 @@ JitsiMeet是一個免費的開源VoIP工具，允許進行群組會議。您無�
 *   會議名稱應該不包含空格，並難以猜測。
 *   分享鏈接。就那麼簡單。
 
-JitsiMeet也適用於[Android](https://play.google.com/store/apps/details?id=org.jitsi.meet)和[iOS] (https://itunes.apple.com/us/app/jitsi-meet/id1165103905)。
+JitsiMeet也適用於[Android](https://play.google.com/store/apps/details?id=org.jitsi.meet)和[iOS](https://itunes.apple.com/us/app/jitsi-meet/id1165103905)。

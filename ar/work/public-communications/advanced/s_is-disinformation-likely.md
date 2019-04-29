@@ -43,7 +43,7 @@ title: هل المعلومات التضليلية مرجحة؟
 
 * إذا قام شخص ما بتنظيم حملة ضدك ، فسوف يبحثون عن نقاط ضعف أمنية يمكنهم استغلالها. *
 
-(تعرف على [Phishing] من (umbrella://communications/phishing/beginner)، [كلمات المرور] (umbrella://information/passwords)، و [حماية مساحة العمل الخاصة بك] (umbrella://information/protect-your-workspace).) 
+(تعرف على [Phishing] من (umbrella://communications/phishing/beginner)، [كلمات المرور](umbrella://information/passwords)، و [حماية مساحة العمل الخاصة بك](umbrella://information/protect-your-workspace).) 
 
 ## خطة أزمة الاتصالات
 

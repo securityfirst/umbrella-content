@@ -12,4 +12,4 @@ Aprenda a usar [Pidgin](umbrella://tools/messaging/s_pidgin.md).
 
 ## Adium
 
-Una buena alternativa a Pidgin para Mac OS es [Adium] (http://adium.im/).
+Una buena alternativa a Pidgin para Mac OS es [Adium](http://adium.im/).

@@ -20,7 +20,7 @@ title: 臉書
 * 如果要加密從Facebook收到的通知電子郵件，請閱讀安全性的第1部分。
 
 * 通過支持Tor的瀏覽器訪問Facebook，網址為[https://facebookcorewwwi.onion/]
-(https://facebookcorewwwi.onion/)。 （了解如何使用適用於[Linux] (umbrella://tools/tor/s_tor-for-linux.md), [Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md) or [Windows] (umbrella://tools/tor/s_tor-for-windows.md)的Tor）。
+(https://facebookcorewwwi.onion/)。 （了解如何使用適用於[Linux](umbrella://tools/tor/s_tor-for-linux.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md) or [Windows](umbrella://tools/tor/s_tor-for-windows.md)的Tor）。
 
 * 您可以在Facebook Messenger iOS和Android應用程序中打開加密，但不能在桌面上打開。單擊* i *，*設置*，*秘密對話*，*打開*，或在打開任何新對話時單擊鎖定圖標。 （在[這裡](https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink)閱讀Facebook的說明。）
 

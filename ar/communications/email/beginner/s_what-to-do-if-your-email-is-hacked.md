@@ -16,13 +16,13 @@ title: ما عليك فعله إذا تم اختراق بريدك الإليكت
 
 اختر كلمات مرور جديدة وقوية لبريدك الإلكتروني وجميع الحسابات المرتبطة به. تستخدم الحسابات المرتبطة بريدك الإلكتروني لتسجيل الدخول أو استرداد معلومات تسجيل الدخول أو التحقق من هويتك.
 
-(استخدم [كلمات مرور قوية] (umbrella://information/passwords/beginner) و [2FA.] من خلال (umbrella://information/passwords/advanced))
+(استخدم [كلمات مرور قوية](umbrella://information/passwords/beginner) و [2FA.] من خلال (umbrella://information/passwords/advanced))
 
 ## تأمين أجهزتك
 
 أي جهاز تستخدمه للوصول إلى البريد الإلكتروني من الحساب الذي تعرضت للاختراق يكون عرضة للخطر. قم بفحص جهاز الكمبيوتر بحثًا عن [برامج ضارة](umbrella://information/malware/beginner) وتحديث حماية [الهاتف المحمول الخاص بك](umbrella://communications/mobile-phones/beginner).
 
-(تعلّم [الحماية الأساسية لنظام تشغيل الأندرويد](umbrella://tools/other/s_android.md) وكيف [تشفر الآيفون الخاص بك] (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
+(تعلّم [الحماية الأساسية لنظام تشغيل الأندرويد](umbrella://tools/other/s_android.md) وكيف [تشفر الآيفون الخاص بك](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## تحقق من إعدادات الحساب والنشاط.
 
@@ -56,7 +56,7 @@ title: ما عليك فعله إذا تم اختراق بريدك الإليكت
 
 ضع في اعتبارك برامج البريد الإلكتروني المجانية والمفتوحة المصدر مثل Thunderbird.
 
-(تعرف على البرمجيات مفتوحة المصدر في [البرمجيات الخبيثة المتقدمة] ([برمجيات خبيثة](umbrella://information/malware/advanced) وكيفية تشفيرها في [البريد الإلكتروني المتقدم.] (umbrella://communications/email/advanced)) 
+(تعرف على البرمجيات مفتوحة المصدر في [البرمجيات الخبيثة المتقدمة]([برمجيات خبيثة](umbrella://information/malware/advanced) وكيفية تشفيرها في [البريد الإلكتروني المتقدم.](umbrella://communications/email/advanced)) 
 
 ## قم بتبديل المزود.
 

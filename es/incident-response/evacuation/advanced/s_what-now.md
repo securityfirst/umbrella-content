@@ -4,7 +4,7 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Obtenga información sobre la planificación y las alertas de evacuación en [evacuación principiante] (umbrella://incident-response/evacuation/beginner).
+Obtenga información sobre la planificación y las alertas de evacuación en [evacuación principiante](umbrella://incident-response/evacuation/beginner).
 
 ### LECCIONES/HERRAMIENTAS RELACIONADAS
 
@@ -15,5 +15,5 @@ Obtenga información sobre la planificación y las alertas de evacuación en [ev
 
 ### OTRAS LECTURAS
 
-*   ECHO, Guía de Seguridad Genérica para Organizaciones Humanitarias, disponible en [eisf.eu] (https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
-*   Red de Práctica Humanitaria, [Revisión de Buenas Prácticas Número 8: Gestión de la seguridad operativa en entornos violentos (Ed. Revisada)] (http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).
+*   ECHO, Guía de Seguridad Genérica para Organizaciones Humanitarias, disponible en [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
+*   Red de Práctica Humanitaria, [Revisión de Buenas Prácticas Número 8: Gestión de la seguridad operativa en entornos violentos (Ed. Revisada)](http://odihpn.org/wp-content/uploads/2010/11/GPR_8_revised2.pdf).

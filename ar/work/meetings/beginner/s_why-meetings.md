@@ -8,6 +8,6 @@ title: المخاطر
 *   فضح عمل المشاركين
 *   تحريك حادث خطير مثل الخطف أو الاعتقال.
 
-(تعرف على المزيد حول [الاختطاف] (umbrella://incident-response/kidnapping/beginner) و [الاعتقال](umbrella://incident-response/arrests).) 
+(تعرف على المزيد حول [الاختطاف](umbrella://incident-response/kidnapping/beginner) و [الاعتقال](umbrella://incident-response/arrests).) 
 
 من الضروري التخطيط وإعداد الاجتماعات الحساسة مع الأشخاص المعرضين للخطر.

@@ -11,7 +11,7 @@ Orbot و Orfox
 ** المستوى **: المبتدئ
 ** الوقت المطلوب **: 15 دقيقة
 ** نشرت: ** أبريل 2018
-** المصادر: ** مخطط الأمان (Citizen Lab) من [Orbot و Orfox]في  (https://securityplanner.org/#/tool/orbot-and-orfox) ؛ Security in a Box من، [ORBOT لأندرويد] (https://securityinabox.org/en/guide/orbot/android/) ، مشروع الجارديان ، [Orbot v16: مظهر جديد تمامًا وأسهل استخدامًا!] (https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
+** المصادر: ** مخطط الأمان (Citizen Lab) من [Orbot و Orfox]في  (https://securityplanner.org/#/tool/orbot-and-orfox) ؛ Security in a Box من، [ORBOT لأندرويد](https://securityinabox.org/en/guide/orbot/android/) ، مشروع الجارديان ، [Orbot v16: مظهر جديد تمامًا وأسهل استخدامًا!](https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
 
 ** باستخدام Orbot و Orfox معًا سيمنحك: **
 - القدرة على إخفاء هويتك عبر الإنترنت من مواقع الويب والخدمات الأخرى عند استخدام بعض تطبيقات الأندرويد.
@@ -121,7 +121,7 @@ Orbot و Orfox
 
 ** الخطوة 3: ** إعادة التشغيل ** Orbot ** للبدء في استخدام * الجسر *.
 
-يمكنك قراءة المزيد حول الجسور على [موقع مشروع تور] (https://bridges.torproject.org/).
+يمكنك قراءة المزيد حول الجسور على [موقع مشروع تور](https://bridges.torproject.org/).
 
 
 # 5. تثبيت Orfox

@@ -6,11 +6,11 @@ Signal للأندرويد
 ==============================
 رسائل آمنة
 
-** درس لقراءة: [إرسال رسالة] (umbrella://communications/sending-a-message)** 
+** درس لقراءة: [إرسال رسالة](umbrella://communications/sending-a-message)** 
 ** المستوى **: المبتدئ والمتوسط
 ** الوقت المطلوب **: 15-20 دقيقة
 ** تم النشر: ** أبريل 2018 (بعض الصور تعود إلى الإصدارات السابقة)
-** المصادر: ** EFF ، Surveillance Self-Defense [كيفية: استخدام  Signal  لنظام أندرويد] (https://ssd.eff.org/en/module/how-use-signal-android) ؛ Security in a Box من [SIGNAL للأندرويد] (https://securityinabox.org/en/guide/signal/android/).
+** المصادر: ** EFF ، Surveillance Self-Defense [كيفية: استخدام  Signal  لنظام أندرويد](https://ssd.eff.org/en/module/how-use-signal-android) ؛ Security in a Box من [SIGNAL للأندرويد](https://securityinabox.org/en/guide/signal/android/).
 
 ** استخدام Signal سوف يعطيك: **
 
@@ -61,7 +61,7 @@ Signal هو تطبيق مجاني ومفتوح المصدر لبرنامج Andro
 
 سيُطلب منك بعد ذلك التحقق من رقم هاتفك. انقر فوق "متابعة".
 
-! [] (tool_signalandroid_resized001_0.png)
+! [](tool_signalandroid_resized001_0.png)
 
 من أجل التحقق من رقم هاتفك ، سيتم إرسال رسالة نصية قصيرة تحتوي على رمز مكون من ستة أرقام. نظرًا لأن Signal يمكنها الوصول إلى الرسائل النصية القصيرة الخاصة بك ، فسوف تتعرف تلقائيًا عند استلام الرمز وإكمال التسجيل.
 
@@ -116,7 +116,7 @@ Signal هو تطبيق مجاني ومفتوح المصدر لبرنامج Andro
 
 في الشاشة التالية ، ستتمكن من تسمية المجموعة وإضافة مشاركين إليها.
 
-! [] (tool_signalandroid_resized021_0.png)
+! [](tool_signalandroid_resized021_0.png)
 
 ![](tool_signalandroid_resized016_0.png)
 
@@ -148,11 +148,11 @@ Signal هو تطبيق مجاني ومفتوح المصدر لبرنامج Andro
 
 مرة أخرى على جهازك ، يمكنك النقر على رمز الاستجابة السريعة الخاص بك ، والذي سوف يستخدم الكاميرا لمسح رمز الاستجابة السريعة الذي يتم عرضه على شاشة جهة الاتصال الخاصة بك. محاذاة الكاميرا لرمز الاستجابة السريعة:
 
-! [] (tool_signalandroid_resized014.png)
+! [](tool_signalandroid_resized014.png)
 
 نأمل أن تقوم الكاميرا بمسح الباركود وعرض علامة اختيار ، مثل هذا:
 
-! [] (tool_signalandroid_resized015.png)
+! [](tool_signalandroid_resized015.png)
 
 يشير هذا إلى أنك قمت بالتحقق من جهة الاتصال الخاصة بك بنجاح. إذا بدت شاشتك بدلاً من ذلك ، فقد حدث خطأ ما:
 

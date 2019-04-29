@@ -16,4 +16,4 @@ title: خشونت علیه زنان
 
 > * "[آزار و اذیت توسط فرد ناشناس] زنان را از نوشتن و از داشتن درآمد آنلاین دلسرد می کند. این زندگی حرفه ای را تحت تاثیر قرار می دهد. این آنها را به سطح کارگران بی سوادی و اشیاء جنسی پایین می برند." * Danielle Keats Citron، وکیل آمریکایی
 
-(در مورد [گفتار نفرت انگیز علیه زنان] (چتر: //communications/online-abuse/advanced/s_hate-speech-against-women.md) را مطالعه کنید.)
+(در مورد [گفتار نفرت انگیز علیه زنان](چتر: //communications/online-abuse/advanced/s_hate-speech-against-women.md) را مطالعه کنید.)

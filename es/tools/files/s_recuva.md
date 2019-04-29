@@ -21,11 +21,11 @@ Recuperación de datos y borrado seguro
 - Recuperar archivos previamente eliminados en su computadora, incluidos correos electrónicos, imágenes y videos
 - Eliminar de forma segura la información privada o sensible
 
-Los usuarios de Mac OS podrían utilizar [TestDisk y PhotoRec] (www.cgsecurity.org/), como alternativa, que también son compatibles con Microsoft Windows y GNU Linux.
+Los usuarios de Mac OS podrían utilizar [TestDisk y PhotoRec](www.cgsecurity.org/), como alternativa, que también son compatibles con Microsoft Windows y GNU Linux.
 
 ### 1.1 Antes de comenzar
 
-En situaciones en las que los archivos privados o confidenciales se hayan eliminado por error, Recuva puede ayudarlo a buscar y restaurar algunos de ellos. Como se explica en la **[Lección de eliminación] (umbrella://information/safely-deleting)**, un archivo eliminado con la función de eliminación estándar del sistema operativo Windows, incluso después de que se haya vaciado la Papelera de reciclaje, aún puede existir en la computadora.
+En situaciones en las que los archivos privados o confidenciales se hayan eliminado por error, Recuva puede ayudarlo a buscar y restaurar algunos de ellos. Como se explica en la **[Lección de eliminación](umbrella://information/safely-deleting)**, un archivo eliminado con la función de eliminación estándar del sistema operativo Windows, incluso después de que se haya vaciado la Papelera de reciclaje, aún puede existir en la computadora.
 
 Sin embargo, hay circunstancias en las que Recuva no puede recuperar información. Si ha eliminado o borrado permanentemente algún archivo temporal al sobrescribirlos o al ejecutar un software de eliminación segura, Recuva no puede recuperarlos. Recuva tampoco puede recuperar documentos y archivos dañados.
 
@@ -298,7 +298,7 @@ No hay otras diferencias entre Recuva Portable y la versión diseñada para ser 
 
 Para comenzar a descargar y extraer Recuva Portable, realice los siguientes pasos:
 
-**Paso 1.** Haga clic en [http://www.piriform.com/recuva/download/portable] (http://www.piriform.com/recuva/download/portable) para dirigirse al sitio de descarga apropiado , y activar automáticamente la siguiente pantalla:
+**Paso 1.** Haga clic en [http://www.piriform.com/recuva/download/portable](http://www.piriform.com/recuva/download/portable) para dirigirse al sitio de descarga apropiado , y activar automáticamente la siguiente pantalla:
 
 **Paso 2.** Haga clic en "Aceptar" para guardar el archivo de instalación _rcsetup140.zip_ en su computadora; y luego vaya al archivo.
 

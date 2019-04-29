@@ -5,7 +5,7 @@ title: وسائل الاتصال
 1. اختيار طريقة الاتصالات.
 2. الحصول على وتعلم استخدام المعدات.
 
-(تعرف على [إرسال رسالة] (umbrella://communications/sending-a-message) و [إجراء مكالمة] (umbrella://communications/making-a-call).) 
+(تعرف على [إرسال رسالة](umbrella://communications/sending-a-message) و [إجراء مكالمة](umbrella://communications/making-a-call).) 
 
 ## هواتف لا يمكن تتبع موقعها
 
@@ -24,7 +24,7 @@ title: وسائل الاتصال
 
 * ملاحظة: هوائيات الراديو واضحة. استخدم الهواتف المحمولة مع هاتف ساتون كنسخ احتياطي إذا كنت تسافر دون المستوى المطلوب. *
 
-(تعرف على [الراديو] (umbrella://communications/radios-and-satellite-phones/beginner)  و [الهواتف الساتلية] (umbrella://communications/radios-and-satellite-phones/advanced).)
+(تعرف على [الراديو](umbrella://communications/radios-and-satellite-phones/beginner)  و [الهواتف الساتلية](umbrella://communications/radios-and-satellite-phones/advanced).)
 
 ## جهات الاتصال
 
@@ -37,4 +37,4 @@ title: وسائل الاتصال
 
 * إخفاء الأرقام كتواريخ أو قياسات أو إحداثيات أو كميات في قائمة تسوق أو صياغة أخرى. *
 
-(تعرف على [حماية الملفات] (umbrella://information/protecting-files).)
+(تعرف على [حماية الملفات](umbrella://information/protecting-files).)

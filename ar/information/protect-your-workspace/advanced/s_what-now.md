@@ -10,4 +10,4 @@ title: ماذا الان؟
 
 ### مصادر
 
-* Security in a Box، [Protect Your Information from Physical Threats] (https://securityinabox.org/en/guide/physical/)، updated 28 June 2018.
+* Security in a Box، [Protect Your Information from Physical Threats](https://securityinabox.org/en/guide/physical/)، updated 28 June 2018.

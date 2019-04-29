@@ -6,7 +6,7 @@ title: No confíe en los sitios de redes sociales
 
 Los sitios de redes sociales a menudo le permiten chatear con contactos en tiempo real, pero la mayoría son muy inseguros. Utilice un mensajero con cifrado de extremo a extremo en su lugar.
 
-(Obtenga más información sobre sus opciones para [enviar un mensaje] (umbrella://communications/sending-a-message).)
+(Obtenga más información sobre sus opciones para [enviar un mensaje](umbrella://communications/sending-a-message).)
 
 El uso de una aplicación de chat insegura afiliada a una compañía de medios sociales podría:
 
@@ -21,7 +21,7 @@ Nunca:
 
 (Obtenga más información sobre [phishing](umbrella://communications/phishing).)
 
-*Si realmente tiene que usar Facebook Messenger, active Conversaciones secretas en la aplicación Android o iOS. (Aprenda cómo en [Privacidad de Facebook] (umbrella://tools/other/s_facebook.md).)*
+*Si realmente tiene que usar Facebook Messenger, active Conversaciones secretas en la aplicación Android o iOS. (Aprenda cómo en [Privacidad de Facebook](umbrella://tools/other/s_facebook.md).)*
 
 ![image](socialb4.png)
 

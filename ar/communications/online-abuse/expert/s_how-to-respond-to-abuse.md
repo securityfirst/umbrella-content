@@ -47,7 +47,7 @@ title: كيفية الرد على إساءة الاستخدام
 
 هذا يعتمد على شكل التهديد الموجه إليك.
 
-(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان] (umbrella://assess-your-risk/security-planning) و [إدارة المعلومات.] (umbrella://information/managing-information))
+(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان](umbrella://assess-your-risk/security-planning) و [إدارة المعلومات.](umbrella://information/managing-information))
 
 إذا تقدمت ، احضر صديقًا موثوقًا به أو أحد أفراد أسرتك للحصول على الدعم العاطفي.
 
@@ -61,7 +61,7 @@ title: كيفية الرد على إساءة الاستخدام
 
 إذا قام المبتز أو أي شخص آخر بتوزيع صورك الخاصة دون موافقتك ، فهناك خطوات يمكنك اتخاذها.
 
-*   اطلب من مواقع الويب إنزال المعلومات. تتوفر سياسات الإزالة للمواقع الشائعة [هنا] (https://oag.ca.gov/cyberexploitation)
+*   اطلب من مواقع الويب إنزال المعلومات. تتوفر سياسات الإزالة للمواقع الشائعة [هنا](https://oag.ca.gov/cyberexploitation)
 
 *   اتصل بمحركات البحث لإزالة روابط المعلومات ؛
 
@@ -81,8 +81,8 @@ title: كيفية الرد على إساءة الاستخدام
 
 يمكن أن تكون التجاوب والاستجابة للانتهاكات معزولة ومرهقة. يمكن للمجتمع الداعم ، عبر الإنترنت أو خارجها ، أن يساعدك.
 
-(تعرف على المزيد حول [الإجهاد غير الصحي] (umbrella://stress/stress/beginner)).
+(تعرف على المزيد حول [الإجهاد غير الصحي](umbrella://stress/stress/beginner)).
 
 # ساعد الاخرين
 
-* اقرأ: PEN America ، [أفضل الممارسات للحلفاء والشهود] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* و * [أفضل الممارسات لأصحاب العمل من الكتاب والصحفيين] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
+* اقرأ: PEN America ، [أفضل الممارسات للحلفاء والشهود](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)* و * [أفضل الممارسات لأصحاب العمل من الكتاب والصحفيين](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

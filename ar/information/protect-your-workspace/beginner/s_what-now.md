@@ -4,7 +4,7 @@ title: ماذا الان؟
 ---
 مرر سريعًا لليمين للحصول على قائمة مراجعة هذا الدرس
 
-يخبرك [Workspace Advanced] (umbrella://information/protect-your-workspace/advanced) بكيفية حماية المعلومات من المتسللين.
+يخبرك [Workspace Advanced](umbrella://information/protect-your-workspace/advanced) بكيفية حماية المعلومات من المتسللين.
 
 يخبرك [Workspace Expert] من (umbrella://information/protect-your-workspace/expert) بكيفية حماية أجهزتك من التهديدات المادية.
 
@@ -14,7 +14,7 @@ title: ماذا الان؟
 
 ### مصادر
 
-* Security in a Box، [حماية معلوماتك من التهديدات المادية] (https://securityinabox.org/en/guide/physical/) ، تم تحديثه في 28 يونيو 2018.
+* Security in a Box، [حماية معلوماتك من التهديدات المادية](https://securityinabox.org/en/guide/physical/) ، تم تحديثه في 28 يونيو 2018.
 
 ### قراءة متعمقة
 

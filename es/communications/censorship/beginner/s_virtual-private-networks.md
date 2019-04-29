@@ -27,9 +27,9 @@ Pero el proveedor de VPN puede interceptar su tráfico directamente y registrar 
 
 Que este sea un problema para usted dependerá de qué tipos de actores representan una amenaza para usted y su equipo.
 
-(Obtenga más información sobre esto en [Planificación de Seguridad] (umbrella://assess-your-risk/security-planning).)
+(Obtenga más información sobre esto en [Planificación de Seguridad](umbrella://assess-your-risk/security-planning).)
 
-Los proveedores de VPN pueden ser comerciales o sin fines de lucro, estar alojados en diferentes países y ofrecer diferentes políticas de privacidad. Para obtener información sobre servicios VPN específicos, haga clic en [aquí] (https://thatoneprivacysite.net/vpn-section/).
+Los proveedores de VPN pueden ser comerciales o sin fines de lucro, estar alojados en diferentes países y ofrecer diferentes políticas de privacidad. Para obtener información sobre servicios VPN específicos, haga clic en [aquí](https://thatoneprivacysite.net/vpn-section/).
 
 No use una VPN en la que no confíe.
 
@@ -41,6 +41,6 @@ Psiphon es una VPN segura y gratuita para Windows, Android e iOS.
 
 Psiphon es para eludir la censura. No garantiza el anonimato.
 
-(Aprenda a mantenerse en el anonimato en línea en [Privacidad en Línea] (umbrella://communications/online-privacy/advanced).)
+(Aprenda a mantenerse en el anonimato en línea en [Privacidad en Línea](umbrella://communications/online-privacy/advanced).)
 
 ![image](internetb4.png)

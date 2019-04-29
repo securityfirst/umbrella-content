@@ -14,4 +14,4 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-*   امنیت در Box، [محافظت از فایل های حساس در رایانه شما] (https://securityinabox.org/en/guide/secure-file-storage/).
+*   امنیت در Box، [محافظت از فایل های حساس در رایانه شما](https://securityinabox.org/en/guide/secure-file-storage/).

@@ -12,7 +12,7 @@ title: السرية على الإنترنت
 
 هذا قد يضعك في خطر.
 
-(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان] (umbrella://assess-your-risk/security-planning) و [إدارة المعلومات](umbrella://information/managing-information).)
+(تعرف على المزيد حول هذا الموضوع في [تخطيط الأمان](umbrella://assess-your-risk/security-planning) و [إدارة المعلومات](umbrella://information/managing-information).)
 
 يمكنك تقليل المخاطر باستخدام Tor.
 

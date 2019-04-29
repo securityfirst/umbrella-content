@@ -36,7 +36,7 @@ El 50% de los secuestros ocurre mientras la víctima está en su automóvil, a m
 
 * Proteja sus comunicaciones.
 
-(Obtenga información sobre [Enviar un Mensaje](umbrella://communications/sending-a-message)  y [Hacer una Llamada] (umbrella://communications/making-a-call).)
+(Obtenga información sobre [Enviar un Mensaje](umbrella://communications/sending-a-message)  y [Hacer una Llamada](umbrella://communications/making-a-call).)
 
 * No discuta información personal o planes si puede ser escuchado.
 

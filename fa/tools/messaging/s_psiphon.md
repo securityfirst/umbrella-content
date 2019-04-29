@@ -6,8 +6,8 @@ title: سایفون
 
 منع سانسور
 
-** درسی برای خواندن: [اینترنت] (چتر: // درس / اینترنت) **
-** محل دانلود: ** [Google Play] (https://play.google.com/store/apps/details؟id=com.psiphon3.subscription)، [فروشگاه App اپل] (https://itunes.apple .com / us / app / psiphon / id1276263909؟ ls = 1 & mt = 8) یا [psiphon] (https://psiphon.ca/en/download.html).
+** درسی برای خواندن: [اینترنت](چتر: // درس / اینترنت) **
+** محل دانلود: ** [Google Play](https://play.google.com/store/apps/details؟id=com.psiphon3.subscription)، [فروشگاه App اپل](https://itunes.apple .com / us / app / psiphon / id1276263909؟ ls = 1 & mt = 8) یا [psiphon](https://psiphon.ca/en/download.html).
 ** نیازهای کامپیوتر: ** اتصال به اینترنت و دستگاهی که در حال اجرا ویندوز، Android 2.3 یا بالاتر یا iOS 10.2 یا بالاتر (iOS 8 برای مرورگر Psiphon) است.
 ** مجوز: ** رایگان نرم افزار منبع باز؛ نسخه 3 GNU GPL
 ** سطح: ** مبتدی
@@ -34,17 +34,17 @@ title: سایفون
 
 ### 2. Psiphon برای آندروید
 
-دانلود Psiphon Pro از فروشگاه [Google Play] (https://play.google.com/store/apps/details؟id=com.psiphon3.subscription).
+دانلود Psiphon Pro از فروشگاه [Google Play](https://play.google.com/store/apps/details؟id=com.psiphon3.subscription).
 
-اگر شما به فروشگاه Google Play دسترسی ندارید، Psiphon Pro for Android را در Psiphon رسمی [download page] (https://psiphon.ca/en/download.html؟10Years) انتخاب کنید. (تأییدیه فایل دانلود شده معتبر است [اینجا] (https://psiphon.ca/en/faq.html#authentic-android).) ممکن است لازم باشد [برای فعال کردن sideloading] (https://psiphon.ca/en/ faq.html # android-enable-sideloading).)
+اگر شما به فروشگاه Google Play دسترسی ندارید، Psiphon Pro for Android را در Psiphon رسمی [download page](https://psiphon.ca/en/download.html؟10Years) انتخاب کنید. (تأییدیه فایل دانلود شده معتبر است [اینجا](https://psiphon.ca/en/faq.html#authentic-android).) ممکن است لازم باشد [برای فعال کردن sideloading](https://psiphon.ca/en/ faq.html # android-enable-sideloading).)
 
 برنامه را باز کنید و روی* شروع* برای اتصال به شبکه Psiphon کلیک کنید.
 
-! [تصویر] (tool_psiphon5.png)
+! [تصویر](tool_psiphon5.png)
 
 حالت تمام دستگاه را انتخاب کنید تا تمام برنامه ها را از طریق Psiphon تونل کنید. (این گزینه ممکن است برای نسخه های قدیمی تر اندروید موجود نباشد. شما می توانید به جای آن از مرورگر اختصاصی Psiphon استفاده کنید، اما تنها فعالیت آنلاین انجام شده در مرورگر از Psiphon استفاده می کند. برنامه های دیگر با استفاده از اتصال اینترنتی به اینترنت متصل خواهند شد.)
 
-! [تصویر] (tool_psiphon6.png)
+! [تصویر](tool_psiphon6.png)
 
 Psiphon "P" در گوشه سمت چپ بالای دستگاه شما نشان می دهد که Psiphon در حال اجرا است.
 
@@ -64,11 +64,11 @@ Psiphon را از [اپل استور] دانلود کنید (https://itunes.appl
 
 برنامه را باز کنید و روی  دکمه خاکستری * قطع* کلیک کنید.
 
-! [تصویر] (tool_psiphon7.png)
+! [تصویر](tool_psiphon7.png)
 
 هنگام متصل شدن دکمه قرمز می شود و هنگام متصل بودن سبز می شود.
 
-! [image] (tool_psiphon8.png)! [image] (tool_psiphon9.png)
+! [image](tool_psiphon8.png)! [image](tool_psiphon9.png)
 
 نماد "VPN" در گوشه سمت چپ دستگاه شما نشان می دهد که Psiphon در حال اجرا است، به این معنی که برنامه های دیگر به اینترنت از طریق Psiphon دسترسی پیدا می کنند.
 

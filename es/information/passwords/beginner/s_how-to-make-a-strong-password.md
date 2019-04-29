@@ -22,7 +22,7 @@ Cuanto más larga es una contraseña, más tiempo se tarda en adivinar. Las cont
 
 Un pequeño esfuerzo para hacer que la contraseña sea más compleja hace mucho. Aumentar la longitud en unos pocos caracteres, o agregar números o caracteres especiales, hace que sea mucho más difícil de descifrar.
 
-(Verifique la seguridad de las contraseñas en [Passfault] (http://www.passfault.com/).)
+(Verifique la seguridad de las contraseñas en [Passfault](http://www.passfault.com/).)
 
 ## 3. Aleatoria
 

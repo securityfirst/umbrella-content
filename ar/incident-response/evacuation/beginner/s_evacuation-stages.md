@@ -34,4 +34,4 @@ title: مراحل الاخلاء
 
 يحدد هذا الدرس التخطيط والتنبيه.
 
-[الإخلاء المتقدم] (umbrella://incident-response/evacuation/advanced) outlines pre-evacuation and evacuation. يحدد ما قبل الإخلاء والإخلاء.
+[الإخلاء المتقدم](umbrella://incident-response/evacuation/advanced) outlines pre-evacuation and evacuation. يحدد ما قبل الإخلاء والإخلاء.

@@ -6,4 +6,4 @@ title: ماذا الان؟
 
 تعرف على الإجهاد المزمن في [الإجهاد المبتدئين](umbrella://stress/stress/beginner).
 
-تعرف على الإجهاد اللاحق للصدمة في [خبير الإجهاد] (umbrella://stress/stress/expert).
+تعرف على الإجهاد اللاحق للصدمة في [خبير الإجهاد](umbrella://stress/stress/expert).

@@ -8,7 +8,7 @@ PGP براساس طراحی قدیمی ساخته شده است و شهرتی ب
 
 ## یاد بگیرید چگونه استفاده کنید:
 
-*   [Mailbox (PGP برای وب پست الکترونیکی)] (چتر: // درس / mailvelope)
+*   [Mailbox (PGP برای وب پست الکترونیکی)](چتر: // درس / mailvelope)
 *   [PGP برای سیستم عامل مک](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)
 *   [PGP برای ویندوز](umbrella://tools/pgp/s_pgp-for-windows.md)
 *   [PGP برای لینوکس](umbrella://tools/pgp/s_pgp-for-linux.md)

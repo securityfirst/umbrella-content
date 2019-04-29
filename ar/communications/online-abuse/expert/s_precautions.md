@@ -8,7 +8,7 @@ title: الاحتياطات
 
 تُفقد الهواتف وتسرق بسهولة ، مما يجعل بياناتها عرضة للخطر.
 
-(تعرف على المزيد حول [الهواتف المحمولة] (umbrella://communications/mobile-phones/beginner).)
+(تعرف على المزيد حول [الهواتف المحمولة](umbrella://communications/mobile-phones/beginner).)
 
 قم بنقل الصور الحساسة إلى موقع أكثر أمانًا ، مثل عصا USB بأسرع ما يمكن. أثناء وجودهم على هاتفك ، قم بتشفيرهم واحتفظ بهم في ملف محمي بكلمة مرور.
 
@@ -40,11 +40,11 @@ title: الاحتياطات
 
 ## تأمين حساباتك
 
-(تعرف على [كلمات المرور] (umbrella://information/passwords/beginner)  و [2FA.] من (umbrella://information/passwords/advanced))
+(تعرف على [كلمات المرور](umbrella://information/passwords/beginner)  و [2FA.] من (umbrella://information/passwords/advanced))
 
 ## تأمين الشبكة الخاصة بك
 
-(تعرف على المزيد حول هذا الموضوع في [الخصوصية عبر الإنترنت] (umbrella://communications/online-privacy/beginner) و [email] من (umbrella://communications/email/beginner).) 
+(تعرف على المزيد حول هذا الموضوع في [الخصوصية عبر الإنترنت](umbrella://communications/online-privacy/beginner) و [email] من (umbrella://communications/email/beginner).) 
 
 ## قم بتأمين أجهزتك
 

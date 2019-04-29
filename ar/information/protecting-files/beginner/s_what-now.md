@@ -19,4 +19,4 @@ title: ماذا الان؟
 
 ### مصادر
 
-*   EFF ، الدفاع عن النفس للأمان ، [الحفاظ على بياناتك آمنة] (https://ssd.eff.org/en/module/keeping-your-data-safe) ، آخر مرة تم استعراضها في 2 نوفمبر 2018.
+*   EFF ، الدفاع عن النفس للأمان ، [الحفاظ على بياناتك آمنة](https://ssd.eff.org/en/module/keeping-your-data-safe) ، آخر مرة تم استعراضها في 2 نوفمبر 2018.

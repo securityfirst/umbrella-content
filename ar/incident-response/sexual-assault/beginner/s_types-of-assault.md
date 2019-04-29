@@ -8,7 +8,7 @@ title: أنواع العنف الجنسي
 
 [الاعتداء الجنسي المتقدم](umbrella://incident-response/sexual-assault/advanced)  يحدد الاستراتيجيات إذا تعرضت للمضايقة أو الاغتصاب أو الاعتداء.
 
-يحدد [خبير الاعتداء الجنسي] (umbrella://incident-response/sexual-assault/expert) الاستراتيجيات عندما يتم اغتصاب أحد أعضاء الفريق أو الاعتداء عليه.
+يحدد [خبير الاعتداء الجنسي](umbrella://incident-response/sexual-assault/expert) الاستراتيجيات عندما يتم اغتصاب أحد أعضاء الفريق أو الاعتداء عليه.
 
 ## اغتصاب
 

@@ -12,5 +12,5 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   منظمة CARE الدولية ، [دليل السلامة والأمن] (https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
-*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu] (https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).
+*   منظمة CARE الدولية ، [دليل السلامة والأمن](https://www.eisf.eu/wp-content/uploads/2014/09/0614-Macpherson-2004-CARE-International-Safety-and-Security-Handbook.pdf).
+*   ECHO ، دليل الأمن العام للمنظمات الإنسانية ، متاح على [eisf.eu](https://www.eisf.eu/library/generic-security-guide-for-humanitarian-organisations/).

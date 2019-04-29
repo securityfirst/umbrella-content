@@ -16,6 +16,6 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   Security First ، [البقاء آمنًا عبر الإنترنت واستخدام وسائل التواصل الاجتماعي] (https://advocacyassembly.org/en/courses/32/#/chapter/1/lesson/1) ، وهو تدريب مجاني عبر الإنترنت في جمعية الدعوة.
-*   Security in a Box ، [يبقى مجهولًا وتجاوز الرقابة على الإنترنت] (https://securityinabox.org/en/guide/anonymity-and-circumvention).
+*   Security First ، [البقاء آمنًا عبر الإنترنت واستخدام وسائل التواصل الاجتماعي](https://advocacyassembly.org/en/courses/32/#/chapter/1/lesson/1) ، وهو تدريب مجاني عبر الإنترنت في جمعية الدعوة.
+*   Security in a Box ، [يبقى مجهولًا وتجاوز الرقابة على الإنترنت](https://securityinabox.org/en/guide/anonymity-and-circumvention).
 *   Citizen Lab, Security Planner, [Orbot and Orfox](https://securityplanner.org/#/tool/orbot-and-orfox).

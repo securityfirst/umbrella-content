@@ -13,4 +13,4 @@ title: ماذا الان؟
 ### قراءة متعمقة
 
 *   اSecurity First، [الاتصالات الآمنة](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1)، تدريب مجاني على الإنترنت في جمعية المناصرة.
-*   Security in a Box، [استخدم الهواتف الذكية بأمان قدر الإمكان.] (https://securityinabox.org/en/guide/smartphones)
+*   Security in a Box، [استخدم الهواتف الذكية بأمان قدر الإمكان.](https://securityinabox.org/en/guide/smartphones)

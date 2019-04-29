@@ -15,14 +15,14 @@ Si un gobierno o compañía censura Internet, documentarlo y medirlo ayuda a otr
 
 ## Reportar cierres
 
-Access Now es una organización internacional de derechos humanos que recopila informes de cierres de aplicaciones móviles y de Internet para la campaña [#KeepItOn] (https://www.accessnow.org/keepiton/).
+Access Now es una organización internacional de derechos humanos que recopila informes de cierres de aplicaciones móviles y de Internet para la campaña [#KeepItOn](https://www.accessnow.org/keepiton/).
 
 Si se cierra la totalidad de Internet, Internet móvil o aplicaciones móviles específicas, envíe la documentación por correo electrónico de forma segura a shutdowns@accessnow.org (ID de clave PGP: 0xB7A750B1).
 
-(Obtenga más información sobre esto en [correo electrónico avanzado] (umbrella://communications/email/advanced).)
+(Obtenga más información sobre esto en [correo electrónico avanzado](umbrella://communications/email/advanced).)
 
 ## Reportar la censura
 
 Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital] de Access Now (https://www.accessnow.org/help/#contact-us).
 
-(Obtenga más información sobre esto en [Soporte de Emergencia] (umbrella://emergency-support).)
+(Obtenga más información sobre esto en [Soporte de Emergencia](umbrella://emergency-support).)

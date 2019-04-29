@@ -6,7 +6,7 @@ title: Psiphon
 
 التحايل على الرقابة
 
-** درس القراءة: [الإنترنت] (umbrella://communications/the-internet)**
+** درس القراءة: [الإنترنت](umbrella://communications/the-internet)**
 ** موقع التنزيل: ** [Google Play]  من  (https://play.google.com/store/apps/details?id=com.psiphon3.subscription)و [Apple App store]  من (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)  أو [Psiphon] من (https://psiphon.ca/en/download.html). 
 ** متطلبات الكمبيوتر: ** اتصال بالإنترنت ، وجهاز يعمل بنظام Windows ، Android 2.3 أو أحدث ، أو iOS 10.2 أو أحدث (iOS 8 لمتصفح Psiphon)
 ** الترخيص: ** البرمجيات المجانية مفتوحة المصدر. GNU GPL الإصدار 3
@@ -34,9 +34,9 @@ title: Psiphon
 
 ### 2. Psiphon للأندرويد
 
-قم بتنزيل Psiphon Pro من [تطبيقات جوجل] (https://play.google.com/store/apps/details?id=com.psiphon3.subscription) store. 
+قم بتنزيل Psiphon Pro من [تطبيقات جوجل](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) store. 
 
-إذا لم يكن لديك وصول إلى متجر Google Play ، فحدد Psiphon Pro لنظام Android على صفحة Psiphon الرسمية [صفحة التنزيل] (https://psiphon.ca/en/download.html?10Years). (تحقق من أن الملف الذي تم تنزيله أصلي [هنا](https://psiphon.ca/en/faq.html#authentic-android).)قد تحتاج إلى [تمكين التحميل الجانبي](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
+إذا لم يكن لديك وصول إلى متجر Google Play ، فحدد Psiphon Pro لنظام Android على صفحة Psiphon الرسمية [صفحة التنزيل](https://psiphon.ca/en/download.html?10Years). (تحقق من أن الملف الذي تم تنزيله أصلي [هنا](https://psiphon.ca/en/faq.html#authentic-android).)قد تحتاج إلى [تمكين التحميل الجانبي](https://psiphon.ca/en/faq.html#android-enable-sideloading).)
 
 افتح التطبيق و انقر على * start * للاتصال بشبكة Psiphon.
 
@@ -50,7 +50,7 @@ title: Psiphon
 
 ### 3. Psiphon لنظام التشغيل Windows
 
-قم بتنزيل أحدث إصدار من Psiphon for Windows [هنا] (https://psiphon.ca/en/download.html). تحقق من أن الملف الذي تم تنزيله أصلي [هنا] (https://psiphon.ca/en/faq.html#authentic-windows).)
+قم بتنزيل أحدث إصدار من Psiphon for Windows [هنا](https://psiphon.ca/en/download.html). تحقق من أن الملف الذي تم تنزيله أصلي [هنا](https://psiphon.ca/en/faq.html#authentic-windows).)
 
 عند تشغيل البرنامج ، سترى مطالبة أمنية توضح أن هذا البرنامج هو منتج شرعي لشركة Psiphon Inc.
 
@@ -60,7 +60,7 @@ title: Psiphon
 
 ### 4. Psiphon لنظام iOS
 
-يمكنك تنزيل Psiphon من [متجر تطبيقات آبل] (https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). 
+يمكنك تنزيل Psiphon من [متجر تطبيقات آبل](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8). 
 
 افتح التطبيق ، وانقر فوق الزر * Disconnected * الرمادي.
 

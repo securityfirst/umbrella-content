@@ -20,4 +20,4 @@ title: مدل سازی تهدید
 این مدل تهدید نامیده می شود.
 
 ارزیابی مدل سازی تهدید مکرر، یک تمرین خوب است.
-! [تصویر] (management_information2.png)
+! [تصویر](management_information2.png)

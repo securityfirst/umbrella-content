@@ -28,6 +28,6 @@ Incluso si su correo web utiliza HTTPS de forma predeterminada (deberían):
 
 *   Siempre verifique que diga https: // antes de iniciar sesión. Si solo ve http: //, agregue "s" y actualice la página.
 
-*   Descargue el complemento del navegador [HTTPS Everywhere] (https://www.eff.org/https-everywhere) para Firefox o Chrome.
+*   Descargue el complemento del navegador [HTTPS Everywhere](https://www.eff.org/https-everywhere) para Firefox o Chrome.
 
 ![image](email1.png)

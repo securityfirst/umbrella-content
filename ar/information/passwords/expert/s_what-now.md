@@ -16,4 +16,4 @@ title: ماذا الان؟
 
 ### قراءة متعمقة
 
-*   EFF ، [الخصوصية الرقمية على الحدود الأمريكية: حماية البيانات على أجهزتك] (https://www.eff.org/wp/digital-privacy-us-border-2017)
+*   EFF ، [الخصوصية الرقمية على الحدود الأمريكية: حماية البيانات على أجهزتك](https://www.eff.org/wp/digital-privacy-us-border-2017)

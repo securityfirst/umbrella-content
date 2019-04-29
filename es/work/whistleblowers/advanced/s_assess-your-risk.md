@@ -8,7 +8,7 @@ Un informante da información sobre irregularidades que afectan a su comunidad p
 
 Esto puede implicar la filtración de documentos internos, grabaciones u otra evidencia. A menudo, pueden tener repercusiones por compartir información sin permiso, incluso en el interés público.
 
-(Obtenga más información sobre esto en [Whistleblowers Principiante] (umbrella://work/whistleblowers/beginner).)
+(Obtenga más información sobre esto en [Whistleblowers Principiante](umbrella://work/whistleblowers/beginner).)
 
 Los adversarios o la policía pueden tratar de obligarlo a revelar esta información y quién se la dio.
 

@@ -10,13 +10,13 @@ title: اندازه گیری سانسور
 
 این آزمایشها نیازمند این هستند که شما  VPN خود را خاموش کنید و ناشناس بودن شما را تضعیف می کنند.
 
-(بیشتر در مورد این در [حریم شخصی کاربران] ((umbrella://communications/online-privacy/advanced بیشتر بدانید.)
+(بیشتر در مورد این در [حریم شخصی کاربران]((umbrella://communications/online-privacy/advanced بیشتر بدانید.)
 
 _ هر کسی که بر فعالیت اینترنتی شما نظارت میکند، می تواند ببیند که شما این تست ها را اجرا می کنید.
 
 آیا این یک مشکل برای شما خواهد بود؟ به مدل تهدید شما بستگی دارد.
 
-(در این درباره در [مدیریت اطلاعات ] (umbrella://information/managing-information)بیشتر بدانید)
+(در این درباره در [مدیریت اطلاعات ](umbrella://information/managing-information)بیشتر بدانید)
 
 ### قبل از خاموش کردن VPN خود، تمام تب ها و برنامه های دیگر مرورگر را ببندید.
 
@@ -30,12 +30,12 @@ NetBlocks یک سازمان تحقیقاتی است که مانع از وقفه 
 
 ابتکار شبکه رصد باز (OONI) اندازه گیری های شبکه را برای شناسایی سانسور اینترنت و دستکاری ترافیک، جمع آوری می کند. این یک پروژه نرم افزاری رایگان تحت پروژه Tor است.
 
-(در مورد این در [حریم شخصی کاربران] (umbrella://communications/online-privacy/advanced) بیشتر بدانید.)
+(در مورد این در [حریم شخصی کاربران](umbrella://communications/online-privacy/advanced) بیشتر بدانید.)
 
 OONI  ابزارهایی را برای تست شبکه ، WhatsApp، فیس بوک مسنجر، و Telegram، و یا وب سایت های خاص فراهم می کند.
 
-*   [خطر احتمالی] (https://ooni.torproject.org/about/risks/) از پروند OONI را بخوانید؛
+*   [خطر احتمالی](https://ooni.torproject.org/about/risks/) از پروند OONI را بخوانید؛
 
-*   [نصب] (https://ooni.torproject.org/install/ooniprobe/) OONI Probe در لینوکس، MacOS یا در Raspberry Pi؛
+*   [نصب](https://ooni.torproject.org/install/ooniprobe/) OONI Probe در لینوکس، MacOS یا در Raspberry Pi؛
 
-*   برنامه OONI Probe را برای [Android] (https://play.google.com/store/apps/details؟id=org.openobservatory.ooniprobe) یا [iOS] (https://itunes.apple.com/us) نصب کنید. / app / id1199566366).
+*   برنامه OONI Probe را برای [Android](https://play.google.com/store/apps/details؟id=org.openobservatory.ooniprobe) یا [iOS](https://itunes.apple.com/us) نصب کنید. / app / id1199566366).

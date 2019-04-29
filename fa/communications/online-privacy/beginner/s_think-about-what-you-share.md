@@ -6,7 +6,7 @@ title: در مورد آنچه شما به اشتراک می گذارید فکر 
 
 آیا شما با این حجم از اطلاعاتی که درباره شما که عمومی شده است، راحت هستید؟
 
-پی ببرید از طریق [خودتان تحقیق کنید] (https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
+پی ببرید از طریق [خودتان تحقیق کنید](https://myshadow.org/self-doxing-exploring-you-visible-data-traces)
 
 # قبل از انتشار اطلاعات بیشتر، همیشه بپرسید:
 
@@ -32,4 +32,4 @@ title: در مورد آنچه شما به اشتراک می گذارید فکر 
 
 
 
-! [تصویر] (socialb3.png)
+! [تصویر](socialb3.png)

@@ -10,7 +10,7 @@ title: أشياء للتذكر
 *   تشجيع التفاؤل
 *   توفير ما يكفي من الطعام والراحة.
 
-(تعرف على [المزمن] ((umbrella://stress/stress/beginner) و [الصدمة] (umbrella://stress/stress/advanced).
+(تعرف على [المزمن]((umbrella://stress/stress/beginner) و [الصدمة](umbrella://stress/stress/advanced).
 
 ## اعمل بفعالية
 

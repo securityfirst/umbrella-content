@@ -22,7 +22,7 @@ title: Cifrado de Disco Completo
 
 *El código de BitLocker está cerrado y es propietario, lo que significa que es difícil saber qué tan seguro es. El uso de BitLocker requiere que confíe en que Microsoft proporciona un sistema de almacenamiento seguro sin vulnerabilidades ocultas. Considere un sistema operativo alternativo de código abierto como GNU/Linux o BSD, especialmente una versión que haya sido reforzada contra ataques de seguridad, como Tails o Qubes. Como alternativa, considere instalar un software de cifrado de disco alternativo, Veracrypt, para cifrar su disco duro.*
 
-(Obtenga más información sobre esto en [Protección de Archivos Avanzado] (umbrella://information/protecting-files/advanced).)
+(Obtenga más información sobre esto en [Protección de Archivos Avanzado](umbrella://information/protecting-files/advanced).)
 
 Recuerde: como sea que lo llame su dispositivo, el cifrado es tan bueno como su contraseña.
 

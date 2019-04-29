@@ -4,7 +4,7 @@ title: الان چی؟
 ---
  برای چک لیست این درس به سمت راست بکشید
 
- چگونگی ریشه و رمزنگاری گوشی خود را در [کارشناس تلفن همراه] (چتر: // درس / تلفن همراه / 2) یاد بگیرید.
+ چگونگی ریشه و رمزنگاری گوشی خود را در [کارشناس تلفن همراه](چتر: // درس / تلفن همراه / 2) یاد بگیرید.
 
 ### درس های مرتبط / ابزارها
 
@@ -18,7 +18,7 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-*   امنیت اول، [ارتباطات امن] (https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1)، آموزش آنلاین رایگان در Advocacy Assembly.
-*   امنیت در یک Box، [استفاده از تلفن های همراه به صورت امن در صورت امکان] (https://securityinabox.org/en/guide/mobilephones)
+*   امنیت اول، [ارتباطات امن](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1)، آموزش آنلاین رایگان در Advocacy Assembly.
+*   امنیت در یک Box، [استفاده از تلفن های همراه به صورت امن در صورت امکان](https://securityinabox.org/en/guide/mobilephones)
 *   امنیت در یک Box، [استفاده از گوشی های هوشمند را به عنوان ایمن ترین امکان (https://securityinabox.org/en/guide/smartphones)
-*   EFF، Security-Self Defense، [مشکل با تلفن های همراه.] (https://ssd.eff.org/en/module/problem-mobilephones)
+*   EFF، Security-Self Defense، [مشکل با تلفن های همراه.](https://ssd.eff.org/en/module/problem-mobilephones)

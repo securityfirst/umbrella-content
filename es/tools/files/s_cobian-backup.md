@@ -8,7 +8,7 @@ title: Cobian Backup
 Haciendo copia de seguridad de los archivos de su computadora
 
 **Lección para leer: [Copia de seguridad](umbrella://information/backing-up)**
-**Ubicación de la descarga:** [http://www.cobiansoft.com/cobianbackup.html] (http://www.cobiansoft.com/cobianbackup.htm)
+**Ubicación de la descarga:** [http://www.cobiansoft.com/cobianbackup.html](http://www.cobiansoft.com/cobianbackup.htm)
 **Requisitos de la computadora:**
 - XP, 2003, Vista, 2008, Windows 7
 - Windows 95, 98 y ME son compatibles con la versión 7 de Cobian.
@@ -170,7 +170,7 @@ Las tres subopciones en la lista desplegable _Compression type_ son:
 
 _No Compression: _ Esta opción no realiza ninguna compresión, como cabría esperar.
 
-_Compresión Zip: _ Esta opción es la técnica de compresión estándar para los sistemas **Windows** y la más conveniente. Los archivos una vez creados pueden abrirse con herramientas estándar de Windows (o puede descargar el programa [ZipGenius] (http://www.zipgenius.it/) para acceder a ellos).
+_Compresión Zip: _ Esta opción es la técnica de compresión estándar para los sistemas **Windows** y la más conveniente. Los archivos una vez creados pueden abrirse con herramientas estándar de Windows (o puede descargar el programa [ZipGenius](http://www.zipgenius.it/) para acceder a ellos).
 
 La selección de un tipo de compresión listado automáticamente habilita la sección _Split options_, y su correspondiente lista desplegable.
 
@@ -183,8 +183,8 @@ Las siguientes opciones están disponibles cuando hace clic en la lista desplega
 
 - Disquete 3,5 ". Esta opción es lo suficientemente grande como para realizar una copia de seguridad de una pequeña cantidad de documentos
 - Zip - Disco Zip (verifique la capacidad de la que está usando). Necesitará una unidad Zip especial en su computadora y los discos personalizados.
-- CD-R: CD (verifique la capacidad de la que está utilizando). Necesitará una grabadora de CD en su computadora y un programa de grabación de CD (vea la versión [DeepBurner Free] (http://www.deepburner.com/) u otra [herramientas de grabación de disco] (http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
-- DVD (verifique la capacidad de la que está utilizando). Necesitará una grabadora de DVD en su computadora y un programa de escritura de DVD (consulte la versión [DeepBurner Free] (http://www.deepburner.com/) u otra [herramientas de grabación de disco] (http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
+- CD-R: CD (verifique la capacidad de la que está utilizando). Necesitará una grabadora de CD en su computadora y un programa de grabación de CD (vea la versión [DeepBurner Free](http://www.deepburner.com/) u otra [herramientas de grabación de disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
+- DVD (verifique la capacidad de la que está utilizando). Necesitará una grabadora de DVD en su computadora y un programa de escritura de DVD (consulte la versión [DeepBurner Free](http://www.deepburner.com/) u otra [herramientas de grabación de disco](http://www.thefreecountry.com/utilities/dvdcdburning.shtml)).
 
 Si está realizando una copia de seguridad en varios dispositivos de memoria USB, es posible que desee establecer un tamaño personalizado.
 

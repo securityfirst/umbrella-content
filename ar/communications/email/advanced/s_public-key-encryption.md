@@ -28,8 +28,8 @@ title: تشفير المفتاح العام
 
 *   قم بتخزين مفتاحك الخاص في مكان آمن.
 
- (تعرف على المزيد حول [حماية الملفات] (umbrella://information/protecting-files).) 
+ (تعرف على المزيد حول [حماية الملفات](umbrella://information/protecting-files).) 
 
 *   قم بحماية مفتاحك الخاص بكلمة مرور قوية.
 
-(اعرف المزيد عن [كلمات المرور] (umbrella://information/passwords).)
+(اعرف المزيد عن [كلمات المرور](umbrella://information/passwords).)

@@ -18,4 +18,4 @@ title: إجهاد صدمة
 
 ![image](stress3.png)
 
-[خبير الإجهاد] (umbrella://stress/stress/expert)  يتعامل مع الإجهاد اللاحق للصدمة.
+[خبير الإجهاد](umbrella://stress/stress/expert)  يتعامل مع الإجهاد اللاحق للصدمة.

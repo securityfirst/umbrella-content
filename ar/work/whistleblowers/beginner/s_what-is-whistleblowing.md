@@ -10,4 +10,4 @@ title: ما هو whistleblowing؟
 
 يخبرك هذا الدرس بكيفية تقييم المخاطرة وحماية نفسك إذا اخترت أن تصبح مخبأ.
 
-تعلم حماية المصادر و whistleblowers في [Whistleblowers المستوى المتقدم] (umbrella://work/whistleblowers/advanced).
+تعلم حماية المصادر و whistleblowers في [Whistleblowers المستوى المتقدم](umbrella://work/whistleblowers/advanced).

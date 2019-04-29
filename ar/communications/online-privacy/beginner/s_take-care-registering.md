@@ -26,7 +26,7 @@ title: احرص على التسجيل
 
 قد يستمر موقع الوسائط الاجتماعية في تسجيل عنوان IP الخاص بك ، والذي يمكنه الكشف عن موقعك. استخدم VPN أو متصفح Tor لإخفاء موقعك.
 
-(تعرف على المزيد حول [الخصوصية عبر الإنترنت] (umbrella://communications/online-privacy).)
+(تعرف على المزيد حول [الخصوصية عبر الإنترنت](umbrella://communications/online-privacy).)
 
 # تأمين حسابك
 
@@ -44,7 +44,7 @@ title: احرص على التسجيل
 
 *   اخترع الإجابات وخزنها في مدير كلمات المرور.
 
-(تعرف على المزيد حول هذا الموضوع في [كلمات المرور المتقدمة.] (umbrella://information/passwords/advanced)) 
+(تعرف على المزيد حول هذا الموضوع في [كلمات المرور المتقدمة.](umbrella://information/passwords/advanced)) 
 
 ## الانخراط بحكمة
 
@@ -56,4 +56,4 @@ title: احرص على التسجيل
 
 * راقب النشاط غير العادي الذي قد يشير إلى أن حساب صديق قد تم اختراقه أو خداعه من أجل خداعك.
 
-(تعرف على [الهندسة الاجتماعية] (umbrella://communications/phishing/beginner/s_social-engineering.md).)
+(تعرف على [الهندسة الاجتماعية](umbrella://communications/phishing/beginner/s_social-engineering.md).)

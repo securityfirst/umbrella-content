@@ -16,7 +16,7 @@ title: الان چی؟
 
 ### خواندن بیشتر
 
-* اول امنیت ، [رمزهای عبور امن و رمزگذاری داده ها] (https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1)، یک آموزش رایگان آنلاین در Advocacy Assembly است.
+* اول امنیت ، [رمزهای عبور امن و رمزگذاری داده ها](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1)، یک آموزش رایگان آنلاین در Advocacy Assembly است.
 * EFF، نظارت و دفاع از خود، [ایجاد کلمات قوی) (https://ssd.eff.org/en/module/creating-strong-passwords)
-* EFF ["راهنمای انواع رایج اعتبار دو عامل در وب"] (https://www.eff.org/deeplinks/2017/09/guide-common-types-two-factor-authentication-web ) 22 سپتامبر 2017.
-* امنیت در Box[ایجاد و نگهداری کلمات عبور ایمن] (https://securityinabox.org/en/guide/passwords/)
+* EFF ["راهنمای انواع رایج اعتبار دو عامل در وب"](https://www.eff.org/deeplinks/2017/09/guide-common-types-two-factor-authentication-web ) 22 سپتامبر 2017.
+* امنیت در Box[ایجاد و نگهداری کلمات عبور ایمن](https://securityinabox.org/en/guide/passwords/)

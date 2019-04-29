@@ -26,7 +26,7 @@ Correo electrónico cifrado para Mac
 - La capacidad de proteger sus comunicaciones por correo electrónico para que nadie las lea, excepto sus destinatarios.
 - La capacidad de demostrar que un correo electrónico provino de una persona en particular, en lugar de ser un mensaje falso enviado por otro remitente (de otra manera es muy fácil que el correo electrónico sea fabricado). Ambas son defensas importantes si se lo busca por vigilancia o información errónea.
 
-**Nota:** Si le preocupa que el correo electrónico encriptado con PGP no sea seguro después de que se informaron las vulnerabilidades en mayo de 2018, lea la sección Efail de nuestra lección avanzada de [email] (umbrella://communications/email).
+**Nota:** Si le preocupa que el correo electrónico encriptado con PGP no sea seguro después de que se informaron las vulnerabilidades en mayo de 2018, lea la sección Efail de nuestra lección avanzada de [email](umbrella://communications/email).
 
 ### 1.0 Antes de Comenzar
 
@@ -63,7 +63,7 @@ Estas son herramientas que, en su mayoría, funcionarán entre bastidores para q
 
 GPGServices agrega opcionalmente una función a OS X para permitirle usar PGP directamente en programas distintos al correo electrónico (por ejemplo, en un procesador de textos). GPGPreferences es para cambiar la configuración de PGP en las preferencias de Apple. Finalmente, MacGPG2 es la herramienta básica que cualquier programa debe utilizar para realizar el cifrado o la firma.
 
-En octubre de 2014, el equipo de GPG Tools anunció que pronto se cobraría por GPGMail, la parte de su paquete que le permite usar GPG con la aplicación Mail de Apple. Este tutorial trata sobre el uso de GPG con Thunderbird, así que no usa ese componente. Puede usar la parte de costo cero de la suite GPG, como se describe aquí, si lo desea. Esta opción tiene la ventaja adicional de que todas estas herramientas son "software libre", lo que significa que aún se le permite examinar, editar y redistribuir libremente el código fuente subyacente de GPG Mail, por lo que son aún más seguros. Para obtener más información, consulte GPG Tools [Preguntas Frecuentes] (https://gpgtools.org/news.html) sobre su decisión.
+En octubre de 2014, el equipo de GPG Tools anunció que pronto se cobraría por GPGMail, la parte de su paquete que le permite usar GPG con la aplicación Mail de Apple. Este tutorial trata sobre el uso de GPG con Thunderbird, así que no usa ese componente. Puede usar la parte de costo cero de la suite GPG, como se describe aquí, si lo desea. Esta opción tiene la ventaja adicional de que todas estas herramientas son "software libre", lo que significa que aún se le permite examinar, editar y redistribuir libremente el código fuente subyacente de GPG Mail, por lo que son aún más seguros. Para obtener más información, consulte GPG Tools [Preguntas Frecuentes](https://gpgtools.org/news.html) sobre su decisión.
 
 
 Haga clic en "Continuar" para instalar GPG Suite.
@@ -88,7 +88,7 @@ Sin embargo, para algunas personas no tendrá sentido agregar su nombre real a s
 
 **La carga de su clave es una práctica normal, pero puede revelar que está utilizando el cifrado, incluso si no usa su propio nombre. Además, como veremos, otros pueden cargar su clave y asociar su propia clave con ella, lo que implica que usted y ellos tienen una conexión. Eso puede ser dañino si se está comunicando y no quiere que la gente lo sepa. También puede ser problemático si no te estás comunicando, pero tu atacante quiere que la gente piense que estás asociado.**
 
-Aquí hay una guía general: si está pensando en usar un seudónimo en general, use ese seudónimo (y un correo electrónico alternativo) al etiquetar su clave. Si se encuentra en un entorno más peligroso, cuando no quiere que la gente sepa que está usando PGP en absoluto, o sabe con quién se está comunicando, no cargue su clave en los servidores de claves públicos, y asegúrese de que el grupo de personas con las que se está comunicando tampoco debe cargar su clave. Hay otras formas de verificar que las claves no dependen de que estén disponibles en el servidor de claves públicas. Consulte la guía de EFF para [Verificación de Claves] (https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) para más información.
+Aquí hay una guía general: si está pensando en usar un seudónimo en general, use ese seudónimo (y un correo electrónico alternativo) al etiquetar su clave. Si se encuentra en un entorno más peligroso, cuando no quiere que la gente sepa que está usando PGP en absoluto, o sabe con quién se está comunicando, no cargue su clave en los servidores de claves públicos, y asegúrese de que el grupo de personas con las que se está comunicando tampoco debe cargar su clave. Hay otras formas de verificar que las claves no dependen de que estén disponibles en el servidor de claves públicas. Consulte la guía de EFF para [Verificación de Claves](https://ssd.eff.org/en/module/key-verification#overlay=en/node/37/) para más información.
 
 Haga clic en el cuadro "Cargar clave pública después de la generación" si desea que otros encuentren su clave rápidamente para que puedan enviarle mensajes cifrados. Es como agregar su número de teléfono a un directorio telefónico público: no lo necesita, pero es conveniente para otros.
 
@@ -161,11 +161,11 @@ Luego verá el primer asistente de ejecución. Para configurar su dirección de 
 
 Si utiliza servicios gratuitos de correo electrónico populares como Gmail, Thunderbird debería poder detectar automáticamente su configuración de correo electrónico cuando haga clic en Continuar. Si no es así, es posible que deba configurar manualmente las configuraciones de IMAP y SMTP; pida ayuda a su ISP o a un amigo técnico que sepa sobre la configuración de correo electrónico. A veces, Thunderbird puede simplemente adivinar la configuración correcta.
 
-**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña estándar de Gmail con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte la [guía de Google] (https://support.google.com/mail/answer/1173270?hl=en) for doing this.** ![image](tool_pgposx13.png)
+**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña estándar de Gmail con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte la [guía de Google](https://support.google.com/mail/answer/1173270?hl=en) for doing this.** ![image](tool_pgposx13.png)
 
 Una vez que haya terminado de configurar Thunderbird para revisar tu correo electrónico, haga clic en "Listo". Luego haga clic en "Bandeja de entrada" en la parte superior izquierda para cargar sus correos electrónicos.
 
-Ahora que ha instalado y configurado Thunderbird para que funcione con su correo electrónico, debe instalar [Enigmail] (https://www.enigmail.net/home/index.php), el complemento GPG para Thunderbird. En Thunderbird, haga clic en el icono de menú en la parte superior derecha y elija Complementos.
+Ahora que ha instalado y configurado Thunderbird para que funcione con su correo electrónico, debe instalar [Enigmail](https://www.enigmail.net/home/index.php), el complemento GPG para Thunderbird. En Thunderbird, haga clic en el icono de menú en la parte superior derecha y elija Complementos.
 ![image](tool_pgposx14.png)
 
 Busque "enigmail" en el cuadro de búsqueda en la parte superior derecha.

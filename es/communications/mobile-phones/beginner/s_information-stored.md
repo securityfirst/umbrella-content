@@ -70,7 +70,7 @@ Las fotos y videos que toma en su teléfono incluyen metadatos. Los metadatos pu
 
 Los metadatos son compatibles con la credibilidad de las imágenes y los videos utilizados como evidencia. Pero los metadatos también pueden ponerlo a usted o a otros en riesgo.
 
-[CameraV] (https://guardianproject.info/apps/camerav/) es un complemento para ObscuraCam.
+[CameraV](https://guardianproject.info/apps/camerav/) es un complemento para ObscuraCam.
 
 CameraV puede:
 

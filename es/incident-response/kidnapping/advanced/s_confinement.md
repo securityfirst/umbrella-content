@@ -79,4 +79,4 @@ Busque información que pueda ayudar a establecer la comunicación, controlar el
 
 _Nunca te involucre directamente en las negociaciones para su liberación. Esto solo complicara las cosas._
 
-(Comparta los formularios de [prueba de vida] (umbrella://forms/f_digital-security-incident.yml) con su equipo.)
+(Comparta los formularios de [prueba de vida](umbrella://forms/f_digital-security-incident.yml) con su equipo.)

@@ -4,7 +4,7 @@ title: أدوات الخصوصية
 ---
 ### تشفير الملفات والتواصل دون الكشف عن هويتك لحماية هويتك.
 
-(تعرف على [حماية الملفات] (umbrella://information/protecting-files).) 
+(تعرف على [حماية الملفات](umbrella://information/protecting-files).) 
 
 ## قطرة آمنة
 
@@ -12,7 +12,7 @@ Secure Drop هو برنامج مجاني ومفتوح المصدر يمكنك ا
 
 يمكنك الوصول إلى Secure Drop عبر Tor للتأكد من أنك تستخدمه بشكل مجهول.
 
-(تعرف على المزيد حول هذا الموضوع في [الخصوصية عبر الإنترنت] (umbrella://communications/online-privacy/advanced).) 
+(تعرف على المزيد حول هذا الموضوع في [الخصوصية عبر الإنترنت](umbrella://communications/online-privacy/advanced).) 
 
 ## اتصال آمن
 
@@ -20,4 +20,4 @@ Secure Drop هو برنامج مجاني ومفتوح المصدر يمكنك ا
 
 إذا كان الخصوم المحتملون في سياقك يشملون الحكومة أو وكالات الاستخبارات ، ففكر في استخدام [Ricochet.im] في (https://ricochet.im/). إنه برنامج مجاني مفتوح المصدر يسمح لك بتبادل الرسائل المشفرة من طرف إلى طرف عبر شبكة Tor باستخدام عنوان فريد بدلاً من اسم مستخدم.
 
-(تعرف على [إرسال رسالة] (umbrella://communications/sending-a-message).)
+(تعرف على [إرسال رسالة](umbrella://communications/sending-a-message).)
