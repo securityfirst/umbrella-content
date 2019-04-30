@@ -13,6 +13,6 @@ title: تهديدات مادية
 
 يوضح لك هذا الدرس كيفية تقييم بيئة عملك ووضع خطة لحمايتها.
 
-يخبرك [مساحة العمل المتقدمة]((umbrella: // lesson / protect-your-space / 1) بكيفية حماية المعلومات من المتطفلين.
+يخبرك [مساحة العمل المتقدمة]((umbrella://information/protect-your-workspace/advanced) بكيفية حماية المعلومات من المتطفلين.
 
 يخبرك [Expert Space Expert] من (umbrella://information/protect-your-workspace/expert) بكيفية حماية أجهزتك من التهديدات المادية.

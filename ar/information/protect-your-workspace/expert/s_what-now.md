@@ -4,7 +4,7 @@ title: ماذا الان؟
 ---
 مرر سريعًا لليمين للحصول على قائمة مراجعة هذا الدرس
 
-يوضح [مساحة العمل المتقدمة](umbrella: // lesson / protect-your-space / 1) كيفية حماية المعلومات من المتطفلين.
+يوضح [مساحة العمل المتقدمة](umbrella://information/protect-your-workspace/advanced) كيفية حماية المعلومات من المتطفلين.
 
 يخبرك [Workspace Expert] في (umbrella://information/protect-your-workspace/expert) بكيفية حماية أجهزتك من التهديدات المادية.
 

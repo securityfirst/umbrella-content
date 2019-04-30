@@ -13,7 +13,7 @@ title: الان چی؟
 *   [تلفن های همراه](umbrella://communications/mobile-phones/beginner)
 *   [بد افزار](umbrella://information/malware)
 *   [اینترنت پیشرفته](umbrella://communications/the-internet/advanced)
-*   Tor برای ویندوز [(chatch: // lesson / tor-for-windows)، [مک](chatch: // lesson / tor-for-mac-os-x) و [لینوکس](umbrella: // lesson / tor-for-linux)
+*   Tor برای ویندوز [(umbrella://tools/tor/s_tor-for-windows.md)، [مک](umbrella://tools/tor/s_tor-for-mac-os-x.md) و [لینوکس](umbrella://tools/tor/s_tor-for-linux.md)
 *   [رمزنگاری آیفون خود](umbrella://tools/encryption/s_encrypt-your-iphone.md)
 *   [راه اندازی امنیت عمومی برای آندروید](umbrella://tools/other/s_android.md)
 
