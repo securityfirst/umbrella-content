@@ -18,4 +18,4 @@ Incluso si sus mensajes están encriptados, cualquier teléfono que use transmit
 
 Proteja la privacidad en las redes sociales. Difumine los rostros con [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md) y elimine (o conserve de forma segura) los metadatos de las imágenes con [CameraV](https://guardianproject.info/apps/camerav/).
 
-(Obtenga información sobre [Privacidad en línea](umbrella: // communications / online-privacy / beginner).)
+(Obtenga información sobre [Privacidad en línea](umbrella://communications/online-privacy/beginner).)

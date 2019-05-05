@@ -299,14 +299,14 @@ title: فيزيائي
 ** قبول النداءات العاجلة؟ ** نعم
 
 ** الوصف: ** يقوم المقرر الخاص للأمم المتحدة المعني بالمدافعين عن حقوق الإنسان بدعم وجمع المعلومات نيابة عن المدافعين عن حقوق الإنسان في جميع أنحاء العالم. يعمل الممثل الخاص في استقلال تام لأي ولاية ، وليس موظفًا في الأمم المتحدة ، ولا يحصل على راتب. 
-** موقع الويب: ** من خلال  http://[www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/) 
+** موقع الويب: ** من خلال  [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/) 
  جنيف ، هاتف:  (+41) 22 917 1234 
  ** أرسل شكوى عبر البريد الإلكتروني: ** urgent-action@ohchr.org
 
 ** الموارد الإضافية: **
 
-*   المبادئ التوجيهية لتقديم الشكاوي://www2.ohchr.org/english/issues/ defenders/complaints.htm
-*   إعلان الأمم المتحدة حول حقوق الإنسان Defendershttp: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/) declaration.htm
+*   [المبادئ التوجيهية لتقديم الشكاوي](http://www2.ohchr.org/english/issues/defenders/complaints.htm)
+*   [إعلان الأمم المتحدة حول حقوق الإنسان Defenders](www2.ohchr.org/english/issues/defenders/declaration.htm)
 
 ## مكتب المفوض السامي لحقوق الإنسان
 
@@ -314,7 +314,7 @@ title: فيزيائي
 قبول الطعون العاجلة؟ ** نعم 
 ** الوصف: ** يعمل مكتب المفوض السامي لحقوق الإنسان التابع للأمم المتحدة (OHCHR) على تعزيز وحماية تمتع جميع الناس بجميع الحقوق المنصوص عليها في ميثاق الأمم المتحدة ، بما في ذلك الإعلان العالمي لحقوق الإنسان.
 
-** موقع الويب: ** http: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
+** موقع الويب: ** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
  جنيف ، هاتف: (+41) 22 917 0656
  ** أرسل شكوى عبر البريد الإلكتروني: ** urgent-action@ohchr.org (اتبع التعليمات [هنا](http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 

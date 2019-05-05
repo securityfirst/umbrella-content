@@ -13,7 +13,7 @@ title: بعد
 *   قد لا تحصل على الهدوء والخصوصية التي تريدها على الفور.
 *   الخطف هو محنة نفسية ضخمة: توقع أن تشعر بأثرها لعدة أشهر وربما حتى سنوات قادمة.
 
-(تعرف على ما يجب فعله إذا كنت معتادًا على se0x4fbd56f677 اعتراضًا في [Sexual Assault Advanced](umbrella: // incident-response / sexual-assault / advanced).)
+(تعرف على ما يجب فعله إذا كنت معتادًا على se0x4fbd56f677 اعتراضًا في [Sexual Assault Advanced](umbrella://incident-response/sexual-assault/advanced).)
 
 *   اشعر بالثقة من أنه يمكنك التعافي والمضي قدماً في حياتك ، بمساعدة مناسبة.
 
