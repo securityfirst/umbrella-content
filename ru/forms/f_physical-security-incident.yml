@@ -1,0 +1,105 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'Название:'
+  - name: title
+    type: text_input
+    label: Заголовок
+  - name: phone
+    type: text_input
+    label: 'Телефон:'
+  - name: email-address
+    type: text_input
+    label: 'Адрес электронной почты:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'Безопасный способ связи (например, номер безопасного Signal  или ID электронной
+      почты PGP):'
+  title: Контактные данные
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 'Укажите краткое описание:'
+  title: Описание инцидента
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: Тип инцидента
+    options:
+    - label: Угроза / Оскорбления
+      value: Threat / Harassment
+    - label: Столкновение с властями / вооруженными силами
+      value: Difficult encounter with authorities/ military forces
+    - label: Задержание / Арест
+      value: Detention / Arrest
+    - label: Ограбление / Засада
+      value: Robbery / Ambush
+    - label: Ограбление автомобиля
+      value: Carjacking
+    - label: Нападение на личность
+      value: Personal Assault
+    - label: Сексуальное насилие
+      value: Sexual Assault
+    - label: Похищение
+      value: Kidnap / Abduction
+    - label: Стрельба
+      value: Shooting
+    - label: Бомбардировка / Перекрестный огонь
+      value: Bombardment / Crossfire
+    - label: Мины
+      value: Landmine
+    - label: Другое
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: Тип инцидента
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: 'Характер травм или ущерба/угрозы/украденное имущество и т. д .:'
+  title: Воздействие / потенциальное воздействие
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: Какие шаги предприняты?
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: Мотив или исполнители?
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: Кто сообщил об инциденте на местном уровне?
+  title: Кто сообщил об инциденте на местном уровне?
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: Охватывают ли ваши правила безопасности этот тип инцидента? Соблюдены ли
+      руководящие указания?
+  title: Охватывают ли ваши правила безопасности этот тип инцидента? Соблюдены ли
+    руководящие указания?
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: Нужно ли каким-либо образом пересматривать руководящие принципы или любые
+      другие аспекты управления безопасностью?
+  title: Нужно ли каким-либо образом пересматривать руководящие принципы или любые
+    другие аспекты управления безопасностью?
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 'Изученные уроки:'
+  title: Пожалуйста, предложите конкретные меры, которые могут помочь избежать подобных
+    инцидентов в будущем.
+- items:
+  - name: action-requested
+    type: text_area
+    label: Требуется какое-либо действие?
+  title: Требуется какое-либо действие?
+- items:
+  - name: supporting-information
+    type: text_area
+    label: Любая вспомогательная информация?
+  title: Любая вспомогательная информация?
+title: Инцидент физической безопасности

@@ -1,0 +1,217 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'Имя:'
+  - name: phone
+    type: text_input
+    label: 'Телефон:'
+  - name: email-address
+    type: text_input
+    label: 'E-mail:'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-email-id
+    type: text_input
+    label: 'Информация безопасности (безопасный номер Signal, идентификатор ключа
+      PGP):'
+  title: Ваши контактные данные
+- items:
+  - name: provide-brief-description
+    type: multiple_choice
+    label: Что случилось? (Отметьте все, что применимо)
+    options:
+    - label: Частные данные доступны или открыты
+      value: Private data was accessed or exposed
+    - label: Я отключил свой аккаунт или устройство
+      value: ' I’m shut out of my account or device'
+    - label: Я столкнулся с вирусом или вредоносным ПО
+      value: ' I''ve encountered a virus or malware'
+    - label: Моя система или устройство повреждены
+      value: ' My system or device is damaged'
+    - label: Мой сайт или сервис отключен
+      value: ' My website or service is disabled'
+    - label: Информация или активы были украдены
+      value: ' Information or assets have been stolen'
+    - label: Инцидент является конфиденциальным, свяжитесь со мной для уточнения
+      value: ' The incident is confidential, contact me for details'
+    - label: У меня есть еще одна проблема цифровой безопасности (пожалуйста, опишите)
+      value: ' I have another digital security problem (please describe)'
+  - name: provide-brief-description-2
+    type: text_area
+    label: Пожалуйста, предоставьте подробности
+  title: Подробности
+- items:
+  - name: date-time-incident-discovered
+    type: text_input
+    hint: Date, time
+    label: Когда вы обнаружили инцидент?
+  title: Время
+- items:
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
+    label: Насколько серьезен инцидент? Отметьте все, что применимо
+    options:
+    - label: Чья-то физическая безопасность в опасности
+      value: Someone’s physical security is at risk
+    - label: информация или активы находятся в опасности
+      value: ' information or assets are at risk'
+    - label: Чья-то репутация в опасности
+      value: ' Someone’s reputation is at risk'
+    - label: Я не уверен
+      value: ' I’m not sure'
+    - label: Другое (пожалуйста, опишите)
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
+    label: Пожалуйста, предоставьте подробности
+  title: Влияние
+- items:
+  - name: devices-accounts-services
+    type: multiple_choice
+    label: Какие устройства, учетные записи или сервисы могут быть скомпрометированы?
+      Отметьте все, что применимо
+    options:
+    - label: E-mail
+      value: Email
+    - label: Веб-сайт
+      value: ' Website'
+    - label: Социальные сети
+      value: ' Social media'
+    - label: Обмен сообщениями или VOIP
+      value: ' Messaging or VOIP'
+    - label: Мобильный телефон или планшет
+      value: ' Mobile phone or tablet'
+    - label: Мобильный компьютер
+      value: ' Mobile computer'
+    - label: Настольный компьютер
+      value: ' Desktop computer'
+    - label: Сервер
+      value: ' Server'
+    - label: Внешнее устройство хранения
+      value: ' External storage device'
+    - label: Другое
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
+    label: Пожалуйста, предоставьте детали
+  title: Детали воздействия
+- items:
+  - name: approximate-number-users-affected-incident
+    type: text_input
+    label: Сколько людей может пострадать?
+  title: Масштаб
+- items:
+  - name: incident-resolved
+    type: multiple_choice
+    label: Инцидент был разрешен?
+    options:
+    - label: Да, я использую эту форму для документирования того, что произошло
+      value: Yes, I’m using this form to document what happened
+    - label: Нет, я использую эту форму, чтобы правильно обратиться за поддержкой
+      value: ' No, I’m using this form to help me seek support'
+  title: Статус
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
+    label: Соблюдаете ли вы рекомендации по устранению этого инцидента?
+    options:
+    - label: Да, я следую рекомендациям
+      value: Yes, I am following guidelines
+    - label: Нет, я использую информацию, доступную в Umbrella и других бесплатных
+        источниках, для разрешения инцидента
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+    - label: У меня есть рекомендации, но я не смог им следовать. (Пожалуйста, поясните:)
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
+    type: text_area
+  title: Методические рекомендации
+- items:
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
+    label: Какие действия вы уже предприняли? Отметьте все, что применимо.
+    options:
+    - label: Я отключил устройства, подключенные к Интернету
+      value: I’ve disconnected the devices involved from the Internet
+    - label: Я безопасно задокументировал все, что произошло (снял скриншоты, сохранил
+        логи антивирусных программ)
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+    - label: Я изменил свои пароли и уведомил свои контакты с чистого устройства
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
+    - label: Я сообщил об инциденте поставщикам услуг
+      value: ' I’ve reported the incident to service providers'
+    - label: Я уведомил эксперта по ИТ или безопасности, или правоохранительные органы,
+        если это применимо
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+    - label: Я переустановил операционную систему, если это необходимо, и восстановил
+        файлы резервных копий до атаки
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+    - label: 'Другое - опишите, пожалуйста:'
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
+  title: Ответ
+- items:
+  - name: notified
+    type: text_input
+    hint: Name, title
+    label: Кто был уведомлен?
+  - name: needs-to-be-notified
+    type: text_input
+    label: Кто еще должен быть уведомлен?
+  title: Уведомление
+- items:
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
+    label: Кто провел атаку?
+    options:
+    - label: Злоумышленник идентифицировал себя (пожалуйста, сообщите подробности)
+      value: The attacker identified themselves (please provide details)
+    - label: Атака была анонимной, но у меня есть предположения (пожалуйста, сообщите
+        подробности)
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
+    - label: Я не знаю
+      value: ' I don''t know'
+  - name: provide-brief-description-6
+    type: text_area
+    label: 'Подробности:'
+  title: Ответственность
+- items:
+  - name: provide-brief-description-6
+    type: text_area
+    label: Каков вероятный мотив?
+  title: Мотив
+- items:
+  - name: supporting-information-screenshots-suspicious-attachment-emails
+    type: multiple_choice
+    label: Я безопасно сохранил следующую информацию (отметьте все подходящие варианты)
+    options:
+    - label: Скриншоты
+      value: Screenshots
+    - label: Что-то я отправил в качестве вложения
+      value: ' Something I was sent as an attachment'
+    - label: E-mail или сообщения
+      value: ' Emails or messages'
+    - label: Другое (пожалуйста, опишите :)
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
+  title: Доказательства
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: Что бы вы изменили, чтобы предотвратить повторение этого инцидента?
+  title: Размышления
+- items:
+  - name: action-requested
+    type: text_area
+    label: Какие действия вам нужно предпринять, чтобы решить этот инцидент?
+  title: Следующие шаги
+- items:
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
+    label: Что еще нужно рассказать людям о случившемся?
+  title: Что-нибудь еще?
+title: Инцидент цифровой безопасности
