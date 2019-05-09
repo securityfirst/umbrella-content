@@ -6,7 +6,7 @@ title: سایفون
 
 منع سانسور
 
-** درسی برای خواندن: [اینترنت](چتر: // درس / اینترنت) **
+** درسی برای خواندن: [اینترنت](umbrella://communications/the-internet)**
 ** محل دانلود: ** [Google Play](https://play.google.com/store/apps/details؟id=com.psiphon3.subscription)، [فروشگاه App اپل](https://itunes.apple .com / us / app / psiphon / id1276263909؟ ls = 1 & mt = 8) یا [psiphon](https://psiphon.ca/en/download.html).
 ** نیازهای کامپیوتر: ** اتصال به اینترنت و دستگاهی که در حال اجرا ویندوز، Android 2.3 یا بالاتر یا iOS 10.2 یا بالاتر (iOS 8 برای مرورگر Psiphon) است.
 ** مجوز: ** رایگان نرم افزار منبع باز؛ نسخه 3 GNU GPL

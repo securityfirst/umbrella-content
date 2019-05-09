@@ -18,8 +18,8 @@ title: تور
 
 آنطور که Tor مسیر ترافیک وب شما را راه میاندازد، یک ابزار قابل اعتماد، امن و عمومی برای دور زدن سانسور را فراهم می کند که موجب صرفه جویی شما برای ارزیابی پروکسی ها و VPN ها برای حفظ حریم خصوصی و امنیت می شود.
 
-(در مورد [سانسور](چتر: // ارتباطات / سانسور / مبتدی) اطلاعات بیشتری کسب کنید.)
+(در مورد [سانسور](umbrella://communications/censorship/beginner) اطلاعات بیشتری کسب کنید.)
 
 با این حال، Tor می تواند کند و دشوار باشد.
 
-(چگونگی استفاده از مرورگر Tor برای ویندوز [(چتر: //tools/tor/s_tor-for-windows.md)، [مک](چتر: // tools / tor / s_tor-for-mac-os- x.md) و [لینوکس](چتر: //tools/tor/s_tor-for-linux.md).)
+(چگونگی استفاده از مرورگر Tor برای [ویندوز ] [(umbrella://tools/tor/s_tor-for-windows.md)، [مک](umbrella://tools/tor/s_tor-for-mac-os-x.md) و [لینوکس](umbrella://tools/tor/s_tor-for-linux.md).)

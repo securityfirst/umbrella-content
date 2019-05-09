@@ -4,14 +4,14 @@ title: الان چی؟
 ---
 برای چک لیست این درس به سمت راست بکشید.
 
-یاد بگیرید که چگونه یک رمز عبور قوی در [Passwords Beginner] ایجاد کنید (umbrella://information/passwords/beginner).
+یاد بگیرید که چگونه یک رمز عبور قوی در [رمزعبور مبتدی](umbrella://information/passwords/beginner)ایجاد کنید.
 
-یاد بگیرید که چگونه رمز عبور خود را در [گذرواژه پیشرفته](چتر: // درس / گذرواژه / 1) مدیریت کنید.
+یاد بگیرید که چگونه رمز عبور خود را در [گذرواژه پیشرفته](umbrella://information/passwords/advanced) مدیریت کنید.
 
 ### درس های مرتبط / ابزارها
 
 *   [حفاظت از فایل ها](umbrella://information/protecting-files)
-*   [آماده سازی](چتر: // درس / آماده سازی)
+*   [آماده سازی](umbrella://travel/preparation) 
 
 ### خواندن بیشتر
 

@@ -6,8 +6,8 @@ title: الان چی؟
 
 ### درس های مرتبط / ابزارها
 
-*   سیگنال برای [آندروید](چتر: // درس / سیگنال برای اندیشه)
-*   سیگنال برای [iOS](چتر: // درس / سیگنال برای iOS)
+*   سیگنال برای [آندروید](umbrella://tools/messaging/s_signal-for-android.md) 
+*   سیگنال برای [iOS]((umbrella://tools/messaging/s_signal-for-ios.md) 
 *   [پيام‌رسان پيجين (Pidgin)](umbrella://tools/messaging/s_pidgin.md)
 
 ### خواندن بیشتر

@@ -14,4 +14,4 @@ title: یادآوری گذرواژههای ایمن
 
 *   ** استفاده از کلمات اختصاری: ** آیا امروز خوشحال هستید؟ می شود 'rU :-) 2d @ y؟'
 
-(در مورد [Passwords Advanced](چتر: // درس / گذرواژه / 1) در مورد پایگاه داده های رمز عبور ایمن مانند [KeePassXC](چتر: // درس / keepassx) یاد بگیرید.
+(در مورد رمزعبور دیتابیس مانند [KeePassXC](umbrella://tools/encryption/s_keepassxc.md) درin [رمز عبور حرفه ای](umbrella://information/passwords/advanced) یاد بگیرید.

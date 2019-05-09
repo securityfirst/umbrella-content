@@ -2,7 +2,7 @@
 index: 3
 title: خشونت علیه زنان
 ---
-تقریبا یک چهارم زنان از هشت کشور تحت بررسی سازمان عفو بین الملل در سال 2017 (https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse -against-women / گفتند که آنها دست کم یک بار با سوءاستفاده های آنلاین یا آزار و اذیت روبرو شده اند.
+تقریبا یک چهارم زنان از هشت کشور تحت بررسی سازمان عفو بین الملل در سال [2017](https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse-against-women/) گفتند که آنها دست کم یک بار با سوءاستفاده های آنلاین یا آزار و اذیت روبرو شده اند.
 
 41٪ از این زنان گفتند این تجربیات آنلاین باعث شد که احساس امنیت فیزیکی آنها تهدید شود.
 
@@ -16,4 +16,4 @@ title: خشونت علیه زنان
 
 > * "[آزار و اذیت توسط فرد ناشناس] زنان را از نوشتن و از داشتن درآمد آنلاین دلسرد می کند. این زندگی حرفه ای را تحت تاثیر قرار می دهد. این آنها را به سطح کارگران بی سوادی و اشیاء جنسی پایین می برند." * Danielle Keats Citron، وکیل آمریکایی
 
-(در مورد [گفتار نفرت انگیز علیه زنان](چتر: //communications/online-abuse/advanced/s_hate-speech-against-women.md) را مطالعه کنید.)
+(در مورد [گفتار نفرت انگیز علیه زنان](umbrella://communications/online-abuse/advanced/s_hate-speech-against-women.md) را مطالعه کنید.)

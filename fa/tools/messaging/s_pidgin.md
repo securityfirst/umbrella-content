@@ -8,7 +8,7 @@ title: Pidgin
 پیام های فوری رمز شده برای ویندوز
 
 ** درسی برای خواندن:
-- [ارسال پیام](چتر: // درس / ارسال یک پیام) **
+- [ارسال پیام](umbrella://communications/sending-a-message)**
 ** محل دانلود: **
 - [https://pidgin.im/download/](https://pidgin.im/download/)
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)

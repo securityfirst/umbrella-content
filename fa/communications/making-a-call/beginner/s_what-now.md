@@ -7,8 +7,8 @@ title: الان چی؟
 ### درس های مرتبط / ابزارها
 
 *   [تلفن های همراه](umbrella://communications/mobile-phones)
-*   سیگنال برای [آندروید](چتر: // درس / سیگنال برای اندیشه)
-*   سیگنال برای [iOS](چتر: // درس / سیگنال برای ios)
+*   سیگنال برای [آندروید](umbrella://tools/messaging/s_signal-for-android.md) 
+*   سیگنال برای [iOS](umbrella://tools/messaging/s_signal-for-ios.md) 
 
 ### خواندن بیشتر
 

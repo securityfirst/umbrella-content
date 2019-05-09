@@ -6,11 +6,11 @@ title: سیگنال برای آندروید
 ==============================
 پیام های ایمن
 
-** درسی برای  خواندن: [ارسال پیام](چتر: // درس / ارسال یک پیام) **
+** درسی برای  خواندن: [ارسال پیام](umbrella://communications/sending-a-message) **
 ** سطح **: مبتدی و متوسط
 ** زمان مورد نیاز **: 15-20 دقیقه
 ** منتشر شده: آوریل 2018 (برخی از تاریخ تصاویر از نسخه های قبلی است)
-** منابع: ** EFF، Surveillance Self-Defense [نحوه استفاده از Signal for Android](https://ssd.eff.org/en/module/how-use-signal-android)؛ امنیت در جعبه [SIGNAL FOR ANDROID](https://securityinabox.org/en/guide/signal/android/).
+** منابع: ** EFF، Surveillance Self-Defense [نحوه استفاده از Signal for Android](https://ssd.eff.org/en/module/how-use-signal-android)؛ امنیت در جعبه [سیگنال برای اندروید](https://securityinabox.org/en/guide/signal/android/).
 
 ** استفاده از سیگنال توانایی زیر را به شما خواهد داد: **
 

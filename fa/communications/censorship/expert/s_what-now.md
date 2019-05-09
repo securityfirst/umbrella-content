@@ -8,7 +8,7 @@ title: الان چی؟
 
 ### درس های مرتبط / ابزارها
 
-*   [ایمیل] umbrella://communications/email/beginner)
+*   [ایمیل](umbrella://communications/email/beginner)
 * [حریم خصوصی آنلاین](umbrella://communications/online-privacy)
 *   [مدیریت اطلاعات](umbrella://information/managing-information)
 *   [تظاهرات](umbrella://work/protests/beginner)

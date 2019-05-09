@@ -5,7 +5,7 @@ title: K9 و باز کردن Keychain
 # K-9 و بازکردن ابزار راهنمای keychain
 
 
-** درسی برای خواندن: [ایمیل پیشرفته](چتر: // درس / ایمیل / 1). **
+** درسی برای خواندن: [ایمیل پیشرفته](umbrella://communications/email/advanced). **
 ** سطح **: پیشرفته
 ** تاریخ انتشار: مه 2018
 ** منابع: ** امنیت در Box، [K9 با APG برای آندروید](https://securityinabox.org/en/guide/k9/android/)، Open Keychain [سوالات متداول](https: //www.openkeychain .org / faq /)
@@ -36,7 +36,7 @@ title: K9 و باز کردن Keychain
 - یک حساب ایمیل که از اتصالات امن POP3 یا IMAP پشتیبانی می کند. (ببینید کدام تنظیمات را با رایج ترین سرویس دهنده های پست الکترونیکی [اینجا](https://k9mail.github.io/documentation/accounts/providerSettings.html) استفاده می کنید.
 - جفت کلید OpenPGP و کلیدهای عمومی افرادی که با آن ارتباط برقرار می کنید.
 
- در مورد کلید رمزگذاری کلید عمومی / خصوصی در کلاس درس (چتر: // درس / ایمیل) بیشتر بدانید. نحوه ایجاد کلید خود را در ابزارهای راهنما برای [Mailvelope](چتر: // درس / نامه الکترونیکی) یا PGP برای [LINUX](چتر: // درس / pgp برای لینوکس)، [Mac OSX](چتر: // درس / pgp-for-mac-os-x) یا [ویندوز](چتر: // درس / pgp-for-windows)
+ در مورد کلید رمزگذاری کلید عمومی / خصوصی در کلاس درس [ایمیل](umbrella://communications/email) بیشتر بدانید. نحوه ایجاد کلید خود را در ابزارهای راهنما برای [Mailvelope](umbrella://tools/messaging/s_mailvelope.md) یا PGP برای [LINUX](umbrella://tools/pgp/s_pgp-for-linux.md)، [Mac OSX](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), یا [ویندوز](umbrella://tools/pgp/s_pgp-for-windows.md).
 
 # 2. K9 Mail را نصب و پیکربندی کنید
 

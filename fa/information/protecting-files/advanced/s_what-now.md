@@ -8,7 +8,7 @@ title: الان چی؟
 
 *   [مدیریت اطلاعات](umbrella://information/managing-information)
 *   [بد افزار](umbrella://information/malware)
-*   [رمزهای عبور](چتر: // درس / گذرواژهها / 0)
+*   [رمزهای عبور](umbrella://information/passwords/beginner)
 *   [VeraCrypt](umbrella://tools/files/s_veracrypt.md)
 
 ### خواندن بیشتر

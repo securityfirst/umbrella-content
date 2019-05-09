@@ -102,7 +102,7 @@ title: فیزیکی
 ** وب سایت: ** [cpj.org](https://cpj.org/)
 نیویورک، تلفن: (+1) 212 465-1004
 ** ایمیل: ** report_violations@cpj.org
-** آدرس امن: ** 2x2hb5ykeu4qlxqe.onion (فقط از طریق مرورگر Tor قابل دسترسی است. برای دستورالعمل، روی [اینجا] کلیک کنید (https://cpj.org/emergency-response/how-to-get-help.php. یاد بگیرید نحوه استفاده از مرورگر Tor برای ویندوز [(chatch: // lesson / tor-for-windows) [Mac](chunk: // lesson / tor-for-mac-os-x) و [Linux]( چتر: // درس / tor-for-linux).)
+** آدرس امن: ** 2x2hb5ykeu4qlxqe.onion (فقط از طریق مرورگر Tor قابل دسترسی است. برای دستورالعمل، روی [اینجا] کلیک کنید (https://cpj.org/emergency-response/how-to-get-help.php. یاد بگیرید نحوه استفاده از مرورگر Tor [برای ویندوز]((umbrella://tools/tor/s_tor-for-windows.md) [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md) و [Linux](umbrella://tools/tor/s_tor-for-linux.md).)
 
 ## انجمن بین المللی امنیت اروپا
 

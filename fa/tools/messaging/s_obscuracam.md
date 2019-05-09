@@ -7,8 +7,8 @@ title: ObscuraCam
 ## راهنمای ابزار ObscuraCam
 
 ** درسی برای خواندن: **
-- [تلفن های همراه](چتر: // درس / تلفن همراه)
-- [رسانه های اجتماعی](چتر: // درس / رسانه های اجتماعی)
+- [تلفن های همراه](umbrella://communications/mobile-phones) 
+- [رسانه های اجتماعی](umbrella://communications/social-media) 
 ** محل دانلود: ** [صفحه اصلی ObscuraCam](https://guardianproject.info/apps/obscuracam/)
 ** مورد نیاز تلفن: ** اندروید 2.3.3 و بالاتر
 ** نسخه مورد استفاده در این راهنمای: ** 2.0-RC2b

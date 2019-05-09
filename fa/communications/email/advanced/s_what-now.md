@@ -4,13 +4,13 @@ title: الان چی؟
 ---
 برای چک لیست این درس به سمت راست بکشید.
 
-چگونگی به بهبود امنیت ایمیل پایه را در [ایمیل مبتدی](چتر: // درس / ایمیل / 0)یاد بگیرید.
+چگونگی به بهبود امنیت ایمیل پایه را در [ایمیل مبتدی](umbrella://communications/email/beginner)یاد بگیرید.
 
 ### درس های مرتبط / ابزارها
 
 *   [اینترنت](umbrella://communications/the-internet)
-*   [Mailvelope](چتر: // درس / نامه)
-*   PGP برای [لینوکس](چتر: // درس / pgp برای لینوکس)، [Mac OS](چتر: // درس / pgp-for-mac-os-x) و [ویندوز](چتر: // درس / pgp-for-windows)
+*   [Mailvelope](umbrella://tools/messaging/s_mailvelope.md) .
+*   PGP برای [لینوکس](umbrella://tools/pgp/s_pgp-for-linux.md)، [Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md) و [ویندوز](umbrella://tools/pgp/s_pgp-for-windows.md) .
 *   [K-9 و باز کردن Keychain](umbrella://tools/encryption/s_k9-apg.md)
 
 ### خواندن بیشتر

@@ -4,7 +4,7 @@ title: الان چی؟
 ---
  برای چک لیست این درس به سمت راست بکشید.
 
-در صورت دستگیر شدن در [دستگیری مبتدی]((چتر: // حادثه-پاسخ / دستگیری / مبتدی) یاد بگیرید که چه کاری انجام دهید؟
+در صورت دستگیر شدن در [دستگیری مبتدی]((umbrella://incident-response/arrests/beginner) یاد بگیرید که چه کاری انجام دهید.)
 
 ### درس های مرتبط / ابزارها
 
@@ -24,4 +24,4 @@ title: الان چی؟
 
 *   Penal Reform International، [راهنمای مختصر قوانین نلسون ماندلا (اصلاح قوانین استاندارد حداقل)](https://www.penalreform.org/resource/short-guide-to-the-nelson-mandela-rules/)، 2016.
 *   انجمن بین المللی امنیت اروپا، [خانواده اول: برقراری ارتباط و پشتیبانی در طول بحران) (https://www.eisf.eu/wp-content/uploads/2013/02/1141-Davidson-2013-Family-First-Liaison-and -Support-During-a-Crisis-2.pdf)، فوریه 2013.
-*   انجمن امنیت بین المللی اروپا، [حادثه امنیتی In0x11c0669733ccation مدیریت (SIIM) راهنمای](https: // www.eisf.eu / library / security-incident-in0x11c0669733ccation-management-handbook /)، 14 سپتامبر 2017.
+*   انجمن امنیت بین المللی اروپا، [حادثه امنیتی In0x11c0669733ccation مدیریت (SIIM) راهنمای](https://www.eisf.eu/library/security-incident-information-management-handbook/)، 14 سپتامبر 2017.
