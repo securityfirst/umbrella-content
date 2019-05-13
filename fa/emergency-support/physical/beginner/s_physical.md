@@ -299,14 +299,14 @@ title: فیزیکی
 **درخواست های فوری را میپذیرد؟ بله
 
 ** شرح: ** گزارشگر ویژه سازمان ملل متحد در مورد مدافعان حقوق بشر از طرف مدافعان حقوق بشر در سراسر جهان اطلاعات را جمع آوری و پشتیبانی می کند. نماینده ویژه در استقلال کامل هر ایالت عمل می کند، عضو سازمان ملل متحد نیست و حقوق و دستمزد دریافت نمی کند.
-** وب سایت: ** http: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
+** وب سایت: ** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
 ژنو، تلفن: (+41) 22 917 1234
 ** شکایت ایمیل: ** urgent-action@ohchr.org
 
 **منابع اضافی:**
 
 *   دستورالعمل برای ارسال complaintshttp: مدافعان //www2.ohchr.org/english/issues/ / complaints.htm
-*   اعلامیه سازمان ملل متحد برای مدافعان حقوق بشرhttp: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/) declaration.htm
+*   اعلامیه سازمان ملل متحد برای مدافعان حقوق بشر[http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/) declaration.htm
 
 ## دفتر کمسیونرهای عالی حقوق بشر، سازمان ملل.
 
@@ -314,7 +314,7 @@ title: فیزیکی
 **  درخواست های فوری را میپذیرد؟ بله
 ** شرح: ** دفتر کمسیونرهای عالی حقوق بشر سازمان ملل متحد (OHCHR) از تمامی افراد حقوق بشر که از منشور سازمان ملل متحد شامل اعلامیه جهانی حقوق بشر حمایت می کنند، از تحقق کامل آن حمایت می کند و از آن ها محافظت می کند.
 
-** وب سایت: ** http: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
+** وب سایت: ** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
 ژنو، تلفن: (+41) 22 917 0656
 ** ایمیل شکایت: ** urgent-action@ohchr.org (دنبال دستورالعمل [اینجا](http://www2.ohchr.org/english/bodies/chr/special/communications.htm))
 
@@ -335,7 +335,7 @@ title: فیزیکی
 ** وبسایتها: ** [کمیسیون بین آمریکایی](https://www.oas.org/es/cidh/)
 [دادگاه بین المللی آمریکا](http://www.corteidh.or.cr/)
 
-## کمیسیون آفریقایی حقوق بشر 
+## کمیسیون آفریقایی حقوق بشر
 
 ** از کجا: ** آفریقا
 ** زبان ها: ** انگلیسی، فرانسوی

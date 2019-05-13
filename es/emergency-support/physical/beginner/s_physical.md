@@ -299,7 +299,7 @@ Además de las organizaciones del sector ciudadano, las instituciones interguber
 **¿Aceptan Apelaciones Urgentes?** Sí
 
 **Descripción:** El Representante Especial de la ONU de los Defensores de Derechos Humanos apoya y recopila información en nombre de los defensores de los derechos humanos en todo el mundo. El Representante Especial opera con total independencia de cualquier estado, no es un miembro del personal de la ONU y no recibe un salario.
-**Sitio web:** http: // [www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
+**Sitio web:** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
 Ginebra, Tel: (+41) 22 917 1234
 **Enviar una queja por correo electrónico:** urgent-action@ohchr.org
 

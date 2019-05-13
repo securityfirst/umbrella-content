@@ -8,7 +8,7 @@ title: K9 و باز کردن Keychain
 ** درسی برای خواندن: [ایمیل پیشرفته](umbrella://communications/email/advanced). **
 ** سطح **: پیشرفته
 ** تاریخ انتشار: مه 2018
-** منابع: ** امنیت در Box، [K9 با APG برای آندروید](https://securityinabox.org/en/guide/k9/android/)، Open Keychain [سوالات متداول](https: //www.openkeychain .org / faq /)
+** منابع: ** امنیت در Box، [K9 با APG برای آندروید](https://securityinabox.org/en/guide/k9/android/)، Open Keychain [سوالات متداول](https://www.openkeychain.org/faq/)
 
 ** K-9 Mail ** یک کلاینت ایمیل رایگان و منبع باز برای دستگاه های آندروید است.
 
@@ -17,14 +17,14 @@ title: K9 و باز کردن Keychain
 ** استفاده از K-9 Mail با   Open Keychain به شما قابلیت های زیر را خواهد داد: **
 - توانایی استفاده از ایمیل رمز شده بر روی دستگاه Android شما.
 
-** محل دانلود: ** [K-9 Mail](https://play.google.com/store/apps/details؟id=com.fsck.k9) و [Open Keychain](https: // play. google.com/store/apps/details؟) در فروشگاه Google Play.
+** محل دانلود: ** [K-9 Mail](https://play.google.com/store/apps/details؟id=com.fsck.k9) و [Open Keychain](https://play.google.com/store/apps/details؟) در فروشگاه Google Play.
 ** نرم افزار مورد نیاز: ** آندروید 4.0.3 و بالاتر.
 ** نسخه مورد استفاده در این راهنمای **: 5.403 (K-9 Mail)؛ 5.0.2 (Open Keychain)
 ** مجوز **: FOSS
 
 # 1. معرفی
 
-** K-9 Mail ** یک کامپوننت ایمیل جامع است که به شما اجازه می دهد تا از یک یا چند حساب ایمیل در دستگاه اندرویدی خود، ایمیل دریافت و ارسال کنید و کارهای امنیتی بیشتر انجام دهید [Open Keychain](https: // play) استفاده کنید. google.com/store/apps/details؟id=org.sufficientlysecure.keychain&hl=fa_GB).
+** K-9 Mail ** یک کامپوننت ایمیل جامع است که به شما اجازه می دهد تا از یک یا چند حساب ایمیل در دستگاه اندرویدی خود، ایمیل دریافت و ارسال کنید و کارهای امنیتی بیشتر انجام دهید [Open Keychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain&hl=fa_GB).
 
 **توجه داشته باشید:**
 - خدمات پیام رسانی ایمن مانند سیگنال یک انتخاب بهتر برای ارتباط حساس نسبت به ایمیل است.

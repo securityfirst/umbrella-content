@@ -22,11 +22,11 @@ HTTPS, (también conocido como SSL o TLS), cifra sus comunicaciones para que no 
 
 ## "S" es por "Seguro"
 
-Para averiguarlo, busque https: // (no http: //) al comienzo de la dirección web: https://mail.google.com.
+Para averiguarlo, busque https:// (no http://) al comienzo de la dirección web: https://mail.google.com.
 
 Incluso si su correo web utiliza HTTPS de forma predeterminada (deberían):
 
-*   Siempre verifique que diga https: // antes de iniciar sesión. Si solo ve http: //, agregue "s" y actualice la página.
+*   Siempre verifique que diga https:// antes de iniciar sesión. Si solo ve http://, agregue "s" y actualice la página.
 
 *   Descargue el complemento del navegador [HTTPS Everywhere](https://www.eff.org/https-everywhere) para Firefox o Chrome.
 
