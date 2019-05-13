@@ -64,7 +64,7 @@ ObscuraCam می تواند:
 *   عکسهای اصلی را حذف کند؛
 *   اگر تنظیمات را انجام بدهید، عکس ها و فیلم ها را در سرور شما آپلود کند.
 
-(یاد بگیرید چگونه از [ObscuraCam](چتر: //tools/messagging/s_obscuracam.md)استفاده کنید.)
+(یاد بگیرید چگونه از [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md)استفاده کنید.)
 
 ## از CameraV استفاده کنید
 
