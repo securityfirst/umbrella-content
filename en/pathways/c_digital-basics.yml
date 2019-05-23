@@ -1,6 +1,5 @@
 index: 2
 list:
-- label: DIGITAL SECURITY BASICS
 - check: Secure your [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
    or [Android](umbrella://tools/other/s_android.md)
 - check: Learn about [HTTPS](umbrella://communications/email/beginner) and using it everywhere
