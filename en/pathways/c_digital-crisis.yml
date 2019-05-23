@@ -1,6 +1,5 @@
 index: 4
 list:
-- label: DIGITAL SECURITY CRISIS
 - check: You found [malware](umbrella://information/malware) on your computer 
 - check: Your email has been [hacked](umbrella://communications/email)
 - check: Internet [censorship](umbrella://communications/censorship)
