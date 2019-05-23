@@ -1,6 +1,5 @@
 index: 3
 list:
-- label: PHYSICAL SECURITY BASICS
 - check: Signs of [stress](umbrella://stress/stress)
 - check: [Home and office](umbrella://information/protect-your-workspace) security
 - check: Pros and cons of [radio and satphone](umbrella://communications/radios-and-satellite-phones) communication
