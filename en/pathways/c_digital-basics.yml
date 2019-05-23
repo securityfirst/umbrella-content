@@ -4,7 +4,7 @@ list:
 - check: Secure your [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
    or [Android](umbrella://tools/other/s_android.md)
 - check: Learn about [HTTPS](umbrella://communications/email/beginner) and using it everywhere
-- check:Use [strong passwords](umbrella://information/passwords/beginner), 
+- check: Use [strong passwords](umbrella://information/passwords/beginner), 
    [KeePassXC](umbrella://tools/encryption/s_keepassxc.md), and [2FA](umbrella://information/passwords/advanced)
 - check: Use Signal for [messaging](umbrella://communications/sending-a-message/beginner) and [calls](umbrella://communications/making-a-call/beginner) 
    ([Android](umbrella://tools/messaging/s_signal-for-android.md) and [iOS](umbrella://tools/messaging/s_signal-for-ios.md))
