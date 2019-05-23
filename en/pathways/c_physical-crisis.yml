@@ -1,6 +1,5 @@
 index: 5
 list:
-- label: PHYSICAL SECURITY CRISIS
 - check: Approaching a [border](umbrella://travel/borders/beginner)
 - check: Approaching a [checkpoint](umbrella://travel/checkpoints/beginner/s_on-approach.md)
 - check: Vehicle [accidents](umbrella://travel/vehicles/beginner/s_accidents.md)
