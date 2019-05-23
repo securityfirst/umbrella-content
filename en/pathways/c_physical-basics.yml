@@ -1,18 +1,13 @@
 index: 3
-list:
-- check: Signs of [stress](umbrella://stress/stress)
-- check: [Home and office](umbrella://information/protect-your-workspace) security
-- check: Pros and cons of [radio and satphone](umbrella://communications/radios-and-satellite-phones) communication
-- check: [Medical](umbrella://travel/preparation/beginner/s_medical.md) precautions for travel
-- check: Simple [precautions](umbrella://travel/borders/beginner) in hostile environments
-- check: Always [wear a seatbelt](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)
-- check: Prepare a [cover story](umbrella://travel/checkpoints/beginner)
-- check: Establish [codes](umbrella://communications/mobile-phones/beginner/s_information-sent.md), 
-   [duress words](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md), 
-   and [proof of life](umbrella://forms/f_proof-life-form.yml) for your team
-- check: Manage [relationships](umbrella://work/public-communications) with authorities, the media, and the public
-- check: Pack for a [trip](umbrella://travel/preparation/beginner), 
-   [vehicle](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), 
-   [safe house](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), 
-   or emergency [grab bag](umbrella://travel/protective-equipment/beginner) 
-- check: [Equipment](umbrella://travel/protective-equipment/advanced) for extreme or combat conditions
+list: 
+  - check: "Signs of [stress](umbrella://stress/stress)"
+  - check: "[Home and office](umbrella://information/protect-your-workspace) security"
+  - check: "Pros and cons of [radio and satphone](umbrella://communications/radios-and-satellite-phones) communication"
+  - check: "[Medical](umbrella://travel/preparation/beginner/s_medical.md) precautions for travel"
+  - check: "Simple [precautions](umbrella://travel/borders/beginner) in hostile environments"
+  - check: "Always [wear a seatbelt](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+  - check: "Prepare a [cover story](umbrella://travel/checkpoints/beginner)"
+  - check: "Establish [codes](umbrella://communications/mobile-phones/beginner/s_information-sent.md),  [duress words](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md),  and [proof of life](umbrella://forms/f_proof-life-form.yml) for your team\n"
+  - check: "Manage [relationships](umbrella://work/public-communications) with authorities, the media, and the public"
+  - check: "Pack for a [trip](umbrella://travel/preparation/beginner),  [vehicle](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md),  [safe house](umbrella://incident-response/evacuation/beginner/s_safe-houses.md),  or emergency [grab bag](umbrella://travel/protective-equipment/beginner) \n"
+  - check: "[Equipment](umbrella://travel/protective-equipment/advanced) for extreme or combat conditions"
