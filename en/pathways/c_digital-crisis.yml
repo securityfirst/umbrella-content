@@ -1,10 +1,10 @@
 index: 4
 list:
-- check: You found [malware](umbrella://information/malware) on your computer 
-- check: Your email has been [hacked](umbrella://communications/email)
-- check: Internet [censorship](umbrella://communications/censorship)
-- check: Dealing with [hate speech](umbrella://communications/online-abuse/advanced/s_hate-speech.md) on social media
-- check: Respond to blackmail, doxxing, identity theft, or other [online abuse](umbrella://communications/online-abuse)
-- check: Receiving a [phishing](umbrella://communications/phishing/beginner) message
-- check: [Emergency Support](umbrella://emergency-support/digital)
-- check: Report or record [digital security incidents](umbrella://forms/f_digital-security-incident.yml)
+- check: "You found [malware](umbrella://information/malware) on your computer" 
+- check: "Your email has been [hacked](umbrella://communications/email)"
+- check: "Internet [censorship](umbrella://communications/censorship)"
+- check: "Dealing with [hate speech](umbrella://communications/online-abuse/advanced/s_hate-speech.md) on social media"
+- check: "Respond to blackmail, doxxing, identity theft, or other [online abuse](umbrella://communications/online-abuse)"
+- check: "Receiving a [phishing](umbrella://communications/phishing/beginner) message"
+- check: "[Emergency Support](umbrella://emergency-support/digital)"
+- check: "Report or record [digital security incidents](umbrella://forms/f_digital-security-incident.yml)"
