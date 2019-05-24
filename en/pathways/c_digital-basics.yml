@@ -15,7 +15,7 @@ list:
    and [social engineering](umbrella://communications/phishing/beginner/s_social-engineering.md)"
 - check: "Make an informed choice about [email](umbrella://communications/email/advanced) encryption" 
 - check: "Privacy on [social media, blogs, and the cloud](umbrella://communications/online-privacy/beginner)"
-- check: "Protect your [metadata](umbrella://communications/online-privacy/advanced/s_anonymity-online.md)" 
+- check: "Protect your [metadata](umbrella://communications/online-privacy/advanced/s_anonymity-online.md) 
    with tools like [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)"
 - check: "Use a [VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md) to disguise your location or 
    [Tor](umbrella://communications/online-privacy/advanced/s_tor.md) to protect your anonymity ([Windows](umbrella://tools/tor/s_tor-for-windows.md), 
