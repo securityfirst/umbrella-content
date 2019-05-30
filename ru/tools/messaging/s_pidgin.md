@@ -7,8 +7,7 @@ title: Pidgin
 ## Руководство по инструменту Pidgin
 Зашифрованный обмен мгновенными сообщениями для Windows
 
-**Урок для чтения:
-- [Отправка сообщений](umbrella://communications/sending-a-message)**   
+**Урок для чтения: [Отправка сообщений](umbrella://communications/sending-a-message)**   
 **Местоположение загрузки:**  
 - [https://pidgin.im/download/](https://pidgin.im/download/)    
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)   
