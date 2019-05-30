@@ -21,7 +21,7 @@ title: ObscuraCam
 - The ability to obscure identities by hiding faces in photos taken with your Android device  
 - An easy way to share or save these "obscured" photos
 
-### 1.1 Things you should know about this tool before you start
+### 1.0 Things you should know about this tool before you start
 
 - ObscuraCam's automatic face-recognition does not _always_ work, but you can easily select and obscure faces manually.  
 - On some versions of the Android operating system, the option to delete the original media file does not work. If you rely on this option, please check to make sure that you do not have ObscuraCam photos (with visible faces!) somewhere on your device.  
