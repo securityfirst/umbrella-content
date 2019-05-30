@@ -10,12 +10,14 @@ title: Pidgin
 **Урок для чтения: [Отправка сообщений](umbrella://communications/sending-a-message)**   
 **Местоположение загрузки:**  
 - [https://pidgin.im/download/](https://pidgin.im/download/)    
-- [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)   
+- [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)
+
 **Требования к компьютеру:** Интернет-соединение, компьютер под управлением Windows XP или выше и учетная запись XMPP (Jabber).
 _(Pidgin может работать со многими системами чатов, но здесь мы сосредоточимся на XMPP, ранее известном как Jabber)_  
 **Версия, используемая в этом руководстве:**
 - Windows 7 Ultimate    
-- Pidgin 2.10.9, pidgin-otr 4.0.0-1    
+- Pidgin 2.10.9, pidgin-otr 4.0.0-1
+
 **Лицензия:** Свободное ПО; сочетание лицензий на свободное программное обеспечение  
 **Уровень:** Начинающий  
 **Дополнительное чтение:** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
