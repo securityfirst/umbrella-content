@@ -6,13 +6,13 @@ title: Psiphon
 
 Обход цензуры
 
-**Урок для чтения: [Интернет](umbrella://communications/the-internet)** 
-**Местоположение загрузки:** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) или [Psiphon](https://psiphon.ca/en/download.html). 
-**Требования к компьютеру:** Интернет-соединение и устройство под управлением Windows, Android 2.3 или более поздней версии или iOS 10.2 или более поздней версии (iOS 8 для браузера Psiphon) 
-**Лицензия:** Бесплатное программное обеспечение с открытым исходным кодом; GNU GPL версии 3
-**Уровень:** Начинающий 
-**Дополнительное чтение:** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html) 
-**Требуемое время:** 5 минут
+**Урок для чтения: [Интернет](umbrella://communications/the-internet)**  
+**Местоположение загрузки:** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App store](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) или [Psiphon](https://psiphon.ca/en/download.html).   
+**Требования к компьютеру:** Интернет-соединение и устройство под управлением Windows, Android 2.3 или более поздней версии или iOS 10.2 или более поздней версии (iOS 8 для браузера Psiphon)  
+**Лицензия:** Бесплатное программное обеспечение с открытым исходным кодом; GNU GPL версии 3  
+**Уровень:** Начинающий   
+**Дополнительное чтение:** [https://psiphon.ca/en/user-guide.html](https://psiphon.ca/en/user-guide.html)   
+**Требуемое время:** 5 минут  
 
 **Использование Psiphon даст вам:**
 - Возможность безопасного обхода интернет-цензуры для доступа к заблокированным веб-сайтам и приложениям с помощью VPN (виртуальная частная сеть).
