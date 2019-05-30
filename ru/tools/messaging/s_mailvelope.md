@@ -54,7 +54,7 @@ Mailvelope позволит вам:
 
 Поскольку Mailvelope является расширением браузера, он работает на большинстве настольных операционных систем. Список включает GNU / Linux, Microsoft Windows и Mac OS X. Он не работает на мобильных устройствах Android или iOS. Ниже приведены несколько бесплатных и открытых альтернатив:
 
-- [**Thunderbird с Enigmail**](../../thunderbird/windows) полный почтовый клиент с добавленным шифрованием PGP для GNU / Linux, Microsoft Windows и Mac OS X
+- [**Thunderbird с Enigmail**](https://www.thunderbird.net) полный почтовый клиент с добавленным шифрованием PGP для GNU / Linux, Microsoft Windows и Mac OS X
 - [**GPG4Win**](https://www.gpg4win.org/) PGP набор инструментов шифрования электронной почты и файлов для Microsoft Windows
 - [**GPG Tools Suite**](https://gpgtools.org/) для Mac OS X
 - [**gpg4usb**](https://www.gpg4usb.org/) автономный портативный инструмент PGP для GNU / Linux и Microsoft Windows
