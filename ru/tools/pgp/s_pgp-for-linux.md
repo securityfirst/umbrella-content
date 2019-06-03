@@ -13,7 +13,8 @@ title: PGP для Linux
 - Linux: Debian 7.0 ("Wheezy")  
 - Mozilla Thunderbird 24.8.1  
 - Enigmail 1.6  
-- GPG4Win 1.4.18  
+- GPG4Win 1.4.18
+
 **Лицензия:** Бесплатное ПО; сочетание лицензий на бесплатное программное обеспечение  
 **Уровень:** Эксперт  
 **Дополнительное чтение:** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html)  
