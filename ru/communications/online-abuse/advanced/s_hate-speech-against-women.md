@@ -28,12 +28,12 @@ title: Ненавистные речи против женщин
 
 *   Документируйте и признайте проблему.
 
-* Подробнее: [Руководство Аниты Саркисян по Интернету, женщина в Интернете](https://www.marieclaire.com/culture/news/a13403/online-haraption-terms-fight-back/) *
+*Подробнее: [Руководство Аниты Саркисян по Интернету, женщина в Интернете](https://www.marieclaire.com/culture/news/a13403/online-haraption-terms-fight-back/)*
 
 *   Предложите поддержку.
 
-* Подробнее: PEN America, [Наилучшая практика для союзников и свидетелей](https://onlineharaptionsfieldmanual.pen.org/best-practices-for-allies-and-witcies/) *
+*Подробнее: PEN America, [Наилучшая практика для союзников и свидетелей](https://onlineharaptionsfieldmanual.pen.org/best-practices-for-allies-and-witcies/)*
 
 *   Требуйте большего от людей с ответственностью.
 
-* Подробнее: Международная Амнистия, [Токсичный Twitter: Ядовитое место для женщин](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/ #topanchor) *
+*Подробнее: Международная Амнистия, [Токсичный Twitter: Ядовитое место для женщин](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/ #topanchor)*
