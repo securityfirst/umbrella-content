@@ -2,10 +2,10 @@
 index: 6
 title: Efail
 ---
-** Efail **
+**Efail**
 =====================================
 
-** Дата: ** 15 мая 2018 года
+**Дата:** 15 мая 2018 года
 
 На этой неделе исследователи безопасности опубликовали информацию об уязвимостях в почтовых клиентах PGP, которые могут отображать прошлый или будущий контент, даже если он был зашифрован. EFF [предупредил](https://www.eff.org/deeplinks/2018/05/not-so-pretty-what-you-need-know-about-e-fail-and-pgp-flaw-0) пользователей этих почтовых клиентов, чтобы они отключили или удалили плагины PGP и переключились на другой безопасный способ связи. Список почтовых клиентов включает Thunderbird с Enigmail, которые рекомендуются в руководстве по инструментам Umbrella PGP для [Linux](umbrella: //lesson/pgp-for-linux), [Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md) и [Windows](umbrella://tools/pgp/s_pgp-for-windows.md).)
 ,
