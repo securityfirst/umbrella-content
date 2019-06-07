@@ -21,7 +21,7 @@ title: Не полагайтесь на сайты социальных сете
 
 (Узнайте больше о [Фишинге](umbrella://communications/phishing).)
 
-* Если вам действительно нужно использовать Facebook Messenger, включите Secret Conversations в приложении для Android или iOS. (Узнайте, как в разделе [Конфиденциальность Facebook](umbrella://tools/other/s_facebook.md).)*
+*Если вам действительно нужно использовать Facebook Messenger, включите Secret Conversations в приложении для Android или iOS. (Узнайте, как в разделе [Конфиденциальность Facebook](umbrella://tools/other/s_facebook.md).)*
 
 ![image](socialb4.png)
 
