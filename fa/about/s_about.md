@@ -26,4 +26,5 @@ Security First (اول امنیت) همچنین آموزش امنیت فیزیک
 *   Mitesh Patel -> در قسمت اصلاح و بهبودی چیزها
 *   Adam Schakaki -> در قسمت درست کردن چیزها
 
-Licences](umbrella://licences/)-- [Thank you](umbrella://thankyou/) ]
+[Licences](umbrella://licences/)
+[Thank you](umbrella://thankyou/)
