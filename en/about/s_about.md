@@ -14,17 +14,17 @@ Our team:
 
 *   Rok Biderman -> builds things
 *   Rory Byrne -> secures things
+*   Jacopo Carboni -> droids things
+*   Lucas Correa -> apples things
 *  	Alex Guerrieri -> moars things
 *   Holly Kilroy -> founds things
-*   Vesna Planko -> designs things
-*   Douglas Mesquita -> droids things
-*   Lucas Correa -> apples things
 *   Sun Lee -> webs things
-*   Jacopo Carboni -> helps things
+*   Vesna Planko -> designs things
 *   Gregor Stamejčič -> corrals things 
-*   Madeline Earp -> writes things
 
 Friends from the past now working on new things:
+*   Madeline Earp -> wrote things
+*   Douglas Mesquita -> droided things
 *   Mitesh Patel -> improved things
 *   Adam Schakaki -> fixed things
 
