@@ -4,7 +4,7 @@ title: About
 ---
 ## Hello there!
 
-Umbrella is an open source tool built by Security First - a small NGO based in Shoreditch, London. In our years of working with high-risk activists around the world we saw the need to make security easier and more accessible - so we decided to come together and do something about it.
+Umbrella is an open source tool built by Security First - a small NGO based in London and Dublin. In our years of working with high-risk activists around the world we saw the need to make security easier and more accessible - so we decided to come together and do something about it.
 
 Security First also offers physical and digital security training for activists, journalists and aid workers. Our courses cover everything from sending a secure email to conducting physical counter-surveillance and dealing with sensitive sources. We train everyone from large NGOs to high-risk individual activists.
 
@@ -28,5 +28,11 @@ Friends from the past now working on new things:
 *   Mitesh Patel -> improved things
 *   Adam Schakaki -> fixed things
 
+Special thanks to the [OSCE ODIHR](https://www.osce.org/odihr) team who helped us out over the years:
+*   David Mark -> connected things
+*   Johanna Pruessing -> corralled things
+*   Marine Constant -> supported things
+*   Mattia Gambini -> continued things
+
 [Licences](umbrella://licences/)  
-[Thank you](umbrella://thankyou/)
+[Thank you to many other awesome people](umbrella://thankyou/)
