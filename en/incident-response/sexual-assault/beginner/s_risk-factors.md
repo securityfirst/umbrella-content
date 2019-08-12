@@ -12,11 +12,13 @@ title: Risk factors
 
 This could include: 
 
- 	*	Paramilitaries or police reputed to breach international standards of law; 
-	*	Undisciplined government soldiers; 
-	* 	Rebel groups and violent youth movements; 
-	*	Demobilised, unemployed soldiers; 
-	* 	Armed criminals who may commit sexual assault if they find a victim while commiting a robbery.
+```
+*	Paramilitaries or police reputed to breach international standards of law; 
+*	Undisciplined government soldiers; 
+* 	Rebel groups and violent youth movements; 
+*	Demobilised, unemployed soldiers; 
+* 	Armed criminals who may commit sexual assault if they find a victim while commiting a robbery.
+```
 
 ## General risk areas 
 
