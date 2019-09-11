@@ -10,7 +10,7 @@ title: Prevention
 
 *   Behave politely and appropriately;
 
-*   Keep permits and legal documentents correct and accessible;
+*   Keep permits and legal documents correct and accessible;
 
 *   Understand local context and obey local laws and customs where possible.
 
