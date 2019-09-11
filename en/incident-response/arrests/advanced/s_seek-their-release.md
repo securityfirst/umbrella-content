@@ -27,6 +27,6 @@ harassment and abuse.*
 
 The arrest may relate to the person's actions or the organisation they work for.
 
-Your first goal is to work towards their safe and speedy release. 
+Your first goal is to work towards their safe and speedy release (if there is no legitimate reason for the arrest). 
 
 After that is obtained, consider whether you need to restore the reputation of the person or the team.
