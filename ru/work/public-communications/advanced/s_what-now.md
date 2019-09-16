@@ -6,7 +6,7 @@ title: Что теперь?
 
 Научитесь развивать отношения с различными заинтересованными сторонами в уроке [Связи с общественностью уровня Начинающий](umbrella://work/public-communications/beginner).
 
-#### ** СВЯЗАННЫЕ УРОКИ **
+#### **СВЯЗАННЫЕ УРОКИ**
 
 * [Фишинг](umbrella://communications/phishing/beginner)
 * [Пароли](umbrella://information/passwords)
