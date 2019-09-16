@@ -14,7 +14,7 @@ title: На протесте
 
 (Узнайте об [Отправке сообщений](umbrella://communications/sending-a-message).)
 
-*   ** Для обмена фотографиями и видео: **
+*   **Для обмена фотографиями и видео:**
 
 Защита конфиденциальности в социальных сетях. Сокрытие лиц с помощью [ObscuraCam](umbrella://tools/messagging/s_obscuracam.md) и удаление (или надежное сохранение) метаданных из изображений с помощью [CameraV](https://guardianproject.info/apps/camerav/).
 
