@@ -10,7 +10,7 @@ title: Что нужно запомнить
 *   Поощряйте оптимизм;
 *   Обеспечить достаточное количество еды и отдыха.
 
-(Узнайте о [Хроническом]((umbrella://stress/stress/beginner) и [Травматическом](umbrella://stress/stress/advanced) стрессе.)
+(Узнайте о [Хроническом](umbrella://stress/stress/beginner) и [Травматическом](umbrella://stress/stress/advanced) стрессе.)
 
 ## Работать эффективно
 
