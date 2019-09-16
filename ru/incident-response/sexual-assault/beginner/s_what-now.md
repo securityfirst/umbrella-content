@@ -10,13 +10,13 @@ title: Что теперь?
 
 ### СВЯЗАННЫЕ УРОКИ / ИНСТРУМЕНТЫ
 
-*   [Планирование безопасности](umbrella://assess-your-risk/security-planning)
-*     [Границы](umbrella://travel/borders)
-*   [Эвакуация](umbrella://incident-response/evacuation)
-*   [Транспортные средства](umbrella://travel/vehicles)
-*   [Под наблюдением](umbrella://work/being-followed/beginner)
-*   [Похищение](umbrella://incident-response/kidnapping/beginner)
-*   [Интернет злоупотребление](umbrella://communications/online-abuse)
+*   [Планирование безопасности](umbrella://assess-your-risk/security-planning)  
+*   [Границы](umbrella://travel/borders)  
+*   [Эвакуация](umbrella://incident-response/evacuation)  
+*   [Транспортные средства](umbrella://travel/vehicles)  
+*   [Под наблюдением](umbrella://work/being-followed/beginner)  
+*   [Похищение](umbrella://incident-response/kidnapping/beginner)  
+*   [Интернет злоупотребление](umbrella://communications/online-abuse)  
 
 ### ИСТОЧНИКИ И ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ
 
