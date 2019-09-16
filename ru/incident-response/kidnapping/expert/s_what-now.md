@@ -25,6 +25,6 @@ title: Что теперь?
 
 *   Европейский межведомственный форум по безопасности, [Family First: связь и поддержка во время кризиса](https://www.eisf.eu/wp-content/uploads/2013/02/1141-Davidson-2013-Family-First-Liaison-and-Support-During-a-Crisis-2.pdf), февраль 2013 г.
 *   Европейский межведомственный форум по безопасности, [Справочник по управлению информацией об инцидентах безопасности (SIIM)](https://www.eisf.eu/library/security-incident-information-management-handbook/), 14 сентября 2017 года.
-*   Центр журналистики и травм Дартс, [Сообщение плохих новостей: пакет руководств) (https://dartcenter.org/sites/default/files/breaking_bad_news_0.pdf), 2004.
+*   Центр журналистики и травм Дартс, [Сообщение плохих новостей: пакет руководств](https://dartcenter.org/sites/default/files/breaking_bad_news_0.pdf), 2004.
 *   Hostage UK, [Вернуться к работе: Помощь возвращению заложников обратно на рабочее место](http://www.hostageuk.org/flipbook/flipbook/?page=1), 2016.
 *   Джоэл Саймон, [Новая цензура: внутри глобальной битвы за свободу СМИ](https://cup.columbia.edu/book/the-new-censorship/9780231160643), Columbia Unversity Press, ноябрь 2014 г.
