@@ -12,6 +12,6 @@ L’appartenance à un groupe peut porter atteinte aux paramètres de confidenti
 
 (Apprenez-en plus sur l’[ingénierie sociale](umbrella://communications/phishing/beginner/s_social-engineering.md).)
 
-* Au Liban, une organisation de défense des droits LGBT a créé un profil Facebook sans photo ni amis afin de mobiliser en toute sécurité les personnes qui avaient besoin de soutien ou voulaient défendre les droits LGBT. Le profil permettait de diriger les internautes vers leur site Web sans relier publiquement les utilisateurs de Facebook à une organisation LGBT. *
+> *Au Liban, une organisation de défense des droits LGBT a créé un profil Facebook sans photo ni amis afin de mobiliser en toute sécurité les personnes qui avaient besoin de soutien ou voulaient défendre les droits LGBT. Le profil permettait de diriger les internautes vers leur site Web sans relier publiquement les utilisateurs de Facebook à une organisation LGBT.*
 
 (Étude de cas "Friendless Profile for Visibility" de la Campagne des Droits des Femmes - Boîte à outils Info-Activisme de Tactical Technology Collective)
