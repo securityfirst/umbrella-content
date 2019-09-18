@@ -21,8 +21,8 @@ Si vous courez un risque d’attaque ou si vous communiquez avec d’autres pers
 
 Si une personne de votre connaissance est victime d’une attaque de phishing, le pirate informatique peut utiliser son compte pour vous contacter par courrier électronique, sur les réseaux sociaux ou pour discuter.
 
-        * Votre ami ressemble-t-il à lui-même ?
-        * Est-ce qu’ils font des erreurs inattendues ?
+* Votre ami ressemble-t-il à lui-même ?
+* Est-ce qu’ils font des erreurs inattendues ?
 
 *Si un compte de confiance est compromis, votre instinct peut être la seule chose qui vous empêche de cliquer sur un mauvais lien.*
 
