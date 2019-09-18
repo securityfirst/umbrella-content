@@ -16,4 +16,4 @@ Ensemble, Orbot and Orfox contournent la censure d’Internet, et offre une conn
 
 Apprenez à utiliser [Orbot et Orfox](umbrella://tools/tor/s_orbot-and-orfox.md).
 
-** N’oubliez pas que ces outils ne peuvent protéger votre anonymat que si vous ne vous connectez pas à des sites ou ne publiez pas quelque chose en ligne qui pourrait vous identifier ! **
+**N’oubliez pas que ces outils ne peuvent protéger votre anonymat que si vous ne vous connectez pas à des sites ou ne publiez pas quelque chose en ligne qui pourrait vous identifier!**
