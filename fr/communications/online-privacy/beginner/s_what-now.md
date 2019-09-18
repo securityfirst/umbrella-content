@@ -24,7 +24,7 @@ Apprenez comment rester anonyme en ligne dans [Confidentialité en Ligne avancé
 
 ### LECTURES COMPLÉMENTAIRES
 
-*   Tactical Tech, XYZ, [Boîte à outils d’information sur le militantisme pour les droits des femmes].(https://xyz.informationactivism.org/en/womens-rights-campaigning-info-activism-toolkit).
+*   Tactical Tech, XYZ, [Boîte à outils d’information sur le militantisme pour les droits des femmes](https://xyz.informationactivism.org/en/womens-rights-campaigning-info-activism-toolkit).
 * *The Guardian* [rapports d’activité](https://www.theguardian.com/uk-news/cambridge-analytica) sur Cambridge Analytica.
 *   Baratunde Thurston, Médium, [Découvrez ce que Google et Facebook savent à votre sujet](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61).
 *   Global Partners Digital, [Guide de Voyage pour le Monde Numérique : Protection des Données pour les Défenseurs des Droits de l’Homme](https://www.gp-digital.org/wp-content/uploads/2018/07/travelguidetodataprotection.pdf).
