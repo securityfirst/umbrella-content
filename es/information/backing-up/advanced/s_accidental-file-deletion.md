@@ -6,7 +6,7 @@ title: Recuperación de archivos
 
 Cuando borra un archivo en su computadora, puede desaparecer, pero su contenido se puede recuperar.
 
-(Obtenga más información sobre [eliminación segura] (umbrella://information/safely-deleting).
+(Obtenga más información sobre [eliminación segura](umbrella://information/safely-deleting).
 
 Si borra información accidentalmente, esta vulnerabilidad de seguridad puede funcionar en su beneficio.
 
@@ -14,7 +14,7 @@ Si borra información accidentalmente, esta vulnerabilidad de seguridad puede fu
 
 Varios programas pueden restaurar el acceso a archivos eliminados recientemente, como Recuva para Windows.
 
-TestDisk y PhotoRec de [CGSecurity] (www.cgsecurity.org/) ofrecen recuperación gratuita de datos de código abierto para Linux, Mac y Windows.
+TestDisk y PhotoRec de [CGSecurity](www.cgsecurity.org/) ofrecen recuperación gratuita de datos de código abierto para Linux, Mac y Windows.
 
 (Aprenda a usar [Recuva](umbrella://tools/files/s_recuva.md) en nuestra guía de herramientas).
 

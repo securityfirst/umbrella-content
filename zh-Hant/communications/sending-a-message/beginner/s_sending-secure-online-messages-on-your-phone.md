@@ -10,7 +10,7 @@ Signal是一款免費，簡單的開源工具，可通過端到端加密保護�
 
 *   [安卓](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms);
 *   [iPhone](https://itunes.apple.com/ie/app/signal-private-messenger/id874139669); 
-*   [桌面] (https://signal.org/download/). 
+*   [桌面](https://signal.org/download/). 
 
 與您正在通信的人也必須安裝Signal。
 

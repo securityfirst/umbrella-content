@@ -28,7 +28,7 @@ Necesitará una combinación de software y procesos.
 * También puede elegir mover los mensajes de correo electrónico antiguos a su computadora para que no se almacenen en un servidor remoto por razones de seguridad.
 * Haga una copia de seguridad de la misma manera que los documentos electrónicos.
 
-(Obtenga más información sobre Thunderbird en las guías PGP para [Linux] (umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OS] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), y [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md).)
+(Obtenga más información sobre Thunderbird en las guías PGP para [Linux](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), y [Windows](umbrella://tools/pgp/s_pgp-for-windows.md).)
 
 ## Teléfono móvil.
 

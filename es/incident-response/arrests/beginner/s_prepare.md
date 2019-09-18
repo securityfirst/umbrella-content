@@ -28,4 +28,4 @@ title: Prepárese
 
 *   Si puede verse obligado a revelar sus contraseñas, prepare una cuenta con información sin importancia para revelar con el fin de proteger a una persona sensible con el mismo servicio.
 
-(Obtenga más información sobre esto en [Contraseñas Experto] (umbrella://information/passwords/expert).)
+(Obtenga más información sobre esto en [Contraseñas Experto](umbrella://information/passwords/expert).)

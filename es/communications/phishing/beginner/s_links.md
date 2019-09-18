@@ -10,7 +10,7 @@ title: Enlaces
 
 * Ignore los enlaces que le piden que inicie sesión en un servicio en línea. Abra su navegador web y escriba la dirección web, o URL, para el servicio en línea directamente. Los atacantes pueden enviar enlaces a páginas de inicio de sesión falsas que robarán su contraseña o información de cuenta.
 
-* Vea las URL acortadas en su totalidad copiándolas en [Unshorten.It!] (Https://unshorten.it/).
+* Vea las URL acortadas en su totalidad copiándolas en [Unshorten.It!](Https://unshorten.it/).
 Algunos ataques intentan ocultar enlaces defectuosos utilizando un servicio que acorta las URL de las redes sociales, como bit.ly.
 
-* Copie los enlaces en [VirusTotal] (https://www.virustotal.com/), un servicio que buscará malware conocido. (No atrapará todos los ataques.)
+* Copie los enlaces en [VirusTotal](https://www.virustotal.com/), un servicio que buscará malware conocido. (No atrapará todos los ataques.)

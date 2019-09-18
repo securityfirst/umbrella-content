@@ -24,7 +24,7 @@ Elija un edificio con:
 *   Rutas de escape de emergencia que son conocidas por los miembros del equipo.
 *   Asegure el estacionamiento para evitar que otros accedan a su vehículo o coloquen un rastreador.
 
-(Obtenga más información sobre esto en [Seguimiento]] (umbrella://work/being-followed/expert).)
+(Obtenga más información sobre esto en [Seguimiento]](umbrella://work/being-followed/expert).)
 
 ## Seguridad y confort
 

@@ -19,7 +19,7 @@ title: Creee una Computadora Segura
 
 ## Use Tails
 
-* [Tails] (https://tails.boum.org/) es un sistema operativo con un enfoque de privacidad y seguridad.
+* [Tails](https://tails.boum.org/) es un sistema operativo con un enfoque de privacidad y seguridad.
 * Los valores predeterminados de Tails son una configuración de alta seguridad.
 * Tails funciona bien si solo desea almacenar, editar y escribir mensajes confidenciales, incluso si prefiere otro sistema operativo día a día.
 
@@ -47,7 +47,7 @@ Si se conecta a Internet, manténgala desconectado de su identidad.
 
 *La mejor manera de protegerse contra los ataques de malware que se dirigen a su identidad, o que alguien intercepte sus comunicaciones, es mantener su dispositivo seguro completamente alejado de sus actividades habituales.*
 
-(Obtenga más información sobre esto en [Internet Avanzado] (umbrella://communications/the-internet/advanced).)
+(Obtenga más información sobre esto en [Internet Avanzado](umbrella://communications/the-internet/advanced).)
 
 ## Haga copia de seguridad
 

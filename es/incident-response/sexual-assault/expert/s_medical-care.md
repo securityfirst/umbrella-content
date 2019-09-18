@@ -14,7 +14,7 @@ El tratamiento requiere la comprensión y el acuerdo plenos de la víctima.
 
 PEP es una respuesta médica de emergencia para proteger a las personas expuestas al VIH. Se trata de medicamentos, pruebas de laboratorio y asesoramiento.
 
-La medicación aún puede ser beneficiosa si se inicia *tan pronto como sea posible* después de una posible exposición al VIH y en no más de 72 horas, y continar durante cuatro semanas. Puede causar efectos secundarios y debe tomarse bajo supervisión médica. (Consulte las pautas de la Organización Mundial de la Salud 2013 ["Profilaxis post-exposición para el VIH"] (http://www.who.int/hiv/pub/guidelines/arv2013/ Diciembre2014-ARVsupplement-chap5.pdf).)
+La medicación aún puede ser beneficiosa si se inicia *tan pronto como sea posible* después de una posible exposición al VIH y en no más de 72 horas, y continar durante cuatro semanas. Puede causar efectos secundarios y debe tomarse bajo supervisión médica. (Consulte las pautas de la Organización Mundial de la Salud 2013 ["Profilaxis post-exposición para el VIH"](http://www.who.int/hiv/pub/guidelines/arv2013/ Diciembre2014-ARVsupplement-chap5.pdf).)
 
 Las pruebas médicas para detectar enfermedades de transmisión sexual y el VIH deben repetirse de forma intermitente hasta un
 año después del incidente.

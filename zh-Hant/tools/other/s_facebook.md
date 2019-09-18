@@ -20,7 +20,7 @@ title: 臉書
 * 如果要加密從Facebook收到的通知電子郵件，請閱讀安全性的第1部分。
 
 * 通過支持Tor的瀏覽器訪問Facebook，網址為[https://facebookcorewwwi.onion/]
-(https://facebookcorewwwi.onion/)。 （了解如何使用適用於[Linux] (umbrella://tools/tor/s_tor-for-linux.md), [Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md) or [Windows] (umbrella://tools/tor/s_tor-for-windows.md)的Tor）。
+(https://facebookcorewwwi.onion/)。 （了解如何使用適用於[Linux](umbrella://tools/tor/s_tor-for-linux.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md) or [Windows](umbrella://tools/tor/s_tor-for-windows.md)的Tor）。
 
 * 您可以在Facebook Messenger iOS和Android應用程序中打開加密，但不能在桌面上打開。單擊* i *，*設置*，*秘密對話*，*打開*，或在打開任何新對話時單擊鎖定圖標。 （在[這裡](https://www.facebook.com/help/messenger-app/1084673321594605?helpref=uf_permalink)閱讀Facebook的說明。）
 
@@ -137,7 +137,7 @@ title: 臉書
 
 **步驟3. ** *標記：* *誰可以在您的時間綫上看到您標記的帖子：*在這裡，您可以決定當其他朋友在帖子和照片中標記您時會發生什麼。如果您**單擊** *編輯*，您可以**更改**這些設置，以便每個人，朋友的朋友，自定義人群或只有您自己可以看到您已被標記的帖子或事物其他人發佈在你的時間綫上。
 
-**步驟4。** *當您在帖子中標記時，如果他們還不能看到帖子，您希望誰添加到帖子的受眾？*這是指能夠發現您被標記的帖子的人通過搜索，新聞Feed或** Facebook **上的其他內容。我們建議您**將觀眾限制為* Only Me *。 **單擊** *編輯*以**更改**設置。
+**步驟4.** *當您在帖子中被標記時，如果他們還不能看到帖子，您希望讓哪位讀者看到該帖子？* 這指的是能夠發現您在帖子被標記的的人，無論是通過搜索，新聞訂閲或是**Facebook**上的其他內容。我們建議您將讀者**限制**為* Only Me*。 **單擊** *編輯*以**更改**設置。
 
 
 **步驟5. ** *當上傳的照片上傳時，誰會看到標籤建議？* ** Facebook **使用**面部識別**技術的形式，可以識別你身上的照片朋友和聯繫人的照片，並建議他們*在照片中標記*你。對於有風險的人來說，這可能會特別敏感，因此強烈建議你**如果可以使用，請停用此選項。

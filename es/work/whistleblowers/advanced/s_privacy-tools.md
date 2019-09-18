@@ -34,6 +34,6 @@ Algunos mensajeros seguros están conectados a un número de teléfono o cuenta 
 
 Si los posibles adversarios en su contexto incluyen agencias gubernamentales o de inteligencia, proporcione fuentes con aliento e instrucciones para probar un método más seguro.
 
-[Ricochet.im] (https://ricochet.im/) es un ejemplo. Es un software gratuito de código abierto que le permite intercambiar mensajes cifrados de extremo a extremo a través de la red Tor utilizando una dirección única en lugar de un nombre de usuario.
+[Ricochet.im](https://ricochet.im/) es un ejemplo. Es un software gratuito de código abierto que le permite intercambiar mensajes cifrados de extremo a extremo a través de la red Tor utilizando una dirección única en lugar de un nombre de usuario.
 
 (Obtenga información sobre [Enviar un mensaje](umbrella://communications/sending-a-message).)

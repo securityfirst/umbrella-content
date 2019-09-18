@@ -31,4 +31,4 @@ Los dispositivos seguros son:
 
 Puede almacenar datos importantes a los que rara vez necesite acceder, como una copia de respaldo, en una clave USB oculta y encriptada.
 
-(Obtenga más información sobre esto en [Protección de Archivos Avanzado] (umbrella://information/protecting-files/advanced).)
+(Obtenga más información sobre esto en [Protección de Archivos Avanzado](umbrella://information/protecting-files/advanced).)

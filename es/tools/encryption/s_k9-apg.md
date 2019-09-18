@@ -8,7 +8,7 @@ title: K9 y Open Keychain
 **Lección para leer: [Correo electrónico avanzado](umbrella://communications/email/advanced).**
 **Nivel**: Avanzado
 **Publicado:** Mayo 2018
-**Fuentes:** Security in a Box, [K9 CON APG PARA ANDROID] (https://securityinabox.org/en/guide/k9/android/), Open Keychain [Preguntas frecuentes] (https://www.openkeychain.org/faq/).
+**Fuentes:** Security in a Box, [K9 CON APG PARA ANDROID](https://securityinabox.org/en/guide/k9/android/), Open Keychain [Preguntas frecuentes](https://www.openkeychain.org/faq/).
 
 **K-9 Mail** es un cliente de correo electrónico de código abierto y gratuito para dispositivos Android.
 
@@ -17,7 +17,7 @@ title: K9 y Open Keychain
 **El uso de K-9 Mail con Open Keychain le dará:**
 - La capacidad de utilizar correo electrónico cifrado en su dispositivo Android.
 
-**Ubicación de la descarga:** [K-9 Mail] (https://play.google.com/store/apps/details?id=com.fsck.k9) y [Open Keychain](https://play.google.com/store/apps/details?) en la tienda Google Play.
+**Ubicación de la descarga:** [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) y [Open Keychain](https://play.google.com/store/apps/details?) en la tienda Google Play.
 **Requisitos de software:** Android 4.0.3 y superior.
 **Versión utilizada en esta guía**: 5.403 (Correo K-9); 5.0.2 (Open Keychain)
 **Licencia**: FOSS.
@@ -33,16 +33,16 @@ title: K9 y Open Keychain
 
 Antes de comenzar a utilizar **K-9 Mail** necesitará:
 - Una conexión a internet en su teléfono.
-- Una cuenta de correo electrónico que admita conexiones POP3 o IMAP seguras. (Vea qué configuraciones usaría con los proveedores de correo electrónico más comunes [aquí] (https://k9mail.github.io/documentation/accounts/providerSettings.html).
+- Una cuenta de correo electrónico que admita conexiones POP3 o IMAP seguras. (Vea qué configuraciones usaría con los proveedores de correo electrónico más comunes [aquí](https://k9mail.github.io/documentation/accounts/providerSettings.html).
 - Un par de claves OpenPGP y claves públicas de las personas con las que se comunicará.
 
-(Obtenga más información acerca del cifrado de clave pública/privada en la lección [email](umbrella://communications/email). Aprenda cómo generar su propia clave en las guías de herramientas para [Mailvelope] (umbrella://tools/messaging/s_mailvelope.md), o PGP para [LINUX] (umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OSX] (umbrella://tools/pgp/s_pgp-for-mac-os-x.md), o [Windows] (umbrella://tools/pgp/s_pgp-for-windows.md).)
+(Obtenga más información acerca del cifrado de clave pública/privada en la lección [email](umbrella://communications/email). Aprenda cómo generar su propia clave en las guías de herramientas para [Mailvelope](umbrella://tools/messaging/s_mailvelope.md), o PGP para [LINUX](umbrella://tools/pgp/s_pgp-for-linux.md), [Mac OSX](umbrella://tools/pgp/s_pgp-for-mac-os-x.md), o [Windows](umbrella://tools/pgp/s_pgp-for-windows.md).)
 
 # 2. Instalar y configurar el K9 Mail
 
 ## 2.1 Instalar
 
-**Paso 1.** Descargue e instale K-9 Mail de la tienda [Google Play] (https://play.google.com/store/apps/details?id=com.fsck.k9). Revise los permisos que otorga la aplicación cuidadosamente para asegurarse de que está de acuerdo.
+**Paso 1.** Descargue e instale K-9 Mail de la tienda [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9). Revise los permisos que otorga la aplicación cuidadosamente para asegurarse de que está de acuerdo.
 
 ![](tool_k9_1.png)
 
@@ -63,8 +63,8 @@ K-9 Mail se conectará a Internet e intentará obtener la configuración de su c
 **Nota**: Es posible que los usuarios con la autenticación de dos factores habilitada en su cuenta de correo electrónico deban tomar un paso adicional para usar el correo K-9.
 
 Por ejemplo:
-* Los usuarios de Gmail deben permitir que las aplicaciones menos seguras accedan a sus cuentas en la configuración y generar una contraseña de un solo uso. Lea más [aquí] (https://support.google.com/accounts/answer/6010255?hl=es).
-* Los usuarios de Yahoo pueden permitir aplicaciones que utilizan un inicio de sesión menos seguro en la Configuración de la cuenta. Lea más [aquí] (https://help.yahoo.com/kb/SLN27791.html?guccounter=1).
+* Los usuarios de Gmail deben permitir que las aplicaciones menos seguras accedan a sus cuentas en la configuración y generar una contraseña de un solo uso. Lea más [aquí](https://support.google.com/accounts/answer/6010255?hl=es).
+* Los usuarios de Yahoo pueden permitir aplicaciones que utilizan un inicio de sesión menos seguro en la Configuración de la cuenta. Lea más [aquí](https://help.yahoo.com/kb/SLN27791.html?guccounter=1).
 
 (Los proveedores clasifican el correo K-9 como "menos seguro" porque no usa el mismo protocolo de autenticación. Pero las herramientas de código abierto de confianza como el correo K-9 todavía se consideran seguras para el correo electrónico cifrado).
 
@@ -106,7 +106,7 @@ Toque Open Keychain para abrir la aplicación. En Ajustes, toque *Administrar mi
 Si elige transferir su archivo de clave privada, tome precauciones:
 
 - Conecte su dispositivo Android confiable a su computadora confiable usando un cable USB para transferirlo directamente, o habilite Bluetooth en su computadora confiable y su dispositivo Android confiable (verifique que coincidan los códigos de emparejamiento) y use la función "enviar archivo al dispositivo"; o,
-- Consulte el consejo de [Open Keychain] (https://www.openkeychain.org/faq/#what-is-the-best-way-to-transfer-my-own-key-to-openkeychain) para proteger su clave con contraseña usando la línea de comando antes de transferirla por internet.
+- Consulte el consejo de [Open Keychain](https://www.openkeychain.org/faq/#what-is-the-best-way-to-transfer-my-own-key-to-openkeychain) para proteger su clave con contraseña usando la línea de comando antes de transferirla por internet.
 
 En la ventana *Gestionar mis claves* de Open Keychain, toque *Importar clave del archivo* y luego el icono del archivo. Navegue a la carpeta donde movió el archivo, selecciónelo y toque *ABRIR*. También puede usar *Importar clave del archivo* para transferir claves públicas que otras personas han compartido con usted. Las claves importadas con éxito ahora aparecerán en su lista de claves. Una vez que los vea en Open Keychain, elimine los archivos de su dispositivo. No los deje sentados en una carpeta.
 

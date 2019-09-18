@@ -12,7 +12,7 @@ Cuando registra un nombre de dominio, su información de contacto se hace públi
 
 *Nota: Los servicios proxy de dominio que ofrecen proteger la privacidad por una tarifa han demostrado ser poco fiables ante la presión legal o pública para revelar información de registro.*
 
-(Obtenga más información sobre cómo proteger su [correo electrónico] (umbrella://communications/email/beginner).)
+(Obtenga más información sobre cómo proteger su [correo electrónico](umbrella://communications/email/beginner).)
 
 ## Datos de contacto público
 
@@ -63,4 +63,4 @@ Algunos bloggers usan un seudónimo o escriben bajo una variación de su nombre.
 
 Cree políticas para ayudar a su equipo a protegerse del discurso de odio.
 
-*Lea: PEN América, [Mejores Prácticas para Empleadores de Escritores y Periodistas] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*
+*Lea: PEN América, [Mejores Prácticas para Empleadores de Escritores y Periodistas](https://onlineharassmentfieldmanual.pen.org/best-practices-for-employers-of-writers-and-journalists/)*

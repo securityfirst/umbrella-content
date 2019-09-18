@@ -14,7 +14,7 @@ La información extraída de sus cuentas de redes sociales se puede utilizar par
 
 * Cree una identidad de grupo para que a los demás les resulte más difícil responsabilizar a una persona por actividades sensibles. (Es aconsejable suponer que los adversarios comprometidos aún podrán identificar a los miembros del grupo).
 
-* Nota: consulte la política del sitio. Por ejemplo, Facebook [requiere] (https://www.facebook.com/help/112146705538576?helpref=faq_content) que los usuarios usen "el nombre por que se les conoce en la vida cotidiana". Muchos interpretan esto ampliamente o lo ignoran, pero un adversario podría potencialmente [informar] (https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav) una cuenta pseudónima para "pretender ser algo o alguien que no existe."*
+* Nota: consulte la política del sitio. Por ejemplo, Facebook [requiere](https://www.facebook.com/help/112146705538576?helpref=faq_content) que los usuarios usen "el nombre por que se les conoce en la vida cotidiana". Muchos interpretan esto ampliamente o lo ignoran, pero un adversario podría potencialmente [informar](https://www.facebook.com/help/1216349518398524?helpref=hc_global_nav) una cuenta pseudónima para "pretender ser algo o alguien que no existe."*
 
 ## Información no esencial.
 
@@ -44,7 +44,7 @@ Muchos sitios de redes sociales utilizan preguntas de seguridad para confirmar s
 
 *   Invente respuestas y guarde las respuestas en un administrador de contraseñas.
 
-(Obtenga más información sobre esto en [contraseñas avanzado] (umbrella://information/passwords/advanced))
+(Obtenga más información sobre esto en [contraseñas avanzado](umbrella://information/passwords/advanced))
 
 ## Participe sabiamente
 

@@ -2,7 +2,7 @@
 index: 2
 title: Tor
 ---
-[Tor] (https://www.torproject.org/) es un software gratuito de código abierto diseñado para darle anonimato en la web.
+[Tor](https://www.torproject.org/) es un software gratuito de código abierto diseñado para darle anonimato en la web.
 
 Es un servicio administrado por voluntarios que brinda privacidad y anonimato en línea al enmascarar quién es usted y dónde se está conectando. El servicio también lo protege de la red Tor en sí; puede tener la seguridad de que permanecerá en el anonimato para otros usuarios de Tor.
 

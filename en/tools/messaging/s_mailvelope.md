@@ -18,14 +18,10 @@ Secure Webmail
 - The ability to send and receive end-to-end encrypt email that can not be read by third parties.
 - The ability to sign your email digitally and authenticate signed email from others.
 
-
-**Download Location:** [https://www.mailvelope.com/en]((https://www.mailvelope.com/en))  
+**Download Location:** [https://www.mailvelope.com/en](https://www.mailvelope.com/en)  
 **Version used in this guide:** 1.5.1  
 **License:** Free and Open Source Software  
 **System Requirements:**  **Mozilla Firefox,** **Google Chrome** or **Chromium** running on LINUX, Windows or Mac. 
-
-
-
 
 # 1. Introduction 
 
@@ -59,7 +55,7 @@ Since Mailvelope is a browser extension, it will only work with the browser on w
 
 Because Mailvelope is a browser extension, it works on most desktop operating systems. This includes GNU/Linux, Microsoft Windows and Mac OS X. It does not work on Android or iOS mobile devices. Below are a few free and open source alternatives: 
 
-- [**Thunderbird with Enigmail**](../../thunderbird/windows) complete email client with PGP encryption added for GNU/Linux, Microsoft Windows and Mac OS X
+- [**Thunderbird with Enigmail**](https://www.thunderbird.net) complete email client with PGP encryption added for GNU/Linux, Microsoft Windows and Mac OS X
 - [**GPG4Win**](https://www.gpg4win.org/) PGP email and files encryption tools suite for Microsoft Windows
 - [**GPG Tools Suite**](https://gpgtools.org/) for Mac OS X
 - [**gpg4usb**](https://www.gpg4usb.org/) standalone, portable PGP tool for GNU/Linux and Microsoft Windows
@@ -73,7 +69,6 @@ Before you can begin encrypting and decrypting email, you must take three prepar
 - Generate your encryption key pair (or import it if you already have one)
 - Export your public key and send it to your contacts
 - Import public keys from your contacts
-
 
 ## 2.1 Generate a key pair
 
@@ -207,10 +202,9 @@ Note: Because key fingerprints are not themselves sensitive, you can easily writ
 
 ## 2.5 Backup and recover all of your keys
 
-The key pair(s) you have generated and the public keys you have collected and verified are the most important element of your Mailvelope installation. You can save all of these keys in a single file in order to back them up. See [Recover from information loss](../../backup) to plan a secure backup strategy. We recommend updating this backup any time you generate a new key pair or import and verify an important public key. 
+The key pair(s) you have generated and the public keys you have collected and verified are the most important element of your Mailvelope installation. You can save all of these keys in a single file in order to back them up. See [Recover from information loss](umbrella://information/backing-up/advanced/s_your-backup-strategy.md) to plan a secure backup strategy. We recommend updating this backup any time you generate a new key pair or import and verify an important public key. 
 
 **Important:** Because this file will contain your private key, you should not upload it to a server or to any sort of "cloud storage."
-
 
 **To save all of your keys in a single file**, follow the steps below from the Mailvelope **Key Management** tab
 
@@ -482,8 +476,6 @@ Note that we deselected option *Remember password temporarily*.
 **Step 8**. **Click** **[Save all]** to save the decrypted files.
 
 Encrypted files will be saved to wherever your browser saves downloaded files (most likely the *Downloads* folder).
-
-
 
 # FAQ
 

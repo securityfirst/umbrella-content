@@ -23,4 +23,4 @@ title: 2FA
 
 可以攔截SMS文本消息，並且大多數U2F設備都耗上一定的費用。適用於大多數人的最佳解決方案是使用[Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).
 
-[Two Factor Auth] (https://twofactorauth.org/) 項目跟踪允許您添加2FA的服務和軟件。
+[Two Factor Auth](https://twofactorauth.org/) 項目跟踪允許您添加2FA的服務和軟件。

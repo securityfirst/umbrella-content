@@ -53,7 +53,7 @@ Londres, Tel: (+44) 203 219 7860
 
 **Descripción:** La agencia del gobierno de los EE. UU. es una fuente pública de información sobre enfermedades comunes, trastornos y tratamientos. El sitio web de CDC proporciona información sobre enfermedades, vida saludable, seguridad y atención de emergencia, y preparación y respuesta ante desastres.
 
-**Sitio web:** [cdc.gov] (www.cdc.gov)
+**Sitio web:** [cdc.gov](www.cdc.gov)
 Atlanta, teléfono: + 1-800-232-4636 (línea directa de información de salud las 24 horas, de lunes a viernes)
 
 ## Amnistía Internacional
@@ -68,7 +68,7 @@ Atlanta, teléfono: + 1-800-232-4636 (línea directa de información de salud la
 
 **Descripción:** Amnistía Internacional lidera un movimiento mundial de investigación, solidaridad y acción en favor de las víctimas de violaciones de los derechos humanos. Amnistía Internacional hace campañas para poner fin a la discriminación, los abusos y las violaciones de los derechos humanos, la integridad física y mental y la libertad de pensamiento y expresión.
 
-**Sitio web:** [amnesty.org] (https://www.amnesty.org/en/)
+**Sitio web:** [amnesty.org](https://www.amnesty.org/en/)
 Nueva York, Tel: (+1) 212 807-8400
 Londres, Tel: (+44) 20-74135500
 
@@ -83,9 +83,9 @@ Londres, Tel: (+44) 20-74135500
 
 **Descripción:** La Comisión Asiática de los Derechos Humanos supervisa, investiga, defiende y toma medidas de solidaridad en torno a las violaciones de los derechos humanos en toda Asia. El Programa de Llamamiento Urgente de AHRC moviliza a miles de personas para hablar sobre casos particulares. (Dirigido por Ashoka Fellow Basil Fernando).
 
-**Sitio web:** [humanrights.asia] (http://www.humanrights.asia/)
+**Sitio web:** [humanrights.asia](http://www.humanrights.asia/)
 Hong Kong, Tel: 852-2698 6339
-**Formulario de contacto en línea:** [http://www.humanrights.asia/contact-us] (http://www.humanrights.asia/contact-us)
+**Formulario de contacto en línea:** [http://www.humanrights.asia/contact-us](http://www.humanrights.asia/contact-us)
 
 ## Comité para la Protección de Periodistas
 
@@ -99,10 +99,10 @@ Hong Kong, Tel: 852-2698 6339
 
 **Descripción:** El Comité para la Protección de los Periodistas promueve la libertad de prensa en todo el mundo al defender los derechos de los periodistas de informar las noticias sin temor a represalias. El CPJ revela abusos contra la prensa, actúa en nombre de periodistas encarcelados o bajo amenaza y advierte a los periodistas sobre ataques a la libertad de prensa. El Programa de Asistencia al Periodista del CPJ ofrece asistencia de emergencia para atención médica, reubicación, asistencia legal y evacuación.
 
-**Sitio web:** [cpj.org] (https://cpj.org/)
+**Sitio web:** [cpj.org](https://cpj.org/)
 Nueva York, Tel: (+1) 212 465-1004
 **Correo electrónico:** report_violations@cpj.org
-**Dirección de Drop Segura:** 2x2hb5ykeu4qlxqe.onion (solo accesible a través del navegador Tor. Para obtener instrucciones, haga clic [aquí] (https://cpj.org/emergency-response/how-to-get-help.php. Más información de cómo usar el navegador Tor para [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md), y [Linux] (umbrella://tools/tor/s_tor-for-linux.md).)
+**Dirección de Drop Segura:** 2x2hb5ykeu4qlxqe.onion (solo accesible a través del navegador Tor. Para obtener instrucciones, haga clic [aquí](https://cpj.org/emergency-response/how-to-get-help.php. Más información de cómo usar el navegador Tor para [Windows](umbrella://tools/tor/s_tor-for-windows.md), [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), y [Linux](umbrella://tools/tor/s_tor-for-linux.md).)
 
 ## European Interagency Security Forum
 
@@ -126,7 +126,7 @@ Londres, Tel: (+44) 203 195 1360
 
 **Descripción:** La FIDH trabaja con más de 141 organizaciones no gubernamentales en más de 100 países para mejorar la protección de las víctimas, prevenir violaciones de los derechos humanos y sancionar judicialmente a los perpetradores. En los últimos 25 años, han organizado más de 1000 misiones en 100 países. La FIDH trabaja en estrecha colaboración con la Organización Mundial contra la Tortura (OMCT) a través de su Observatorio para la Protección de los Defensores de los Derechos Humanos.
 
-**Sitio web:** [www.fidh.org] (www.fidh.org)
+**Sitio web:** [www.fidh.org](www.fidh.org)
 París, Tel: (+33) 1 43 55 25 18
 
 ## Fondo para los Derechos Humanos Mundiales
@@ -166,7 +166,7 @@ Nueva York, Tel: (+1) 212 845-5200
 
 **Descripción:** Human Rights Watch apoya a las víctimas y los activistas para prevenir la discriminación, defender la libertad política, proteger a las personas de conductas inhumanas en tiempos de guerra y llevar a los delincuentes ante la justicia al exponer las violaciones de los derechos humanos y responsabilizar a los abusadores. La principal estrategia de defensa de HRW es avergonzar a los infractores mediante la atención de la prensa, ejercer presión diplomática y económica y formar coaliciones en torno a temas específicos de derechos humanos.
 
-**Sitio web: ** [www.hrw.org] (www.hrw.org)
+**Sitio web: ** [www.hrw.org](www.hrw.org)
 Nueva York, Tel: (+1) 212-290-4700
 **Correo electrónico:** hrwnyc@hrw.org
 
@@ -193,7 +193,7 @@ Ginebra, Tel: (+41) 22 733 51 23
 
 **Descripción:** El Observatorio se encuentra entre las coaliciones más grandes de ONG (casi 300 organizaciones locales, nacionales y regionales) que luchan contra detenciones arbitrarias y ejecuciones, torturas, desapariciones forzadas y otras formas de violencia. El Observatorio ha denunciado y detenido los ataques contra defensores de derechos humanos a través de llamamientos urgentes, misiones de investigación, cabildeo, capacitación e informes. Ellos hacen llamamientos urgentes.
 
-**Sitio web:** [omct.org/human-rights-defenders] (http://www.omct.org/human-rights-defenders/observatory/)
+**Sitio web:** [omct.org/human-rights-defenders](http://www.omct.org/human-rights-defenders/observatory/)
 **Correo electrónico:** omct@omct.org
 Suiza, Tel: (+41) 22 809 4939
 
@@ -235,7 +235,7 @@ América Latina, Tel: (+57) 1 368 6155; (+57) 312 562 1321
 
 **Descripción:** WITNESS utiliza tecnologías de video y en línea para abrir los ojos del mundo a violaciones de derechos humanos. Capacitamos a las personas para transformar historias personales de abuso en herramientas poderosas para la justicia, promoviendo el compromiso público y el cambio de políticas. WITNESS realiza regularmente capacitaciones en el lugar con nuestros Core Partners, enseñándoles cómo documentar los abusos de los derechos humanos de manera segura y efectiva con videos y cómo usar videos para promover sus objetivos de defensa.
 
-**Sitio web:** [witness.org] (https://witness.org/)
+**Sitio web:** [witness.org](https://witness.org/)
 Nueva York, Tel: (+1) 718.783.2000
 
 # REDES LEGALES
@@ -244,7 +244,7 @@ Nueva York, Tel: (+1) 718.783.2000
 
 **Descripción:** Advocates for International Development (A4ID) moviliza las habilidades y la experiencia de la profesión legal para combatir la pobreza y la desigualdad de oportunidades en todo el mundo. A4ID promueve la conciencia de los problemas sociales, económicos y legales al tiempo que fortalece la capacidad de las organizaciones del sector ciudadano.
 
-**Sitio web:** [a4id.org] (http://www.a4id.org/)
+**Sitio web:** [a4id.org](http://www.a4id.org/)
 **Correo electrónico:** info@a4id.org
 
 ## Cyrus R. Vance Center for International Justice
@@ -252,7 +252,7 @@ Nueva York, Tel: (+1) 718.783.2000
 
 **Descripción:** El Centro Cyrus R. Vance para la Justicia Internacional apoya a los abogados de todo el mundo que promueven el acceso a la justicia, los sistemas judiciales equitativos, las políticas públicas de orientación social y la confianza en la profesión legal. El Centro defendió la Declaración Pro Bono para las Américas y administra la Red Global para Iniciativas de Justicia (GNJI).
 
-**Sitio web:** [vancecenter.org] (http://www.vancecenter.org/vancecenter/)
+**Sitio web:** [vancecenter.org](http://www.vancecenter.org/vancecenter/)
 Nueva York, Tel: (+1) 212 382-4718
 
 
@@ -261,7 +261,7 @@ Nueva York, Tel: (+1) 212 382-4718
 **Dónde:** India, Sur de Asia
 Descripción: HRLN utiliza el sistema legal para promover los derechos humanos. Los abogados de HRLN colaboran con organizaciones de derechos humanos y colectivos de desarrollo de base para defender los derechos de los grupos marginados y vulnerables. HRLN proporciona servicios legales gratuitos y lleva a cabo litigios de interés público, participa en actividades de promoción y campañas, lleva a cabo programas de concientización legal, investiga violaciones y publica materiales de "Conozca Sus Derechos".
 
-**Sitio web:** [hrln.org] (http://hrln.org/)
+**Sitio web:** [hrln.org](http://hrln.org/)
 Nueva Delhi, Tel: + 91-11-24374501, 24376922
 
 ## International Senior Lawyers Project
@@ -277,14 +277,14 @@ Nueva Delhi, Tel: + 91-11-24374501, 24376922
 
 **Descripción:** La Fundación Pro Bono Lex Mundi se compromete con la red global de Lex Mundi de 160 firmas de abogados de primer nivel presentes en más de 100 países para brindar asistencia legal gratuita a emprendedores sociales.
 
-**Sitio web:** [lexmundiprobono.org] (https://www.lexmundiprobono.org/lexmundiprobono/default.asp)
+**Sitio web:** [lexmundiprobono.org](https://www.lexmundiprobono.org/lexmundiprobono/default.asp)
 Washington, DC, Tel: (+1) 202 429-8169
 
 ## Public Interest Law Initiative (PILI)
 
 **Dónde:** Europa Central y Oriental, Rusia
 Descripción: PILI promueve los derechos humanos en todo el mundo al estimular la defensa del interés público y al desarrollar las instituciones necesarias para sustentarlo. PILI está fortaleciendo el uso de la ley como un instrumento para lograr la justicia social.
-**Sitio web:** [pili.org] (http://pili.org/)
+**Sitio web:** [pili.org](http://pili.org/)
 Budapest, Tel: (+36) 1 461-5700
 Moscú, Tel: (+7) 795 628 00 20
 Nueva York, Tel: (+1) 212 803-5381
@@ -299,7 +299,7 @@ Además de las organizaciones del sector ciudadano, las instituciones interguber
 **¿Aceptan Apelaciones Urgentes?** Sí
 
 **Descripción:** El Representante Especial de la ONU de los Defensores de Derechos Humanos apoya y recopila información en nombre de los defensores de los derechos humanos en todo el mundo. El Representante Especial opera con total independencia de cualquier estado, no es un miembro del personal de la ONU y no recibe un salario.
-**Sitio web:** http: // [www2.ohchr.org/english/issues/defenders/] (www2.ohchr.org/english/issues/defenders/)
+**Sitio web:** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)
 Ginebra, Tel: (+41) 22 917 1234
 **Enviar una queja por correo electrónico:** urgent-action@ohchr.org
 
@@ -321,7 +321,7 @@ Ginebra, Tel: (+41) 22 917 0656
 **Recursos Adicionales:**
 
 *   [Declaración Universal de los Derechos Humanos](http://www.ohchr.org/EN/UDHR/Pages/UDHRIndex.aspx)
-*   [Derecho internacional de los derechos humanos] (http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx)
+*   [Derecho internacional de los derechos humanos](http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx)
 
 ## Comisión Interamericana de Derechos Humanos (Washington, DC) y Corte Interamericana de Derechos Humanos (San José)
 
@@ -332,8 +332,8 @@ Ginebra, Tel: (+41) 22 917 0656
 **Descripción:** La Comisión Interamericana a) recibe, analiza e investiga peticiones de violaciones de derechos humanos; b) observa la situación general de los derechos humanos en los estados miembros; c) realiza visitas in situ para analizar situaciones específicas; y d) presenta los casos a la Corte Interamericana para litigios. La Corte Interamericana emite y hace cumplir las sentencias. Ambos están compuestos por representantes de miembros de la Organización de los Estados Americanos.
 **Nota:** Los individuos y las organizaciones del sector ciudadano pueden presentar una petición directa a la Comisión Interamericana, solo después de haber agotado todas las opciones dentro de su estado para abordar la situación.
 
-**Sitios web:** [Comisión Interamericana] (https://www.oas.org/es/cidh/)
-[Corte Interamericana] (http://www.corteidh.or.cr/)
+**Sitios web:** [Comisión Interamericana](https://www.oas.org/es/cidh/)
+[Corte Interamericana](http://www.corteidh.or.cr/)
 
 ## Comisión Africana de Derechos Humanos y de los Pueblos
 
@@ -345,7 +345,7 @@ Ginebra, Tel: (+41) 22 917 0656
 
 **Nota:** Los individuos, las organizaciones del sector ciudadano y los Estados parte de la Carta Africana pueden solicitar directamente a la Comisión Interamericana solo después de haber agotado todas las opciones dentro de su Estado para abordar la situación.
 
-**Sitios web:** Comisión Africana [achpr.org] (http://www.achpr.org/)
+**Sitios web:** Comisión Africana [achpr.org](http://www.achpr.org/)
 **Correo electrónico:** au-banjul@africa-union.org
 
 ## Tribunal Europeo de Derechos Humanos
@@ -358,10 +358,10 @@ Idiomas: inglés, francés
 
 **Nota:** Las personas pueden presentar quejas directamente ante el Tribunal solo después de haber agotado todas las opciones dentro de su Estado para abordar la situación.
 
-**Sitio web:** [echr.coe.int] (https://www.echr.coe.int/Pages/home.aspx?p=home)
+**Sitio web:** [echr.coe.int](https://www.echr.coe.int/Pages/home.aspx?p=home)
 
 ## Corte Penal Internacional
 
 **Descripción:** Fundada en parte por las Naciones Unidas y con sede en La Haya, la Corte Penal Internacional juzga a individuos acusados de crímenes internacionales, incluidos genocidio, crímenes de lesa humanidad y crímenes de guerra. Solo los Estados y la comunicación internacional pueden llevar casos a la CPI. La CPI es un organismo independiente y se basa en un tratado en el que participan 105 países.
 
-**Sitio web:** [icc-cpi.int] (https://www.icc-cpi.int/)
+**Sitio web:** [icc-cpi.int](https://www.icc-cpi.int/)

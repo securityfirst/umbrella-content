@@ -14,7 +14,7 @@ La periodista Dawn Foster decidió no involucrarse: "Al final, descubrí que la 
 
 La columnista y escritora de ficción Bina Shah usa todas las herramientas a su disposición, incluido el informe: "Prepárate para informarles si te amenazan con violencia. Expónlas. Esperan que te encogas de miedo. No lo hagas. Muéstrales quién es jefe."
 
-(Obtenga más información sobre esto en [Abuso en Línea Experto] (umbrella://communications/online-abuse/expert).)
+(Obtenga más información sobre esto en [Abuso en Línea Experto](umbrella://communications/online-abuse/expert).)
 
 ## Expóngalos
 
@@ -36,4 +36,4 @@ La activista de derechos humanos Vani mantiene su verdadero nombre en silencio: 
 
 La escritora feminista Sady Doyle no se detendrá: "La mejor manera de 'mantenerse a salvo' en línea puede ser simplemente permanecer en línea. Después de todo: si no queda nadie dispuesto a quejarse por el acoso, ¿cuáles son las probabilidades de que ocurra un cambio?"
 
-(Obtenga información sobre [phishing] (umbrella://communications/phishing) y [malware](umbrella://information/malware/beginner).)
+(Obtenga información sobre [phishing](umbrella://communications/phishing) y [malware](umbrella://information/malware/beginner).)

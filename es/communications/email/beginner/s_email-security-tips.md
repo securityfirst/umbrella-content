@@ -8,7 +8,7 @@ Sea consciente de lo que escribe y de lo que sucedería si cayera en las manos e
 
 ## Proteja sus cuentas
 
-Utilice [contraseñas seguras](umbrella://information/passwords/beginner) y [2FA.] (umbrella://information/passwords/advanced)
+Utilice [contraseñas seguras](umbrella://information/passwords/beginner) y [2FA.](umbrella://information/passwords/advanced)
 
 ## Utilice un software antivirus actualizado.
 
@@ -28,7 +28,7 @@ Use diferentes cuentas para comunicarse con diferentes personas. Esto protege su
 
 ## Utilice el correo electrónico de un solo uso.
 
-Los proveedores de direcciones de correo electrónico únicos como [Mailinator] (https://www.mailinator.com/) y [Guerillamail] (https://www.guerrillamail.com/) no requieren registro. Invente su propia dirección de correo electrónico con la extensión del proveedor y úsela para necesidades a corto plazo, como el registro de WiFi. (Las bandejas de entrada son públicas, así que no intercambies información confidencial).
+Los proveedores de direcciones de correo electrónico únicos como [Mailinator](https://www.mailinator.com/) y [Guerillamail](https://www.guerrillamail.com/) no requieren registro. Invente su propia dirección de correo electrónico con la extensión del proveedor y úsela para necesidades a corto plazo, como el registro de WiFi. (Las bandejas de entrada son públicas, así que no intercambies información confidencial).
 
 ## Utilice un sistema de código.
 

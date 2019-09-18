@@ -12,4 +12,4 @@ Vaya a la lección para principiantes para obtener consejos sobre qué empacar e
 
 ### LECTURAS ADICIONALES
 
-*   Comité para la Protección de los Periodistas, "Conflicto Armado" en [Guía de Seguridad del Periodista] (https://cpj.org/reports/2012/04/armed-conflict.php)
+*   Comité para la Protección de los Periodistas, "Conflicto Armado" en [Guía de Seguridad del Periodista](https://cpj.org/reports/2012/04/armed-conflict.php)

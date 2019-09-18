@@ -11,14 +11,14 @@ Navegación Web con Privacidad Mejorada para Android
 **Nivel**: Principiante
 **Tiempo requerido**: 15 minutos.
 **Publicado:** abril de 2018
-**Fuentes:** Planificador de seguridad (Citizen Lab), [Orbot y Orfox] (https://securityplanner.org/#/tool/orbot-and-orfox); Security in a Box, [ORBOT PARA ANDROID] (https://securityinabox.org/en/guide/orbot/android/), The Guardian Project, [Orbot v16: ¡una apariencia completamente nueva y más fácil de usar!]  (https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
+**Fuentes:** Planificador de seguridad (Citizen Lab), [Orbot y Orfox](https://securityplanner.org/#/tool/orbot-and-orfox); Security in a Box, [ORBOT PARA ANDROID](https://securityinabox.org/en/guide/orbot/android/), The Guardian Project, [Orbot v16: ¡una apariencia completamente nueva y más fácil de usar!]  (https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
 
 **Usar Orbot y Orfox juntos le dará:**
 - La capacidad de ocultar su identidad en línea de los sitios web y otros servicios al usar ciertas aplicaciones de Android.
 - La capacidad de ocultar sus actividades de navegación al utilizar Orfox.
 - La capacidad de eludir la censura de Internet y el filtrado en línea cuando se utiliza Orfox.
 
-**Ubicación de la descarga:** [Orbot] (https://play.google.com/store/apps/details?id=org.torproject.android) and [Orfox] (https://play.google.com/store/apps/details?id=info.guardianproject.orfox) en la tienda Google Play.
+**Ubicación de la descarga:** [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) and [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) en la tienda Google Play.
 **Requisitos de software:** Varía según el dispositivo (Orbot); Android 4.0.3 y superior (Orfox)
 **Versión utilizada en esta guía**: Versión 16 (Orbot) Fennec-52.7.3esr / TorBrowser-7.5.3 / Orfox-1.5.2-RC-1 (Orfox)
 **Licencia**: FOSS (principalmente GPLv2)
@@ -46,7 +46,7 @@ Si quiere un anonimato más fuerte mientras usa Orfox:
 
 ![](orbot-and-002.png)
 
-**Nota:** **Orbot** también se puede descargar desde la tienda de terceros [F-Droid] (https://guardianproject.info/fdroid/).
+**Nota:** **Orbot** también se puede descargar desde la tienda de terceros [F-Droid](https://guardianproject.info/fdroid/).
 
 
 ## 2.2 Configurar Orbot
@@ -73,7 +73,7 @@ Si no está seguro de si necesita un puente, pruébalo sin ello primero. Para ob
 
 Seleccione las aplicaciones individuales que desea usar con **Orbot** y haga clic en *Aceptar*.
 
-> "En lugar de promover algún tipo mágico automático de "habilitar Tor para todo mi dispositivo ", queremos centrarnos en las formas de permitir que aplicaciones específicas pasen por Tor, de una manera que podamos garantizar que sea lo más segura posible". —The Guardian Project, [27 de octubre de 2017] (https://guardianproject.info/2017/10/27/no-more-root-features-in-orbot-use-orfox-vpn-instead/)
+> "En lugar de promover algún tipo mágico automático de "habilitar Tor para todo mi dispositivo ", queremos centrarnos en las formas de permitir que aplicaciones específicas pasen por Tor, de una manera que podamos garantizar que sea lo más segura posible". —The Guardian Project, [27 de octubre de 2017](https://guardianproject.info/2017/10/27/no-more-root-features-in-orbot-use-orfox-vpn-instead/)
 
 Tenga en cuenta que muchas aplicaciones, como las que requieren que inicie sesión, socavarán su anonimato incluso si el tráfico de Internet se canaliza a través de Orbot. Este paso lo ayudará si un firewall o un filtro está bloqueando una aplicación individual, pero no lo convierte en anónimo.
 
@@ -109,7 +109,7 @@ Cuando haya terminado con la configuración, se le presentará la pantalla **Orb
 
 # 4. Configuración avanzada de Orbot: use un puente Tor
 
-Si el acceso a Tor está restringido o si desea disimular el hecho de que está usando Tor, puede configurar Orbot para que use *puentes*. Obtenga más información sobre puentes en la guía de herramientas [Tor para LINUX] (umbrella://tools/tor/s_tor-for-linux.md)
+Si el acceso a Tor está restringido o si desea disimular el hecho de que está usando Tor, puede configurar Orbot para que use *puentes*. Obtenga más información sobre puentes en la guía de herramientas [Tor para LINUX](umbrella://tools/tor/s_tor-for-linux.md)
 
 **Paso 1:** Toque el icono del menú en la parte superior derecha y seleccione *Configuración*. Desplácese hacia abajo hasta *Bridges.* Marque la casilla junto a *Usar Puentes*.
 
@@ -121,14 +121,14 @@ Si el acceso a Tor está restringido o si desea disimular el hecho de que está 
 
 **Paso 3:** Reinicie **Orbot** para comenzar a usar el *bridge*.
 
-Puede leer más sobre los puentes en el [sitio web del proyecto Tor] (https://bridges.torproject.org/).
+Puede leer más sobre los puentes en el [sitio web del proyecto Tor](https://bridges.torproject.org/).
 
 
 # 5. Instalar Orfox
 
-**Paso 1:** En su dispositivo Android, **descargue** e **instale** la aplicación desde [Google Play store] (https://play.google.com/store/apps/details?id=info.guardianproject.orfox).
+**Paso 1:** En su dispositivo Android, **descargue** e **instale** la aplicación desde [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.orfox).
 
-**Nota:** **Orfox** también se puede descargar desde la tienda de terceros [F-Droid] (https://guardianproject.info/fdroid/).
+**Nota:** **Orfox** también se puede descargar desde la tienda de terceros [F-Droid](https://guardianproject.info/fdroid/).
 
 **Paso 2:** Para abrir Orfox, **toque** el ícono de la aplicación.
 

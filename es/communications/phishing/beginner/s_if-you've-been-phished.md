@@ -16,7 +16,7 @@ Si hace clic en un enlace o archivo adjunto con malware:
 *   Encuentre un dispositivo limpio.
 *   Cambie sus contraseñas. Cualquier contraseña que ingresó en su computadora mientras estaba infectada debe considerarse comprometida. Si aún no lo ha hecho, active [autenticación de dos factores](umbrella://glossary/s_two-factor-authentication.md)) para todas sus cuentas.
 *   Advierta a sus contactos que sus cuentas pueden verse comprometidas.
-*   Denuncie el ataque. Un experto en TI o seguridad puede aprender más sobre los atacantes y advertir a otros. Umbrella incluye un formulario [incidente de seguridad digital] (umbrella://forms/f_digital-security-incident.yml) para ayudarlo a compartir información clave sobre lo que sucedió.
+*   Denuncie el ataque. Un experto en TI o seguridad puede aprender más sobre los atacantes y advertir a otros. Umbrella incluye un formulario [incidente de seguridad digital](umbrella://forms/f_digital-security-incident.yml) para ayudarlo a compartir información clave sobre lo que sucedió.
 *   Considere volver a instalar el sistema operativo (por ejemplo, Windows, Android, IOS) en su dispositivo. Esto eliminará la mayoría del malware, pero algunas variantes sofisticadas pueden persistir.
 *   Si necesita más ayuda, busque [Asistencia de Emergencia](umbrella://emergency-support/digital).
 

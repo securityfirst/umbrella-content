@@ -6,7 +6,7 @@ title: Software y ajustes
 
 - Proteja con contraseña sus dispositivos y encripte el almacenamiento.
 
-(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files), [seguridad básica para Android] (umbrella://tools/other/s_android.md) y [cifrar su iPhone]  (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
+(Obtenga información sobre [protección de archivos](umbrella://information/protecting-files), [seguridad básica para Android](umbrella://tools/other/s_android.md) y [cifrar su iPhone]  (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 - Si ejecuta cualquier servidor en su oficina, trabaje con quienquiera que los mantenga para asegurarse de que la información que contienen se cifrará si están apagados o desconectados.
 

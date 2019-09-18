@@ -11,7 +11,7 @@ Administrador de contraseña segura
 **Nivel**: Principiante
 **Tiempo requerido**: 5 minutos de configuración para una vida de uso de contraseña segura y feliz.
 **Publicado:** abril 2018
-**Fuentes:** Surveillance Self-Defense (EFF), [Cómo: Usar KeePassXC] (https://ssd.eff.org/en/module/how-use-keepassxc); [https://github.com/keepassxreboot/keepassxc/wiki](https://github.com/keepassxreboot/keepassxc/wiki).
+**Fuentes:** Surveillance Self-Defense (EFF), [Cómo: Usar KeePassXC](https://ssd.eff.org/en/module/how-use-keepassxc); [https://github.com/keepassxreboot/keepassxc/wiki](https://github.com/keepassxreboot/keepassxc/wiki).
 
 **Usar KeepassXC le dará:**
 \* La capacidad de usar muchas contraseñas diferentes en diferentes sitios y servicios sin tener que memorizarlas.
@@ -115,7 +115,7 @@ Para integrar KeePassXC en su navegador necesita:
 
 2.  Descarga la extensión del navegador
 
-    Para Firefox, instale [Passifox] (https://addons.mozilla.org/en-US/firefox/addon/passifox/). Para Chrome, instale [chromeIPass] (https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae). Una vez que la instalación haya sido exitosa, verá un pequeño ícono de candado en la barra de herramientas de su navegador.
+    Para Firefox, instale [Passifox](https://addons.mozilla.org/en-US/firefox/addon/passifox/). Para Chrome, instale [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae). Una vez que la instalación haya sido exitosa, verá un pequeño ícono de candado en la barra de herramientas de su navegador.
 
     ![](tool_keepassxc6._chromeipass_extension.png)
 

@@ -7,7 +7,7 @@ title: Por qué Radio
 Para una comunicación sensible, elija algo más seguro si es posible.
 
 (Obtenga más información sobre [enviar un mensaje](umbrella://communications/sending-a-message) y
-[hacer una llamada] (umbrella://communications/making-a-call).)
+[hacer una llamada](umbrella://communications/making-a-call).)
 
 Sin embargo, las radios generalmente son robustas e independientes de las instalaciones públicas, mientras que las redes de telecomunicaciones pueden sobrecargarse o cerrarse en una crisis.
 

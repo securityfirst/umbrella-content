@@ -4,7 +4,7 @@ title: Enviando SMS seguros en su teléfono
 ---
 # Silence
 
-[Silence] (https://silence.im) es una herramienta gratuita de código abierto para enviar y recibir mensajes de texto SMS seguros en Android.
+[Silence](https://silence.im) es una herramienta gratuita de código abierto para enviar y recibir mensajes de texto SMS seguros en Android.
 
 *   Funciona tanto para SMS cifrados como no cifrados, por lo que puede usarlo como su aplicación de SMS predeterminada.
 *   Importa automáticamente todos sus contactos y SMS existentes, por lo que solo toma unos segundos configurarlos.

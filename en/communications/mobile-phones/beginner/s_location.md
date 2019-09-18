@@ -4,7 +4,7 @@ title: Location
 ---
 # Your phone broadcasts your location all day and all night. 
 
-Mobile phone send automatic, regular location signals to service providers. 
+Mobile phones send automatic, regular location signals to service providers. 
 
 ## Apps, WI-FI and Bluetooth signals also identify your device or location. 
 

@@ -6,7 +6,7 @@ Las mujeres con visibilidad en Internet reciben una cantidad desproporcionada de
 
 La visibilidad de las mujeres en los espacios en línea desafía la desigualdad de género y el privilegio masculino.
 
-(Obtenga más información sobre esto en [Abuso en Línea Experto] (umbrella://communications/online-abuse/expert))
+(Obtenga más información sobre esto en [Abuso en Línea Experto](umbrella://communications/online-abuse/expert))
 
 ## El objetivo del abuso
 
@@ -28,12 +28,12 @@ Todos deben trabajar para poner fin a la discriminación que enfrentan las mujer
 
 *   Documente y reconozca el problema.
 
-*Lea más: [Guía de Anita Sarkeesian para usar Internet siendo mujer] (https://www.marieclaire.com/culture/news/a13403/online-harassment-terms-fight-back/)*
+*Lea más: [Guía de Anita Sarkeesian para usar Internet siendo mujer](https://www.marieclaire.com/culture/news/a13403/online-harassment-terms-fight-back/)*
 
 *   Ofrezca apoyo.
 
-*Lea más: PEN America, [Mejores Prácticas para Aliados y Testigos] (https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*
+*Lea más: PEN America, [Mejores Prácticas para Aliados y Testigos](https://onlineharassmentfieldmanual.pen.org/best-practices-for-allies-and-witnesses/)*
 
 *   Exija más de las personas con responsabilidad.
 
-*Lea más: Amnistía Internacional, [Twitter Tóxico: un lugar tóxico para las mujeres] (https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*
+*Lea más: Amnistía Internacional, [Twitter Tóxico: un lugar tóxico para las mujeres](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-1/#topanchor)*

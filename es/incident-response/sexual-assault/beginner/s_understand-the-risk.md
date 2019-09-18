@@ -21,7 +21,7 @@ Llevar a cabo un análisis de riesgo para:
 *   Identifique lugares, tiempos, situaciones y categorías de personas en mayor riesgo.
 *   Comprenda las respuestas legales y médicas locales a la violencia sexual e identifique recursos.
 
-(Obtenga más información sobre esto en [Planificación de Seguridad] (umbrella://assess-your-risk/security-planning).)
+(Obtenga más información sobre esto en [Planificación de Seguridad](umbrella://assess-your-risk/security-planning).)
 
 ## Recursos
 

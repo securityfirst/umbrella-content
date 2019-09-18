@@ -8,7 +8,7 @@ Un proxy basado en la web es un sitio web que le permite acceder a otros sitios 
 
 Si un sitio web está bloqueado en su ubicación, un proxy le ayuda a acceder a él desde la ubicación del proxy.
 
-Encuentre ejemplos en [proxy.org] (https://proxy.org/).
+Encuentre ejemplos en [proxy.org](https://proxy.org/).
 
 ## Para utilizar un proxy:
 
@@ -30,4 +30,4 @@ Algunas herramientas de proxy ofrecen conexiones cifradas, o al menos usan HTTPS
 
 *Los proxies no proporcionan anonimato.*
 
-(Aprenda a mantenerse en el anonimato en línea en [Privacidad en Línea] (umbrella://communications/online-privacy/advanced).)
+(Aprenda a mantenerse en el anonimato en línea en [Privacidad en Línea](umbrella://communications/online-privacy/advanced).)

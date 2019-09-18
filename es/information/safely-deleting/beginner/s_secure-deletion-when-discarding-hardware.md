@@ -6,7 +6,7 @@ title: Eliminación segura al descartar hardware
 
 Limpie su disco duro antes de desechar su computadora, véndala en eBay o guarde una máquina vieja en un armario.
 
-Herramientas como [DBAN] (https://dban.org/) facilitan esta tarea. Hay una variedad de tutoriales sobre cómo usarlo en toda la web, (incluido [aquí] (https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)) .
+Herramientas como [DBAN](https://dban.org/) facilitan esta tarea. Hay una variedad de tutoriales sobre cómo usarlo en toda la web, (incluido [aquí](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)) .
 
 # Triturar CD-ROMS
 

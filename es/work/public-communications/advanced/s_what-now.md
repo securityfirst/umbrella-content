@@ -19,11 +19,11 @@ Aprenda a desarrollar relaciones con diferentes partes interesadas en [principia
 
 ### FUENTES
 
-* InterAction, [Kit de herramientas de desinformación] (https://www.interaction.org/project/disinformation-toolkit/overview), junio de 2018.
+* InterAction, [Kit de herramientas de desinformación](https://www.interaction.org/project/disinformation-toolkit/overview), junio de 2018.
 
 ### Ir a la lección avanzada para consejos sobre cómo lidiar con el estrés traumático.
 
-* InterAction, [Together Project] (https://www.interaction.org/project/together-project/overview).
+* InterAction, [Together Project](https://www.interaction.org/project/together-project/overview).
 * ICFJ, [A Short Guide to the History of ‘Fake News’ and Disinformation: A New ICFJ Learning Module](https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module), July 23, 2018. 
 * Frontline Defenders, [Judicial Harassment](https://www.frontlinedefenders.org/en/violation/judicial-harassment). 
 * Simmons and Simmons for Peace Brigade International, "Dealing with Defamation Allegations" in [Human Rights Defenders Toolbox](http://www.elexica.com/en/legal-topics/dispute-resolution-commercial/120618-human-rights-defenders-toolbox), June 2018.

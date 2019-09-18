@@ -33,7 +33,7 @@ title: Al llegar
 *   Observe a cualquiera que se siente cerca de usted;
 *   Busque indicadores de un equipo de vigilancia.
 
-(Obtenga más información sobre esto en [Siendo Seguido avanzado] (umbrella://work/being-followed/advanced).)
+(Obtenga más información sobre esto en [Siendo Seguido avanzado](umbrella://work/being-followed/advanced).)
 
 ## Colabore
 

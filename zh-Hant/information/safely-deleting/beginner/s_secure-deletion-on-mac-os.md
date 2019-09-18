@@ -15,4 +15,4 @@ OS X 10.11中刪除了安全清空垃圾箱功能，因為Apple無法保證在�
 * 確保已啟用內置FileVault的實用程序（這需要您輸入密碼才能使用Mac）。
 * 使用一個名爲VeraCrypt的開源工具進行文件加密。
 
-了解[保護文件](umbrella://information/protecting-files)和使用[VeraCrypt] (umbrella://tools/files/s_veracrypt.md)的更多信息。
+了解[保護文件](umbrella://information/protecting-files)和使用[VeraCrypt](umbrella://tools/files/s_veracrypt.md)的更多信息。

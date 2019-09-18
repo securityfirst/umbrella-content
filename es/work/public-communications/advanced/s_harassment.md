@@ -12,7 +12,7 @@ Ejemplos incluyen:
 * Uno o varios cargos criminales o civiles que le obligan a luchar en la corte, incluso si no tienen mérito, o si están claramente diseñados para incomodarlo al llevarlo a una corte lejana o incurrir en costos significativos.
 * Multas, penas de prisión u otras penas por supuestas irregularidades, desde infracciones de tránsito hasta evasión de impuestos y traición, que están claramente destinadas a castigarlo a usted por algo no relacionado.
 
-(Obtenga información sobre [Redadas en el Lugar de Trabajo] (umbrella://information/protect-your-workspace).)
+(Obtenga información sobre [Redadas en el Lugar de Trabajo](umbrella://information/protect-your-workspace).)
 
 ## Hostigamiento administrativo
 

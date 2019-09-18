@@ -20,7 +20,7 @@ title: 現實
 
 **說明：** Front Line通過24小時緊急熱線（電話和加密電子郵件），國際宣傳，安全培訓和培訓手冊，贈款和獎學金（包括緊急資金）以及疏散支援來保護人權維護者。前線的都柏林平台將基層人權維護者與聯合國機制，國際人權網絡以及彼此聯繫起來。
 
-**網站：** [frontlinedefenders.org] (https://www.frontlinedefenders.org/)
+**網站：** [frontlinedefenders.org](https://www.frontlinedefenders.org/)
 24小時緊急支援，聯係電話：(+353) 1 210 0489
 都柏林，聯係電話：(+353) 1 212 3750
 布魯塞爾，聯係電話：(+32) 2 230 93 83
@@ -360,10 +360,10 @@ Advocates for International Development (A4ID)
 
 **注意：**只有在用盡國內所有選項以解決問題後，個人才可以直接向法院提出投訴。
 
-**網站:** [echr.coe.int] (https://www.echr.coe.int/Pages/home.aspx?p=home)
+**網站:** [echr.coe.int](https://www.echr.coe.int/Pages/home.aspx?p=home)
 
 ## 國際刑事法院
 
 **說明：**國際刑事法院部分由聯合國設立，設在海牙，審判被控犯有國際罪行的個人，包括滅絕種族罪，危害人類罪和戰爭罪。只有國家和國際交流才能將案件提交國際刑事法院。國際刑事法院是一個獨立機構，以105個國家的條約為基礎。
 
-**網站:** [icc-cpi.int] (https://www.icc-cpi.int/)
+**網站:** [icc-cpi.int](https://www.icc-cpi.int/)

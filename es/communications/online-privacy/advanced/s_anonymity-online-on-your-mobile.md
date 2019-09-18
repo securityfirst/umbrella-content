@@ -4,7 +4,7 @@ title: Anonimato online en su móvil
 ---
 Usar su teléfono móvil para conectarse en línea a menudo es más arriesgado que usar una computadora, y es casi imposible mantenerse completamente anónimo.
 
-Sin embargo, los usuarios de Android pueden mejorar la privacidad cuando navegan por la web usando dos aplicaciones de [Guardian Project] (https://guardianproject.info/).
+Sin embargo, los usuarios de Android pueden mejorar la privacidad cuando navegan por la web usando dos aplicaciones de [Guardian Project](https://guardianproject.info/).
 
 # Orbot y Orfox
 

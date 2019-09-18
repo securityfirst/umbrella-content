@@ -10,7 +10,7 @@ title: 鏈接
 
 * 忽略要求您登錄在線服務的鏈接。打開Web瀏覽器，直接鍵入在線服務的Web地址或URL。攻擊者可能會發送偽造登錄頁面的鏈接，這些頁面會竊取您的密碼或帳戶信息。
 
-* 通過將縮寫的URL複製到[Unshorten.It!] (https://unshorten.it/)中來查看完整縮寫的URL。
+* 通過將縮寫的URL複製到[Unshorten.It!](https://unshorten.it/)中來查看完整縮寫的URL。
 有些攻擊嘗試使用縮短社交媒體網址的服務來隱藏不良鏈接，例如bit.ly.
 
 * 將鏈接複製到[VirusTotal](https://www.virustotal.com/)，該服務將檢查已知的惡意軟件。 (它不會捕獲每一次攻擊。）

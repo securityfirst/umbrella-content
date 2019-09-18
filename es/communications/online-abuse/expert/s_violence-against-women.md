@@ -2,7 +2,7 @@
 index: 3
 title: Violencia contra las mujeres
 ---
-Casi una cuarta parte de las mujeres de ocho países encuestadas por Amnistía Internacional en [2017] (https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse -una contra la mujer/) dijeron que habían sufrido abuso o acoso en línea al menos una vez.
+Casi una cuarta parte de las mujeres de ocho países encuestadas por Amnistía Internacional en [2017](https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse -una contra la mujer/) dijeron que habían sufrido abuso o acoso en línea al menos una vez.
 
 De esas mujeres, el 41% dijo que estas experiencias en línea les hicieron sentir que su seguridad física estaba amenazada.
 

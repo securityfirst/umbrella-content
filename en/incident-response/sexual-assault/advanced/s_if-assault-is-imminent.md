@@ -34,6 +34,6 @@ If there is no way out and your life is in danger, your objectives should be:
 
 This may mean submitting, and not resisting physically.
 
-*If sexual assault follows arrest or kidnapping, you may have limited options. Developing a relationship with your guards or captors may reduce the risk of all forms of assault. Protecting your life is the primary goal.*
+*If sexual assault follows arrest or kidnapping, you may have limited options. Developing a rapport with your guards or captors may reduce the risk of all forms of assault. Protecting your life is the primary goal.*
 
 (Learn about [Arrests](umbrella://incident-response/arrests) and [Kidnapping](umbrella://incident-response/kidnapping))

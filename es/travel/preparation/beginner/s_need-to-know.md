@@ -8,7 +8,7 @@ Contarle a menos personas sobre su viaje lo ayuda a mantenerse más seguro. Pero
 
 Equilibre la seguridad y la practicidad con una necesidad de conocer la política.
 
-(Obtenga más información sobre esto en [gestión de la información] (umbrella://information/managing-information).)
+(Obtenga más información sobre esto en [gestión de la información](umbrella://information/managing-information).)
 
 La información que ha preparado sobre su viaje puede incluir:
 

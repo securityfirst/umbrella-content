@@ -20,9 +20,9 @@ Elija nuevas contraseñas seguras para su correo electrónico y todas las cuenta
 
 ## Asegure sus dispositivos
 
-Cualquier dispositivo que utilice para acceder al correo electrónico desde la cuenta comprometida es vulnerable. Analice su computadora en busca de [malware] (umbrella://information/malware/beginner) y actualice la seguridad de su [teléfono móvil](umbrella://communications/mobile-phones/beginner).
+Cualquier dispositivo que utilice para acceder al correo electrónico desde la cuenta comprometida es vulnerable. Analice su computadora en busca de [malware](umbrella://information/malware/beginner) y actualice la seguridad de su [teléfono móvil](umbrella://communications/mobile-phones/beginner).
 
-(Aprenda [seguridad básica para Android](umbrella://tools/other/s_android.md) y cómo [cifrar su iPhone] (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
+(Aprenda [seguridad básica para Android](umbrella://tools/other/s_android.md) y cómo [cifrar su iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Compruebe la configuración de la cuenta y la actividad.
 
@@ -56,7 +56,7 @@ Si es apropiado para su situación y modelo de amenaza, informe a su proveedor d
 
 Considere el uso de software de correo electrónico gratuito y de código abierto como Thunderbird.
 
-(Obtenga información sobre el software de código abierto en [Malware Avanzado] ([malware](umbrella://information/malware/advanced) y cómo agregar cifrado en [Email Avanzado.] (umbrella://communications/email/advanced))
+(Obtenga información sobre el software de código abierto en [Malware Avanzado]([malware](umbrella://information/malware/advanced) y cómo agregar cifrado en [Email Avanzado.](umbrella://communications/email/advanced))
 
 ## Cambie de proveedor.
 

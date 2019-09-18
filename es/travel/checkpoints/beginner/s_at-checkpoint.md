@@ -8,7 +8,7 @@ title: En el Punto de Control
 *   Demuestre que usted no es una amenaza.
 *   Siga la etiqueta local.
 
-(Investigue la etiqueta cuando [planifique su ruta] (umbrella://travel/vehicles).)
+(Investigue la etiqueta cuando [planifique su ruta](umbrella://travel/vehicles).)
 
 ## Su vehiculo
 

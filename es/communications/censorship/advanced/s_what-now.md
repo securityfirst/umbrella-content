@@ -4,7 +4,7 @@ title: ¿Ahora qué?
 ---
 Pase a la derecha para la lista de verificación de esta lección.
 
-Aprenda a evitar la censura de Internet en [Principiante en censura] (umbrella://communications/censorship/beginner).
+Aprenda a evitar la censura de Internet en [Principiante en censura](umbrella://communications/censorship/beginner).
 
 Aprenda cómo probar su red y recopilar evidencia de censura en [Experto en Censura](umbrella://communications/censorship/expert).
 

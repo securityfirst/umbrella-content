@@ -14,4 +14,4 @@ title: Recordando contraseñas seguras
 
 *   **Use acrónimos:** 'Are you happy today?' se convierte en 'rU:-)2d@y?'
 
-(Obtenga información sobre las bases de datos de contraseña segura como [KeePassXC](umbrella://tools/encryption/s_keepassxc.md) en [Contraseñas Avanzado] (umbrella://information/passwords/advanced).
+(Obtenga información sobre las bases de datos de contraseña segura como [KeePassXC](umbrella://tools/encryption/s_keepassxc.md) en [Contraseñas Avanzado](umbrella://information/passwords/advanced).

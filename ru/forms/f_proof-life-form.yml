@@ -1,0 +1,42 @@
+screens:
+- items:
+  - name: write-questions-known-close
+    type: label
+    label: Запишите четыре вопроса, которые известны только вам или близкому вам человеку
+  - name: question
+    type: text_input
+    label: 'Вопрос 1:'
+  - name: answer
+    type: text_input
+    label: 'Ответ 1:'
+  title: ""
+- items:
+  - name: question-2
+    type: text_input
+    label: 'Вопрос 2:'
+  - name: answer-2
+    type: text_input
+    label: 'Ответ 2:'
+  title: ""
+- items:
+  - name: question-3
+    type: text_input
+    label: 'Вопрос 3: '
+  - name: answer-3
+    type: text_input
+    label: 'Ответ 3:'
+  title: ""
+- items:
+  - name: question-4
+    type: text_input
+    label: 'Вопрос 4:'
+  - name: answer-4
+    type: text_input
+    label: 'Ответ 4:'
+  title: ""
+- items:
+  - name: personal-duress-word
+    type: text_input
+    label: Кодовое слово о принуждении
+  title: ""
+title: Форма доказательства жизни

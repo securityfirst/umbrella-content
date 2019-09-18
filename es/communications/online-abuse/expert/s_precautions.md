@@ -26,7 +26,7 @@ Android:
 * Verifique dos veces que su configuración no esté realizando una copia de seguridad del servicio en la nube de Google+ en la aplicación Fotos > Configuración general > Copia de seguridad automática en Desactivado.
 * Compruebe su nube con frecuencia para saber exactamente qué se almacena allí.
 
-(Aprenda [seguridad básica para Android] (umbrella://tools/other/s_android.md) y cómo [cifrar su iPhone] (umbrella://tools/encryption/s_encrypt-your-iphone.md).)
+(Aprenda [seguridad básica para Android](umbrella://tools/other/s_android.md) y cómo [cifrar su iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md).)
 
 ## Borre datos antes de reciclar
 

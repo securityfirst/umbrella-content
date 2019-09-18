@@ -12,5 +12,5 @@ title: 現在怎樣?
 
 ### 進一步閱讀
 
-*   在[Journalist Security Guide] (https://cpj.org/reports/2012/04/armed-conflict.php#6)的“惡意環境中的衛星技術”閲讀關於保護記者委員會的資訊。
-*   小世界新聞，[Guide to Safely Using Satellite Phones] (http://smallworldnews.com/guides/#sat-phones-info)。
+*   在[Journalist Security Guide](https://cpj.org/reports/2012/04/armed-conflict.php#6)的“惡意環境中的衛星技術”閲讀關於保護記者委員會的資訊。
+*   小世界新聞，[Guide to Safely Using Satellite Phones](http://smallworldnews.com/guides/#sat-phones-info)。

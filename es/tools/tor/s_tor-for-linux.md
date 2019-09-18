@@ -11,7 +11,7 @@ Anonimato Online
 **Nivel**: Principiante-Avanzado
 **Tiempo requerido**: 15 minutos — 1 hora
 **Publicado:** abril 2018
-**Fuentes:** Surveillance Self-Defense (EFF), [Cómo: Usar Tor en Linux] (https://https://ssd.eff.org/es/module/como-usar-tor-en-linux); Security in a Box [TOR BROWSER FOR LINUX - ONLINE ANONYMITY AND CIRCUMVENTION](https://securityinabox.org/en/guide/torbrowser/linux/).
+**Fuentes:** Surveillance Self-Defense (EFF), [Cómo: Usar Tor en Linux](https://https://ssd.eff.org/es/module/como-usar-tor-en-linux); Security in a Box [TOR BROWSER FOR LINUX - ONLINE ANONYMITY AND CIRCUMVENTION](https://securityinabox.org/en/guide/torbrowser/linux/).
 
 **Utilizar Tor le permitirá:**
 
@@ -28,7 +28,7 @@ Anonimato Online
 Introducción
 -------------
 
-Esta guía describe cómo usar [Tor Browser] (https://www.torproject.org/projects/torbrowser.html.es) en Linux.
+Esta guía describe cómo usar [Tor Browser](https://www.torproject.org/projects/torbrowser.html.es) en Linux.
 
 Tor es un servicio administrado por voluntarios que proporciona privacidad y anonimato en línea al cubrir quién es usted y dónde se está conectando. El servicio también lo protege de la red Tor en sí misma; puede estar seguro de que permanecerá en el anonimato para otros usuarios de Tor.
 
@@ -106,7 +106,7 @@ Algunas características de un navegador web normal pueden hacerlo vulnerable a 
 
 ![](torforlinux10.png)
 
-Finalmente, la navegación con Tor es diferente en algunos aspectos de la experiencia de navegación normal. Recomendamos leer [estos consejos] (https://www.torproject.org/download/download-easy.html.en#warning) para navegar correctamente con Tor y conservar su anonimato.
+Finalmente, la navegación con Tor es diferente en algunos aspectos de la experiencia de navegación normal. Recomendamos leer [estos consejos](https://www.torproject.org/download/download-easy.html.en#warning) para navegar correctamente con Tor y conservar su anonimato.
 
 ![](torforlinux11.png)
 
@@ -119,7 +119,7 @@ Tor Browser oculta su *dirección IP* de los sitios web que visita. Si funciona 
 - Es diferente de su dirección IP normal
 - No se puede vincular a su ubicación física
 
-La forma más sencilla de confirmar esto es visitando el sitio web *Tor Check*, que se encuentra en [**https: //check.torproject.org/**] (https://check.torproject.org)
+La forma más sencilla de confirmar esto es visitando el sitio web *Tor Check*, que se encuentra en [**https: //check.torproject.org/**](https://check.torproject.org)
 
 Si **no** está utilizando Tor, mostrará lo siguiente:
 
@@ -152,7 +152,7 @@ Tor Browser borrará su historial de navegación y las cookies y luego se reinic
 Problemas al Usar Tor Browser
 -----------------
 
-Si no puede conectarse, intente [solución de problemas] (https://www.torproject.org/docs/faq.html.en#DoesntWork).
+Si no puede conectarse, intente [solución de problemas](https://www.torproject.org/docs/faq.html.en#DoesntWork).
 
 Si aún no puede conectarse y sospecha que su acceso a Tor puede estar restringido, lea *Si la Red Tor está bloqueada*, a continuación.
 
@@ -160,9 +160,9 @@ Si planea viajar a un área donde sospecha que el acceso a Tor puede estar restr
 
 #Si la Página de Descarga está Bloqueada
 
-* Hay un espejo del Tor Browser Bundle en [Github] (https://github.com/TheTorProject/gettorbrowser).
+* Hay un espejo del Tor Browser Bundle en [Github](https://github.com/TheTorProject/gettorbrowser).
 * También puede enviar un correo electrónico a gettor@torproject.org con la versión que necesita (windows, osx o linux) en el cuerpo del mensaje.
-* Envíe un mensaje directo que diga "ayuda" a [@get_tor] (https://twitter.com/get_tor) en Twitter para obtener instrucciones sobre cómo solicitar Tor a través de DM.
+* Envíe un mensaje directo que diga "ayuda" a [@get_tor](https://twitter.com/get_tor) en Twitter para obtener instrucciones sobre cómo solicitar Tor a través de DM.
 
 Antes de descargar un paquete Tor Browser en Linux, debe determinar si está ejecutando un sistema de **32 bits** o de **64 bits**. Antes de extraerlo, debes verificar que sea auténtico.
 
@@ -174,12 +174,12 @@ Antes de descargar un paquete Tor Browser en Linux, debe determinar si está eje
 
 Si está ejecutando un sistema de **32-bits**, *Terminal* mostrará `i686` o` i386`. Si está ejecutando un sistema de **64 bits**, se mostrará `x86_64`.
 
-**Paso 3**. **Haga clic** en el enlace de descarga y guarde el paquete en algún lugar conveniente (en su carpeta *Descritorio* o *Documentos*, por ejemplo, o en un dispositivo de almacenamiento USB). Necesitará el archivo **.Asc** para *verificar* la autenticidad del paquete al verificar su firma. (Consulte la [Guía del Proyecto Tor para verificar firmas] (https://www.torproject.org/docs/verifying-signatures.html.en)).
+**Paso 3**. **Haga clic** en el enlace de descarga y guarde el paquete en algún lugar conveniente (en su carpeta *Descritorio* o *Documentos*, por ejemplo, o en un dispositivo de almacenamiento USB). Necesitará el archivo **.Asc** para *verificar* la autenticidad del paquete al verificar su firma. (Consulte la [Guía del Proyecto Tor para verificar firmas](https://www.torproject.org/docs/verifying-signatures.html.en)).
 
 Verificar Tor Browser
 ------------------
 
-GnuPG viene preinstalado en muchos sistemas Linux, por lo que probablemente pueda revisar la firma *Abrir PGP* de Tor Browser sin instalar software adicional. (Obtenga más información sobre PGP en la lección [Correo electrónico] (umbrella://communications/email/expert) y [Guía de herramienta PGP para LINUX] (umbrella://tools/pgp/s_pgp-for-linux.md).)
+GnuPG viene preinstalado en muchos sistemas Linux, por lo que probablemente pueda revisar la firma *Abrir PGP* de Tor Browser sin instalar software adicional. (Obtenga más información sobre PGP en la lección [Correo electrónico](umbrella://communications/email/expert) y [Guía de herramienta PGP para LINUX](umbrella://tools/pgp/s_pgp-for-linux.md).)
 
 **Paso 1**. Importe la clave de firma del *Proyecto Tor* (**0x4E2C6E8793298290**) abriendo *Terminal* y ejecutando el siguiente comando:
 
@@ -229,7 +229,7 @@ Si desea usar Tor Browser desde una ubicación donde la red Tor esté bloqueada,
 
 El transporte conectable predeterminado, llamado **obfs4**, también dificulta un poco más que otros se den cuenta de que se está conectando a la red Tor. Pero, en general, Tor no está diseñado para ocultar el hecho de que está utilizando Tor.
 
-Puede obtener más información sobre los puentes en el [sitio web del Proyecto Tor] (https://bridges.torproject.org/). Hay dos formas de usar los puentes. Puede habilitar los **puentes proporcionados** o puede solicitar **puentes personalizados**.
+Puede obtener más información sobre los puentes en el [sitio web del Proyecto Tor](https://bridges.torproject.org/). Hay dos formas de usar los puentes. Puede habilitar los **puentes proporcionados** o puede solicitar **puentes personalizados**.
 
 ### Puentes proporcionados
 

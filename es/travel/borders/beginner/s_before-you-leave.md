@@ -28,7 +28,7 @@ Esto puede depender de:
 *   Información vergonzosa o incriminatoria;
 *   Itinerarios, procedimientos operativos estándar y protocolos de seguridad.
 
-(Obtenga información sobre los procedimientos en viajes, su [preparación] (umbrella://travel/preparation).)
+(Obtenga información sobre los procedimientos en viajes, su [preparación](umbrella://travel/preparation).)
 
 ## 2. La información sensible puede ser almacenada en:
 

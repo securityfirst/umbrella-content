@@ -16,7 +16,7 @@ title: 電子郵件已遭駭的處理方式
 
 為您的電子郵件和所有關聯帳戶選擇新的強密碼。關聯帳戶使用您的電子郵件登錄，恢復登錄信息或驗證您的身份。
 
-（使用[高强度密碼](umbrella://information/passwords/beginner) 和 [2FA.] (umbrella://information/passwords/advanced)。）
+（使用[高强度密碼](umbrella://information/passwords/beginner) 和 [2FA.](umbrella://information/passwords/advanced)。）
 
 ## 保護您的設備
 

@@ -7,7 +7,7 @@ title: 現在怎麼辦
 #### **相關課程**
 
 *   [惡意軟件](umbrella://information/malware)
-*   [電子郵件] (umbrella://communications/email)
+*   [電子郵件](umbrella://communications/email)
 *   [社交媒體](umbrella://communications/social-media)
 
 #### **進一步閱讀**

@@ -37,7 +37,7 @@ title: Facebook
 
 **Step 1.** From your **Facebook** Home page, **click** on the small arrow beside *Home* in the top right-hand corner and select *Settings*. 
 
-![](/media/facebook-all-05.png)
+![](facebook-all-05.png)
 
 *Figure 1: Options*
 
@@ -45,7 +45,7 @@ This will take you to the *Settings* menu.
 
 **Step 2.** Click on **Security and Login** in the menu on the left hand side. This will open the Security Settings page. 
 
-![](/media/facebook-all-17.png)
+![](facebook-all-17.png)
 
 *Figure 2: The Security and Login Settings page*
 
@@ -53,7 +53,7 @@ This will take you to the *Settings* menu.
 
 **Step 4.** *Login:* You should **update** your password regularly, preferably at least once every three months. Remember, it is extremely important that you choose a strong password to protect your account and your information. (Learn more about [Passwords](umbrella://information/passwords).)
 
-![](/media/facebook-all-08.png)
+![](facebook-all-08.png)
 
 *Figure 3: Password options*
 
@@ -82,13 +82,13 @@ This will take you to the *Settings* menu.
 
  **Step 1.** To edit your **Facebook** *Privacy Settings*, **click** on the small arrow beside *Home* in the top right-hand corner and select *Settings*. 
 
-![](/media/facebook-all-05.png)
+![](facebook-all-05.png)
 
 *Figure 1: Options*
 
 **Step 2.** This will take you to the *Settings* menu.  On the left-hand side, **choose** *Privacy*. 
 
-![](/media/facebook-all-25.png)
+![](facebook-all-25.png)
 
 *Figure 2: Privacy settings page*
 
@@ -98,13 +98,13 @@ This will take you to the *Settings* menu.
 
 **Step 4.** The second option allows you to **review** the posts which other **Facebook** users have tagged you in. To see this, **click** on *Use Activity Log*.
 
-![](/media/facebook-all-18.png)
+![](facebook-all-18.png)
 
 *Figure 3: Who can see your future posts*
 
 **Step 5.** The third option allows you to **restrict** access to previous status updates of yours which may have been public. **Note**, however, the limitation that individuals you tagged and their friends will still be able to see this content.
 
-![](/media/facebook-all-19.png)
+![](facebook-all-19.png)
 
 *Figure 4: Limit previous posts*
 
@@ -118,7 +118,7 @@ Note: Don't forget to check who can view your phone number and email address dir
 
 **Step 8.** *Do you want outside search engines to link to your profile?* Here you can limit people's ability to find your **Facebook** page via search engines. The default settings make it as easy as possible for individuals to find you this way, including possible adversaries. **Click** *Edit* and **uncheck** the box which says *Allow search engines outside of Facebook to link to your profile*.
 
-![](/media/facebook-all-21.png)
+![](facebook-all-21.png)
 
 *Figure 5: Who can look me up?*
 
@@ -130,7 +130,7 @@ As we've mentioned before, your information security on **Facebook** has a lot t
 
 **Step 1.** In the left-hand sidebar, **click** on the *Timeline and Tagging* menu.
 
-![](/media/facebook-all-27.png)
+![](facebook-all-27.png)
 
 *Figure 1: The Timeline and Tagging menu*
 
@@ -152,19 +152,19 @@ As we've mentioned before, your information security on **Facebook** has a lot t
 
 **Step 1.** In the menu on the left, **select** *Blocking*. Here, **Facebook** offers ample opportunities for blocking unwanted, intrusive, and sometimes potentially dangerous information.
 
-![](/media/facebook-all-30.png)
+![](facebook-all-30.png)
 
 *Figure 1: Select Blocking from the drop-down list*
 
 **Step 2.** *Restricted List*. Here, you can add **Facebook** friends to a list which will limit them to only being able to view information you share publicly on your timeline (per the settings we explored above). To add friends to the list, **click** *Edit List*.
 
-![](/media/facebook-all-31.png)
+![](facebook-all-31.png)
 
 *Figure 2: Restricted List*
 
 **Step 3.** *Block users*. Here you can block a user from accessing your **Facebook** page, any of your content, or adding you as a friend.
 
-![](/media/facebook-all-32.png)
+![](facebook-all-32.png)
 
 *Figure 3: Block Users*
 
@@ -172,19 +172,19 @@ As we've mentioned before, your information security on **Facebook** has a lot t
 
 **Step 5.** *Block app invites*. Often, we will have **Facebook** friends who are enthusiastic about a particular application, often a game, and they will continuously send us invites to join this game. Here, you can block application invites from such friends.
 
-![](/media/facebook-all-33.png)
+![](facebook-all-33.png)
 
 *Figure 4: Block App Invites*
 
 **Step 6.** *Block event invites*. Similarly, here you can block invitations to events from certain **Facebook** friends.
 
-![](/media/facebook-all-34.png)
+![](facebook-all-34.png)
 
 *Figure 5: Block Event Invites*
 
 **Step 7.** *Block apps*. As the name suggests, here you can prevent an application from accessing all but your public information. 
 
-![](/media/facebook-all-35.png)
+![](facebook-all-35.png)
 
 *Figure 6: Block Apps*
 
@@ -196,7 +196,7 @@ As we've mentioned before, your information security on **Facebook** has a lot t
 
 **Step 1.** Beside *Who can Follow Me* **select** *Friends*.
 
-![](/media/facebook-all-36.png)
+![](facebook-all-36.png)
 
 *Fig. 1: Follower settings*
 
@@ -211,25 +211,25 @@ Each third party you grant permissions to is associated with your **Facebook** a
 
 **Step 1.** **Click** on *Apps and Websites* in the menu on the left.  
 
-![](/media/facebook-all-37.png)
+![](facebook-all-37.png)
 
 *Figure 1: Apps and Websites*
 
 **Step 2.** If using Apps isn't *really* important to you or your work, we recommended that you **click** the *Edit* button under *Apps, Websites and Games.* Click *Turn Off.*
 
-![](/media/facebook-all-37.5.png)
+![](facebook-all-37.5.png)
 
 *Figure 1: Turning off Apps and Websites*
 
 **Step 3.** *Logged in with Facebook*. Whether you leave the option above enabled or not, pay attention to the list of your active apps and websites, and what information they can access. Do you really need them? By **clicking** on an app you can see what information it has access to. 
 
-![](/media/facebook-all-38.png)
+![](facebook-all-38.png)
 
 *Figure 2: Details of an app*
 
 **Step 4.** To remove an app or website, check the box beside it in the list, and then **click** *Remove*. In the warning box that appears, check the box to delete activity on Facebook that the third party may have published on your behalf.  
 
-![](/media/facebook-all-39.png)
+![](facebook-all-39.png)
 
 *Figure 3: Remove an application*
 

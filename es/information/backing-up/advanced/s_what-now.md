@@ -14,4 +14,4 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 ### OTRAS LECTURAS
 
-*   Security in a Box, [Proteja los Archivos Confidenciales en su Computadora] (https://securityinabox.org/en/guide/secure-file-storage/).
+*   Security in a Box, [Proteja los Archivos Confidenciales en su Computadora](https://securityinabox.org/en/guide/secure-file-storage/).

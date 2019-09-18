@@ -4,7 +4,7 @@ title: Grabar contraseñas de forma segura
 ---
 # Use un administrador de contraseñas
 
-Ya sabe cómo [crear una contraseña segura] (umbrella://information/passwords/beginner). Pero crear una contraseña diferente para cada cuenta y cambiarla cada pocos meses hace que sea difícil recordarlas todas.
+Ya sabe cómo [crear una contraseña segura](umbrella://information/passwords/beginner). Pero crear una contraseña diferente para cada cuenta y cambiarla cada pocos meses hace que sea difícil recordarlas todas.
 
 Afortunadamente, hay herramientas para ayudar.
 
@@ -30,6 +30,6 @@ Funciona:
 * En una memoria USB para que pueda buscar una contraseña mientras se encuentra lejos de su computadora principal.
 * Con una extensión de navegador web para que pueda guardar o rellenar automáticamente las contraseñas en la web.
 
-Aprenda a instalar y usar [KeepassXC] (umbrella://tools/encryption/s_keepassxc.md).
+Aprenda a instalar y usar [KeepassXC](umbrella://tools/encryption/s_keepassxc.md).
 
-*Nota: hay varios programas con nombres similares a KeePassXC, como KeePassX, KeePass y KeePass2. Algunos de estos se basan en el mismo código, mientras que otros simplemente usan el mismo formato de base de datos. [KeePassXC] (https://keepassxc.org/) es multiplataforma y está desarrollado más activamente.*
+*Nota: hay varios programas con nombres similares a KeePassXC, como KeePassX, KeePass y KeePass2. Algunos de estos se basan en el mismo código, mientras que otros simplemente usan el mismo formato de base de datos. [KeePassXC](https://keepassxc.org/) es multiplataforma y está desarrollado más activamente.*

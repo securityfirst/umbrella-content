@@ -12,4 +12,4 @@ Sin embargo, los ataques terroristas generalmente se ajustan a los patrones. Com
 
 Esta lección proporciona algunas preguntas para ayudarlo a pensar en escenarios específicos. Los planes de seguridad para ataques terroristas deben basarse en sus vulnerabilidades y actualizarse periódicamente.
 
-Aprenda qué hacer durante un ataque terrorista en [Terrorismo avanzado] (umbrella://incident-response/terrorism/advanced).
+Aprenda qué hacer durante un ataque terrorista en [Terrorismo avanzado](umbrella://incident-response/terrorism/advanced).

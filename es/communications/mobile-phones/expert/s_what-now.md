@@ -12,5 +12,5 @@ Conozca los peligros de usar teléfonos móviles en [Teléfonos Móviles Princip
 
 ### OTRAS LECTURAS
 
-*   Primero la Seguridad, [Comunicaciones Seguras] (https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
-*   Seguridad en una caja, [Use los teléfonos inteligentes de la manera más segura posible.] (Https://securityinabox.org/en/guide/smartphones)
+*   Primero la Seguridad, [Comunicaciones Seguras](https://advocacyassembly.org/en/courses/33/#/chapter/1/lesson/1), una capacitación en línea gratuita en Advocacy Assembly.
+*   Seguridad en una caja, [Use los teléfonos inteligentes de la manera más segura posible.](Https://securityinabox.org/en/guide/smartphones)

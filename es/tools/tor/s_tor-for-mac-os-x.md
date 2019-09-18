@@ -5,7 +5,7 @@ title: Tor para Mac OS X
 # GUÍA DE HERRAMIENTAS TOR PARA MAC OS
 
 **Lección para leer: [Internet](umbrella://communications/the-internet)**
-**Esta guía describe cómo usar [Tor Browser Bundle] (https://www.torproject.org/projects/torbrowser.html.en) en Mac.**
+**Esta guía describe cómo usar [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) en Mac.**
 **Requisitos de la computadora:** Una conexión a Internet, una computadora con macOS
 **Versión utilizada en esta guía: ** Tor Browser Bundle: 3.6.2
 **Licencia:** Software libre; mezcla de licencias de software libre

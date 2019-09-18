@@ -26,7 +26,7 @@ Correo cifrado para Windows
 - La capacidad de proteger sus comunicaciones por correo electrónico para que nadie las lea, excepto sus destinatarios.
 - La capacidad de demostrar que un correo electrónico provino de una persona en particular, en lugar de ser un mensaje falso enviado por otro remitente (de otra manera es muy fácil que el correo electrónico sea fabricado). Ambas son defensas importantes si se lo busca por vigilancia o información errónea.
 
-**Nota:** Si le preocupa que el correo electrónico encriptado con PGP no sea seguro después de que se informaron las vulnerabilidades en mayo de 2018, lea la sección Efail de nuestra lección avanzada de [correo electrónico] (umbrella://communications/email).
+**Nota:** Si le preocupa que el correo electrónico encriptado con PGP no sea seguro después de que se informaron las vulnerabilidades en mayo de 2018, lea la sección Efail de nuestra lección avanzada de [correo electrónico](umbrella://communications/email).
 
 ### 1.0 Antes de comenzar
 
@@ -184,7 +184,7 @@ Servidor de correo saliente (SMTP): requiere TLS
 
 **Contraseña:** su contraseña de Gmail
 
-**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña de Gmail estándar con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [la Guía de Google] (https://support.google.com/mail/answer/1173270?hl=es) para hacer esto.**
+**Si usa la autenticación de dos factores con Google (y, dependiendo del modelo de amenaza, ¡probablemente debería!) No puede usar su contraseña de Gmail estándar con Thunderbird. En su lugar, deberá crear una nueva contraseña específica de la aplicación para que Thunderbird acceda a su cuenta de Gmail. Consulte [la Guía de Google](https://support.google.com/mail/answer/1173270?hl=es) para hacer esto.**
 
 Cuando toda la información se ingrese correctamente, haga clic en el botón "Listo".
 ![image](tool_pgpwin25.png)
@@ -219,7 +219,7 @@ Enigmail le proporciona tres opciones para manejar el correo. La opción predete
 
 No sabemos cuál es la opción adecuada para usted, pero creemos que la opción "Conveniente encriptación automática" es una buena opción. Si tiene dudas, elija "No cifrar mis mensajes de forma predeterminada". Haga clic en el botón "Siguiente".
 
-Ahora tiene una opción para firmar digitalmente todos los correos electrónicos salientes. Firmar su correo electrónico con PGP le permite al destinatario verificar que usted envió el mensaje y que su contenido no fue alterado. Haga clic en el botón "Firmar mis mensajes de manera predeterminada" para activar esta función. La desventaja de hacer esto, sin embargo, es que también puede marcar a cualquier persona a la que le envíe correo que use PGP. [En algunas partes del mundo] (www.cryptolaw.org/) (incluyendo China, Irán, Bielorrusia y algunos estados del Medio Oriente) el uso de cifrado sin licencia, incluso para uso personal, es ilegal, por lo que es posible que tenga muy buenas razones para no dejar que otros sepan que usas PGP.
+Ahora tiene una opción para firmar digitalmente todos los correos electrónicos salientes. Firmar su correo electrónico con PGP le permite al destinatario verificar que usted envió el mensaje y que su contenido no fue alterado. Haga clic en el botón "Firmar mis mensajes de manera predeterminada" para activar esta función. La desventaja de hacer esto, sin embargo, es que también puede marcar a cualquier persona a la que le envíe correo que use PGP. [En algunas partes del mundo](www.cryptolaw.org/) (incluyendo China, Irán, Bielorrusia y algunos estados del Medio Oriente) el uso de cifrado sin licencia, incluso para uso personal, es ilegal, por lo que es posible que tenga muy buenas razones para no dejar que otros sepan que usas PGP.
 
 Haga clic en el botón "Siguiente".
 ![image](tool_pgpwin34.png)

@@ -10,7 +10,7 @@ title: Planee su ruta
 
 *   Evite los puntos de estrangulamiento, como los callejones estrechos.
 
-(Obtenga más información sobre esto en [experto en contravigilancia] (umbrella://incident-response/counter-surveillance/expert).)
+(Obtenga más información sobre esto en [experto en contravigilancia](umbrella://incident-response/counter-surveillance/expert).)
 
 *   Consulte expertos sobre condiciones de ruta. Cambie rutas según sea necesario.
 

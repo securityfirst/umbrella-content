@@ -25,6 +25,6 @@ La anticoncepción post-coital o de emergencia (la píldora del día siguiente) 
 
 **El medicamento aún puede ser beneficioso.** Comience *tan pronto como sea posible* después de una posible exposición al VIH y no más tarde de 72 horas después, y continúe durante cuatro semanas.
 
-(Obtenga más información sobre esto en [abuso sexual experto] (umbrella://incident-response/sexual-assault/expert).)
+(Obtenga más información sobre esto en [abuso sexual experto](umbrella://incident-response/sexual-assault/expert).)
 
 *Repita las pruebas para enfermedades de transmisión sexual y VIH hasta un año después del incidente.*

@@ -27,7 +27,7 @@ title: Digital
 
 **Descripción:** La línea de ayuda de seguridad digital es un recurso gratuito para la sociedad civil de todo el mundo. Está dirigido por la organización internacional de derechos humanos Access. Proporciona una respuesta rápida en incidentes de seguridad digital, recomendaciones de herramientas y soporte para asegurar infraestructura técnica, sitios web y redes sociales contra ataques.
 
-**Sitio web:** [https://www.accessnow.org)] (https://www.accessnow.org)
+**Sitio web:** [https://www.accessnow.org)](https://www.accessnow.org)
 **Correo electrónico:** help@accessnow.org
 
 ## Tactical Technology Collective
@@ -38,7 +38,7 @@ title: Digital
 
 **Descripción:** Tienen tres áreas focales: comprensión y configuración de problemas; seguridad digital y privacidad; y política de datos. Trabajan para crear conciencia, desarrollar habilidades prácticas y ofrecer tanto reflexión crítica como inspiración en todas estas áreas. A través de capacitaciones y talleres, brindan apoyo directo a más de 2000 defensores al año, ya sea a través de capacitación intensiva en grupos pequeños, o a través de "capacitaciones flash" o clínicas en reuniones y conferencias a gran escala.
 
-**Sitio web:** [https://tacticaltech.org)] (https://tacticaltech.org)
+**Sitio web:** [https://tacticaltech.org)](https://tacticaltech.org)
 **Correo electrónico:** ttc@tacticaltech.org
 Berlín, Tel: (+49) (0) 30 41 71 53 33
 Bangalore, Tel: (+ 91) (0) 80 4153 1129
