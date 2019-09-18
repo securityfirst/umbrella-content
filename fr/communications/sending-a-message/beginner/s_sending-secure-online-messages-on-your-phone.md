@@ -29,7 +29,7 @@ La personne que vous appelez doit également installer Signal.
 
 (Apprenez-en plus sur Signal pour [Android](umbrella://tools/messaging/s_signal-for-android.md) et [iOS](umbrella://tools/messaging/s_signal-for-ios.md).)
 
-* Certains pays bloquent les serveurs Signal afin d’éviter les communications sécurisées. Pour contourner le blocage, utilisez un VPN.*
+*Certains pays bloquent les serveurs Signal afin d’éviter les communications sécurisées. Pour contourner le blocage, utilisez un VPN.*
 
 (Apprenez-en plus à ce sujet sur [Internet](umbrella://communications/the-internet/beginner).)
 
