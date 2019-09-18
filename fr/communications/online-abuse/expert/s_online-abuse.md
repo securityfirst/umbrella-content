@@ -18,7 +18,7 @@ Menace de révéler des informations embarrassantes ou préjudiciables sur une p
 
 Les informations ou images peuvent être volées (souvent par piratage illégal) ou simulées. (De faux audio et vidéo appelés [deepfakes](https://www.buzzfeed.com/craigsilverman/obama-jordan-peele-deepfake-video-debunk-buzzfeed?utm_term=.hlxWpqMOo#.rlDN6YM4o) peuvent être très convaincants.)
 
-Blackmailers peut threaten pour diffuser le online de in0x11c0669733ccation, ou demander de l’argent à 0xcc59e86e5b5e images de websites que publish malicieusement matériel sexually explicit sans le consentement du subject (voir Porn Revenge).
+Les maîtres chanteurs peuvent menacer de diffuser les informations en ligne ou demander de l'argent pour supprimer des images de sites Web qui publient de manière malicieuse des contenus sexuellement explicites sans le consentement du sujet (voir Revenge Porn).
 
 ## Cyberharcèlement
 
