@@ -20,6 +20,6 @@ Censure Débutant aborde le contournement.
 
 [Censure expert](umbrella://communications/censorship/expert) souligne la manière dont on peut tester et collecter des preuves de censure.
 
-Si vous êtes un militant, un journaliste indépendant ou un acteur de la société civile confronté à la censure de votre site Web ou de vos comptes de médias sociaux, contactez la [Ligne d’Assistance de la Sécurité Numérique] d’Access Now (https://www.accessnow.org/help/#contact-us).
+Si vous êtes un militant, un journaliste indépendant ou un acteur de la société civile confronté à la censure de votre site Web ou de vos comptes de médias sociaux, contactez la [Ligne d’Assistance de la Sécurité Numérique](https://www.accessnow.org/help/#contact-us) d’Access Now.
 
 (Apprenez-en plus à ce sujet dans [Assistance d’Urgence](umbrella://emergency-support).)
