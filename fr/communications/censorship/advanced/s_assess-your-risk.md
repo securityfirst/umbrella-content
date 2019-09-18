@@ -10,7 +10,7 @@ title: Évaluez vos risques
 
 * Dans votre région, déterminez quelles entreprises contrôlent l’accès à Internet et où l’infrastructure vous connecte à d’autres pays.
 
-* Plusieurs connexions internationales contrôlées par différentes entités renforcent la résilience d’Internet. *
+*Plusieurs connexions internationales contrôlées par différentes entités renforcent la résilience d’Internet.*
 
 ## Rapports locaux
 
@@ -22,4 +22,4 @@ Lisez les bulletins de nouvelles locales et posez des questions sur la possibili
 
 *   Des événements perturbateurs, comme une élection, une fête religieuse ou une attaque, sont les plus susceptibles de déclencher un arrêt.
 
-* Les pays qui n’ont pas pris d’engagement explicite de protéger l’accès à Internet et les pays qui censurent déjà des informations peuvent copier l’exemple d’autres autorités en mettant en œuvre des procédures d’arrêt, même si elles ne l’ont pas encore fait auparavant. *
+*Les pays qui n’ont pas pris d’engagement explicite de protéger l’accès à Internet et les pays qui censurent déjà des informations peuvent copier l’exemple d’autres autorités en mettant en œuvre des procédures d’arrêt, même si elles ne l’ont pas encore fait auparavant.*
