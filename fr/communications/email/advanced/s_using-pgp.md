@@ -12,4 +12,4 @@ Cependant, beaucoup de programmes sont disponibles afin de rendre son utilisatio
 *   [PGP pour Mac OS](umbrella://tools/pgp/s_pgp-for-mac-os-x.md)
 *   [PGP pour Windows](umbrella://tools/pgp/s_pgp-for-windows.md)
 *   [PGP pour Linux](umbrella://tools/pgp/s_pgp-for-linux.md)
-*   [K-9 & Open Keychain (PGP pour Android)](umbrella://tools/encryption/s_k9-apg.md) (Storing your private encryption key on a mobile device can be risky but may be worth the benefit in some cases.)
+*   [K-9 & Open Keychain (PGP pour Android)](umbrella://tools/encryption/s_k9-apg.md) (Stocker votre clé de chiffrement privée sur un appareil mobile peut être risqué mais peut valoir la peine dans certains cas.)
