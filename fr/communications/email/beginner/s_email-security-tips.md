@@ -16,7 +16,7 @@ La sécurité de la messagerie électronique ne vous protégera pas si les logic
 
 ## Ne cliquez pas sur des liens ou des pièces jointes inattendus.
 
-Apprenez à repérer le phishing (umbrella://communications/phishing).
+Apprenez à repérer le [phishing](umbrella://communications/phishing).
 
 ## Utilisez un pseudonyme.
 
