@@ -18,9 +18,9 @@ Si votre téléphone satellite est confisqué, les autorités ou acteurs hostile
 
 *   Supprimez quotidiennement les informations sensibles afin de protéger vos sources. C’est-à-dire :
 
-   * Historique d’appels ;
-   * Contacts ; 
-   * Dossiers envoyés.
+     * Historique d’appels ;
+     * Contacts ; 
+     * Dossiers envoyés.
 
 *   Gardez la carte SIM séparée du téléphone lorsque vous ne transmettez pas.
 
