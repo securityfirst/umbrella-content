@@ -17,14 +17,16 @@ Notre équipe :
 *   Alex Guerrieri -> charge des choses
 *   Holly Kilroy -> trouve des choses
 *   Vesna Planko -> conçoit des choses
-*   Douglas Mesquita -> choses Androids
-*   Lucas Correa -> choses Apple
-*   Gregor Stamejcic -> choses corrals
-*   Madeline Earp -> écrit des choses
+*   Jacopo Carboni -> aide les choses
+*   Lucas Correa -> choses pommes
+*   Sun Lee -> choses palmées
+*   Gregor Stamejcic -> les choses de troupeaux
 
 D’anciens amis travaillent désormais sur de nouvelles choses :
 *   Mitesh Patel -> améliore les choses
 *   Adam Schakaki -> répare les choses
+*   Douglas Mesquita -> choses droïdes
+*   Madeline Earp -> écrit des choses
 
-[Licences](umbrella://licences/)
+[Licences](umbrella://licences/)  
 [Merci](umbrella://thankyou/)
