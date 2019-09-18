@@ -12,7 +12,7 @@ title: Protocoles Recommandés
 
 *   Gardez une longueur maximale de 10 minutes pour toute transmission.
 
-* Note : Certains experts avertissent que 10 minutes pourraient être trop longues, car une localisation instantanée est ainsi moins possible. *
+*Note : Certains experts avertissent que 10 minutes pourraient être trop longues, car une localisation instantanée est ainsi moins possible.*
 
 *   Éteignez l’appareil et retirez la batterie dès que la transmission est terminée et avant de voyager.
 
