@@ -4,7 +4,8 @@ title: Ingénierie Sociale
 ---
 Le phishing est une forme d’ingénierie sociale, une attaque qui exploite la psychologie humaine pour accéder à quelque chose de confidentiel. Un attaquant dépourvu de compétences et de ressources pour casser le chiffrement, par exemple, pourrait facilement décrocher le téléphone et se faire passer pour un administrateur système afin de convaincre une personne de partager son mot de passe. (Ne partagez jamais votre mot de passe.)
 
-L’ingénierie sociale peut se faire en ligne ou hors ligne, que ce soit sur un site de rencontres à dans un bar. Mais les attaquants tirent parti de toutes les informations personnelles que nous partageons sur les médias sociaux pour mener des activités d’ingénierie sociale. (En savoir plus sur les [Médias Sociaux](umbrella://lesson/social media).)  
+L’ingénierie sociale peut se faire en ligne ou hors ligne, que ce soit sur un site de rencontres à dans un bar. Mais les attaquants tirent parti de toutes les informations personnelles que nous partageons sur les médias sociaux pour mener des activités d’ingénierie sociale.  
+(En savoir plus sur les [Médias Sociaux](umbrella://lesson/social media))  
 
 Voici quelques conseils clés pour vous aider à limiter votre visibilité sur des plateformes telles que Facebook :
 
