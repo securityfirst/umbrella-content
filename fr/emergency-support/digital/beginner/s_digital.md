@@ -26,7 +26,7 @@ Normalement disponible pour une assistance dans les premières 24 heures
 
 **Description :** La ligne d’assistance à la sécurité numérique est une ressource gratuite pour la société civile du monde entier. Il est géré par l’organisation internationale de défense des droits de l’homme Access. Il fournit une réponse rapide aux incidents de sécurité numérique, des recommandations d’outils et un support pour sécuriser l’infrastructure technique, les sites Web et les médias sociaux contre les attaques.
 
-**Site Web :** [https://www.accessnow.org)](https://www.accessnow.org)    
+**Site Web :** [https://www.accessnow.org](https://www.accessnow.org)    
 **Courriel :** help@accessnow.org  
 
 ## Collectif de technologie tactique
