@@ -12,7 +12,7 @@ WhatsApp offre une messagerie gratuite aux individus et groupes sur une étendue
 
 *   Les messages WhatsApp sont chiffrés en bout à bout aussi longtemps que toutes les parties utilisent la version la plus récente ; WhatsApp ne peut voir ni ne peut être forcé à révéler le contenu.
 
-sécurité(Lisez la [politique de sécurité] de WhatsApp (https://www.whatsapp.com/security/).)  
+sécurité(Lisez la [politique de sécurité](https://www.whatsapp.com/security/) de WhatsApp.)  
 
 ## Considérations de sécurité
 
