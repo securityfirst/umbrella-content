@@ -1,0 +1,7 @@
+---
+index: 72
+title: Attaque de l’Homme du Milieu (HDM)
+---
+# Attaque de l’Homme du Milieu (HDM)
+
+Supposons que vous croyez que vous parliez à votre ami, Bahram, via une messagerie instantanée chiffrée. Pour vérifier que c’est vraiment lui, vous lui demandez de vous dire la ville où vous vous êtes rencontrés. "Istanbul" est la réponse. C’est correct ! Malheureusement, sans que vous ou Bahram le sachiez, quelqu’un d’autre en ligne a intercepté toutes vos communications. Lorsque vous vous êtes connecté pour la première fois avec Bahram, vous vous êtes connecté à cette personne, et à son tour, elle s’est connectée à Bahram. Quand vous pensez que vous posez une question à Bahram, elle reçoit votre message, transmet la question à Bahram, reçoit sa réponse et vous l’envoie ensuite. Même si vous pensez que vous communiquez en toute sécurité avec Bahram, vous communiquez en toute sécurité avec l’espion, qui communique également en toute sécurité avec Bahram ! C’est l’attaque de l’homme du milieu. Les hommes du milieu peuvent espionner les communications ou même insérer de faux messages ou trompeurs dans vos communications. Le logiciel de communication Internet axé sur la sécurité doit se défendre contre une attaque de l’homme du milieu afin d’être sécurisé contre les attaquants qui ont le contrôle de n’importe quelle partie de l’Internet entre deux communicateurs.

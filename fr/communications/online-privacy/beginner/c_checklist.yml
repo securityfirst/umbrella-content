@@ -1,0 +1,41 @@
+index: 100
+list:
+- label: INSCRIPTION SUR LES RÉSEAUX SOCIAUX
+- check: Comprenez pourquoi vous vous inscrivez et quelles informations vous devez
+    protéger.
+- check: Rechercher les termes et conditions du site dans la section concernant la
+    vie privée. Qui aura accès à vos données personnelles ?
+- check: Pour protéger votre identité, créez une nouvelle adresse électronique pour
+    votre compte de réseau social et accédez au compte à l’aide de Tor.
+- check: Choisissez un mot de passe fort et 2FA, le cas échéant.
+- check: Enregistrez des réponses aléatoires aux questions de sécurité dans un gestionnaire
+    de mots de passe.
+- check: Choisissez le nom que vous utilisez publiquement avec soin. Créez des comptes
+    séparés pour différentes activités, telles que des campagnes de plaidoyer, ou
+    identifiez-les en tant que groupe et non en tant qu’individu.
+- check: Retenez les informations non essentielles qui pourraient être utilisées pour
+    vous imiter ou vous attaquer.
+- check: Ajustez vos paramètres de confidentialité.
+- check: Téléchargez des outils pour vous aider à gérer les informations que vous
+    partagez (uBlock Origin, Privacy Badger, ObscuraCam, CameraV, eyeWitness to Atrocities
+- label: RESTER EN SÉCURITÉ SUR LES RÉSEAUX SOCIAUX
+- check: Accédez aux sites sur un périphérique de confiance en utilisant https://
+- check: Ne vous connectez qu’à des personnes que vous connaissez personnellement
+    et limitez l’appartenance à un groupe. Sachez que le compte de quelqu’un d’autre
+    peut être compromis.
+- check: Invitez vos contacts sur une application de messagerie sécurisée telle que
+    Signal au lieu de discuter sur les réseaux sociaux. Ne cliquez pas sur les liens
+    ou les pièces jointes dans les messages directs.
+- check: Vérifiez les paramètres de confidentialité de votre compte. Définissez un
+    rappel pour les revoir fréquemment.
+- check: Recherchez le type d’information publique disponible sur vous en ligne.
+- check: Discutez de ce qu’il est prudent de partager publiquement avec des amis et
+    des membres de l’équipe.
+- check: Sauvegardez vos fichiers en toute sécurité. Ne comptez pas sur les sociétés
+    de réseaux sociaux pour le stockage.
+- label: 3 QUESTIONS À SE POSER AVANT DE PARTAGER SUR LES RÉSEAUX SOCIAUX
+- check: Que pourraient révéler les métadonnées associées à cette information sur
+    vous ou sur quelqu’un d’autre ?
+- check: Avez-vous un consentement éclairé pour partager cela ?
+- check: D’où venait cette information ? Est-elle exacte ? Cela mettra-t-il quelqu’un
+    en danger ?

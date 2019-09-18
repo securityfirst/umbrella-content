@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: Installez et utilisez PGP
+- check: Si vous devez protéger vos méta-données, utilisez Tor
+- check: Pensez à utiliser un pseudonyme avec votre clé publique
+- check: Pour camoufler le contact complètement, les deux parties utilisent des comptes
+    courriels anonymes, Tor et PGP

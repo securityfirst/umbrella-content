@@ -1,0 +1,20 @@
+index: 100
+list:
+- label: PRÉPARER LES ARRÊTS
+- check: Évaluez si le réseau est vulnérable à des arrêts délibérés ou accidentels
+- check: Évaluez la probabilité que les autorités arrêtent Internet
+- check: Identifiez les connexions filaires et les lignes fixes pour une utilisation
+    d’urgence
+- check: Obtenez des VPN et des cartes SIM de secours au besoin
+- check: Mettez à jour les plans de sécurité pour vous assurer que les mesures nécessitant
+    une connexion incluent un plan de sauvegarde hors connexion.
+- label: PENDANT UN ARRÊT
+- check: Recherchez exactement quels services sont perturbés et conservez des enregistrements
+- check: Vérifiez les informations avant d’agir
+- check: Restez avec des personnes en qui vous avez confiance jusqu’à ce que vous
+    ayez trouvé un moyen de communiquer
+- check: Éloignez-vous des foules imprévisibles ou identifiez une issue de secours
+- check: Résistez à la tentation de télécharger des logiciels non fiables pour communiquer
+    ou vous connecter à Internet
+- check: Résistez à la tentation de partager des informations sensibles à l’aide de
+    logiciels ou de réseaux pouvant être surveillés

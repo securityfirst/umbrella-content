@@ -1,0 +1,13 @@
+index: 100
+list:
+- label: Afin d’identifier la surveillance de votre bureau
+- check: Prenez une base
+- check: Identifiez et enregistrez les activités inhabituelles
+- check: Filtrez les coïncidences
+- check: Notifiez les autres
+- check: Faites confiance à vos sens
+- label: Si sous surveillance
+- check: Considérez les risques de confrontation
+- check: Réduisez la capacité de vous surveiller
+- check: Augmentez la protection
+- check: Continuez la surveillance

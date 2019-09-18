@@ -1,0 +1,21 @@
+index: 100
+list:
+- label: Pour les individus
+- check: Apprenez-en plus sur le stress
+- check: Connaissez-vous
+- check: Mangez bien et faites de l’exercice
+- check: Reposez-vous et relaxez-vous
+- check: Pratiquez des systèmes de croyance
+- check: Maintenez l’humour et la perspective
+- check: Soyez informé
+- check: Parlez à des gens
+- check: Changez l’environnement stressant
+- check: Pensez positivement
+- label: Pour les responsables
+- check: Connaissez vos limites
+- check: Obtenez l’aide de votre responsable
+- check: Déléguez
+- check: Trouvez un copain parmi vos pairs
+- check: Reconnaissez les efforts du personnel
+- check: Donnez des congés réguliers
+- check: Donnez le bon exemple

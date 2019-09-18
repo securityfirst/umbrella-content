@@ -1,0 +1,43 @@
+screens:
+- items:
+  - name: write-questions-known-close
+    type: label
+    label: Écrivez quatre questions dont les réponses ne sont connues que par vous
+      ou quelqu’un proche de vous
+  - name: question
+    type: text_input
+    label: 'Question 1 :'
+  - name: answer
+    type: text_input
+    label: 'Réponse 1 :'
+  title: ""
+- items:
+  - name: question-2
+    type: text_input
+    label: 'Question 2 :'
+  - name: answer-2
+    type: text_input
+    label: 'Réponse 2 :'
+  title: ""
+- items:
+  - name: question-3
+    type: text_input
+    label: 'Question 3 :'
+  - name: answer-3
+    type: text_input
+    label: 'Réponse 3 :'
+  title: ""
+- items:
+  - name: question-4
+    type: text_input
+    label: 'Question 4 :'
+  - name: answer-4
+    type: text_input
+    label: 'Réponse 4 :'
+  title: ""
+- items:
+  - name: personal-duress-word
+    type: text_input
+    label: Mot de Contrainte Personnelle
+  title: ""
+title: Formulaire de Preuve de Vie

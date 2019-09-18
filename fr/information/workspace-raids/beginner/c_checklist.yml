@@ -1,0 +1,30 @@
+index: 100
+list:
+- label: PRÉPAREZ-VOUS POUR UNE PERQUISITION
+- check: Évaluez votre risque d’une perquisition. Quelle est la probabilité ? Quel
+    est l’impact possible ?
+- check: Surveillez votre environnement. Qu’est-ce qui pourrait signaler qu’une perquisition
+    est probable ou imminente ?
+- check: Identifiez un support juridique de confiance et comprenez vos droits légaux
+- check: Cachez ou supprimez les actifs de valeur et les informations critiques ou
+    sensibles de votre lieu de travail.
+- check: Évaluez les sanctions pour obstruction à al perquisition et décidez des mesures
+    à prendre pour protéger les informations dans les plus brefs délai
+- check: Créez une politique de perquisition au bureau avec des conseils juridiques,
+    à qui en parler et comment réagir pendant une perquisition
+- check: Créez et maintenez un calendrier de sauvegarde
+- check: Faites un brouillon des communications que vous utiliserez lors d’une perquisition
+- check: Partagez l’informations et construisez des alliances pour comprendre et réduire
+    les risques de perquisition
+- check: Lancez une perquisition d’exercice
+- label: PENDANT UNE PERQUISITION
+- check: Ne prenez des mesures d’urgence pour protéger les informations que si vous
+    comprenez le risque et avez décidé que cela en valait la peine
+- check: Obtenez de l’aide (avocats, membres de l’équipe, alliés)
+- check: Si possible, retardez les fonctionnaires jusqu’à l’arrivée de l’aide
+- check: Coopérez, mais ne donnez pas d’informations volontairement
+- check: Enregistrez les pièces d’identité et les papiers des officiels
+- check: Restez avec les officiels en tout temps et documentez ce qui se passe
+- check: Partagez des informations avec toute autre personne à risque
+- check: Partagez les informations nécessaires pour obtenir de l’aide
+- check: Remplacez les périphériques et les documents afin de continuer le travail

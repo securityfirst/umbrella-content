@@ -1,0 +1,15 @@
+index: 100
+list:
+- check: Verrouillez vos appareils, mais ne présumez pas que le contenu de chaque
+    appareil verrouillé est sécurisé
+- check: Identifiez comment chiffrer vos appareils en fonction de la marque et du
+    système d’exploitation
+- check: Chiffrez tous vos appareils avec des mots de passe forts, si possible
+- check: Évaluez votre risque afin de comprendre votre besoin de périphériques sécurisés
+    supplémentaires ou de graveurs non sécurisés.
+- check: Décidez quelles données ou activités vous isolerez sur quel appareil
+- check: Obtenez des périphériques supplémentaires, au besoin
+- check: Sécurisez les périphériques supplémentaires en les déconnectant, en les masquant
+    ou en installant Tails, si nécessaire
+- check: Créez un plan de maintenance pour mettre à jour, sauvegarder ou supprimer
+    les données des périphériques sécurisés, si nécessaire

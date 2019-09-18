@@ -1,0 +1,11 @@
+index: 100
+list:
+- check: 設定VeraCrypt
+- check: 當無須使用檔案時，卸載VeraCrypt 磁區
+- check: 建立一個祕密磁區來儲放敏感資料
+- check: 將VeraCrypt 磁區重新以不同的延申檔名命名。
+- label: 如果加密是違法的...
+- check: 只用來儲存非機密資訊
+- check: 使用代碼字
+- check: 在安全的網頁郵件帳號下存放敏感的資訊
+- check: 將敏感資訊安全地存放在自己的電腦。

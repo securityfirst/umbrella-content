@@ -1,0 +1,79 @@
+index: 100
+list:
+- check: PORTEZ UNE CEINTURE DE SÉCURITÉ
+- check: Stationnez-vous dans des endroits fréquentés et bien éclairés
+- check: Remontez les vitres et verrouillez les portes en partant
+- check: Ayez les clés en main lors du retour vers le véhicule
+- check: Verrouillez les portes une fois à l’intérieur
+- check: N’ouvrez pas les vitres de plus de 5 cm
+- check: Ne faites pas d’excès de vitesse
+- check: Respectez les règles de conduite locales
+- check: Évitez de conduire la nuit/seul
+- check: Évitez de laisser le réservoir d’essence se vider en-dessous de la moitié
+    de sa capacité
+- check: Gardez un double des clés au bureau
+- check: Ne transportez pas de passagers non autorisés à moins d&#39;être menacés
+- check: Rencontrez les nouveaux membres du personnel lors de leur arrivée
+- check: Faites varier les trajets/temps habituels
+- check: Prévoyez des trajets de substitution
+- check: Évitez les zones de criminels et les points d’étranglement
+- check: Communiquez avec les autres agences
+- check: Indiquez les plans de voyage à l’équipe
+- check: Marquez les véhicules de manière appropriée
+- check: Évitez de transporter des articles de nature sensible dans les zones volatiles
+- label: Considérations de voyage
+- check: Incidents récents
+- check: Météo
+- check: Durée
+- check: Communications
+- check: Postes de contrôle/autres endroits dangereux
+- check: ’Points de cheminement’ sûrs
+- check: Arrêts de ravitaillement en carburant
+- check: Arrêts de ravitaillement en nourriture
+- check: Établissez un plan en cas de panne
+- check: Le type de véhicule approprié
+- check: L’origine ethnique du conducteur si en zone dangereuse
+- label: Les contrôles
+- check: Les pneus
+- check: Les ceintures de sécurité
+- check: Le carburant
+- check: Les freins
+- check: L’huile
+- check: La direction
+- check: Le chargement
+- label: À garder dans le véhicule
+- check: L’équipement de communication  et numéros de téléphone essentiels
+- check: Du carburant et de l’huile supplémentaires
+- check: De l’eau
+- check: Des cartes
+- check: Un système GPS
+- check: Des pièces de rechange pour la voiture
+- check: Roue de secours (x2) et cric
+- check: Des outils de base
+- check: Un triangle de signalisation fluorescent
+- check: Une corde de remorquage
+- check: Une trousse de premiers secours
+- check: Une lampe torche
+- check: Un permis de voyager, si exigée
+- check: Des visas
+- check: Les documents de la voiture
+- check: Le permis de conduire & l’assurance
+- check: Une pièce d’identité
+- check: Une pièce d’identité de l’organisation si possible
+- check: Les certificats médicaux de vaccination
+- check: De la nourriture
+- check: De l’eau
+- check: Des vêtements pour temps froid/chaud
+- check: Couvertures/structure d’ombrage
+- label: En cas d’accident
+- check: Évaluez le risque de rester
+- check: Ne quittez pas les lieux sauf en cas de risque
+- check: En cas de danger, conduisez jusqu’au poste de police ou militaire le plus
+    proche
+- check: S’assurer de la sécurité et de la visibilité du site
+- check: Fournissez une assistance appropriée
+- check: Contactez et coopérez avec les autorités
+- check: Contactez votre bureau
+- check: Prenez des photos de la scène et des renseignements sur les personnes impliquées
+- check: Complétez le formulaire de rapport d’accident dans le journal de bord le
+    cas échéant

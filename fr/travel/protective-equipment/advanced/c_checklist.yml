@@ -1,0 +1,9 @@
+index: 100
+list:
+- check: Choisissez un gilet dont le niveau de protection répond à la menace prévue
+- check: Procurez-vous un casque si vos activités ont lieu dans une zone de guerre
+- check: Portez un gilet pare-balles si vous êtes intégré dans la zone
+- check: Prenez soin de la protection pare-balles en suivant les instructions
+- check: Portez un gilet pare-lames si nécessaire dans les zones d’instabilité civile
+- check: Ayez un masque à gaz à portée de main, mais faites attention de ne pas être
+    pris pour un manifestant

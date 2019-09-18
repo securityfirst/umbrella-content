@@ -1,0 +1,9 @@
+index: 100
+list:
+- check: Définissez les menaces spécifiques auxquelles vous êtes confronté et décidez
+    comment vous les décrirez lors de la planification de la sécurité
+- check: Recherchez des informations fiables pour évaluer votre probabilité de faire
+    face à ces menaces.
+- check: Déterminez quels espaces et quelles personnes impliquées dans votre travail
+    représentent une éventuelle faille de sécurité.
+- check: Décidez qui est responsable de quelle action lors d’une attaque

@@ -1,0 +1,39 @@
+index: 100
+list:
+- label: PLANIFICATION POUR DES MENACES SPÉCIFIQUES
+- check: Rechercher une formation et des conseils lorsque vous recevez des appels
+    menaçants et évaluer les menaces à la bombe
+- check: Décidez de signaux d’alerte et d’outils de communication en cas de crise
+- check: Créez un plan d’évacuation, y compris un point de rassemblement
+- check: Identifiez les routes de sortie et les cachettes
+- check: Liste où rechercher les paquets suspects
+- check: Nettoyez les espaces pour faciliter les recherches de routine
+- check: Programmez de routine de recherche
+- check: Rechercher une formation et des conseils pour la vérification des livraisons
+- check: Surveillez les objets inattendus ou suspects
+- label: RÉCEPTION DE MENACES À LA BOMBE
+- check: Parlez calmement
+- check: Notez la menace exacte
+- check: Posez des questions (quand, où, quoi, comment, qui, pourquoi)
+- check: Indiquez que des innocents seront tués ou blessés
+- check: Demandez de l’aide
+- check: Notez l’heure, les bruits de fond, les caractéristiques d’identification
+- label: SI VOUS TROUVEZ UN PAQUET SUSPICIEUX
+- check: Ne touchez à rien
+- check: Demandez de l’aide
+- check: Isolez-le ou évacuez la zone
+- check: Ouvrir les fenêtres pourrait aider à diffuser les émanations ou les ondes
+    de pression
+- label: PENDANT L’ÉVACUATION DU SITE
+- check: Visualisez calmement votre étape suivante
+- check: Allez au point de rassemblement convenu
+- check: 'Évitez les ascenseurs, escaliers mécaniques si vous le pouvez '
+- check: Suivez les instructions des intervenants d’urgence
+- label: RENCONTRE AVEC UN TIREUR D’ÉLITE ACTIF
+- check: Fuyez
+- check: Cachez-vous dans un espace confiné si vous ne pouvez pas courir. Barricadez
+    les portes, éteignez les téléphones et les lumières
+- check: Criez sur, distrayez ou attaquez votre attaquant si vous ne pouvez pas vous
+    cacher
+- check: Appelez à l’aide en fournissant le plus de détails possible
+- check: Identifiez-vous et coopérez avec les intervenants d’urgence

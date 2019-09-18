@@ -1,0 +1,15 @@
+index: 100
+list:
+- label: DOCUMENT
+- check: Ce que vous essayiez d’accéder
+- check: L’heure et la date
+- check: La société qui fournit votre service Internet
+- check: L’appareil que vous utilisez
+- check: Les captures d’écran de l’écran d’erreur montrant qu’une page est hors ligne
+- check: Toute autre information que vous jugez utile
+- check: Si vous le pouvez, partagez vos données avec d’autres
+- label: MESURE
+- check: Évaluez votre risque en mesurant la censure
+- check: Si cela sécurisé pour vous, analysez votre réseau à partir de votre navigateur
+    avec [NetBlocks](https://netblocks.org/scan/)
+- check: Si cela ne présente aucun danger pour vous, installez OONI Probe)

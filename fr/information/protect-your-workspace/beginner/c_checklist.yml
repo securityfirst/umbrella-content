@@ -1,0 +1,20 @@
+index: 100
+list:
+- check: Vérifiez ou créez votre politique de [sauvegarde](umbrella://information/backing-up)
+    en tant que votre plan de sécurité physique.
+- check: Énumérez les canaux de communication que vous utilisez pour le travail et
+    comment vous les utilisez.
+- check: Répertoriez ce que vous stockez des informations sensibles et leur emplacement
+    physique.
+- check: Indiquez si chaque périphérique de stockage est chiffré et qui peut le déchiffrer.
+- check: Quand et comment détruisez-vous les informations sensibles pour empêcher
+    les autres d’y accéder ?
+- check: Quelles informations sont vulnérables au vol, à la perte ou à la destruction
+    physique ?
+- check: Que faites-vous actuellement pour protéger vos informations ? Écrivez-le
+    en étapes faciles à suivre pour vous et les autres.
+- check: Quelles mesures supplémentaires pouvez-vous prendre pour protéger vos informations ?
+    Écrivez-les.
+- check: Que devrez-vous faire si quelque chose ne va pas ? De quelles informations
+    aurez-vous besoin ? Écrivez-les.
+- check: Partagez la politique avec votre famille et votre équipe. Demandez une contribution.

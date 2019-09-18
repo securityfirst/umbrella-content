@@ -1,0 +1,45 @@
+index: 100
+list:
+- label: Avant de partir
+- check: Identifiez toutes les informations sensibles et où elles sont transportées
+- check: Emportez le moins de données possible
+- check: Apportez des équipements propres
+- check: Transportez l’équipement dans un bagage à main
+- check: Apportez de petits périphériques de stockage chiffrés
+- check: Apportez un calepin dont vous pouvez arracher des pages
+- check: Apportez du ruban adhésif imperméable
+- check: Vérifiez les sacs et les portefeuilles avant de voyager
+- label: L’entrée dans le pays
+- check: Convenez de ce que vous direz et de ce que nous ne direz pas
+- check: Ne dites rien de nature délicate dans l’avion
+- check: Envisagez d’aborder les services d’immigration séparément
+- check: Fournissez le moins de renseignements possible sur les activités
+- check: Soyez prêt à être interrogé au sujet du passeport
+- check: Soyez poli mais ferme
+- check: Décider de l’hébergement à signaler
+- check: Si vous êtes séparé de votre équipement, supposez qu’il est compromis
+- check: 'Gardez votre téléphone et votre Wi-Fi éteints jusqu’à ce que vous soyez
+    hors de l’aéroport '
+- check: Mettez-vous d’accord sur le point de rencontre avec vos collègues
+- label: Dans le pays
+- check: Utilisez des codes pour les informations écrites sensibles
+- check: Soyez prudent avec les reçus qui pourraient vous lier aux activistes
+- check: Évitez de collecter des rapports papier
+- check: Conservez les informations sensibles séparément/chiffrées
+- check: Éliminez les notes sensibles dès que possible
+- check: Réduisez les informations sensibles que vous partagez
+- check: Changez vos itinéraires de voyage
+- check: Évitez de marcher seul la nuit
+- check: Demandez au personnel de l’hôtel de ne pas partager d’informations à votre
+    sujet
+- check: Mémorisez les numéros de téléphone d’urgence
+- check: Mettez-vous d’accord sur le signal d’urgence avec vos collègues
+- check: Portez toujours une ceinture de sécurité !
+- label: En sortant du pays
+- check: Préparez-vous à être arrêté et fouillé
+- check: Assurez-vous que toutes les notes sensibles sont à distance/chiffrées
+- check: Sauvegardez tous les équipements à distance
+- check: Fouillez votre chambre/poches/portefeuille à la recherche de papiers sensibles
+- check: Trempez les vieux papiers sensibles dans l’eau
+- check: Mettez-vous d’accord sur ce qu’il faut dire à la frontière avec vos collègues
+- check: Gardez l’équipement avec vous à tout temps

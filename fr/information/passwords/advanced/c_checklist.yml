@@ -1,0 +1,7 @@
+index: 100
+list:
+- check: Installez KeePassXC
+- check: Créez un mot de passe fort pour KeePassXC
+- check: Sauvegardez la base de données KeePassXC
+- check: Assurez-vous que l’ordinateur n’a aucun logiciel malveillant
+- check: Installez l’authentification en deux étapes

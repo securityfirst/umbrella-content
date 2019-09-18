@@ -1,0 +1,18 @@
+index: 100
+list:
+- label: EVALUEZ VOTRE EXPOSITION
+- check: L’accès à l’information est-il limité ou instable dans les zones où vous
+    opérez ?
+- check: Identifiez les endroits où la désinformation pourrait se propager et créez
+    un plan de surveillance
+- check: Renforcez la sécurité physique et numérique
+- check: Surveillez les signes de stress et mettez en place des soins personnels
+- check: Créez un plan de communication pour gérer les incidents de désinformation
+- check: Surveillez les signes de stress et mettez en place des soins personnels
+- label: ÉVALUEZ DES CAMPAGNES CONTRE VOUS
+- check: Qui est responsable, autant que vous puissiez dire ?
+- check: La campagne est-elle coordonnée et quelles méthodes sont utilisées ?
+- check: Suivez le plan de communication de crise ou décidez rapidement s’il faut
+    réagir publiquement ou non
+- check: Tenez des registres et surveillez les tendances
+- check: Signalez ce qui se passe à quelqu’un qui peut vous aider si vous le pouvez.

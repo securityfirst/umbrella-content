@@ -1,0 +1,7 @@
+---
+index: 20
+title: Outil de ligne de commande
+---
+# Outil de ligne de commande
+
+La « ligne de commande » est une manière ancienne de donner à un ordinateur une série de petits ordres autonomes (pensez aux films de science-fiction dans lesquels des génies adolescents taperont de longues chaînes de texte vert sur des écrans noirs). Pour utiliser un outil de ligne de commande, l’utilisateur tape une commande dans une fenêtre appelée émulateur de terminal, appuie sur la touche Entrée ou Retour, puis reçoit une réponse textuelle dans la même fenêtre. Les ordinateurs de bureau Windows, Linux et Apple vous permettent toujours d’exécuter des logiciels à l’aide de cette interface, et même certains téléphones mobiles peuvent faire de même avec la bonne application. La ligne de commande peut être utilisée pour exécuter un logiciel fourni avec votre système d’exploitation. Certains programmes téléchargeables, notamment des utilitaires techniques, utilisent la ligne de commande au lieu d’une interface utilisateur plus familière appelée « icônes et boutons ». La ligne de commande ne doit pas être effrayante, mais vous devez taper exactement le bon jeu de lettres et de chiffres pour obtenir le bon résultat. Il est souvent difficile de savoir quoi faire si les réponses ne correspondent pas à vos attentes.

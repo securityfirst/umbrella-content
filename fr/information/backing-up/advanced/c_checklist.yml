@@ -1,0 +1,11 @@
+index: 100
+list:
+- check: Créez un tableau avec le type d’infos, l’appareil et la localisation
+- check: Identifiez vos informations vulnérables
+- check: Découvrez quel périphérique de stockage vous convient
+- check: Installez Cobian Backup
+- check: Organisez vos fichiers à sauvegarder
+- check: Sauvegardez les informations sur une base régulière
+- check: Installez Recuva
+- check: Si vous récupérez des fichiers, utilisez l’ordinateur le moins possible avant
+    d’utiliser Recuva

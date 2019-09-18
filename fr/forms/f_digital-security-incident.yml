@@ -1,0 +1,224 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'Nom :'
+  - name: phone
+    type: text_input
+    label: 'Téléphone :'
+  - name: courriel-address
+    type: text_input
+    label: 'Courriel :'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-courriel-id
+    type: text_input
+    label: 'Informations de Sécurité (numéro de sécurité Signal, PGP, clé d’identifiant)
+      :'
+  title: Vos Coordonnées de Contact
+- items:
+  - name: provide-brief-description
+    type: multiple_choice
+    label: Que s’est-il passé ? (Cochez toutes les réponses qui s’appliquent)
+    options:
+    - label: Les données personnelles ont été exposées ou consultées
+      value: Private data was accessed or exposed
+    - label: Je suis bloqué de mon compte ou de mon appareil
+      value: ' I’m shut out of my account or device'
+    - label: J’ai rencontré un virus ou un programme malveillant
+      value: ' I’ve encountered a virus or malware'
+    - label: Mon système ou appareil est endommagé
+      value: ' My system or device is damaged'
+    - label: Mon site Web ou service est désactivé
+      value: ' My website or service is disabled'
+    - label: Des informations ou éléments ont été volés
+      value: ' Information or assets have been stolen'
+    - label: L’incident est confidentiel, contactez-moi pour plus détails
+      value: ' The incident is confidential, contact me for details'
+    - label: J’ai un autre problème de sécurité numérique (veuillez décrire)
+      value: ' I have another digital security problem (please describe)'
+  - name: provide-brief-description-2
+    type: text_area
+    label: Veuillez fournir des détails
+  title: Détails
+- items:
+  - name: date-time-incident-discovered
+    type: text_input
+    hint: Date, time
+    label: Quand avez-vous découvert l’incident ?
+  title: Heure
+- items:
+  - name: sensitivity-data-information-involved-check-following-apply-incident
+    type: multiple_choice
+    label: À quel point l’incident est-il sérieux ? Cochez toutes les réponses qui
+      s’appliquent
+    options:
+    - label: La sécurité physique d’une personne est à risque
+      value: Someone’s physical security is at risk
+    - label: Des informations ou éléments sont à risque
+      value: ' information or assets are at risk'
+    - label: La réputation d’une personne est à risque
+      value: ' Someone’s reputation is at risk'
+    - label: J’en suis pas certain(e)
+      value: ' I’m not sure'
+    - label: Autre (veuillez décrire)
+      value: ' Other (please describe)'
+  - name: provide-brief-description-5
+    type: text_area
+    label: Veuillez fournir des détails
+  title: Impact
+- items:
+  - name: devices-accounts-services
+    type: multiple_choice
+    label: Quels appareils, comptes ou services peuvent être compromis ? Cochez toutes
+      les réponses qui s’appliquent
+    options:
+    - label: Courriel
+      value: Courriel
+    - label: Site Web
+      value: ' Website'
+    - label: Réseau social
+      value: ' Social media'
+    - label: Message ou VOIP
+      value: ' Messaging or VOIP'
+    - label: Téléphone ou tablette
+      value: ' Mobile phone or tablet'
+    - label: Ordinateur portable
+      value: ' Mobile computer'
+    - label: Ordinateur de bureau
+      value: ' Desktop computer'
+    - label: Serveur
+      value: ' Server'
+    - label: Appareil de stockage externe
+      value: ' External storage device'
+    - label: Autre
+      value: ' Other'
+  - name: provide-brief-description-8
+    type: text_area
+    label: Veuillez fournir des détails
+  title: Détails de l’impact
+- items:
+  - name: approximate-number-users-affected-incident
+    type: text_input
+    label: Combien de personnes pourraient être infectées ?
+  title: Étendue
+- items:
+  - name: incident-resolved
+    type: multiple_choice
+    label: L’incident a-t-il été résolu ?
+    options:
+    - label: Oui, j’utilise ce formulaire pour documenter ce qu’il s’est passé
+      value: Yes, I’m using this form to document what happened
+    - label: Non, j’utilise ce formulaire pour m’aider à obtenir une assistance
+      value: ' No, I’m using this form to help me seek support'
+  title: Statut
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: multiple_choice
+    label: Suivez-vous les directives afin de résoudre cet incident ?
+    options:
+    - label: Oui, je suis les directives
+      value: Yes, I am following guidelines
+    - label: Non, j’utilise les informations disponibles dans Umbrella et autres ressources
+        gratuites afin de résoudre l’incident
+      value: ' No,  I am using information available in Umbrella and other free sources
+        to resolve the incident'
+    - label: J’ai des directives, mais je suis dans l’incapacité de les suivre. (Veuillez
+        expliquer :)
+      value: ' I have guidelines but I have not been able to follow them. (Please
+        explain:)'
+  - name: provide-brief-description-4
+    type: text_area
+  title: Directives
+- items:
+  - name: steps-taken-far-check-following-apply-incident
+    type: multiple_choice
+    label: Quelles actions avez-vous entreprises jusqu’à présent ? Cochez toutes les
+      réponses qui s’appliquent.
+    options:
+    - label: J’ai déconnecté les appareils impliqués d’Internet
+      value: I’ve disconnected the devices involved from the Internet
+    - label: J’ai documenté ce qu’il s’était passé de manière sécurisée (prise de
+        capture d’écran, stockage des fichiers journaux de l’antivirus)
+      value: ' I’ve  documented what happened securely (taken screenshots, stored
+        the antivirus log files)'
+    - label: J’ai changé mes mots de passe et notifié mes contacts de l’incident à
+        partir d’un appareil sécurisé
+      value: ' I’ve changed my passwords and notified my contacts from a clean device'
+    - label: J’ai signalé l’incident aux fournisseurs de service
+      value: ' I’ve reported the incident to service providers'
+    - label: J’ai notifié un expert en informatique ou sécurité, ou la loi applicable
+        si besoin
+      value: ' I’ve notified an IT or security expert, or law enforcement if appropriate'
+    - label: J’ai réinstallé le système d’exploitation, si nécessaire, et restauré
+        les fichiers de sauvegarde d’avant l’attaque
+      value: ' I’ve reinstalled the operating system, if necessary, and restored backup
+        files from before the attack'
+    - label: ' Autre – veuillez décrire :'
+      value: ' Other – please describe:'
+  - name: provide-brief-description-3
+    type: text_area
+  title: Réponse
+- items:
+  - name: notified
+    type: text_input
+    hint: Name, title
+    label: Qui a été notifié ?
+  - name: needs-to-be-notified
+    type: text_input
+    label: Qui doit encore être averti ?
+  title: Notification
+- items:
+  - name: inclination-motive-perpetrators
+    type: multiple_choice
+    label: Qui a mené l’attaque ?
+    options:
+    - label: L’attaquant s’est identifié lui-même (veuillez fournir des détails)
+      value: The attacker identified themselves (please provide details)
+    - label: L’attaque était anonyme, mais j’ai des suspicions (veuillez fournir des
+        détails)
+      value: ' The attack was anonymous but I have suspicions (please provide details)'
+    - label: Je ne sais pas
+      value: ' I don’t know'
+  - name: provide-brief-description-6
+    type: text_area
+    label: 'Détails :'
+  title: Responsabilité
+- items:
+  - name: provide-brief-description-6
+    type: text_area
+    label: Quel est le motif probable ?
+  title: Motif
+- items:
+  - name: supporting-information-screenshots-suspicious-attachment-courriels
+    type: multiple_choice
+    label: J’ai sauvegardé les informations suivantes de manière sécurisée (Cochez
+      toutes les réponses qui s’appliquent)
+    options:
+    - label: Captures d’écran
+      value: Screenshots
+    - label: Quelque chose m’a été envoyé en pièce jointe
+      value: ' Something I was sent as an attachment'
+    - label: Courriels ou messages
+      value: ' Courriels or messages'
+    - label: Autre (veuillez décrire :)
+      value: ' Other (please describe:)'
+  - name: provide-brief-description-7
+    type: text_area
+  title: Preuve
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: Que changeriez-vous afin d’éviter que l’incident se produise à nouveau ?
+  title: Réflexion
+- items:
+  - name: action-requested
+    type: text_area
+    label: Quelle action avez-vous besoin que quelqu’un d’autre fasse pour résoudre
+      cet incident ?
+  title: Étapes suivantes
+- items:
+  - name: provide-additional-information-feel-important-provided-form
+    type: text_input
+    label: Quelle autre information avez-vous besoin de communiquer aux gens concernant
+      ce qui s’est passé ?
+  title: Autre chose ?
+title: Incident de Sécurité Numérique

@@ -1,0 +1,15 @@
+index: 100
+list:
+- check: Implémentez d’une politique de « besoin de savoir »
+- check: Supprimez des informations sensibles inutiles
+- check: Notez les informations que vous gardez, où celle-ci est gardée, qui a accès
+    à celle-ci, et que arrête les autres d’y accéder
+- check: Listez les adversaires possibles
+- check: Notez ce que votre adversaire pourrait vouloir faire de vos informations
+- check: Notez la probabilité d’une attaque de vos adversaires
+- check: Notez la capacité de vos adversaires à attaquer
+- check: Notez les conséquences en cas d’attaque réussie
+- check: Notez ce que vous acceptez de faire pour empêcher ces attaques
+- check: Si cela est approprié pour votre modèle de menace, détruisez ou sécurisez
+    vos notes d’évaluation
+- check: Définissez un futur rappel de calendrier pour examiner votre modèle de menace

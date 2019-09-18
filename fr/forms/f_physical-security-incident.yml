@@ -1,0 +1,106 @@
+screens:
+- items:
+  - name: name
+    type: text_input
+    label: 'Nom :'
+  - name: title
+    type: text_input
+    label: 'Titre :'
+  - name: phone
+    type: text_input
+    label: 'Téléphone :'
+  - name: courriel-address
+    type: text_input
+    label: 'Adresse courriel :'
+  - name: secure-communication-method-e-g-signal-safety-number-pgp-courriel-id
+    type: text_input
+    label: 'Méthode de Communication Sécurisée (par exemple, Numéro de Sécurité Signal,
+      Adresse courriel PGP) :'
+  title: Informations de contact
+- items:
+  - name: provide-brief-description
+    type: text_area
+    label: 'Fournissez une brève description :'
+  title: Description de l’incident
+- items:
+  - name: type-incident
+    type: multiple_choice
+    label: Type d’incident
+    options:
+    - label: Menace/Harcèlement
+      value: Threat / Harassment
+    - label: Rencontre difficile avec les autorités/forces militaires
+      value: Difficult encounter with authorities/ military forces
+    - label: Détention/Arrestation
+      value: Detention / Arrest
+    - label: Cambriolage/Embuscade
+      value: Robbery / Ambush
+    - label: Carjacking
+      value: Carjacking
+    - label: Agression Personnelle
+      value: Personal Assault
+    - label: Agression Sexuelle
+      value: Sexual Assault
+    - label: Kidnapping/Enlèvement
+      value: Kidnap / Abduction
+    - label: Fusillade
+      value: Shooting
+    - label: Bombardement/Tir croisé
+      value: Bombardment / Crossfire
+    - label: Mine
+      value: Landmine
+    - label: Autre
+      value: Other
+  - name: type-incident-other
+    type: text_input
+  title: Type d’incident
+- items:
+  - name: nature-injuries-damage-threats-property-stolen
+    type: text_area
+    label: 'Nature des blessures ou dommages, menaces proférées, biens volés, etc.
+      :'
+  title: Impact/Impact potentiel
+- items:
+  - name: provide-brief-description-2
+    type: text_area
+  title: Des mesures ont-elles été prises en réponse ?
+- items:
+  - name: provide-brief-description-3
+    type: text_area
+  title: Motif ou Auteurs ?
+- items:
+  - name: incident-reported-locally
+    type: text_area
+    label: À qui l’incident a-t-il été signalé localement ?
+  title: À qui l’incident a-t-il été signalé localement ?
+- items:
+  - name: security-guidelines-cover-type-incident-guidelines-followed
+    type: text_area
+    label: Vos directives de sécurité couvrent-elles ce genre d’incident ? Les directives
+      ont-elles été suivies ?
+  title: Vos directives de sécurité couvrent-elles ce genre d’incident ? Les directives
+    ont-elles été suivies ?
+- items:
+  - name: guidelines-aspect-security-management-need-revised-way
+    type: text_area
+    label: Les directives ou tout autre aspect de la gestion de la sécurité doivent-ils
+      être révisés de quelque façon que ce soit ?
+  title: Les directives ou tout autre aspect de la gestion de la sécurité doivent-ils
+    être révisés de quelque façon que ce soit ?
+- items:
+  - name: lessons-learned
+    type: text_area
+    label: 'Leçons apprises :'
+  title: Veuillez suggérer des mesures précises qui pourraient aider à éviter ce genre
+    d’incident à l’avenir.
+- items:
+  - name: action-requested
+    type: text_area
+    label: Des actions ont-elles été demandées ?
+  title: Des actions ont-elles été demandées ?
+- items:
+  - name: supporting-information
+    type: text_area
+    label: Existe-t-il des informations justificatives ?
+  title: Existe-t-il des informations justificatives ?
+title: Incident de Sécurité Physique

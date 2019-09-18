@@ -1,0 +1,11 @@
+index: 100
+list:
+- check: Prévoyez de voyager avec quelqu’un de confiance.
+- check: Partagez vos projets de voyage avec d’autres personnes en qui vous avez confiance.
+- check: Transportez votre ID et les informations médicales.
+- check: Identifiez un plan de communication de secours en cas de perte de la couverture
+    mobile.
+- check: Recherchez des acteurs locaux hostiles.
+- check: Preparez des [véhicules](umbrella://travel/vehicles) si besoin.
+- check: Préparez un [équipement de protection](umbrella://travel/protective-equipment)
+    si vous en avez besoin.

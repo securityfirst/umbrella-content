@@ -1,0 +1,43 @@
+index: 100
+list:
+- check: N’utilisez pas de téléphone ordinaire pour les appels sensibles
+- check: N’utilisez pas de téléphone ordinaire pour les textos sensibles
+- check: Utilisez un code si besoin
+- check: Chiffrez votre téléphone
+- check: Ne stockez pas d’informations sensibles sur votre téléphone
+- check: Supprimez régulièrement l’historique d’appels, les messages, les photos,
+    etc.
+- check: Faites une sauvegarde de votre téléphone
+- check: Ne laissez pas votre carte SIM dans la boutique de réparation avec votre
+    téléphone
+- check: N’utilisez que des boutiques de réparation ou des vendeurs de confiance
+- check: Supprimez les données du téléphone avant de le remettre à quelqu’un
+- check: Ne remettez à personne la carte SIM ou la carte mémoire
+- check: Utilisez ObscuraCam pour les photos sensibles
+- check: Laissez le téléphone dans une pièce différente lors de rendez-vous sensibles
+- check: Ne passez pas d’appels sensibles dans un lieu public
+- check: Gardez votre téléphone sur vous en tout temps
+- check: Gardez votre téléphone verrouillé
+- check: Changez toujours le code PIN de la messagerie vocale à partir des paramètres
+    par défaut
+- check: Marquez votre téléphone, la batterie et la carte SIM
+- check: Utilisez du ruban adhésif de sécurité inviolable
+- check: Faites déverrouiller votre téléphone
+- check: Notez votre numéro IMEI
+- check: Réfléchissez bien avant d’enregistrer ou non votre téléphone
+- check: Mettez les logiciels à jour régulièrement
+- check: N’acceptez jamais les programmes imprévus
+- check: Connectez votre téléphone qu’à des ordinateurs exempts de programmes malveillants
+- check: Donnez des droits de position qu’aux applications en lesquelles vous avez
+    confiance
+- check: Désactivez ou désinstallez les applications que vous n’utilisez pas
+- check: Évitez les connexions Wi-Fi qui ne sont pas protégées par mot de passe
+- check: Désactivez les connexions Wi-Fi, Bluetooth et infrarouge quand vous ne les
+    utilisez pas
+- check: Utilisez les connexions Wi-Fi, Bluetooth et infrarouge qu’en des lieux sûrs
+- label: Pour les téléphones jetables
+- check: Utilisez un téléphone prépayé non enregistré, payé au comptant
+- check: Utilisez une carte SIM prépayée non enregistrée, payée au comptant
+- check: Ne réutilisez pas le téléphone ou la carte SIM pour des contacts différents
+- check: Ne le mettez pas en marche à proximité de votre téléphone habituel
+- check: Ne le mettez pas en marche dans un lieu relié à vous

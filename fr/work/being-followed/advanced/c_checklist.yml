@@ -1,0 +1,15 @@
+index: 100
+list:
+- label: Repérer la surveillance à pied
+- check: Cherchez des vêtements confortables et des accessoires typiques
+- check: Ne négligez pas les personnes atypiques
+- check: Recherchez des comportements indiquant qu’ils se concentrent ou communiquent
+- label: 'Les actions qui peuvent vous aider à les repérer :'
+- check: Soyez discret
+- check: Cherchez 3 observations
+- check: 'Si vous êtes suivi, vous devez changer de plan :'
+- check: Identifiez le déclencheur
+- check: Créez des situations pour trouver l’observateur
+- check: Créez un dépassement forcé
+- check: Faites 3 côtés d’un carré
+- check: Prenez un bus / train / taxi

@@ -1,0 +1,25 @@
+index: 100
+list:
+- check: Assurez-vous que HTTPS est bien indiqué dans votre navigateur avant de vous
+    connecter
+- check: Téléchargez l’extension HTTPS Everywhere
+- check: Si vous utilisez Gmail, mettez en place la validation en deux étapes
+- check: Créez si possible un compte RiseUp
+- check: Utilisez des services de courriel sécurisés hébergés dans des pays sûrs
+- check: Utilisez le même fournisseur de services de courriel pour les contacts délicats
+- check: Soyez prudent en ouvrant les fichiers joints aux courriels
+- check: Au besoin, utilisez des comptes de courriel différents pour des groupes différents
+- check: Au besoin, utilisez un code pour les informations délicates
+- check: Utilisez des mots de passe robustes
+- check: Protégez votre ordinateur contre les programmes malveillants
+- check: N’utilisez par votre téléphone comme moyen principal d’envoi de courriels
+- label: Si votre compte de courriel a été piraté
+- check: N’envoyez aucune information délicate
+- check: Changez votre mot de passe
+- check: Reprenez possession de votre compte
+- check: Déterminez qui alerter/ce qu’il faut annuler
+- check: Découvrez comment vous avez été compromis
+- check: Réexaminez la sécurité de tous les appareils
+- check: Envisagez de le signaler
+- check: Envisagez de changer pour un compte plus sécurisé
+- check: Évitez d’enregistrer les courriels lus

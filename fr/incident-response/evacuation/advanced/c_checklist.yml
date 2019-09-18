@@ -1,0 +1,22 @@
+index: 100
+list:
+- label: PRE-ÉVACUATION
+- check: Arrêtez le travail et préparez-vous à partir.
+- check: Informez votre équipe.
+- check: Communiquez avec les ambassades, les agences des Nations Unies et ONGs si
+    nécessaire.
+- check: Continuez à surveiller la situation.
+- check: Prenez les dispositions finales en fonction de votre plan d’évacuation, telles
+    que les paiements en attente, la dissimulation d’éléments, la suppression de logos.
+- check: Réduisez les pillages si nécessaire, en désactivant l’équipement ou en laissant
+    les coffres vides et ouverts.
+- check: Testez les communications avec les personnes qui restent et assurez-vous
+    qu’elles ont ce dont elles ont besoin.
+- label: ÉVACUATION
+- check: Suivez le plan, restez calme et maintenez l’ordre.
+- check: Dites à votre équipe qu’il est temps de partir.
+- check: Prenez ce que vous désirez emporter avec vous.
+- check: Assemblez-vous au point de rencontre ou dans une maison sécurisée.
+- check: Évacuer par l’itinéraire le plus sûr disponible.
+- check: Informez les autres de ce qui s’est passé.
+- check: Préparez-vous à l’impact émotionnel de votre départ.

@@ -1,0 +1,11 @@
+index: 100
+list:
+- check: Configure VeraCrypt
+- check: Desmonta tus volúmenes de VeraCrypt cuando no los estes usando
+- check: Crear un volumen secreto para el material más sensible
+- check: Cambie el nombre de su volumen de VeraCrypt con una extensión de archivo diferente
+- label: Si el cifrado es ilegal
+- check: Almacene sólo información no confidencial
+- check: Use palabras codificadas
+- check: Almacenar información confidencial en una cuenta de correo web segura
+- check: Almacene la información confidencial de forma segura en su computadora

@@ -1,0 +1,25 @@
+index: 100
+list:
+- label: 'Pour empêcher le phishing :'
+- check: De qui est le message - pourrait-il être faux ?
+- check: Y’a-t-il quelque chose de mal ou de bizarre, comme l’orthographe ou le logo ?
+- check: Est-ce que le message fait des promesses ou nécessite une action urgente ?
+- check: Le message inclut-il une pièce jointe ou un lien ?
+- check: Dans les messages provenant de contacts, ont-ils l’air vraiment d’eux-mêmes ?
+- check: Passez la souris sur les liens pour vérifier les URL.
+- check: Dé-raccourcissez les URLs en allant sur https://unshorten.it/.
+- check: Saisissez les URLs vous-même, en particulier avant de vous connecter.
+- check: Ouvrez les fichiers joints via Google Drive ou, au moins via un programme
+    sur votre ordinateur
+- check: Contactez l’expéditeur via un autre canal sécurisé pour confirmer qu’il a
+    envoyé des messages inhabituels
+- check: Vérifiez les liens et les fichiers joints sur VirusTotal
+- label: 'Si vous êtes victime de phishing :'
+- check: Déconnectez et éteignez les appareils infectés par des logiciels malveillants
+- check: Changez les mots de passe
+- check: Avertissez vos contacts
+- check: Signalez l’attaque à un expert informatique ou de sécurité
+- check: Envisagez de réinstaller votre système d’exploitation sur des périphériques
+    infectés par des logiciels malveillants
+- label: 'CONSEIL : Partagez cette liste de contrôle à vous-mêmes par courriel et
+    imprimez une copie pour la publier dans votre espace de travail.'

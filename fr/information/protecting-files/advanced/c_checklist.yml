@@ -1,0 +1,11 @@
+index: 100
+list:
+- check: Installez VeraCrypt
+- check: Démonter votre volume VeraCrypt quand vous n’utilisez pas de fichiers
+- check: Créez un volume secret pour les documents les plus délicats
+- check: Renommez votre volume VeraCrypt avec une extension de fichier différente
+- label: Si le chiffrement est illégal…
+- check: N’enregistrez que des informations non confidentielles
+- check: Utilisation de mots de code
+- check: Stockez les informations délicates dans un compte de courriel Web sécurisé
+- check: "Gardez les informations délicates à l’abri, hors de votre ordinateur"

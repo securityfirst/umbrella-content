@@ -1,0 +1,12 @@
+index: 100
+list:
+- check: Évitez les appels téléphoniques ordinaires pour les conversations délicates
+- check: Utilisez Signal pour des appels sécurisés
+- check: Utilisez JitsiMeet pour la vidéoconférence
+- label: Si vous devez utiliser des options moins sécurisées
+- check: Téléchargez-les à partir du site officiel
+- check: Changez de mot de passe régulièrement
+- check: Réglez les paramètres afin de ne pas garder d’historique de vos conversations
+- check: Vérifiez l’identité de votre interlocuteur
+- check: Envisagez d’utiliser un nom d’utilisateur anonyme
+- check: Utilisez des codes pour les sujets délicats

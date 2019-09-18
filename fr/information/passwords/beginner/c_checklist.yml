@@ -1,0 +1,14 @@
+index: 100
+list:
+- label: Création d’un mot de passe fort
+- check: Faites le long
+- check: Rendez-le complexe
+- check: Assurez-vous que ce n’est pas personnel
+- check: Gardez-le secret
+- check: Rendez-le unique
+- check: Changez-le régulièrement
+- check: Rendez-le mémorable
+- check: Donnez de fausses réponses aux questions de sécurité
+- check: Vérifiez la puissance des mots de passe sur Passfault
+- check: Changez les mots de passe anciens ou faibles
+- check: Modifiez les réponses faibles aux questions de sécurité
