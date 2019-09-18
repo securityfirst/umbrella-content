@@ -13,4 +13,4 @@ title: Envoyer des SMS sécurisés avec votre téléphone
 
 La personne avec laquelle vous communiquez doit également installer Silence pour chiffrer les SMS.
 
-* Note : De nombreuses personnes ayant précédemment utilisé TextSecure (maintenant appelé Signal) pour des SMS sécurisés, utilisent désormais Silence (anciennement SMSSecure). *
+*Note : De nombreuses personnes ayant précédemment utilisé TextSecure (maintenant appelé Signal) pour des SMS sécurisés, utilisent désormais Silence (anciennement SMSSecure).*
