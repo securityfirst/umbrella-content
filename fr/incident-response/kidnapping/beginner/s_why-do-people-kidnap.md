@@ -35,7 +35,7 @@ Cette compréhension vous aidera à réduire les facteurs de promotion et les op
 *   Des effets politiques ;
 *   De la publicité.
 
-* Remarque : les kidnappeurs font des demandes. Les ravisseurs prennent les gens contre leur volonté. Les preneurs d’otages assiègent des personnes dans un lieu connu. *
+*Remarque : les kidnappeurs font des demandes. Les ravisseurs prennent les gens contre leur volonté. Les preneurs d’otages assiègent des personnes dans un lieu connu.*
 
 ### Les facteurs de promotion peuvent inclure :
 
