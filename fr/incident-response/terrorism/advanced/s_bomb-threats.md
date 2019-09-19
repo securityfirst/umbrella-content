@@ -37,17 +37,17 @@ Comment devraient-ils communiquer les nouvelles d’une menace ?
 * Enregistrez l’audio ou demandez à quelqu’un d’autre d’écouter si vous le pouvez, tout en prenant également des notes ;
 * Notez la menace exacte mot pour mot ;
 * Demandez quand, où, quoi, comment, qui, pourquoi.  
-        * Quand la bombe explosera-t-elle ?  
-        * Où est-elle ?  
-        * Y en a-t-il plus d’une ?  
-        * A quoi elle ressemble ?  
-        * Quel est le type ou la taille de l’appareil ?  
-        * Comment va-t-elle exploser ?  
-        * Allez-vous la faire exploser vous-même ?  
-        * Quelle est votre nom ?  
-        * Agissez-vous seul ?  
-        * Comment pouvons-nous vous joindre ?  
-        * Pourquoi cette attaque est-elle effectuée ?  
+    * Quand la bombe explosera-t-elle ?  
+    * Où est-elle ?  
+    * Y en a-t-il plus d’une ?  
+    * A quoi elle ressemble ?  
+    * Quel est le type ou la taille de l’appareil ?  
+    * Comment va-t-elle exploser ?  
+    * Allez-vous la faire exploser vous-même ?  
+    * Quelle est votre nom ?  
+    * Agissez-vous seul ?  
+    * Comment pouvons-nous vous joindre ?  
+    * Pourquoi cette attaque est-elle effectuée ?  
 * Dites à l’appelant que des innocents seront tués ou blessés si une bombe explose.
 
 Dès que vous en avez la possibilité, écrivez toutes les informations de base dont vous vous souvenez :
