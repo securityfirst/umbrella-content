@@ -10,7 +10,7 @@ Les équipes voudront naturellement résoudre ’incident de la manière la plus
 *   Encouragez l’optimisme ;
 *   Fournissez suffisamment de nourriture et de repos.
 
-(Apprenez-en plus sur le stress [chronique]((umbrella://stress/stress/beginner) et [traumatique](umbrella://stress/stress/advanced).)
+(Apprenez-en plus sur le stress [chronique](umbrella://stress/stress/beginner) et [traumatique](umbrella://stress/stress/advanced).)
 
 ## Travaillez efficacement
 
