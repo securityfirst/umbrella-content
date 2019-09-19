@@ -41,6 +41,6 @@ L’hyperexcitabilité entraîne souvent de l’irritabilité, des accès de col
 *   Dépression, anxiété et phobies ;
 *   Toxicomanie ;
 *   Maux de tête, vertiges, douleurs thoraciques et maux d’estomac ;
-*     Autres effets physiques, comportementaux, liés au travail ou émotionnels.
+*   Autres effets physiques, comportementaux, liés au travail ou émotionnels.
 
 (Apprenez-en plus à ce sujet dans [stress avancé](umbrella://stress/stress/advanced) et [stress débutant](umbrella://stress/stress/beginner).)
