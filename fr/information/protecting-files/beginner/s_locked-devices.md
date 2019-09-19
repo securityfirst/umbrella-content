@@ -8,7 +8,7 @@ Vous devez toujours verrouiller votre appareil avec des mots de passe, des codes
 
 Mais cela peut ne pas protéger vos données si l’appareil est saisi. Il est relativement facile de contourner les verrous si les données sont stockées sur le périphérique dans un format facile d’accès.
 
-* Les adversaires peuvent lire ou copier des données sans déverrouiller un appareil en accédant directement au stockage. *
+*Les adversaires peuvent lire ou copier des données sans déverrouiller un appareil en accédant directement au stockage.*
 
 ## Chiffrement
 
