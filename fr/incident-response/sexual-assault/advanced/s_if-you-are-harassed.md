@@ -26,6 +26,6 @@ Si vous êtes victime de harcèlement en ligne, vous devrez peut-être bloquer l
 
 *  Documentez vos rapports et demandes.
 
-* Il est compréhensible que vous ne souhaitiez pas signaler le harcèlement, mais il est utile de le signaler. *
+*Il est compréhensible que vous ne souhaitiez pas signaler le harcèlement, mais il est utile de le signaler.*
 
 Le harceleur doit être averti, sanctionné ou signalé à la police.
