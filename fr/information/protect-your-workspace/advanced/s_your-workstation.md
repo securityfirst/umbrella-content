@@ -10,6 +10,6 @@ title: À votre poste de travail
 
 - Les documents papier et les notes physiques sur votre bureau peuvent révéler des informations extrêmement sensibles s’ils sont volés, copiés ou photographiés.
 
-* Les calendriers, les agendas, les journaux, les carnets d’adresses et les notes autocollantes sont immunisés contre les logiciels malveillants, mais ils sont également impossibles à chiffrer.*
+*Les calendriers, les agendas, les journaux, les carnets d’adresses et les notes autocollantes sont immunisés contre les logiciels malveillants, mais ils sont également impossibles à chiffrer.*
 
 (Apprenez-en plus à ce sujet dans [frontières](umbrella://travel/borders).)
