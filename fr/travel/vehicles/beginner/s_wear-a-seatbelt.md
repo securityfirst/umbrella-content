@@ -21,4 +21,4 @@ Avant de voyager, tout le monde doit s’entraîner :
 *   À conduire prudemment, à conduire avec vigilance, ou à la conduite défensive. 
 *   À réaliser l’entretien de base d’un véhicule (changer un pneu, vérifier les niveaux, etc.).
 
-*"Des recherches ont montré que les êtres humains surestiment les risques dont on continue de parler et sous-estiment les risques courants qu’ils ne suscitent guère l’attention (par exemple, les **accidents de voiture**)."* Réseau de Pratiques Humanitaires, Bilan des Bonnes Pratiques Numéro 8 : Gestion de la Sécurité Opérationnelle dans des Environnements Violents.
+> *"Des recherches ont montré que les êtres humains surestiment les risques dont on continue de parler et sous-estiment les risques courants qu’ils ne suscitent guère l’attention (par exemple, les **accidents de voiture**)."* Réseau de Pratiques Humanitaires, Bilan des Bonnes Pratiques Numéro 8 : Gestion de la Sécurité Opérationnelle dans des Environnements Violents.
