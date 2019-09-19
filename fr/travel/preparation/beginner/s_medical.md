@@ -17,7 +17,7 @@ title: L’aspect médical
 
 *   Obtenez des kits et une formation de premiers secours si nécessaire.
 
-*« Des précautions de santé et d’hygiène basics réduisent grandement les chances de maladie. » ECHO, Guide de Sécurité Générique pour les Organisations Humanitaires*
+> *« Des précautions de santé et d’hygiène basics réduisent grandement les chances de maladie. » ECHO, Guide de Sécurité Générique pour les Organisations Humanitaires*
 
 # Planifiez en avance pour les urgences
 
