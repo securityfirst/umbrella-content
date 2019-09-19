@@ -139,13 +139,13 @@ Vous pouvez également utiliser la fonctionnalité _Nom du fichier_ ou _Chemin d
 
 Pour commencer à rechercher un fichier dont tout ou une partie du nom est connu, procédez comme suit :
 
-** Étape 1. ** Entrez le nom ou le nom partiel du fichier que vous souhaitez récupérer, comme suit (dans cet exemple, le fichier _triangle.png_ est en cours d’analyse) :
+**Étape 1.** Entrez le nom ou le nom partiel du fichier que vous souhaitez récupérer, comme suit (dans cet exemple, le fichier _triangle.png_ est en cours d’analyse) :
 ![image](tool_recuva10.png)
 
 **Conseil :** Cliquez sur X pour réinitialiser le _Nom du fichier et le chemin d’accès_ (qui apparaissent en grisé).
 
 
-Étape 2.** Cliquez sur "Analyser" pour lancer la recherche de vos fichiers supprimés. Peu de temps après, un écran ressemblant à ce qui suit apparaîtra :
+**Étape 2.** Cliquez sur "Analyser" pour lancer la recherche de vos fichiers supprimés. Peu de temps après, un écran ressemblant à ce qui suit apparaîtra :
 ![image](tool_recuva11.png)
 
 ### 3.3 Comment effectuer une analyse approfondie avec Recuva
@@ -237,7 +237,7 @@ Pour commencer à récupérer un fichier supprimé, procédez comme suit :
 Une fois les fichiers récupérés, une confirmation ressemblant à l’écran suivant apparaît :
 ![image](tool_recuva20.png)
 
-**Note :** Recuva prend en charge la récupération de plusieurs fichiers. Cochez simplement les cases des fichiers que vous souhaitez récupérer et effectuez les **étapes **3** à **5*.
+**Note :** Recuva prend en charge la récupération de plusieurs fichiers. Cochez simplement les cases des fichiers que vous souhaitez récupérer et effectuez les **étapes **3** à **5**.
 
 Maintenant que vous êtes à l’aise avec la récupération d’un fichier précédemment supprimé, vous êtes prêt à apprendre à utiliser le menu contextuel pour effectuer plusieurs restaurations de fichiers et sécuriser leur écrasement.
 
@@ -280,7 +280,7 @@ Pour remplacer en toute sécurité un fichier supprimé, procédez comme suit :
 **Étape 2.** Sélectionnez "Remplacement Sécurisé des fichiers Cochés" pour activer la boîte de dialogue de confirmation suivante :
 ![image](tool_recuva22.png)
 
-**Étape 3. * Cliquez sur "Oui" pour lancer le processus de réécriture. En fonction de la taille et du statut du fichier ainsi que de l’option _Remplacement Sécurisé_ que vous avez sélectionnée dans l’onglet _Général_ de l’écran _Options_, cette opération peut prendre un certain temps. Une fois le processus de réécriture terminé, un écran semblable au suivant apparaît :
+**Étape 3.** Cliquez sur "Oui" pour lancer le processus de réécriture. En fonction de la taille et du statut du fichier ainsi que de l’option _Remplacement Sécurisé_ que vous avez sélectionnée dans l’onglet _Général_ de l’écran _Options_, cette opération peut prendre un certain temps. Une fois le processus de réécriture terminé, un écran semblable au suivant apparaît :
 ![image](tool_recuva23.png)
 
 Vous avez terminé avec succès la récupération et le remplacement en toute sécurité des fichiers à l’aide de fichiers précédemment supprimés de Recuva.
