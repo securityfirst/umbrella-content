@@ -13,6 +13,6 @@ title: Menaces physiques
 
 Cette leçon vous explique comment évaluer votre environnement de travail et élaborer un plan pour le protéger.
 
-[Espace de travail Avancé]((umbrella://information/protect-your-workspace/advanced) vous explique comment protéger vos informations contre les intrus.
+[Espace de travail Avancé](umbrella://information/protect-your-workspace/advanced) vous explique comment protéger vos informations contre les intrus.
 
 [Espace de travail Expert](umbrella://information/protect-your-workspace/expert) vous explique comment protéger vos appareils contre les menaces physiques. 
