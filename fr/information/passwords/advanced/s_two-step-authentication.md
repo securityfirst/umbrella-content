@@ -5,7 +5,7 @@ title: 2FA
 # Authentification à deux facteurs (2FA)
 
 *   **Les comptes avec un mot de passe protègent vos informations à l’aide de quelque chose que vous *connaissez***
-*   **Les comptes avec 2FA protègent également vos informations avec quelque chose que vous *possédez. ***
+*   **Les comptes avec 2FA protègent également vos informations avec quelque chose que vous *possédez.***
 
 Il est facile d’ajouter une sécurité supplémentaire à vos comptes avec 2FA, et cela est recommandé à tout le monde.
 
