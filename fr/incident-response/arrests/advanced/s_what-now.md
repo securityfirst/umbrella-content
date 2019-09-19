@@ -4,7 +4,7 @@ title: Et maintenant ?
 ---
 Glissez à droite pour la liste de contrôle de cette leçon.
 
-Apprenez ce qu’il faut faire si vous êtes arrêté dans [arrestations débutant]((umbrella://incident-response/arrests/beginner).
+Apprenez ce qu’il faut faire si vous êtes arrêté dans [arrestations débutant](umbrella://incident-response/arrests/beginner).
 
 ### LEÇONS/OUTILS CONNEXES
 
