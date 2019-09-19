@@ -16,7 +16,7 @@ Vos préparatifs dépendront de vous, de votre équipe et de l’événement lui
 
 Considérez :
 
-*   ** Plans d’urgence **
+*   **Plans d’urgence**
 
     *   Quand se retirer ;
     *   Points de rencontre d’urgence.
@@ -25,12 +25,12 @@ _Souvenez-vous : les réseaux de télécommunications et applications mobiles pe
 
 (Apprenez-en plus sur la [Censure](umbrella://communications/censorship/beginner).)
 
-*   ** Vêtements et équipement **
+*   **Vêtements et équipement**
 
     *   Portez des vêtements et des chaussures confortables et d’extérieur afin de bouger rapidement, même s’il y a des obstacles ou débris.
     *   Évitez les couleurs associées aux manifestants ou à la police.
 
-* Ne portez pas de chaussures à talons hauts ni de chaussures ouvertes. *
+*Ne portez pas de chaussures à talons hauts ni de chaussures ouvertes.*
 
 (Apprenez-en plus sur l’[équipement de protection](umbrella://travel/protective-equipment).)
 
@@ -46,13 +46,13 @@ _Souvenez-vous : les réseaux de télécommunications et applications mobiles pe
 
 (Apprenez-en plus à ce sujet dans [Confidentialité en ligne](umbrella://communications/online-privacy/beginner)).
 
-*   ** Évaluations des risques **
+*   **Évaluations des risques**
 
 Effectuez une évaluation des risques précise avant de participer aux grandes manifestations.
 
 (Apprenez-en plus sur la [Planification de la Sécurité](umbrella://assess-your-risk/security-planning).)
 
-*   ** Assistance de Sécurité **
+*   **Assistance de Sécurité**
 
     *   Participez avec quelqu’un d’expérimenté ;
     *   Suivez une formation sur la sécurité en période de troubles civils ;
