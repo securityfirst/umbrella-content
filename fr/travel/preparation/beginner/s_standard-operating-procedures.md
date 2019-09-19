@@ -72,7 +72,7 @@ Considérez :
 *   Les noms et informations de contact d’urgence ;
 *   Les hôtels réputés ou autres destinations d’urgence.
 
-** Transportez votre compagnon constant sur vous à tout moment.**
+**Transportez votre compagnon constant sur vous à tout moment.**
 
 Un sac à dos contient tous les effets personnels en cas d’évacuation ou d’urgence.
 
