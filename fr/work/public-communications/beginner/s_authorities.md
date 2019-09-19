@@ -30,13 +30,13 @@ Envisagez de créer des réseaux pour défendre les intérêts des autorités.
 
 Selon votre contexte, vous pourrez par exemple parler de problèmes familiaux ou partager un repas.
 
-* Remarque : dans certaines zones, cette stratégie peut nuire à votre travail car d’autres personnes pensent que vous êtes trop proche des autorités. Utilisez votre jugement et soyez transparent. *
+*Remarque : dans certaines zones, cette stratégie peut nuire à votre travail car d’autres personnes pensent que vous êtes trop proche des autorités. Utilisez votre jugement et soyez transparent.*
 
 * Faites vos recherches
 
 Renseignez-vous sur la chaîne de commandement, les intérêts et les représentants du public d’une agence avant de vous engager.
 
-* Sachez que les agences et les individus ont des faiblesses qui peuvent limiter votre efficacité si vous ne les comprenez pas et ne trouvez pas le moyen de travailler avec eux ou autour d’eux. *
+*Sachez que les agences et les individus ont des faiblesses qui peuvent limiter votre efficacité si vous ne les comprenez pas et ne trouvez pas le moyen de travailler avec eux ou autour d’eux.*
 
 ## Éducation
 
