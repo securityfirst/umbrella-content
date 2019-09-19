@@ -8,4 +8,4 @@ Gérer l’enlèvement d’un membre du personnel est une tâche très délicate
 
 Cette leçon donne un aperçu des actions recommandées.
 
-** Pour des conseils plus détaillés, voir les Lectures Complémentaires à la fin de la leçon. **
+**Pour des conseils plus détaillés, voir les Lectures Complémentaires à la fin de la leçon.**
