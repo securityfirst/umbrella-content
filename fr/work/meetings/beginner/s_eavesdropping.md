@@ -22,7 +22,7 @@ _Dans certains pays, les hôtels sont régulièrement interdits d’espionner le
 
 _Pour l’example, ne publiez pas quel hôtel conference room sera utilisé during à un événement._
 
-(En savoir plus 0xfa0d05264df3 ceci dans [préparation](parapluie: // voyage / préparation).)
+(En savoir plus ceci dans [préparation](umbrella://travel/preparation).)
 
 ## Supposons que room est bugged
 
