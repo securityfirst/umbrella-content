@@ -10,7 +10,7 @@ title: Remettre en question les demandes de mot de passe
 
 * Si vous traversez une frontière, les autorités peuvent vous retarder ou saisir vos appareils si vous refusez de donner un mot de passe ou de déverrouiller votre appareil.
 
-* Note : la destruction intentionnelle de preuves ou l’obstruction à une enquête peuvent être imputés à un crime séparé, ayant souvent des conséquences très graves. Dans certains cas, il peut être plus facile pour le gouvernement de prouver et de permettre des peines plus lourdes que pour le crime présumé faisant l’objet de l’enquête. *
+*Note : la destruction intentionnelle de preuves ou l’obstruction à une enquête peuvent être imputés à un crime séparé, ayant souvent des conséquences très graves. Dans certains cas, il peut être plus facile pour le gouvernement de prouver et de permettre des peines plus lourdes que pour le crime présumé faisant l’objet de l’enquête.*
 
 (Apprenez-en plus à ce sujet dans [protestations](umbrella://work/protests/advanced).) 
 
