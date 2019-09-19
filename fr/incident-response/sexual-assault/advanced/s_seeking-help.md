@@ -19,7 +19,7 @@ Idéalement, signalez l’agression :
 *   À votre équipe ;
 *   Aux autorités compétentes.
 
-* Quelqu’un de confiance devrait vous accompagner et vous soutenir si vous signalez l’agression aux autorités. *
+*Quelqu’un de confiance devrait vous accompagner et vous soutenir si vous signalez l’agression aux autorités.*
 
 ## Preuves médicales
 
@@ -27,16 +27,16 @@ Idéalement, signalez l’agression :
 
 Les victimes veulent souvent se laver, se changer et se débarrasser de leurs vêtements et autres rappels de ce qui s(est passé. Mais cela rend les preuves beaucoup plus difficiles à collecter.
 
-* Vous constaterez peut-être que vous avez besoin d’un rapport de police et d’une preuve médicale si vous décidez plus tard de tenir l’agresseur pour responsable ou d’obtenir des services médicaux. *
+*Vous constaterez peut-être que vous avez besoin d’un rapport de police et d’une preuve médicale si vous décidez plus tard de tenir l’agresseur pour responsable ou d’obtenir des services médicaux.*
 
 ## Soutien affectif
 
 *   La thérapie est fortement recommandée à toutes les victimes d’agression sexuelle.
 
-* Les lignes directrices sur la survie à une agression sexuelle sont principalement basées sur des modèles psychologiques Occidentaux et une thérapie par la parole afin de mettre l’incident en rapport avec vos émotions et réactions en perspective. Vous pouvez traiter l’expérience différemment. *
+*Les lignes directrices sur la survie à une agression sexuelle sont principalement basées sur des modèles psychologiques Occidentaux et une thérapie par la parole afin de mettre l’incident en rapport avec vos émotions et réactions en perspective. Vous pouvez traiter l’expérience différemment.*
 
 (Apprenez-en plus à ce sujet dans [stress avancé](umbrella://stress/stress/advanced).)
 
 * Les amis, les partenaires, les livres et les ressources en ligne peuvent également être utiles.
 
-* Les victimes transsexuelles et non conformistes doivent savoir que la plupart des services de soutien généraux ont été conçus pour les femmes agressées sexuellement par des hommes. *
+*Les victimes transsexuelles et non conformistes doivent savoir que la plupart des services de soutien généraux ont été conçus pour les femmes agressées sexuellement par des hommes.*
