@@ -28,8 +28,8 @@ _Même un casque de premier ordre est susceptible d’être pénétré directeme
 
 Les dommages peuvent affaiblir les matériaux destinés à protéger des menaces balistiques.
 
-*   Le ** Kevlar ** est un matériau synthétique résistant utilisé dans les gilets pare-balles. Il peut se dégrader s’il est mouillé ou en sueur, ou s’il subit des dommages invisibles à l’œil nu.
+*   Le **Kevlar** est un matériau synthétique résistant utilisé dans les gilets pare-balles. Il peut se dégrader s’il est mouillé ou en sueur, ou s’il subit des dommages invisibles à l’œil nu.
 
-*   Les ** plaques de céramique ** utilisées dans les gilets pare-balles peuvent se briser si elles tombent d’une certaine hauteur.
+*   Les **plaques de céramique** utilisées dans les gilets pare-balles peuvent se briser si elles tombent d’une certaine hauteur.
 
 Stockez les gilets pare-balles correctement et assurez-vous qu’un professionnel qualifié les inspecte régulièrement.
