@@ -30,7 +30,7 @@ Les passagers :
   * Peuvent représenter un risque de sécurité ;
   * Peuvent endommager les perceptions à votre sujet et votre travail.
 
-* Voyager avec du personnel armé ou en uniforme peut impliquer que vous travaillez ensemble et compromettre votre indépendance. *
+*Voyager avec du personnel armé ou en uniforme peut impliquer que vous travaillez ensemble et compromettre votre indépendance.*
 
 ## Ne risquez pas votre vie
 
