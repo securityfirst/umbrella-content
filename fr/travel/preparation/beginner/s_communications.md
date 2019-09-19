@@ -16,7 +16,7 @@ title: Communications
 
 *   Achetez un appareil jetable. (Vérifiez si celui-ci fonctionnera à votre destination.)
 
-(Apprenez-en plus sur les [téléphones mobiles] jetables (umbrella://communications/mobile-phones/beginner).)
+(Apprenez-en plus sur les [téléphones mobiles](umbrella://communications/mobile-phones/beginner) jetables.)
 
 ## Radios ou Téléphones Satellites
 
