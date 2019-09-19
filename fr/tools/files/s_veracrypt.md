@@ -7,9 +7,9 @@ Guide pour VeraCrypt
 
 Stockage de Fichiers Sécurisé
 
-**Leçon à lire : [Protection des Fichiers](umbrella://information/protecting-files)**
-**Niveau :** Avancé
-**Temps requis :** 30-60 minutes
+**Leçon à lire : [Protection des Fichiers](umbrella://information/protecting-files)**  
+**Niveau :** Avancé  
+**Temps requis :** 30-60 minutes  
 
 **L’utilisation VeraCrypt vous donnera :**
 
@@ -17,11 +17,9 @@ Stockage de Fichiers Sécurisé
 *   La possibilité d’accéder et de modifier le même ensemble de fichiers sensibles sur les ordinateurs Windows, Mac OS et Linux
 *   Un moyen sécurisé pour sauvegarder les fichiers importants
 
-**Téléchargement :** [https://www.veracrypt.fr/en/Downloads.html]((https://www.veracrypt.fr/en/Downloads.html))
-
-**Version utilisée dans ce guide :** 1.16
-
-**Licence :** Logiciel Libre et à Code Source Ouvert
+**Téléchargement :** [https://www.veracrypt.fr/en/Downloads.html]((https://www.veracrypt.fr/en/Downloads.html))  
+**Version utilisée dans ce guide :** 1.16  
+**Licence :** Logiciel Libre et à Code Source Ouvert  
 
 **Configuration requise :**
 
