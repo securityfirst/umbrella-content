@@ -6,11 +6,10 @@ title: L’aspect médical
 
 *   Obtenez une assurance et vérifiez ce qu’elle couvre.
 
-*   Obtenez des conseils sur votre destination, incluant :
-
-        *  La santé et l’hygiène ;
-        *  Les vaccins ;
-        *  Le paludisme et malaria.
+*   Obtenez des conseils sur votre destination, incluant :  
+    *  La santé et l’hygiène ;  
+    *  Les vaccins ;  
+    *  Le paludisme et malaria.  
 
 *Note : certains pays requièrent des certificats de vaccination comme condition d’entrée.*
 
@@ -18,7 +17,7 @@ title: L’aspect médical
 
 *   Obtenez des kits et une formation de premiers secours si nécessaire.
 
-> *« Des précautions de santé et d’hygiène basics réduisent grandement les chances de maladie. » ECHO, Guide de Sécurité Générique pour les Organisations Humanitaires*
+*« Des précautions de santé et d’hygiène basics réduisent grandement les chances de maladie. » ECHO, Guide de Sécurité Générique pour les Organisations Humanitaires*
 
 # Planifiez en avance pour les urgences
 
