@@ -6,7 +6,7 @@ title: Que faire ?
 
 Si vous soupçonnez une surveillance, ne réagissez pas et ne soulevez pas les soupçons de l’équipe de surveillance.
 
-** N’oubliez pas que votre premier objectif est de savoir si vous êtes suivi, et non de les semer. **
+**N’oubliez pas que votre premier objectif est de savoir si vous êtes suivi, et non de les semer.**
 
 # Agissez
 
@@ -41,6 +41,6 @@ Soyez conscient que cette stratégie peut :
 *   Confirmer que vous ne voulez pas être surveiller ;
 *   Augmenter la probabilité d’une surveillance accrue.
 
-* Envisagez de mener un observateur à un poste de police si vous anticipez un incident grave et que vous n’êtes pas à risque par la police. Cela dépendra de votre modèle de menace. *
+*Envisagez de mener un observateur à un poste de police si vous anticipez un incident grave et que vous n’êtes pas à risque par la police. Cela dépendra de votre modèle de menace.*
 
-(Apprenez-en plus à ce sujet dans [Planification de la Sécurité](umbrella://assess-your-risk/security-planning) et [Gestion de l’Informations].(umbrella://information/managing-information))
+(Apprenez-en plus à ce sujet dans [Planification de la Sécurité](umbrella://assess-your-risk/security-planning) et [Gestion de l’Informations](umbrella://information/managing-information).)
