@@ -24,7 +24,7 @@ Les postes de contrôle tenus par une armée et des forces de police régulière
 *   Passages montagneux ;
 *   Entrées et sorties de villages.
 
-** Soyez prudent en ce qui concerne les postes de contrôle situés loin des habitations. **
+**Soyez prudent en ce qui concerne les postes de contrôle situés loin des habitations.**
 
 ## Ne prenez aucun risque
 
