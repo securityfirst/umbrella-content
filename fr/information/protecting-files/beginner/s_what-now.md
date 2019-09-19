@@ -19,4 +19,4 @@ Apprenez à chiffrer des fichiers dans [Protection des Fichiers Avancé](umbrell
 
 ### SOURCES
 
-*   FFÉ, Autodéfense contre la surveillance, [https://ssd.eff.org/fr/module/assurer-la-s%C3%A9curit%C3%A9-de-vos-donn%C3%A9es](Assurer la sécurité de vos données), dernière révision le 28 juin 2018.
+*   FFÉ, Autodéfense contre la surveillance, [Assurer la sécurité de vos données](https://ssd.eff.org/fr/module/assurer-la-s%C3%A9curit%C3%A9-de-vos-donn%C3%A9es), dernière révision le 28 juin 2018.
