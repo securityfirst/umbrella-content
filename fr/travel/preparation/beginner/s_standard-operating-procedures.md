@@ -29,7 +29,7 @@ Dans l’ordre de préférence, choisissez :
 *   Un service pré-réservé comprenant le nom du conducteur et l’immatriculation du véhicule (vérifiez son identité) ;
 *   Taxi officiel avec un compteur.
 
-* Les risques des taxis locaux varient selon le pays.*
+*Les risques des taxis locaux varient selon le pays.*
 
 ## Sécurité des informations
 *    Préparez une histoire de couverture pour les aéroports et ailleurs.
