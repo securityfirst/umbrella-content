@@ -36,7 +36,7 @@ Il n’est peut-être pas sage ou possible de mentir, mais vous ne devriez pas n
 
 *   Les autorités frontalières peuvent avoir besoin de certaines informations, telles que l’endroit où vous séjournerez. Décidez à l’avance le nombre de choses que vous révélerez.
 
-* Note : Fournir des informations réelles peut augmenter votre risque, mais fournir de fausses informations peut être un drapeau rouge. *
+*Note : Fournir des informations réelles peut augmenter votre risque, mais fournir de fausses informations peut être un drapeau rouge.*
 
 *   Fixez des limites à ’avance. Quelles informations sensibles ne révélerez-vous absolument pas ?
 
@@ -46,7 +46,7 @@ Il n’est peut-être pas sage ou possible de mentir, mais vous ne devriez pas n
 
 *   Les équipes peuvent attirer l’attention. Voyagez et approchez de l’immigration séparément.
 
-* Note : les autorités sont peut-être déjà au courant qu’une grande équipe prévoit une visite ou un rendez-vous. *
+*Note : les autorités sont peut-être déjà au courant qu’une grande équipe prévoit une visite ou un rendez-vous.*
 
 *   Définissez un lieu de rencontre après l’immigration.
 
@@ -54,7 +54,7 @@ Il n’est peut-être pas sage ou possible de mentir, mais vous ne devriez pas n
 
 *   Gardez le téléphone et le Wi-Fi éteints, sauf en cas d’urgence.
 
-* Note : Les réseaux aéroportuaires sont des cibles notoires en matière de surveillance et de programmes malveillants. Ne vous connectez pas au Wi-Fi de l’aéroport. *
+*Note : Les réseaux aéroportuaires sont des cibles notoires en matière de surveillance et de programmes malveillants. Ne vous connectez pas au Wi-Fi de l’aéroport.*
 
 *   En cas de retard ou d’urgence, définissez une heure pour allumer les téléphones et vous enregistrer.
 
