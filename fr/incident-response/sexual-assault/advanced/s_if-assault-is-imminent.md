@@ -23,7 +23,7 @@ Utilisez la force physique pour repousser l’agresseur ou résistez lorsqu’on
 *   Combattez, par exemple en mettant un coup de genou à l’aine de l’agresseur.
 *   Utilisez des compétences de légitime défense pour combattre les agresseurs.
 
-* Certains experts estiment que combattre un agresseur pourrait augmenter le risque de violence fatale. Considérez le nombre d’assaillants, si les armes sont impliquées et si le cadre est public ou privé. *
+*Certains experts estiment que combattre un agresseur pourrait augmenter le risque de violence fatale. Considérez le nombre d’assaillants, si les armes sont impliquées et si le cadre est public ou privé.*
 
 ## Se soumettre
 
@@ -34,6 +34,6 @@ S’il n’y a pas d’issue et que votre vie est en danger, vos objectifs devra
 
 Cela peut signifier se soumettre et ne pas résister physiquement.
 
-* Si une agression sexuelle fait suite à une arrestation ou à un enlèvement, les options sont limitées. Développez une relation avec vos gardes ou vos ravisseurs peut réduire le risque de toute forme d’agression. L’objectif principal est de protéger votre vie. *
+*Si une agression sexuelle fait suite à une arrestation ou à un enlèvement, les options sont limitées. Développez une relation avec vos gardes ou vos ravisseurs peut réduire le risque de toute forme d’agression. L’objectif principal est de protéger votre vie.*
 
 (Apprenez-en plus sur les [Arrestations](umbrella://incident-response/arrests) et  l’[Enlèvement](umbrella://incident-response/kidnapping))
