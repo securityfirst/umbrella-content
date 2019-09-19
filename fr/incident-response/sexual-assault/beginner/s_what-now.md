@@ -11,7 +11,7 @@ Apprenez ce qu’il faut faire si un membre de l’équipe est victime d’une a
 ### LEÇONS/OUTILS CONNEXES
 
 *   [Planification de la Sécurité](umbrella://assess-your-risk/security-planning)
-*     [Frontières](umbrella://travel/borders)
+*   [Frontières](umbrella://travel/borders)
 *   [Évacuation](umbrella://incident-response/evacuation)
 *   [Véhicule](umbrella://travel/vehicles)
 *   [Être suivi](umbrella://work/being-followed/beginner)
