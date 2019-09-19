@@ -12,11 +12,11 @@ title: Facteurs de risque
 
 Cela pourrait include :
 
-    *  Des paramilitaires ou des policiers réputés pour violer les les normes internationales de la loi ;
-    *  Des soldats gouvernementaux indisciplinés ;
-    *  Des groupes rebelles et mouvements de jeunes violents ;
-    *  Des soldats démobilisés et sans emploi ;
-    * Des criminels armés qui peuvent commettre une agression sexuelle s’ils trouvent une victime lorsqu’ils commettent un vol.
+*  Des paramilitaires ou des policiers réputés pour violer les les normes internationales de la loi ;
+*  Des soldats gouvernementaux indisciplinés ;
+*  Des groupes rebelles et mouvements de jeunes violents ;
+*  Des soldats démobilisés et sans emploi ;
+*  Des criminels armés qui peuvent commettre une agression sexuelle s’ils trouvent une victime lorsqu’ils commettent un vol.
 
 ## Zones de risque générales
 
@@ -43,8 +43,7 @@ toilettes ;
 Certaines personnes peuvent être plus à risque dans certains contextes. Dans les environnements déchirés par les conflits, le risque de viol collectif, d’agressions sexuelles (ex.: sous la menace d’une arme) et d’infection du VIH résultant d’un viol peuvent être plus élevés.
 
 *   Les personnes d’un groupe ethnique particulier ;
-*   Les personnes vivant dans un environnement où elles ont
-peu ou pas de liens sociaux ;
+*   Les personnes vivant dans un environnement où elles ont peu ou pas de liens sociaux ;
 *   Les femmes occidentales ;
 *   Les veuves ou femmes qui sont chefs de famille ;
 *  Les adolescentes (parce qu’elles sont moins susceptibles de contracter le VIH) ;
