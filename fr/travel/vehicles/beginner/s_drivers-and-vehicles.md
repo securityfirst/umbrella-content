@@ -29,7 +29,9 @@ title: Conducteurs et véhicules
 
 *   Si vous conduisez un véhicule professionnel, décidez si vous voyagez en faisant profil bas ou haut.
 
-         * L’affichage d’un logo ou la conduite d(un véhicule officiel peut vous protéger dans certains cas (profil haut). * Cacher votre logo et se camoufler parmi les autres peut vous protéger dans d’autres cas (profil bas).
+*   L’affichage d’un logo ou la conduite d(un véhicule officiel peut vous protéger dans certains cas (profil haut).
+
+*   Cacher votre logo et se camoufler parmi les autres peut vous protéger dans d’autres cas (profil bas).
 
 *   Envisagez de placer une décalcomanie indiquant que les armes à feu ne sont pas autorisées dans le véhicule.
 
