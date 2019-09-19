@@ -5,22 +5,22 @@ title: K9 & Open Keychain
 # GUIDE K-9 & OPEN KEYCHAIN
 
 
-**Leçon à lire : [Courriel Avancé](umbrella://lesson/courriel/1).**
-**Niveau** : Avancé
-**Publié :** Mai 2018
-**Sources :** Security in a Box, [K9 AVEC APG POUR ANDROID](https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ](https://www.openkeychain.org/faq/).
+**Leçon à lire : [Courriel Avancé](umbrella://lesson/courriel/1).**  
+**Niveau** : Avancé  
+**Publié :** Mai 2018  
+**Sources :** Security in a Box, [K9 AVEC APG POUR ANDROID](https://securityinabox.org/en/guide/k9/android/), Open Keychain [FAQ](https://www.openkeychain.org/faq/).  
 
-**K-9 Mail** est un fournisseur de messagerie à code source ouvert et gratuit pour les appareils Android.
+**K-9 Mail** est un fournisseur de messagerie à code source ouvert et gratuit pour les appareils Android.  
 
 **Open Keychain** est une application à code source ouvert et gratuite vous permettant de chiffrer, déchiffrer ainsi que de signer les messages ou courriels utilisant le chiffrement par clé publique tel que OpenPGP. Celle-ci est basée sur un code provenant d’un outil similaire nommé APG, désormais inaccessible.
 
 **En utilisant K-9 Mail avec Open Keychain, vous obtiendrez :**
 - La capacité d’utiliser des courriels chiffrés sur votre appareil Android.
 
-**Téléchargement :** [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) et [Open Keychain](https://play.google.com/store/apps/details?) dans Google Play Store.
-**Configuration requise** : version Android 4.0.3. et ultérieure.
-**Version utilisée dans ce guide** : 5.403 (K-9 Mail) ; 5.0.2 (Open Keychain)
-**Licence** : FOSS.
+**Téléchargement :** [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9) et [Open Keychain](https://play.google.com/store/apps/details?) dans Google Play Store.  
+**Configuration requise** : version Android 4.0.3. et ultérieure.  
+**Version utilisée dans ce guide** : 5.403 (K-9 Mail) ; 5.0.2 (Open Keychain)  
+**Licence** : FOSS.  
 
 # 1. Introduction
 
