@@ -26,7 +26,7 @@ Considérez les véhicules à l’arrêt :
 *   Avec un ou deux occupants ;
 *   Avec des occupants qui parlent, mais apparemment pas entre eux ; ou utilisant une radio.
 
-* Remarque : les personnes peuvent s’asseoir à l’arrière ou observer depuis le coffre d’un véhicule garé. *
+*Remarque : les personnes peuvent s’asseoir à l’arrière ou observer depuis le coffre d’un véhicule garé.*
 
 ## Travaillant ensemble
 
