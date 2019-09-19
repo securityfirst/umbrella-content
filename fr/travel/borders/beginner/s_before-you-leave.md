@@ -13,7 +13,7 @@ Tout d’abord, comprenez :
 *   Les raisons de votre voyage ;
 *   La sensibilité possible de votre voyage.
 
-(Apprenez-en plus sur l’évaluation de risque pour la [préparation] d’un voyage (umbrella://travel/preparation).)
+(Apprenez-en plus sur l’évaluation de risque pour la [préparation](umbrella://travel/preparation) d’un voyage.)
 
 Cela peut dépendre :
 
@@ -28,7 +28,7 @@ Cela peut dépendre :
 *   Les informations embarrassantes ou compromettantes ;
 *   Les itinéraires, les procédures opératoires standards, et les protocoles de sécurité.
 
-(Apprenez-en plus sur les procédures de [préparation] de voyage (umbrella://travel/preparation).)
+(Apprenez-en plus sur les procédures de [préparation](umbrella://travel/preparation) de voyage.)
 
 ## 2. Les informations sensibles peuvent être stockées dans :
 
