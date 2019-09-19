@@ -7,31 +7,31 @@ title: Cobian Backup
 ## Cobian Backup  
 Sauvegarder les fichiers de votre ordinateur
 
-**Leçon à lire : [Sauvegarde](umbrella://information/backing-up)**  
-**Téléchargement :** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)  
-**Versions requises :**   
-- XP, 2003, Vista, 2008, Windows 7  
-- Windows 95, 98 et ME sont compatibles avec Cobian version 7.  
-**Version utilisée dans ce guide :** Cobian 10
-**Licence :** Logiciel gratuit
-**Niveau :** Intermédiaire
-**Temps requis :** 30 minutes
+**Leçon à lire : [Sauvegarde](umbrella://information/backing-up)**   
+**Téléchargement :** [http://www.cobiansoft.com/cobianbackup.htm](http://www.cobiansoft.com/cobianbackup.htm)   
+**Versions requises :**    
+- XP, 2003, Vista, 2008, Windows 7    
+- Windows 95, 98 et ME sont compatibles avec Cobian version 7.    
+**Version utilisée dans ce guide :** Cobian 10  
+**Licence :** Logiciel gratuit  
+**Niveau :** Intermédiaire  
+**Temps requis :** 30 minutes  
 
 ### 1. Ce que vous devez savoir sur cet outil avant de commencer
 
 Cobian Backup est utilisé pour archiver (ou faire une copie de sauvegarde) de vos fichiers et répertoires. Les sauvegardes peuvent être stockées dans d’autres répertoires ou lecteurs de votre ordinateur, sur d’autres ordinateurs du réseau du bureau ou sur des périphériques amovibles (CD, DVD et clés USB). Cobian Backup vous permet d’archiver vos répertoires et vos fichiers régulièrement. Il fonctionne en mode silencieux en arrière-plan sur votre système (c’est-à-dire dans la barre d’état système), vérifie votre planification et exécute le processus de sauvegarde si nécessaire. Cobian Backup peut également compresser et chiffrer des fichiers lorsqu’il génère le fichier de sauvegarde.
 
-- **L’utilisation de Cobian vous donnera :**
-- La possibilité de sauvegarder tous les documents, fichiers et dossiers
-- La possibilité de compresser et de décompresser vos fichiers de sauvegarde
-- La possibilité de chiffrer et déchiffrer vos fichiers archivés
+- **L’utilisation de Cobian vous donnera :**  
+- La possibilité de sauvegarder tous les documents, fichiers et dossiers  
+- La possibilité de compresser et de décompresser vos fichiers de sauvegarde  
+- La possibilité de chiffrer et déchiffrer vos fichiers archivés  
 
-** Installation de Cobian - en résumé**
+**Installation de Cobian - en résumé**
 - Ouvrez www.cobiansoft.com/cobianbackup.htm  
-- Cliquez sur le lien "Télécharger Cobian Backup" de la page.
-- Enregistrez le programme d’installation, puis trouvez-le et double-cliquez dessus.
-- Lisez la "Note d’installation" ci-dessous avant de continuer.
-- Après avoir correctement installé Cobian, vous pouvez supprimer le programme d’installation de votre ordinateur.
+- Cliquez sur le lien "Télécharger Cobian Backup" de la page.  
+- Enregistrez le programme d’installation, puis trouvez-le et double-cliquez dessus.  
+- Lisez la "Note d’installation" ci-dessous avant de continuer.  
+- Après avoir correctement installé Cobian, vous pouvez supprimer le programme d’installation de votre ordinateur.  
 
 ### 2.0 Comment Installer Cobian Backup
 
@@ -39,19 +39,19 @@ Cobian Backup est utilisé pour archiver (ou faire une copie de sauvegarde) de v
 
 L’installation de Cobian Backup est une procédure relativement simple et rapide.
 
-**Étape 1.** Double-cliquez sur "cbsetup.exe" ; la boîte de dialogue _Ouvrir Fichier - Avertissement de Sécurité_ peut apparaître. Si tel est le cas, cliquez sur "Exécuter" pour activer la barre bleu clair _Extraction de la ressource_barre de statut de progression, suivie quelques instants plus tard par l’écran suivant :
+**Étape 1.** Double-cliquez sur "cbsetup.exe" ; la boîte de dialogue _Ouvrir Fichier - Avertissement de Sécurité_ peut apparaître. Si tel est le cas, cliquez sur "Exécuter" pour activer la barre bleu clair _Extraction de la ressource_ barre de statut de progression, suivie quelques instants plus tard par l’écran suivant :  
 ![image](tool_cobian1.png)
 
-**Étape 2.** Cliquez sur "Suivant" pour activer l’écran _Veuillez lire et accepter le contrat de licence_, cochez l’option _J’accepte_, puis cliquez à nouveau sur "Suivant" pour activer l’écran suivant :
+**Étape 2.** Cliquez sur "Suivant" pour activer l’écran _Veuillez lire et accepter le contrat de licence_, cochez l’option _J’accepte_, puis cliquez à nouveau sur "Suivant" pour activer l’écran suivant :  
 ![image](tool_cobian2.png)
 
-**Étape 3.** Cliquez sur "Suivant" pour activer l’écran suivant :
+**Étape 3.** Cliquez sur "Suivant" pour activer l’écran suivant :  
 ![image](tool_cobian3.png)
 
-**Étape 4.** Cochez l’option _Utilisez le compte du Système Local_ dans le volet _Options de service_ pour que le vôtre ressemble à la Figure 3 ci-dessus. Cette option garantit que Cobian Backup fonctionnera en permanence de manière silencieuse en arrière-plan, afin que vos sauvegardes se déroulent comme prévu.
+**Étape 4.** Cochez l’option _Utilisez le compte du Système Local_ dans le volet _Options de service_ pour que le vôtre ressemble à la Figure 3 ci-dessus. Cette option garantit que Cobian Backup fonctionnera en permanence de manière silencieuse en arrière-plan, afin que vos sauvegardes se déroulent comme prévu.  
 
 **Étape 5.** Cliquez sur "Suivant" pour activer le message suivant :
-![image](tool_cobian4.png)
+![image](tool_cobian4.png)  
 
 **Étape 6.** Cliquez sur "Oui" pour activer l’écran d’installation suivant, puis cliquez sur "Suivant" pour poursuivre le processus d’installation.
 
@@ -63,7 +63,7 @@ Dans cette section, vous apprendrez à effectuer une sauvegarde ou un archivage 
 
 Pour créer une nouvelle tâche de sauvegarde, procédez comme suit :
 
-**Étape 1.** Cliquez sur "Planifier" pour créer une nouvelle tâche de sauvegarde, puis activez la fenêtre _Nouvelle tâche_ comme suit :
+**Étape 1.** Cliquez sur "Planifier" pour créer une nouvelle tâche de sauvegarde, puis activez la fenêtre _Nouvelle tâche_ comme suit :  
 ![image](tool_cobian5.png)
 
 La barre latérale gauche répertorie un certain nombre d’onglets et leurs écrans associés, utilisés pour définir différentes options et paramètres de sauvegarde, sont affichés dans le volet de droite. Toutes les options de l’onglet _Général_ sont décrites ci-dessous :
@@ -77,6 +77,7 @@ _Désactiver :_ Cette option _doit_ être laissée décochée. Avertissement : L
 _Inclure des Sous-répertoires :_ Cette option vous permet d’inclure tous les sous-répertoires/dossiers d’un répertoire/dossier sélectionné pour la tâche de sauvegarde. C’est une méthode efficace pour sauvegarder un grand nombre de dossiers et/ou de fichiers. Par exemple, si vous sélectionnez le dossier _Mes Documents_ et cochez cette option, tous les fichiers et dossiers de _Mes Documents_ seront inclus dans la tâche de sauvegarde.
 
 _Créer des sauvegardes séparées à l’aide d’horodatages :_ Cette option vous permet d’indiquer que la date et l’heure de la tâche de sauvegarde seront automatiquement incluses dans le nom du dossier contenant votre fichier de sauvegarde. C’est une bonne idée car cela signifie que vous pourrez facilement identifier le moment où la sauvegarde a été effectuée.
+
 _Utiliser la logique d’attribut de fichier :_ Cette option est pertinente uniquement lorsque vous choisissez d’effectuer une sauvegarde incrémentielle ou différentielle (voir ci-dessous). Les attributs de fichier contiennent des informations sur le fichier.
 
 **Note :** L’option suivante est uniquement disponible pour les versions de système d’exploitation Windows plus récentes que _et_, y compris Windows XP.
@@ -102,7 +103,7 @@ _Tâche fictive :_ Vous pouvez utiliser cette option pour que votre ordinateur e
 
 Pour créer un fichier de sauvegarde, procédez comme suit :
 
-**Étape 1.** Cliquez sur "Fichiers" dans la barre latérale gauche de la fenêtre _Nouvelle tâche_ pour afficher une version _vide_ de l’écran suivant :
+**Étape 1.** Cliquez sur "Fichiers" dans la barre latérale gauche de la fenêtre _Nouvelle tâche_ pour afficher une version _vide_ de l’écran suivant :  
 ![image](tool_cobian6.png)
 
 **Étape 2.** Sélectionnez les fichiers que vous souhaitez sauvegarder. (Dans _Figure 3_ ci-dessus, le dossier _Mes documents_ est sélectionné.)
@@ -130,7 +131,7 @@ L’écran doit maintenant ressembler à l’exemple ci-dessus avec fichier(s) e
 Pour que votre sauvegarde automatique fonctionne, vous devez remplir la section _Planifier_. Cette section vous permet de spécifier quand vous voulez que la sauvegarde soit effectuée.
 Pour définir les options de planification, procédez comme suit :
 
-**Étape 1.** Sélectionnez "Planifier" dans la barre latérale gauche pour activer le volet suivant :
+**Étape 1.** Sélectionnez "Planifier" dans la barre latérale gauche pour activer le volet suivant :  
 ![image](tool_cobian7.png)
 
 Les options de _Type de Planification_ sont répertoriées dans le menu déroulant et décrites ci-dessous :
@@ -149,7 +150,7 @@ _Minuterie :_ La sauvegarde sera effectuée à plusieurs reprises à des interva
 
 _Manuellement :_ Vous devrez exécuter la sauvegarde vous-même à partir de la fenêtre principale du programme.
 
-**Étape 2.** Cliquez sur "OK" pour confirmer les options et les paramètres du programme de sauvegarde comme suit :
+**Étape 2.** Cliquez sur "OK" pour confirmer les options et les paramètres du programme de sauvegarde comme suit :  
 ![image](tool_cobian8.png)
 
 Une fois que vous avez choisi un calendrier de sauvegarde, vous avez terminé la dernière étape. La sauvegarde sera maintenant exécutée sur les dossiers spécifiés selon la planification que vous avez choisie.
@@ -158,7 +159,7 @@ Une fois que vous avez choisi un calendrier de sauvegarde, vous avez terminé la
 
 **Étape 1.** Créez une tâche de sauvegarde comme indiqué à la section 2.3, contenant les fichiers de sauvegarde que vous souhaitez archiver.
 
-**Étape 2.** Sélectionnez "Archiver" dans la barre latérale gauche pour activer l’écran _Nouvelle tâche_ comme suit :
+**Étape 2.** Sélectionnez "Archiver" dans la barre latérale gauche pour activer l’écran _Nouvelle tâche_ comme suit :  
 ![image](tool_cobian9.png)
 
 Le volet **Compression** permet de spécifier la méthode de compression de votre sauvegarde.
@@ -177,7 +178,7 @@ Les options de _Division_ s’appliquent au stockage sur des supports amovibles,
 
 Exemple : Supposons que vous archivez un grand nombre de fichiers et que vous souhaitez les graver sur un CD. Cependant, la taille de votre archive dépasse 700 Mo (la taille d’un CD). La fonction de division divisera l’archive en éléments plus petits ou égaux à 700 Mo, que vous pourrez ensuite graver sur vos CD. Si vous envisagez de sauvegarder sur le disque dur de votre ordinateur ou si les fichiers que vous souhaitez sauvegarder sont plus petits que le périphérique sur lequel vous prévoyez de les stocker, vous pouvez ignorer cette section.
 
-Les options suivantes sont disponibles lorsque vous cliquez sur la liste déroulante _Options de division_. Votre choix dépendra du type de périphérique de stockage amovible à votre disposition.
+Les options suivantes sont disponibles lorsque vous cliquez sur la liste déroulante _Options de division_. Votre choix dépendra du type de périphérique de stockage amovible à votre disposition.  
 ![image](tool_cobian10.png)
 
 - 3,5" - disquette. Cette option est assez grande pour effectuer une sauvegarde d’un petit nombre de documents
