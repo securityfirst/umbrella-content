@@ -17,6 +17,6 @@ Apprenez quoi faire si vous êtes forcés de donner votre mot de passe dans [Mot
 ### LECTURES COMPLÉMENTAIRES
 
 * Security First, [Mots de Passe Sécurisés et Chiffrement des Données](https://advocacyassembly.org/en/courses/31/#/chapter/1/lesson/1), une formation en ligne gratuite offerte par Advocacy Assembly.
-* FFÉ, Autodéfense contre la surveillance, [Créer des mots de passe robustes]https://ssd.eff.org/fr/module/cr%C3%A9er-des-mots-de-passe-robustes)
+* FFÉ, Autodéfense contre la surveillance, [Créer des mots de passe robustes](https://ssd.eff.org/fr/module/cr%C3%A9er-des-mots-de-passe-robustes)
 * FFÉ, ["Une Guide sur les Types d’Authentification à Deux Facteurs sur Internet,"](https://www.eff.org/deeplinks/2017/09/guide-common-types-two-factor-authentication-web) 22 Septembre 2017.
 * Security in a Box, [Créer et Maintenir des Mots de Passe Sécurisés](https://securityinabox.org/fr/guide/passwords/)
