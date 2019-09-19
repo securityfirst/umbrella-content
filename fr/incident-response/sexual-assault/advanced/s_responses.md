@@ -11,8 +11,8 @@ en tant qu’observateur.
 * Rationalisation : « Quel moyen peu coûteux de satisfaire votre besoin de ressentir du pouvoir.
 Vous ne pouvez pas vraiment me faire du mal ».
 
-* Bien que ces mécanismes de défense soient sains pendant une agression, ils ne doivent pas induire la victime en erreur
- en lui faisant croire qu’elle n’a pas été profondément blessée. *
+*Bien que ces mécanismes de défense soient sains pendant une agression, ils ne doivent pas induire la victime en erreur
+ en lui faisant croire qu’elle n’a pas été profondément blessée.*
 
 ## Réponses physiques possibles
 
