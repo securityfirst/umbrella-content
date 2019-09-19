@@ -132,7 +132,7 @@ _Figure 8 : Invitation de don VeraCrypt_
 
 _Figure 9 : Invitation du tutoriel VeraCrypt_
 
-** Étape 8**. **Cliquez** sur l’un des boutons pour terminer l’installation de **VeraCrypt**. Selon vos préférences d’installation, vous pouvez maintenant disposer d’un raccourci **VeraCrypt** sur votre bureau.
+**Étape 8**. **Cliquez** sur l’un des boutons pour terminer l’installation de **VeraCrypt**. Selon vos préférences d’installation, vous pouvez maintenant disposer d’un raccourci **VeraCrypt** sur votre bureau.
 
 ![image](tool_veracrypt10.png)
 
@@ -226,7 +226,7 @@ La fenêtre _Taille du Volume_ vous permet de spécifier la taille du _conteneur
 
 _Figure 9 : Assistant de Création de Volume contenant la fenêtre de Mot de passe de Volume_
 
-**IMPORTANT** : Le choix d’;une phrase secrète forte est l’une des étapes les plus importantes à effectuer lors de la création d’un volume **VeraCrypt**. Plus la phrase secrète est forte, mieux cela sera. Vous n’êtes pas obligé de choisir vos propres phrases secrètes (ni même de vous en souvenir !) si vous utilisez un _gestionnaire de mots de passe_ tel que **KeePassXC**. Veuillez vous reporter à la leçon **[Mots de passe]**(umbrella://information/passwords) et [**Guide KeePassXC**](umbrella://tools/encryption/s_keepassxc.md) pour en savoir plus sur les bonnes pratiques d’une phrase secrète.
+**IMPORTANT** : Le choix d’;une phrase secrète forte est l’une des étapes les plus importantes à effectuer lors de la création d’un volume **VeraCrypt**. Plus la phrase secrète est forte, mieux cela sera. Vous n’êtes pas obligé de choisir vos propres phrases secrètes (ni même de vous en souvenir !) si vous utilisez un _gestionnaire de mots de passe_ tel que **KeePassXC**. Veuillez vous reporter à la leçon **[Mots de passe](umbrella://information/passwords)** et [**Guide KeePassXC**](umbrella://tools/encryption/s_keepassxc.md) pour en savoir plus sur les bonnes pratiques d’une phrase secrète.
 
 **Étape 11**. **Tapez** votre phrase secrète puis **retapez** votre phrase secrète dans le champ _Confirmer_ pour activer le bouton **\[Suivant\]**.
 
@@ -288,7 +288,6 @@ Il existe deux manières différentes de créer un _volume caché_. Elles sont t
 *   Le **mode normal** vous guide tout au long du processus de création d’un _volume standard_ et d’un _volume caché_. (Vous créez un porte-document avec un compartiment secret.)
 
 *   Le **mode direct** suppose que vous avez déjà un _volume standard_ dans lequel vous voulez créer un _volume caché_. (Vous avez déjà le porte-documents, mais vous souhaitez ajouter le compartiment secret.)
-
 
 Dans cette section, nous allons nous concentrer sur le _mode direct_. Si vous ne possédez pas encore de _volume standard_, suivez simplement les étapes décrites dans la section **Création d’un volume standard** ci-dessus, puis revenez à ce point.
 
