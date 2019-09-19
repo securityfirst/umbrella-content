@@ -15,7 +15,7 @@ La foule peut rapidement changer. Faites confiance à votre instinct.
 
 *   Si vous faites face à une agression directe ou armée.
 
-* Atteindre des objets sur le sol peut être dangereux, ou donner l’impression que vous participez à la violence. *
+*Atteindre des objets sur le sol peut être dangereux, ou donner l’impression que vous participez à la violence.*
 
 ## Vêtements de Protection
 
@@ -25,6 +25,6 @@ La foule peut rapidement changer. Faites confiance à votre instinct.
 
 *   Les gilets de protection et les casquettes sont disponibles dans les kits anti-émeute.
 
-* Évitez les masques ou les équipements qui vous font ressembler à la police. *
+*Évitez les masques ou les équipements qui vous font ressembler à la police.*
 
 (Apprenez-en plus à ce sujet dans [équipement de protection](umbrella://travel/protective-equipment).)
