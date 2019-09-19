@@ -7,11 +7,11 @@ KeePassXC
 
 Gestionnaire de Mot de Passe Sécurisé
 
-**Leçon à lire : [Mots de passe](umbrella://information/passwords/advanced). **  
+**Leçon à lire : [Mots de passe](umbrella://information/passwords/advanced).**  
 **Niveau** : Débutant  
 **Temps requis** : 5 minutes à configurer pour une vie d’utilisation de mots de passe forts.  
-**Publié : ** Avril 2018  
-**Sources : ** FFÉ, Autodéfense contre la surveillance, [Guide pratique : utiliser KeePassXC](https://ssd.eff.org/fr/module/guide-pratique-utiliser-keepassxc) ; [KeePassXC wiki](https://github.com/keepassxreboot/keepassxc/wiki).
+**Publié :** Avril 2018  
+**Sources :** FFÉ, Autodéfense contre la surveillance, [Guide pratique : utiliser KeePassXC](https://ssd.eff.org/fr/module/guide-pratique-utiliser-keepassxc) ; [KeePassXC wiki](https://github.com/keepassxreboot/keepassxc/wiki).  
 
 **Utiliser KeepassXC vous donnera :**
 *La possibilité d’utiliser de nombreux mots de passe différents sur différents sites et services sans avoir à les mémoriser.*
@@ -126,7 +126,6 @@ Pour intégrer KeePassXC dans votre navigateur, vous devez :
     Cela ouvrira une boîte de dialogue "Nouvelle demande de dialogue d’association de clés". Donnez à ce nom d’association un nom descriptif tel que Chrome. L’utilisation d’un nom descriptif vous aide à identifier cette association dans le futur.
 
     ![](tool_keepassxc7._enabling_browser_extension.png)
-
 
 Maintenant que votre navigateur est connecté à KeePassXC, vous verrez ce message lorsque vous cliquerez sur l’icône d’extension KeePass.
 
