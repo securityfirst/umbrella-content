@@ -27,6 +27,6 @@ Mais emmener votre téléphone à une manifestation pourrait :
 
 Si vous prenez votre téléphone mobile avec vous pour une manifestation, il est facile pour le gouvernement de déterminer que vous y êtes présents.
 
-** Pour effacer votre présence, ne prenez pas de téléphone. **
+**Pour effacer votre présence, ne prenez pas de téléphone.**
 
-** Si vous devez prendre un téléphone, préparez-vous soigneusement. **
+**Si vous devez prendre un téléphone, préparez-vous soigneusement.**
