@@ -7,26 +7,26 @@ KeePassXC
 
 Gestionnaire de Mot de Passe Sécurisé
 
-** Leçon à lire : [Mots de passe](umbrella://information/passwords/advanced). **
-** Niveau** : Débutant
-** Temps requis** : 5 minutes à configurer pour une vie d’utilisation de mots de passe forts.
-** Publié : ** Avril 2018
-** Sources : ** FFÉ, Autodéfense contre la surveillance, [Guide pratique : utiliser KeePassXC](https://ssd.eff.org/fr/module/guide-pratique-utiliser-keepassxc) ; [https://github.com/keepassxreboot/keepassxc/wiki](https://github.com/keepassxreboot/keepassxc/wiki].
+**Leçon à lire : [Mots de passe](umbrella://information/passwords/advanced). **  
+**Niveau** : Débutant  
+**Temps requis** : 5 minutes à configurer pour une vie d’utilisation de mots de passe forts.  
+**Publié : ** Avril 2018  
+**Sources : ** FFÉ, Autodéfense contre la surveillance, [Guide pratique : utiliser KeePassXC](https://ssd.eff.org/fr/module/guide-pratique-utiliser-keepassxc) ; [KeePassXC wiki](https://github.com/keepassxreboot/keepassxc/wiki).
 
-** Utiliser KeepassXC vous donnera : **
-\* La possibilité d’utiliser de nombreux mots de passe différents sur différents sites et services sans avoir à les mémoriser.
+**Utiliser KeepassXC vous donnera :**
+*La possibilité d’utiliser de nombreux mots de passe différents sur différents sites et services sans avoir à les mémoriser.*
 
-** Télécharger : ** Pour Windows/Mac/Linux : [https://keepassxc.org/download](https://keepassxc.org/download).
-** Configuration requise : ** Windows 7 ou supérieur, MacOS X 10.7 ou supérieur, Linux (la plupart des distributions)
-** Version utilisée dans ce guide **: KeePassXC 2.2.0 (KeePassXC est une version multiplate-forme du programme KeePass pour Windows uniquement.)
-** Licence ** : FOSS (principalement GPLv2)
+**Télécharger :** Pour Windows/Mac/Linux : [https://keepassxc.org/download](https://keepassxc.org/download).  
+**Configuration requise :** Windows 7 ou supérieur, MacOS X 10.7 ou supérieur, Linux (la plupart des distributions)  
+**Version utilisée dans ce guide**: KeePassXC 2.2.0 (KeePassXC est une version multiplate-forme du programme KeePass pour Windows uniquement.)  
+**Licence** : FOSS (principalement GPLv2)  
 
 introduction
 ------------
 
 KeePassXC est un gestionnaire de mots de passe multi-plateformes qui vous permet de stocker tous vos mots de passe au même endroit. Un gestionnaire de mots de passe est un outil qui crée et stocke des mots de passe pour vous. Vous pouvez donc utiliser de nombreux mots de passe différents sur différents sites et services sans avoir à les mémoriser. Vous n’avez besoin que de mémoriser un mot de passe maître qui vous permet d’accéder à la base de données chiffrée du gestionnaire de mots de passe de tous vos mots de passe.
 
-_Il existe un certain nombre de programmes dont le nom s’apparente à KeePassXC, tels que KeePassX, KeePass et KeePass2. Certains d’entre eux sont basés sur le même code, tandis que d’autres utilisent simplement le même format de base de données. Ce guide recommande_ [_KeePassXC_](https://keepassxc.org/) _parce qu’il est multi-plateforme et développé plus activement que certaines alternatives ._
+_Il existe un certain nombre de programmes dont le nom s’apparente à KeePassXC, tels que KeePassX, KeePass et KeePass2. Certains d’entre eux sont basés sur le même code, tandis que d’autres utilisent simplement le même format de base de données. Ce guide recommande_ [KeePassXC](https://keepassxc.org/) _parce qu’il est multi-plateforme et développé plus activement que certaines alternatives._
 
 Note : L’utilisation d’un gestionnaire de mots de passe crée un point d’échec unique et constitue une cible évidente pour les mauvais acteurs ou adversaires. Les recherches suggèrent que de nombreux gestionnaires de mots de passe couramment utilisés comportent des vulnérabilités. Par conséquent, soyez prudent lorsque vous déterminez s’il s’agit du bon outil pour vous.
 
@@ -35,7 +35,7 @@ Comment KeePassXC fonctionne
 
 KeePassXC fonctionne avec les bases de données de mots de passe, qui sont des fichiers contenant une liste de tous vos mots de passe. Ces bases de données sont chiffrées lorsqu’elles sont stockées sur le disque dur de votre ordinateur. Donc, si votre ordinateur est éteint et que quelqu’un le vole, il ne pourra pas lire vos mots de passe.
 
-Les bases de données de mots de passe peuvent être chiffrées à l’aide d’un mot de passe maître Étant donné que votre mot de passe maître protège tous vos autres mots de passe, vous devez le renforcer au maximum. (Apprenez à créer des [Mots de passe] forts (umbrella://information/passwords/beginner).)
+Les bases de données de mots de passe peuvent être chiffrées à l’aide d’un mot de passe maître Étant donné que votre mot de passe maître protège tous vos autres mots de passe, vous devez le renforcer au maximum. (Apprenez à créer des [Mots de passe](umbrella://information/passwords/beginner) forts.)
 
 Utilisation d’un mot de passe maître
 -----------------------
@@ -52,7 +52,7 @@ Installez KeePassXC et lancez-le. Cliquez sur le menu Fichier et sélectionnez "
 
 ![](tool_keepassxc1._creating_an_account.png)
 
-** _ Qu’est-ce qu’un fichier clé ? _ ** _L’utilisation d’un fichier clé en plus de votre mot de passe maître peut rendre plus difficile le déchiffrage de votre base de données de mots de passe s’ils volent une copie. Vous pouvez utiliser n’importe quel fichier existant en tant que fichier clé. Une image de votre chat, par exemple — peut être utilisée en tant que fichier de clés. Assurez-vous simplement que le fichier que vous choisissez ne sera jamais modifié, car si son contenu est modifié, il ne déchiffrera plus votre base de données de mots de passe. Parfois, l’ouverture d’un fichier dans un autre programme peut suffire à le modifier. Ne l’ouvrez pas, sauf pour déverrouiller KeePassXC. (Cependant, il est prudent de déplacer ou de renommer le fichier clé.) Généralement, un mot de passe maître fort est suffisant. Si vous choisissez d’utiliser un fichier clé en plus de votre mot de passe maître, veillez à le stocker séparément de votre base de données de mots de passe._
+**_Qu’est-ce qu’un fichier clé ?_** _L’utilisation d’un fichier clé en plus de votre mot de passe maître peut rendre plus difficile le déchiffrage de votre base de données de mots de passe s’ils volent une copie. Vous pouvez utiliser n’importe quel fichier existant en tant que fichier clé. Une image de votre chat, par exemple — peut être utilisée en tant que fichier de clés. Assurez-vous simplement que le fichier que vous choisissez ne sera jamais modifié, car si son contenu est modifié, il ne déchiffrera plus votre base de données de mots de passe. Parfois, l’ouverture d’un fichier dans un autre programme peut suffire à le modifier. Ne l’ouvrez pas, sauf pour déverrouiller KeePassXC. (Cependant, il est prudent de déplacer ou de renommer le fichier clé.) Généralement, un mot de passe maître fort est suffisant. Si vous choisissez d’utiliser un fichier clé en plus de votre mot de passe maître, veillez à le stocker séparément de votre base de données de mots de passe._
 
 Ensuite, une boîte de dialogue apparaît et vous demande de saisir un mot de passe maître et/ou d’utiliser un fichier clé. Cochez la ou les cases appropriées en fonction de votre choix.
 
@@ -115,7 +115,7 @@ Pour intégrer KeePassXC dans votre navigateur, vous devez :
 
 2.  Télécharger l’extension du navigateur
 
-    Pour Firefox, installer [Passifox](https://addons.mozilla.org/en-US/firefox/addon/passifox/). Pour Chrome, installer [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae). Une fois l’installation terminée, une petite icône représentant un verrou apparaît dans la barre d’outils de votre navigateur.
+    Pour Firefox, installer [Passifox](https://addons.mozilla.org/en-US/firefox/addon/passifox/). Pour Chrome, installer [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/). Une fois l’installation terminée, une petite icône représentant un verrou apparaît dans la barre d’outils de votre navigateur.
 
     ![](tool_keepassxc6._chromeipass_extension.png)
 
