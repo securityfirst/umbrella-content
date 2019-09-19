@@ -18,4 +18,4 @@ Lorsque votre conteneur de fichiers VeraCrypt (ou votre volume) est monté, il e
 
 *   Avant d’insérer une clé USB ou un autre périphérique de stockage externe, y compris ceux appartenant à des amis et à des collègues.
 
-* Note : Si vous conservez un volume chiffré sur un périphérique de stockage externe, la suppression du périphérique risque de ne pas démonter le volume. Commencez par démonter le volume, puis déconnectez et retirez le périphérique, même si vous êtes pressé. Sinon, vos fichiers seront vulnérables. *
+*Note : Si vous conservez un volume chiffré sur un périphérique de stockage externe, la suppression du périphérique risque de ne pas démonter le volume. Commencez par démonter le volume, puis déconnectez et retirez le périphérique, même si vous êtes pressé. Sinon, vos fichiers seront vulnérables.*
