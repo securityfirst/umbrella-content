@@ -22,4 +22,4 @@ de l’agression prévue.
 *   Si vous provoquez de la violence, il y a plus de chances que cela soit utilisé pendant ou après le viol.
 *   Concentrez-vous sur votre préparation mentale pour aider et soutenir la victime de viol une fois l’agression terminée.
 
-*Se concentrer sur la meilleure façon de soutenir la victime de viol immédiatement après l’agression peut être un puissant mécanisme d’adaptation. *
+*Se concentrer sur la meilleure façon de soutenir la victime de viol immédiatement après l’agression peut être un puissant mécanisme d’adaptation.*
