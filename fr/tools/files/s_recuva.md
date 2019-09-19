@@ -7,14 +7,13 @@ title: Recuva
 ## Guide pour Recuva
 Récupération de données et suppression sécurisée
 
-**Leçon à lire :**
-- [Sauvegarde](umbrella://information/backing-up)**  
+**Leçon à lire : [Sauvegarde](umbrella://information/backing-up)**  
 **Téléchargement :** [http://www.piriform.com/recuva/builds](http://www.piriform.com/recuva/builds)    
-**Configuration requise pour l’ordinateur :** N’importe quelle version de Windows
-**Version utilisée dans ce guide :** Recuva 1.3
-**Licence :** Logiciel gratuit
-**Niveau :** Intermédiaire
-**Temps requis :** 20 minutes
+**Configuration requise pour l’ordinateur :** N’importe quelle version de Windows  
+**Version utilisée dans ce guide :** Recuva 1.3  
+**Licence :** Logiciel gratuit  
+**Niveau :** Intermédiaire  
+**Temps requis :** 20 minutes  
 
 **L’utilisation de Recuva vous donnera :**
 - La possibilité d’effectuer différentes techniques de numérisation
