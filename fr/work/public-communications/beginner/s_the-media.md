@@ -37,7 +37,7 @@ Vous devrez peut-être éviter ou contrer la propagande négative dans le cadre 
 
 (Apprenez-en plus sur le [multimédia](umbrella://communications/online-privacy/beginner/s_multimedia.md).)
 
-* Effectuez une évaluation des risques si cela peut exposer des personnes à un risque. *
+*Effectuez une évaluation des risques si cela peut exposer des personnes à un risque.*
 
 
 ## Attirez une bonne couverture
@@ -52,7 +52,7 @@ Vous devrez peut-être éviter ou contrer la propagande négative dans le cadre 
 
 - Utilisez le Web et les médias sociaux pour former des journalistes, aidez-les à promouvoir leur propre travail et sensibilisez-les avant d’organiser des événements.
 
-* Remarque : prenez des mesures pour protéger la vie privée de toute personne avec laquelle vous travaillez sur les médias sociaux. *
+*Remarque : prenez des mesures pour protéger la vie privée de toute personne avec laquelle vous travaillez sur les médias sociaux.*
 
 (Apprenez-en plus dans [Confidentialité en ligne](umbrella://communications/online-privacy)).
 
