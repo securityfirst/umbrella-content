@@ -8,7 +8,7 @@ title: Cacher votre chiffrement
 
 *   Nommez votre volume chiffré pour ressembler à un type de fichier différent.
 
-> * Par exemple : l’ajout d’une extension de fichier «.iso» donne des volumes d’environ 700 Mo à une image CD. D’autres extensions seraient plus réalistes pour des volumes plus petits. *
+*Par exemple : l’ajout d’une extension de fichier «.iso» donne des volumes d’environ 700 Mo à une image CD. D’autres extensions seraient plus réalistes pour des volumes plus petits.*
 
 *   Utilisez une version portable de VeraCrypt au lieu de l’installer sur votre ordinateur. (Même en mode portable, VeraCrypt peut laisser des traces indiquant qu’il a été utilisé sur votre appareil.)
 
