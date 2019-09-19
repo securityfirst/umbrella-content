@@ -36,4 +36,4 @@ title: Identifier l’observateur
 
 *   Arrêtez-vous immédiatement après avoir pris un virage pour forcer les autres à doubler.
 
-* Créez uniquement des occasions d’éviter la surveillance si cela est absolument vital. *
+*Créez uniquement des occasions d’éviter la surveillance si cela est absolument vital.*
