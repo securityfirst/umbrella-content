@@ -45,7 +45,6 @@ _L’utilisation d’un intermédiaire de confiance vous laisse le temps de réf
 *   Déterminez si les communications que vous contrôlez pourraient être bénéfiques aux ravisseurs ou promouvoir leur agenda :
 *   Partagez votre stratégie avec les rédacteurs et travaillez avec les journalistes pour gérer la couverture de l’incident, si possible et si approprié.
 
-« Les appels émotionnels de membres de la famille et les enregistrements d’otages de la part des ravisseurs peuvent faire grimper les demandes de rançon ou permettre aux ravisseurs d’atteindre plus facilement leurs objectifs politiques. Mais il est très difficile de trouver un cas dans lequel la suppression complète des informations était essentielle afin d’obtenir une issue positive dans le cadre d’un enlèvement. »
-- Joel Simon, « La Nouvelle Censure ».
+> *« Les appels émotionnels de membres de la famille et les enregistrements d’otages de la part des ravisseurs peuvent faire grimper les demandes de rançon ou permettre aux ravisseurs d’atteindre plus facilement leurs objectifs politiques. Mais il est très difficile de trouver un cas dans lequel la suppression complète des informations était essentielle afin d’obtenir une issue positive dans le cadre d’un enlèvement. » - **Joel Simon, « La Nouvelle Censure »**.*
 
 (Apprenez-en plus sur les [Communications Publiques](umbrella://work/public-communications).)
