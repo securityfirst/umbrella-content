@@ -7,13 +7,14 @@ title: Tor pour Windows
 ## Manuel d’Utilisation de Tor pour Windows
 Anonymat et Contournement en Ligne
 
-**Leçon à lire : [Confidentialité en Ligne](umbrella://communications/online-privacy/advanced)**
-**Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sous Windows.** **Configuration requise pour l’ordinateur:** Une connexion Internet, un ordinateur sous Windows
-**Version utilisée dans ce guide:** Windows : Windows 7 Ultimate ; Navigateur Tor Browser : 3.6.2
-**Licence :** Logiciel Libre ; mélange de licences de Logiciels Gratuits
-**Niveau :** Intermédiaire
-**Lecture Connexe :** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
-**Temps requis :** 15-30 minutes
+**Leçon à lire : [Confidentialité en Ligne](umbrella://communications/online-privacy/advanced)**  
+**Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sous Windows.**  
+**Configuration requise pour l’ordinateur:** Une connexion Internet, un ordinateur sous Windows  
+**Version utilisée dans ce guide:** Windows : Windows 7 Ultimate ; Navigateur Tor Browser : 3.6.2  
+**Licence :** Logiciel Libre ; mélange de licences de Logiciels Gratuits  
+**Niveau :** Intermédiaire  
+**Lecture Connexe :** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
+**Temps requis :** 15-30 minutes  
 
 **En utilisant Tor Browser, vous obtiendrez :**
 - L’habilité de contourner la censure d’Internet
