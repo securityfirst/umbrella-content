@@ -14,7 +14,7 @@ title: ObscuraCam
 **Version requise :** Android 2.3.3 et ultérieure  
 **Version utilisée dans ce guide :** 2.0-RC2b  
 **Licence :** Logiciel Gratuit et Open Source (GPL v3)  
-**Niveau :** Basic 
+**Niveau :** Basic  
 **Temps requis :** 5 minutes
 
 **En utilisant ObscuraCam, vous obtiendrez :**  
