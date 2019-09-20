@@ -7,22 +7,21 @@ Orbot & Orfox
 
 Navigation Web améliorée pour la confidentialité de vos données sur Android
 
-**Leçon à lire : [Internet](umbrella://communications/the-internet), [Téléphones Mobiles](umbrella://communications/mobile-phones)**
-**Niveau** : Débutant
-**Temps requis** : 15 minutes
-**Publié :** Avril 2018
-**Sources :** Security Planner (Citizen Lab), [Orbot et Orfox](https://securityplanner.org/#/tool/orbot-and-orfox) ; Security in a Box, [ORBOT POUR ANDROID](https://securityinabox.org/fr/guide/orbot/android/), Le Projet Guardian, [Orbot v16 : un tout nouveau look, plus facile à utiliser !](https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)
+**Leçon à lire : [Internet](umbrella://communications/the-internet), [Téléphones Mobiles](umbrella://communications/mobile-phones)**  
+**Niveau** : Débutant  
+**Temps requis** : 15 minutes  
+**Publié :** Avril 2018  
+**Sources :** Security Planner (Citizen Lab), [Orbot et Orfox](https://securityplanner.org/#/tool/orbot-and-orfox) ; Security in a Box, [ORBOT POUR ANDROID](https://securityinabox.org/fr/guide/orbot/android/), Le Projet Guardian, [Orbot v16 : un tout nouveau look, plus facile à utiliser !](https://guardianproject.info/2018/01/05/orbot-v16-a-whole-new-look-and-easier-to-use/)  
 
 **En utilisant Orbot et Orfox ensemble, vous obtiendrez :**
-- La possibilité de dissimuler votre identité en ligne aux sites Internet et autres services lors de l’utilisation de certaines applications Android.
-- La possibilité de dissimuler vos activités de navigation lorsque vous utilisez Orfox.
-- La possibilité de contourner la censure sur Internet et le filtrage en ligne lors de l’utilisation d’Orfox.
+- La possibilité de dissimuler votre identité en ligne aux sites Internet et autres services lors de l’utilisation de certaines applications Android.  
+- La possibilité de dissimuler vos activités de navigation lorsque vous utilisez Orfox.  
+- La possibilité de contourner la censure sur Internet et le filtrage en ligne lors de l’utilisation d’Orfox.  
 
 **Téléchargement :** [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) et [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox) dans la boutique Google Play.  
 **Configuration requise :**  Varie selon les appareils (Orbot) ; Android 4.0.3 et ultérieure (Orfox)   
 **Version utilisé dans ce guide** : Version 16 (Orbot) Fennec-52.7.3esr/TorBrowser-7.5.3/Orfox-1.5.2-RC-1 (Orfox)   
 **Licence** : FOSS (primairement GPLv2)
-
 
 # 1. Introduction 
 
@@ -39,7 +38,6 @@ Si vous souhaitez renforcer l’anonymat lors de l’utilisation d’Orfox :
 
 # 2. Installation et configuration de Orbot
 
-
 ## 2.1 Installation de Orbot
 
 **Étape 1 :** Sur votre appareil Android, **téléchargez** et **installez** l’application à partir du [Google Play store](https://play.google.com/store/apps/details?id=org.torproject.android) en appuyant sur INSTALLER.
@@ -47,7 +45,6 @@ Si vous souhaitez renforcer l’anonymat lors de l’utilisation d’Orfox :
 ![](orbot-and-002.png)
 
 **Note :** **Orbot** peut également être téléchargé à partir d’une boutique tierce [F-Droid](https://guardianproject.info/fdroid/).
-
 
 ## 2.2 Configuration de Orbot
 
@@ -77,7 +74,6 @@ Sélectionnez les applications individuelles que vous souhaitez utiliser avec **
 
 Notez que de nombreuses applications, telles que celles pour lesquelles vous devez vous connecter, porteront atteinte à votre anonymat, même si le trafic Internet est tunnellisé via Orbot. Cette étape vous aidera si un pare-feu ou un filtre bloque une application individuelle, mais ne vous rend pas anonyme.
 
-
 ![](orbot-and-011.png)
 
 ![](orbot-and-012.png)
@@ -106,7 +102,6 @@ Lorsque vous avez terminé la configuration, l’écran **Orbot** désactivé ap
 
 **Étape 5.** *Activez* le mode VPN pour accéder aux applications répertoriées en canalisant leur trafic Internet via Orbot. Ajoutez d’autres applications à la liste en cliquant sur *Applications compatibles avec Tor* au bas de l’écran.
 
-
 # 4. Configuration avancée Orbot : Utiliser l’Intermédiaire Tor
 
 Si l’accès à Tor est restreint ou si vous souhaitez dissimuler le fait que vous utilisez Tor, vous pouvez configurer Orbot pour qu’il utilise des *intermédiaires*. En savoir plus sur les intermédiaires dans le guide [Tor pourLINUX](umbrella://tools/tor/s_tor-for-linux.md).
@@ -130,12 +125,11 @@ Vous pouvez en apprendre plus sur les intermédiaires sur le [site Web du Projet
 
 **Note :** **Orfox** peut également être téléchargé à partir de la boutique tierce [F-Droid](https://guardianproject.info/fdroid/).
 
-**Étape 2 :** Pour ouvrir Orfox, ** tapez ** l’icône de l’application.
+**Étape 2 :** Pour ouvrir Orfox, **tapez** l’icône de l’application.
 
 **Orfox** vous donnera l’option de vous connecter à _https://check.torproject.org_, afin de vous assurer que sa connexion au réseau **Tor** fonctionne. S’il peut se connecter, vous verrez un message vous indiquant que votre _navigateur est configuré pour utiliser Tor_. Si **Orfox** ne peut pas se connecter au site Web, un message d’erreur apparaît dans le navigateur. Si cela se produit, vérifiez qu’Orbot est en cours d’exécution.
 
 **Étape 3 :** Pour naviguer sur les sites Web, **tapez** la zone en haut de l’écran et tapez l’adresse que vous voulez visiter. Appuyez sur *Aller* sur le clavier à l’écran.
-
 
 # 6. Effacer votre historique de navigation Orfox
 
