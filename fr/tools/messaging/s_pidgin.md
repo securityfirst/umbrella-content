@@ -7,20 +7,21 @@ title: Pidgin
 ## Guide pour Pidgin
 Messagerie instantanée chiffrée pour Windows
 
-**Leçon à lire :**
-- [Envoi d’un message](umbrella://communications/sending-a-message)**  
+**Leçon à lire : [Envoi d’un message](umbrella://communications/sending-a-message)**  
 **Téléchargement :**
 - [https://pidgin.im/download/](https://pidgin.im/download/)   
 - [https://otr.cypherpunks.ca/](https://otr.cypherpunks.ca/)  
-**Configuration requise pour l’ordinateur :** Une connexion Internet, un ordinateur exécutant Windows XP ou version plus récente, un compte de messagerie XMPP (Jabber).
+
+**Configuration requise pour l’ordinateur :** Une connexion Internet, un ordinateur exécutant Windows XP ou version plus récente, un compte de messagerie XMPP (Jabber).  
 _(Pidgin est capable de fonctionner avec de nombreux systèmes de messagerie, mais nous allons maintenant nous concentrer sur XMPP, anciennement Jabber)_
-**Version utilisée dans ce guide :**
+**Version utilisée dans ce guide :**  
 - Windows 7 Ultimate  
-- Pidgin 2.10.9, pidgin-otr 4.0.0-1  
-**Licence :** Logiciel libre ; mélange de licences de logiciels libres
-**Niveau :** Débutant
-**Autres lectures :** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)  
-**Temps requis :** 20 minutes
+- Pidgin 2.10.9, pidgin-otr 4.0.0-1 
+
+**Licence :** Logiciel libre ; mélange de licences de logiciels libres  
+**Niveau :** Débutant  
+**Autres lectures :** [https://pidgin.im/cgi-bin/mailman/listinfo/support](https://pidgin.im/cgi-bin/mailman/listinfo/support)    
+**Temps requis :** 20 minutes  
 
 **L’utilisation de OTR avec Pidgin vous donnera :**
 - La possibilité d’organiser et de gérer certains des services de messagerie instantanée les plus populaires via un programme unique.
