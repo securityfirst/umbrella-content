@@ -55,7 +55,7 @@ Appuyez sur « OBTENIR » pour télécharger l’application, puis « INSTALLER 
 
 ### Étape 2 : Inscrivez-vous et Vérifiez votre Numéro de Téléphone
 
-Vous verrez désormais l’écran suivant. Entrez votre numéro de téléphone mobile et appuyez sur « Vérifier Ce Périphérique ».
+Vous verrez désormais l’écran suivant. Entrez votre numéro de téléphone mobile et appuyez sur «Vérifier Ce Périphérique».
 
 ![](tool_signalios_resized000.png)
 
@@ -65,11 +65,11 @@ Afin de vérifier votre numéro de téléphone, vous recevrez un SMS avec un cod
 
 ![](tool_signalios_resized002.png)
 
-Une fois ce processus terminé, Signal demandera l’accès à vos contacts. Appuyez sur « Continuer ».
+Une fois ce processus terminé, Signal demandera l’accès à vos contacts. Appuyez sur «Continuer».
 
 ![](tool_signalios_resized003.png)
 
-Signal demandera alors l’autorisation de vous envoyer des notifications. Appuyez sur « OK ».
+Signal demandera alors l’autorisation de vous envoyer des notifications. Appuyez sur «OK».
 
 ![](/tool_signalios_resized004.png)
 
