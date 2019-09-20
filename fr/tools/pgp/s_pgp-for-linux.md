@@ -7,18 +7,18 @@ title: PGP pour Linux
 ## Guide PGP pour Linux
 Courriel chiffré pour Linux
 
-**Leçon à lire :**
-- [Courriel](umbrella://lesson/courriel)**  
-** Configuration requise pour l’ordinateur: ** Une connexion Internet, un ordinateur exécutant Linux, un compte de messagerie
+**Leçon à lire : [Courriel](umbrella://lesson/courriel)**  
+**Configuration requise pour l’ordinateur:** Une connexion Internet, un ordinateur exécutant Linux, un compte de messagerie  
 **Version utilisée dans ce guide :**
-- Linux : Debian 7.0 ("Wheezy")
+- Linux : Debian 7.0 ("Wheezy")  
 - Mozilla Thunderbird 24.8.1  
 - Enigmail 1.6  
 - GPG4Win 1.4.18  
-**Licence :** Logiciel libre; mélange de licences de logiciels libres
-**Niveau :** Expert
-**Autres lectures :** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html)  
-**Temps requis :** 30-60 minutes
+
+**Licence :** Logiciel libre; mélange de licences de logiciels libres  
+**Niveau :** Expert  
+**Autres lectures :** [https://www.gnupg.org/documentation/guides.html](https://www.gnupg.org/documentation/guides.html)   
+**Temps requis :** 30-60 minutes  
 
 **L’utilisation de PGP vous donnera :**
 - La possibilité de protéger vos courriels de toute lecture de la part d’inconnu, sauf de leurs destinataires.
@@ -34,7 +34,7 @@ Ce guide vous montrera comment utiliser PGP avec un système d’exploitation de
 
 Actuellement, vous ne pouvez pas utiliser directement PGP avec un service de messagerie Web tel que Gmail, Hotmail, Yahoo! Mail ou Outlook Live. Vous pouvez toujours utiliser votre adresse de messagerie Web. vous devrez simplement le configurer avec le programme Thunderbird sur votre ordinateur.
 
-**Notez que les deux bouts de la conversation par courriel doivent utiliser un logiciel compatible PGP pour que cela fonctionne. **
+**Notez que les deux bouts de la conversation par courriel doivent utiliser un logiciel compatible PGP pour que cela fonctionne.**
 
 Les gens l’utiliseront normalement uniquement sur leurs propres appareils personnels, pas sur des appareils partagés. Heureusement, PGP est disponible pour la plupart des ordinateurs de bureau et des périphériques mobiles. Vous pouvez leur indiquer ces guides pour les aider à configurer leur propre version.
 
