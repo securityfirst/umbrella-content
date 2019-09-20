@@ -125,7 +125,7 @@ Cet écran affiche, entre autres choses, l’empreinte de votre paire de clés. 
 
 ![](mailvelope-all-en-v01-008.png)
 
-**Important :** Assurez-vous que **[Publique]** soit bien sélectionné en haut de l’écran. Si vous sélectionnez *[Privée]* ou *[Toute]*, vous exporterez votre clé privée. Vous ne devez jamais envoyer votre clé privée à une autre personne ni la télécharger sur un serveur. (Les seules raisons pour lesquelles vous souhaitez exporter votre clé privée sont le fait de procéder à une sauvegarde chiffrée ou de migrer vos clés vers un nouveau navigateur Web.) Le nom de fichier par défaut doit se terminer par "_Pub.asc".
+**Important :** Assurez-vous que **[Publique]** soit bien sélectionné en haut de l’écran. Si vous sélectionnez *[Privée]* ou *[Toute]*, vous exporterez votre clé privée. Vous ne devez jamais envoyer votre clé privée à une autre personne ni la télécharger sur un serveur. (Les seules raisons pour lesquelles vous souhaitez exporter votre clé privée sont le fait de procéder à une sauvegarde chiffrée ou de migrer vos clés vers un nouveau navigateur Web.) Le nom de fichier par défaut doit se terminer par "*Pub.asc*".
 
 **Étape 5**. **Cliquez** sur **[Enregistrer]** pour enregistrer votre clé publique
 
@@ -149,7 +149,7 @@ Sur cet écran, vous pouvez :
 
 Les étapes ci-dessous supposent que vous avez reçu un fichier clé et que vous l’avez enregistré sur votre ordinateur. Nous allons donc utiliser la deuxième option.
 
-**Étape 3**. **Cliquez** sur ** [Sélectionner un fichier texte clé à importer]**.
+**Étape 3**. **Cliquez** sur **[Sélectionner un fichier texte clé à importer]**.
 
 **Étape 4**. **Accédez** au fichier clé sur votre ordinateur et **cliquez** sur **[Importer]**
 
@@ -290,7 +290,7 @@ Enfin, lorsque vous envoyez un courrier électronique chiffré, soyez assuré qu
 
 À l’aide du navigateur sur lequel vous avez installé Mailvelope, connectez-vous à un compte de messagerie Web avec lequel Mailvelope a été configuré pour fonctionner, puis commencez à rédiger un nouveau message et suivez les étapes ci-dessous :
 
-**Étape 1**. Remplissez les champs **À :**, **Cc :** et ** Object :**, comme d’habitude :
+**Étape 1**. Remplissez les champs **À :**, **Cc :** et **Object :**, comme d’habitude :
 
 ![](mailvelope-all-en-v01-017.png)
 
