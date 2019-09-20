@@ -9,7 +9,7 @@ title: Facebook
 **Leçon à lire :** [Réseaux Sociaux](umbrella://communications/social-media)  
 **Niveau :** Débutant—Avancé  
 **Mise à jour :** Avril 2018 (certaines images datent d’une version postérieure)  
-**Sources :** Security in a Box, [Réseau Social](https://securityinabox.org/fr/guide/social-networking/web/) ; FFÉ, ["Comment Modifier vos Paramètres Facebook pour Désactiver le Partage d’API de plateforme"](https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing) ; [Termes] Facebook (https://www.facebook.com/legal/terms) et [Politique des Données](https://www.facebook.com/about/privacy/).
+**Sources :** Security in a Box, [Réseau Social](https://securityinabox.org/fr/guide/social-networking/web/) ; FFÉ, ["Comment Modifier vos Paramètres Facebook pour Désactiver le Partage d’API de plateforme"](https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing) ; [Termes](https://www.facebook.com/legal/terms) Facebook  et [Politique des Données](https://www.facebook.com/about/privacy/).
 
 ## Conseils Rapides
 
