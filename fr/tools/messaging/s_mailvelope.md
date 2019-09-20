@@ -7,11 +7,11 @@ Mailvelope
 
 Secure Webmail 
 
-**Leçon à lire : [Protection des Fichiers](umbrella://information/protecting-files), [Courriel](umbrella://lesson/courriel)**
-**Niveau :** Avancé
-**Temps requis :** 30 à 60 minutes
-**Mise à jour :** Avril 2018 (certaines images datent de versions antérieures)
-**Sources :**  Security in a Box, [MAILVELOPE - CHIFFREMENT OPENPGP POUR WEBMAIL](https://securityinabox.org/en/guide/mailvelope/web/).
+**Leçon à lire : [Protection des Fichiers](umbrella://information/protecting-files), [Courriel](umbrella://lesson/courriel)**  
+**Niveau :** Avancé  
+**Temps requis :** 30 à 60 minutes  
+**Mise à jour :** Avril 2018 (certaines images datent de versions antérieures)  
+**Sources :**  Security in a Box, [MAILVELOPE - CHIFFREMENT OPENPGP POUR WEBMAIL](https://securityinabox.org/en/guide/mailvelope/web/). 
 
 **L’utilisation de Mailvelope vous donnera :**
 
@@ -19,13 +19,10 @@ Secure Webmail
 - La possibilité de signer votre courrier électronique et d’authentifier le courrier électronique signé d’autrui.
 
 
-**Téléchargement :** [https://www.mailvelope.com/en]((https://www.mailvelope.com/en))  
+**Téléchargement :** [https://www.mailvelope.com/en](https://www.mailvelope.com/en)  
 **Version utilisée dans ce guide :** 1.5.1  
-**Licence :** Logiciel Libre et à Code Source Ouvert
-**Configuration requise :**  **Mozilla Firefox,** **Google Chrome** ou **Chromium** opérant sur LINUX, Windows ou Mac. 
-
-
-
+**Licence :** Logiciel Libre et à Code Source Ouvert  
+**Configuration requise :**  **Mozilla Firefox,** **Google Chrome** ou **Chromium** opérant sur LINUX, Windows ou Mac.   
 
 # 1. Introduction 
 
@@ -59,12 +56,11 @@ Comme Mailvelope est une extension de navigateur, il ne fonctionnera qu’avec l
 
 Comme Mailvelope est une extension de navigateur, il fonctionne sur la plupart des systèmes d’exploitation de bureau. Cela inclut GNU/Linux, Microsoft Windows et Mac OS X. Cela ne fonctionne pas sur les appareils mobiles Android ou iOS. Voici quelques alternatives gratuites à code source ouvert :
 
-- [**Thunderbird avec Enigmail**](../../thunderbird/windows) Client de messagerie complet avec chiffrement PGP ajouté pour GNU/Linux, Microsoft Windows et Mac OS X
+- [**Thunderbird avec Enigmail**](../../thunderbird/windows) Client de messagerie complet avec chiffrement PGP ajouté pour GNU/Linux, Microsoft Windows et Mac OS X  
 - [**GPG4Win**](https://www.gpg4win.org/) Suite d’outils de chiffrement de messagerie et de fichiers PGP pour Microsoft Windows
-- [**Suite d’Outils GPG**](https://gpgtools.org/) pour Mac OS X
-- [**gpg4usb**](https://www.gpg4usb.org/) Outil de PGP portable et autonome pour GNU/Linux et Microsoft Windows
-- [**Mailpile**](https://www.mailpile.is/) Un prochain client de messagerie compatible OpenPGP pour GNU/Linux, Microsoft Windows et Mac OS X
-
+- [**Suite d’Outils GPG**](https://gpgtools.org/) pour Mac OS X  
+- [**gpg4usb**](https://www.gpg4usb.org/) Outil de PGP portable et autonome pour GNU/Linux et Microsoft Windows  
+- [**Mailpile**](https://www.mailpile.is/) Un prochain client de messagerie compatible OpenPGP pour GNU/Linux, Microsoft Windows et Mac OS X  
 
 # 2. Génération et partage de clés de chiffrement
 
@@ -93,7 +89,7 @@ Pour générer votre paire de clés, ouvrez le navigateur sur lequel vous avez i
 
 **Important :**
 
-- Choisissez une phrase de passe forte pour protéger votre clé privée. (Apprenez à créer des [mots de passe] forts (umbrella://information/passwords/beginner).)
+- Choisissez une phrase de passe forte pour protéger votre clé privée. (Apprenez à créer des [mots de passe](umbrella://information/passwords/beginner) forts.)
 - Vous n’êtes pas obligé d’utiliser votre vrai nom lors de la génération de votre clé, mais vous devez entrer l’adresse courriel du compte avec laquelle vous avez l’intention d’utiliser Mailvelope. Si vous le souhaitez, vous pouvez créer un nouveau compte de messagerie spécialement à cet effet.
 - Nous vous recommandons de générer une paire de clés unique pour chaque compte de messagerie que vous souhaitez utiliser avec Mailvelope.
 
@@ -106,8 +102,6 @@ Pour générer votre paire de clés, ouvrez le navigateur sur lequel vous avez i
 Une fois l’opération terminée, Mailvelope affiche : "**Succès ! Nouvelle clé générée et importée dans le trousseau de clés**".
 
 **Étape 6**. **Cliquez** sur les *Afficher les clés* pour jeter un coup d’œil à votre nouvelle paire de clés, comme indiqué dans la section ci-dessous.
-
-
 
 ## 2.2 Exporter et envoyer votre clé publique avec Mailvelope
 
@@ -137,8 +131,6 @@ Cet écran affiche, entre autres choses, l’empreinte de votre paire de clés. 
 
 **Étape 6** : Envoyez le fichier que vous venez d’exporter (*Elena_Katerina_Pub.asc*, dans ce cas) aux correspondants avec lesquels vous souhaitez échanger un courrier électronique chiffré.
 
-
-
 ## 2.3 Importer une clé publique avec Mailvelope
 
 Avant de pouvoir chiffrer un message destiné à un correspondant, vous devez importer sa clé publique. Pour importer la clé publique d’un correspondant à l’aide de Mailvelope, suivez les étapes ci-dessous.
@@ -161,15 +153,13 @@ Les étapes ci-dessous supposent que vous avez reçu un fichier clé et que vous
 
 **Étape 4**. **Accédez** au fichier clé sur votre ordinateur et **cliquez** sur **[Importer]**
 
-Une fois terminé, Mailvelope affichera quelque chose comme :"** Succès ! Clé publique 6764717C5D64FBB6 de l’utilisateur Mansour <mansour@riseup.net> importée dans le trousseau de clés**"
+Une fois terminé, Mailvelope affichera quelque chose comme : "**Succès ! Clé publique 6764717C5D64FBB6 de l’utilisateur Mansour <mansour@riseup.net> importée dans le trousseau de clés**"
 
 Si vous cliquez sur **[Afficher les clés]**, à gauche de l’onglet **Gestion des clés**, vous devriez voir votre clé publique nouvellement importée :
 
 ![](mailvelope-all-en-v01-010.png)
 
 Avant d’envoyer un message chiffré à ce correspondant, vous devez vérifier sa clé.
-
-
 
 ## 2.4 Vérifier la clé publique d’un correspondant
 
@@ -196,14 +186,13 @@ Dans la fenêtre Détails de la Clé, vous verrez **l’empreinte** de la clé s
 
 Votre correspondant doit également suivre ces étapes. Pour vérifier les empreintes :
 
-- Lisez l’empreinte de votre paire de clés à votre correspondant,
-- Demandez-lui de vérifier que l’empreinte qu’il possède pour votre clé publique correspond à ce que vous venez de lui dire.
-- Demandez à votre correspondant de vous lire l’empreinte de sa clé publique,
-- Vérifiez que l’empreinte que vous avez pour sa clé publique correspond à ce qu’il vient de vous dire,
+- Lisez l’empreinte de votre paire de clés à votre correspondant,  
+- Demandez-lui de vérifier que l’empreinte qu’il possède pour votre clé publique correspond à ce que vous venez de lui dire.  
+- Demandez à votre correspondant de vous lire l’empreinte de sa clé publique,  
+- Vérifiez que l’empreinte que vous avez pour sa clé publique correspond à ce qu’il vient de vous dire,  
 - Si les empreintes ne correspondent pas, échangez à nouveau les clés publiques et répétez le processus.
 
 Note : les empreintes de clé n’étant pas sensibles, vous pouvez facilement écrire celle que votre correspondant vous a lue. Ensuite, quand vous aurez plus de temps, vous pourrez vérifier que cela correspond à l’empreinte numérique que vous avez pour sa clé publique. C’est également la raison pour laquelle certaines personnes impriment leurs empreintes digitales sur leurs cartes de visite.
-
 
 ## 2.5 Sauvegarde et récupération de toutes vos clés
 
@@ -288,16 +277,14 @@ Après avoir échangé les clés et vérifié que Mailvelope est configuré pour
 Pour une explication du fonctionnement de Mailvelope, reportez-vous à la section [Ce que vous devez savoir à propos de cet outil avant de commencer](#things-you-should-know-about-mailvelope-before-you-start). Et gardez à l’esprit que Mailvelope protège uniquement le *contenu* des messages et des pièces jointes. **Les informations suivantes ne sont jamais chiffrées :**
 
 - La ligne *Objet :*
-- L’adresse courriel de l’expéditeur
-- Les adresses courriel des destinataires
-- Noms de fichiers des pièces jointes
-- Tout nom réel pouvant être associé à des expéditeurs et des destinataires ("**Elena S. Katerina**", par exemple, dans l’adresse de messagerie suivante : "**Elena S. Katerina <ekaterina@riseup.net>**")
+- L’adresse courriel de l’expéditeur  
+- Les adresses courriel des destinataires  
+- Noms de fichiers des pièces jointes  
+- Tout nom réel pouvant être associé à des expéditeurs et des destinataires ("**Elena S. Katerina**", par exemple, dans l’adresse de messagerie suivante : "**Elena S. Katerina <ekaterina@riseup.net>**")  
 
 Alors, choisissez vos lignes d’objet avec soin et envisagez de créer une paire de clés pour au moins un compte de messagerie qui n’inclut pas votre vrai nom.
 
 Enfin, lorsque vous envoyez un courrier électronique chiffré, soyez assuré qu’une copie — chiffrée sur votre clé publique — sera placée dans votre dossier Courrier envoyé.
-
-
 
 ## 4.1 Chiffrement des messages avec Mailvelope
 
@@ -482,8 +469,6 @@ Notez que nous avons désélectionné l’option *Mémoriser le mot de passe tem
 **Étape 8**. **Cliquez** sur **[Enregistrer tout]** pour enregistrer les fichiers déchiffrés.
 
 Les fichiers chiffrés seront enregistrés à l’endroit où votre navigateur enregistre les fichiers téléchargés (en général dans le dossier *Téléchargements*).
-
-
 
 # FAQ
 
