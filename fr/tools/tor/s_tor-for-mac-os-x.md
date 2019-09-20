@@ -4,17 +4,16 @@ title: Tor Browser pour Mac OS X
 ---
 # GUIDE D’UTILISATION DE TOR BROWSER POUR MAC OS
 
-** Leçon à lire : [Internet](umbrella://communications/the-internet) **
-** Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sur Mac. **
-** Configuration requise : ** Une connexion Internet, un ordinateur sous MacOS
-** Version utilisée dans ce guide : ** Offre Groupée du navigateur Tor Browser : 3.6.2
-** Licence : ** Logiciel Libre ; mélange de licences de logiciels gratuits
-** Niveau : ** Intermédiaire
-** Lecture connexe : ** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
-Temps requis :
-15-30 minutes
+**Leçon à lire : [Internet](umbrella://communications/the-internet)**  
+**Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sur Mac.**  
+**Configuration requise :** Une connexion Internet, un ordinateur sous MacOS  
+**Version utilisée dans ce guide :** Offre Groupée du navigateur Tor Browser : 3.6.2  
+**Licence :** Logiciel Libre ; mélange de licences de logiciels gratuits  
+**Niveau :** Intermédiaire  
+**Lecture connexe :** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)  
+**Temps requis :** 15-30 minutes  
 
-** En utilisant Tor Browser, vous obtiendrez :**
+**En utilisant Tor Browser, vous obtiendrez :**
 - L’habilité de contourner la censure d’Internet
 - L’habilité de se connecter anonymement
 
@@ -26,7 +25,7 @@ Le navigateur Tor Browser fournit un moyen rapide et facile d’utiliser le rés
 
 Le moyen le plus simple d’utiliser le réseau Tor consiste à utiliser l’offre groupée du navigateur Tor Browser, qui associe un navigateur Web, le logiciel Tor et d’autres logiciels utiles qui vous permettront d’accéder au Web de manière plus sécurisée.
 
-** Le navigateur Tor Browser fonctionne comme les autres navigateurs Web, à la différence qu’il envoie vos communications via Tor, ce qui rend plus difficile pour les personnes qui vous surveillent de savoir exactement ce que vous faites en ligne, quels sites vous visitez et d’où vous vous connectez. Gardez à l’esprit que seules les activités que vous effectuez à l’intérieur de Tor Browser seront anonymisées. Avoir Tor Browser installé sur votre ordinateur ne rend pas anonyme ce que vous faites sur ce même ordinateur en utilisant un autre logiciel (comme votre navigateur Web classique). **
+**Le navigateur Tor Browser fonctionne comme les autres navigateurs Web, à la différence qu’il envoie vos communications via Tor, ce qui rend plus difficile pour les personnes qui vous surveillent de savoir exactement ce que vous faites en ligne, quels sites vous visitez et d’où vous vous connectez. Gardez à l’esprit que seules les activités que vous effectuez à l’intérieur de Tor Browser seront anonymisées. Avoir Tor Browser installé sur votre ordinateur ne rend pas anonyme ce que vous faites sur ce même ordinateur en utilisant un autre logiciel (comme votre navigateur Web classique).**
 
 # 2.0 Obtenir l’Offre Groupée du Navigateur Tor Browser
 
@@ -54,7 +53,7 @@ Double-cliquez sur le fichier d’installation de Tor Browser. Celui-ci ouvrira 
 Faites glisser le fichier inclus dans votre dossier Applications et vous obtiendrez une application du navigateur Tor Browser dans la langue de votre choix que vous pourrez épingler sur votre Dock.
 ![image](tool_torosx4.png)
 
-** Démarrer le navigateur Tor Browser pour la première fois **
+**Démarrer le navigateur Tor Browser pour la première fois**
 
 Ouvrez le dossier Tor Browser à partir de votre dossier Applications et double-cliquez sur le fichier nommé Tor Browser.
 
