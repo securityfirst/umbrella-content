@@ -6,21 +6,22 @@ title: PGP pour Mac OS
 
 Courriel chiffré pour Mac
 
-**Leçon à lire :**
-- [Courriel](umbrella://lesson/courriel)**  
+**Leçon à lire : [Courriel](umbrella://lesson/courriel)**  
 **Téléchargement :**
  - [GPG Suite](https://gpgtools.org/)   
 - [Mozilla Thunderbird](https://www.mozilla.org/thunderbird/)   
 - [Enigmail](https://www.enigmail.net/home/index.php)  
-**Configuration requise pour l’ordinateur :** Une connexion Internet, un ordinateur exécutant Mac OS, un compte de messagerie
+
+**Configuration requise pour l’ordinateur :** Une connexion Internet, un ordinateur exécutant Mac OS, un compte de messagerie  
 **Version utilisée dans ce guide :**
-- GPG Suite Beta 4  
-- Mozilla Thunderbird 31.2.0  
+- GPG Suite Beta 4   
+- Mozilla Thunderbird 31.2.0   
 - Enigmail 1.7.2  
-**Licence :** Logiciel libre; mélange de licences de logiciels libres
-**Niveau :** Avancé
+
+**Licence :** Logiciel libre; mélange de licences de logiciels libres  
+**Niveau :** Avancé  
 **Autres lectures :** [http://support.gpgtools.org/](http://support.gpgtools.org/)  
-**Temps requis :** 30-60 minutes
+**Temps requis :** 30-60 minutes  
 
 **L’utilisation de PGP vous donnera :**
 - La possibilité de protéger vos courriels de toute lecture de la part d’inconnu, sauf de leurs destinataires.
@@ -36,7 +37,7 @@ Ce guide vous montrera comment utiliser PGP avec un Mac Apple (mais pas un iPad 
 
 Actuellement, vous ne pouvez pas utiliser directement PGP avec un service de messagerie Web tel que Gmail, Hotmail, Yahoo! Mail ou Outlook Live. Vous pouvez toujours utiliser votre adresse de messagerie Web. vous devrez simplement le configurer avec le programme Thunderbird sur votre ordinateur.
 
-**Notez que les deux bouts de la conversation par courriel doivent utiliser un logiciel compatible PGP pour que cela fonctionne. **
+**Notez que les deux bouts de la conversation par courriel doivent utiliser un logiciel compatible PGP pour que cela fonctionne.**
 
 Les gens l’utiliseront normalement uniquement sur leurs propres appareils personnels, pas sur des appareils partagés. Heureusement, PGP est disponible pour la plupart des ordinateurs de bureau et des périphériques mobiles. Vous pouvez leur indiquer ces guides pour les aider à configurer leur propre version. Ce guide est destiné aux utilisateurs de Mac.
 
@@ -63,7 +64,7 @@ Ces outils fonctionnent généralement en coulisse, de sorte que plusieurs progr
 
 GPGServices ajoute éventuellement une fonctionnalité à OS X pour vous permettre d’utiliser PGP directement dans des programmes autres que la messagerie électronique (par exemple, dans un traitement de texte). GPG Preferences permet de modifier les paramètres PGP dans les préférences d’Apple. Enfin, Mac GPG2 est l’outil de base que tout programme doit utiliser pour chiffrer ou signer.
 
-En octobre 2014, l’équipe GPG Tools a annoncé qu’elle facturerait bientôt GPGMail, la partie de son package qui vous permet d’utiliser GPG avec l’application Mail d’Apple. Ce tutoriel concerne l’utilisation de GPG avec Thunderbird, il n’utilise donc pas ce composant. Vous pouvez simplement utiliser la partie gratuite de la GPG Suite, comme indiqué ici, si vous le souhaitez. Cette option présente l’avantage supplémentaire que tous ces outils sont des "logiciels libres", ce qui signifie que vous êtes toujours autorisé à examiner, éditer et redistribuer librement le code source sous-jacent de GPG Mail, de manière à ce qu’ils soient encore plus sûrs. Pour plus d’informations sur leur décision, voir la [FAQ] de GPG Tools (https://gpgtools.org/news.html).
+En octobre 2014, l’équipe GPG Tools a annoncé qu’elle facturerait bientôt GPGMail, la partie de son package qui vous permet d’utiliser GPG avec l’application Mail d’Apple. Ce tutoriel concerne l’utilisation de GPG avec Thunderbird, il n’utilise donc pas ce composant. Vous pouvez simplement utiliser la partie gratuite de la GPG Suite, comme indiqué ici, si vous le souhaitez. Cette option présente l’avantage supplémentaire que tous ces outils sont des "logiciels libres", ce qui signifie que vous êtes toujours autorisé à examiner, éditer et redistribuer librement le code source sous-jacent de GPG Mail, de manière à ce qu’ils soient encore plus sûrs. Pour plus d’informations sur leur décision, voir la [FAQ](https://gpgtools.org/news.html) de GPG Tools .
 
 
 Cliquez sur "Continuer" pour installer GPG Suite.
@@ -120,7 +121,6 @@ Vous voudrez peut-être enregistrer une copie de sauvegarde sur une clé USB, qu
 
 Que faire si votre Mac est volé ou si votre clé de sauvegarde vous est retirée ? Cela signifie-t-il que vos messages PGP sont vulnérables ? Non : si vous avez choisi une bonne phrase secrète et que personne n’a été en mesure d’apprendre ce que c’est, vous devriez quand même être protégé. Pour plus de sécurité, vous souhaiterez peut-être révoquer votre ancienne clé et créer une nouvelle clé PGP. Cela n’empêchera pas votre ancienne clé de déchiffrer votre ancien courrier électronique, mais dissuadera d’autres personnes d’utiliser l’ancienne clé pour vous envoyer de nouveaux courriels.
 
-
 Pour sauvegarder votre clé, ouvrez GPG Keychain Access. Sélectionnez votre clé et cliquez sur "Exporter" dans la barre d’outils. Placez votre clé USB dans l’appareil et choisissez-la dans la partie "Où" à partir de la boîte de dialogue, puis "Enregistrer sous ...". Cochez la case "Autoriser l’exportation de clé secrète".
 
 **OPTION A) Configuration d’Apple Mail**
@@ -134,8 +134,6 @@ Si vous utilisez des services de messagerie gratuits tels que Gmail, Mail devrai
 ![image](tool_pgposx9.png)
 
 **Détection automatique de la configuration du compte de messagerie**
-
-
 
 Lorsque vous rédigez un nouveau message, deux icônes se trouvent juste sous le champ Objet. Il y a un cadenas (courriel chiffré) et une étoile (courriel signé numériquement). Si le cadenas est fermé, cela signifie que cet courriel sera chiffré, et si l’étoile est cochée, cela signifie que cet courriel sera signé numériquement.
 
@@ -161,7 +159,7 @@ Ensuite, vous verrez l’assistant de première exécution. Pour configurer votr
 
 Si vous utilisez des services de messagerie gratuits tels que Gmail, Thunderbird devrait pouvoir détecter automatiquement vos paramètres de messagerie lorsque vous cliquez sur Continuer. Si ce n’est pas le cas, vous devrez peut-être configurer manuellement vos paramètres IMAP et SMTP - demandez à votre fournisseur d’accès à Internet ou à un ami technique connaissant la configuration de la messagerie électronique. Parfois, Thunderbird peut simplement deviner les bons paramètres.
 
-** Si vous utilisez une authentification à deux facteurs avec Google (et en fonction de votre modèle de menace, vous devriez probablement le faire !), Vous ne pouvez pas utiliser votre mot de passe Gmail standard avec Thunderbird. Au lieu de cela, vous devrez créer un nouveau mot de passe spécifique à l’application pour que Thunderbird puisse accéder à votre compte Gmail. Consultez le [guide de Google](https://support.google.com/mail/answer/1173270?hl=fr) pour ce faire. **
+**Si vous utilisez une authentification à deux facteurs avec Google (et en fonction de votre modèle de menace, vous devriez probablement le faire !), Vous ne pouvez pas utiliser votre mot de passe Gmail standard avec Thunderbird. Au lieu de cela, vous devrez créer un nouveau mot de passe spécifique à l’application pour que Thunderbird puisse accéder à votre compte Gmail. Consultez le [guide de Google](https://support.google.com/mail/answer/1173270?hl=fr) pour ce faire.**
 ![image](tool_pgposx13.png)
 
 Après avoir configuré Thunderbird pour vérifier votre courrier électronique, cliquez sur "Terminé". Cliquez ensuite sur "Boîte de réception" en haut à gauche pour charger vos courriels.
