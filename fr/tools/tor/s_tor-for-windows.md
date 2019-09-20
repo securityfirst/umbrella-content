@@ -7,16 +7,15 @@ title: Tor pour Windows
 ## Manuel d’Utilisation de Tor pour Windows
 Anonymat et Contournement en Ligne
 
-** Leçon à lire : [Confidentialité en Ligne](umbrella://communications/online-privacy/advanced) **
-** Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sous Windows. **** Configuration requise pour l’ordinateur: ** Une connexion Internet, un ordinateur sous Windows
-** Version utilisée dans ce guide: ** Windows : Windows 7 Ultimate ; Navigateur Tor Browser : 3.6.2
-** Licence : ** Logiciel Libre ; mélange de licences de Logiciels Gratuits
-** Niveau : ** Intermédiaire
-** Lecture Connexe : ** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
-Temps requis :
-15-30 minutes
+**Leçon à lire : [Confidentialité en Ligne](umbrella://communications/online-privacy/advanced)**
+**Ce guide explique comment utiliser le [Navigateur Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) sous Windows.** **Configuration requise pour l’ordinateur:** Une connexion Internet, un ordinateur sous Windows
+**Version utilisée dans ce guide:** Windows : Windows 7 Ultimate ; Navigateur Tor Browser : 3.6.2
+**Licence :** Logiciel Libre ; mélange de licences de Logiciels Gratuits
+**Niveau :** Intermédiaire
+**Lecture Connexe :** [https://tor.stackexchange.com/](https://tor.stackexchange.com/)
+**Temps requis :** 15-30 minutes
 
-** En utilisant Tor Browser, vous obtiendrez :**
+**En utilisant Tor Browser, vous obtiendrez :**
 - L’habilité de contourner la censure d’Internet
 - L’habilité de se connecter anonymement
 
@@ -28,7 +27,7 @@ Le navigateur Tor Browser fournit un moyen rapide et facile d’utiliser le rés
 
 Le moyen le plus simple d’utiliser le réseau Tor consiste à utiliser l’offre groupée du navigateur Tor Browser, qui associe un navigateur Web, le logiciel Tor et d’autres logiciels utiles qui vous permettront d’accéder au Web de manière plus sécurisée.
 
-** Le navigateur Tor Browser fonctionne comme les autres navigateurs Web, à la différence qu’il envoie vos communications via Tor, ce qui rend plus difficile pour les personnes qui vous surveillent de savoir exactement ce que vous faites en ligne, quels sites vous visitez et d’où vous vous connectez. Gardez à l’esprit que seules les activités que vous effectuez à l’intérieur de Tor Browser seront anonymisées. Avoir Tor Browser installé sur votre ordinateur ne rend pas anonyme ce que vous faites sur ce même ordinateur en utilisant un autre logiciel (comme votre navigateur Web classique). **
+**Le navigateur Tor Browser fonctionne comme les autres navigateurs Web, à la différence qu’il envoie vos communications via Tor, ce qui rend plus difficile pour les personnes qui vous surveillent de savoir exactement ce que vous faites en ligne, quels sites vous visitez et d’où vous vous connectez. Gardez à l’esprit que seules les activités que vous effectuez à l’intérieur de Tor Browser seront anonymisées. Avoir Tor Browser installé sur votre ordinateur ne rend pas anonyme ce que vous faites sur ce même ordinateur en utilisant un autre logiciel (comme votre navigateur Web classique).**
 
 ### 2.0 Obtenir l’Offre Groupée du Navigateur Tor Browser
 
@@ -68,7 +67,7 @@ L’Offre Groupée du navigateur Tor Browser ne sera pas installée avec d’aut
 
 ### 3.0 Utilisation du navigateur Tor Browser
 
-** Démarrer le navigateur Tor Browser pour la première fois **
+**Démarrer le navigateur Tor Browser pour la première fois**
 
 Vous avez choisi de ne pas démarrer le navigateur Tor Browser lorsque vous avez terminé avec le programme d’installation. Allez-y, lancez-le pour la première fois. Si vous avez suivi tous les paramètres par défaut de l’installation, vous verrez un dossier sur votre bureau appelé Navigateur Tor Browser.
 ![image](tool_torwin11.jpeg)
