@@ -6,13 +6,13 @@ title: Psiphon
 
 Contournement de la Censure
 
-**Leçon à lire : [Internet](umbrella://communications/the-internet)**  
-**Téléchargement :** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App Store](https://itunes.apple.com/fr/app/psiphon/id1276263909?ls=1&mt=8) ou [Psiphon](https://psiphon.ca/fr/download.html). 
+**Leçon à lire : [Internet](umbrella://communications/the-internet)**   
+**Téléchargement :** [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Apple App Store](https://itunes.apple.com/fr/app/psiphon/id1276263909?ls=1&mt=8) ou [Psiphon](https://psiphon.ca/fr/download.html).  
 **Configuration requise :** Une connexion Internet, et un appareil opérant Windows, Android 2.3 ou version récente, ou iOS 10.2 ou version récente (iOS 8 pour le navigateur Psiphon)    
 **Licence :** Logiciel à code source ouvert gratuit ; GNU GPL Version 3  
 **Niveau :** Débutant  
-**Autres lectures :** [https://psiphon.ca/fr/user-guide.html](https://psiphon.ca/fr/user-guide.html) 
-**Temps requis :** 5 minutes
+**Autres lectures :** [https://psiphon.ca/fr/user-guide.html](https://psiphon.ca/fr/user-guide.html)  
+**Temps requis :** 5 minutes  
 
 **L’utilisation de Psiphon vous donnera :**
 - La capacité de contourner en toute sécurité la censure d’Internet pour accéder à des sites Web bloqués et à des applications à l’aide d’un VPN (réseau privé virtuel).
@@ -36,7 +36,7 @@ Contournement de la Censure
 
 Téléchargez Psiphon Pro à partir de la boutique [Google Play](https://play.google.com/store/apps/details?id=com.psiphon3.subscription). 
 
-Si vous n’avez pas accéder à la boutique Google Play, sélectionnez Psiphon Pro pour Android sur la [page de téléchargement] officielle de Psiphon (https://psiphon.ca/fr/download.html?10Years). (Vérifiez que le fichier téléchargé est authentique [ici](https://psiphon.ca/fr/faq.html#authentic-android).) Vous aurez peut-être besoin d’[activer l’installation alternative](https://psiphon.ca/fr/faq.html#android-enable-sideloading).)
+Si vous n’avez pas accéder à la boutique Google Play, sélectionnez Psiphon Pro pour Android sur la [page de téléchargement](https://psiphon.ca/fr/download.html?10Years) officielle de Psiphon . (Vérifiez que le fichier téléchargé est authentique [ici](https://psiphon.ca/fr/faq.html#authentic-android).) Vous aurez peut-être besoin d’[activer l’installation alternative](https://psiphon.ca/fr/faq.html#android-enable-sideloading).)
 
 Ouvrez l’application et cliquez sur *commencer* pour vous connecter au réseau Psiphon.
 
@@ -72,4 +72,4 @@ Le bouton devient rouge lors de la connexion et vert lorsqu’il est connecté.
 
 Une icône "VPN" dans le coin supérieur gauche de votre appareil indique que Psiphon est en cours d’exécution, ce qui signifie que d’autres applications accéderont à Internet via Psiphon.
 
-Pour utiliser le navigateur dédié Psiphon pour iOS, un [téléchargement] distinct (https://itunes.apple.com/fr/app/psiphon-browser/id1193362444?mt=8) est nécessaire, mais il fonctionne sous iOS 8 ou une version ultérieure. L’application principale Psiphon nécessite iOS 10.2 ou une version ultérieure. Si vous utilisez le navigateur, seule l’activité en ligne effectuée dans le navigateur utilisera Psiphon. D’autres applications se connecteront en utilisant votre connexion Internet habituelle.
+Pour utiliser le navigateur dédié Psiphon pour iOS, un [téléchargement](https://itunes.apple.com/fr/app/psiphon-browser/id1193362444?mt=8) distinct  est nécessaire, mais il fonctionne sous iOS 8 ou une version ultérieure. L’application principale Psiphon nécessite iOS 10.2 ou une version ultérieure. Si vous utilisez le navigateur, seule l’activité en ligne effectuée dans le navigateur utilisera Psiphon. D’autres applications se connecteront en utilisant votre connexion Internet habituelle.
