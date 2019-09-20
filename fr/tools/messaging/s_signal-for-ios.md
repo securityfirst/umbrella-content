@@ -7,31 +7,30 @@ Signal pour iOS
 
 Messages Sécurisés
 
-** Leçon à lire : [Envoi d’un message](umbrella://communications/sending-a-message) **
-** Niveau : Débutant-Intermédiaire **
-** Temps requis : 15-20 minutes **
-** Publié : Avril 2018 (certaines images datent de versions antérieures) **
-** Sources : FFÉ, Autodéfense contre la surveillance [Guide pratique : utiliser Signal pour iOS](https://ssd.eff.org/fr/module/guide-pratique-utiliser-signal-pour-ios) ; Security in a Box [SIGNAL POUR ANDROID](https://securityinabox.org/fr/guide/signal/android/). **
+**Leçon à lire : [Envoi d’un message](umbrella://communications/sending-a-message)**  
+**Niveau : Débutant-Intermédiaire**  
+**Temps requis : 15-20 minutes**  
+**Publié : Avril 2018 (certaines images datent de versions antérieures)**  
+**Sources : FFÉ, Autodéfense contre la surveillance [Guide pratique : utiliser Signal pour iOS](https://ssd.eff.org/fr/module/guide-pratique-utiliser-signal-pour-ios) ; Security in a Box [SIGNAL POUR ANDROID](https://securityinabox.org/fr/guide/signal/android/).**  
 
-** En utilisant Signal, cela vous donnera : **
+**En utilisant Signal, cela vous donnera :**
 
 - La possibilité d’envoyer des messages de groupe, texte, image et vidéo chiffrés de bout en bout et d’avoir des conversations téléphoniques chiffrées avec d’autres utilisateurs de Signal.
 
-** Emplacement de téléchargement ** : [Application Apple Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+**Emplacement de téléchargement** : [Application Apple Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 
-** Configuration requise ** : iOS 8.0 ou version ultérieure. Compatible avec iPhone, iPad et iPod touch.
+**Configuration requise** : iOS 8.0 ou version ultérieure. Compatible avec iPhone, iPad et iPod touch.
 (vous devez avoir un compte Apple qui sera lié à l’installation de l’application).
 
-** Version utilisée dans ce guide ** : Signal iOS 2.8.1
+**Version utilisée dans ce guide** : Signal iOS 2.8.1
 
-** Licence : ** GPLv3
+**Licence :** GPLv3
 
-** Lectures complémentaires ** :
+**Lectures complémentaires** :
 
 *   [http://support.whispersystems.org/](http://support.whispersystems.org/)
 *   [https://signal.org/blog/standalone-signal-desktop/](https://signal.org/blog/standalone-signal-desktop/)
 *   [https://whispersystems.org/blog/signal-video-calls/](https://whispersystems.org/blog/signal-video-calls/)
-
 
 introduction
 -----------------
@@ -44,9 +43,6 @@ Sous Android, Signal peut remplacer votre application de messagerie texte par d�
 Note :
 * Signal empêche les autres d’accéder au contenu de vos messages et appels vocaux, mais ne cache pas le fait que vous envoyez des messages ou que vous passez des appels vocaux chiffrés. Dans certains pays, des outils de chiffrement tels que Signal peuvent attirer l’attention ou enfreindre les contraintes légales.
 * Open Whisper Systems, les fabricants de Signal, utilise l’infrastructure d’autres sociétés (Apple sur iOS) pour envoyer des alertes à ses utilisateurs lorsqu’ils reçoivent un nouveau message. Cela signifie que certaines métadonnées, ou des informations sur les destinataires et la date de réception des messages, peuvent être transmises à ces sociétés.
-
-
-
 
 Installation de Signal – Private Messenger sur votre iPhone
 ----------------------------------------------------------------------
@@ -77,16 +73,12 @@ Signal demandera alors l’autorisation de vous envoyer des notifications. Appuy
 
 ![](/tool_signalios_resized004.png)
 
- 
-
 Utilisation de Signal
 ------------------------------
 
 Pour pouvoir utiliser Signal, la personne que vous appelez doit avoir Signal d’installer. Si vous essayez d’appeler ou d’envoyer un message à une personne utilisant l’application Signal sans que l’une des applications susmentionnées soit installée, l’application vous demandera si vous souhaitez l’inviter par SMS, mais ne vous permettra pas de passer votre appel ou d’envoyer un message depuis l’application.
 
 Signal vous fournit une liste des autres utilisateurs de Signal dans vos contacts. Pour ce faire, les données représentant les numéros de téléphone de votre liste de contacts sont téléchargées sur les serveurs de Signal, bien que ces données soient supprimées presque immédiatement.
-
- 
 
 Comment Envoyer un Message Chiffré
 --------------------------------------------------
