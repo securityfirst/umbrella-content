@@ -9,7 +9,7 @@ title: ObscuraCam
 **Leçon à lire :**
 - [Téléphones Mobiles](umbrella://communications/mobile-phones)   
 - [Réseau Social](umbrella://communications/social-media)   
-**Téléchargement : ** [Page d’accueil de ObscuraCam](https://guardianproject.info/apps/obscuracam/)  
+**Téléchargement :** [Page d’accueil de ObscuraCam](https://guardianproject.info/apps/obscuracam/)  
 **Version requise :** Android 2.3.3 et ultérieure  
 **Version utilisée dans ce guide :** 2.0-RC2b  
 **Licence :** Logiciel Gratuit et Open Source (GPL v3)  
