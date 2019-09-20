@@ -6,7 +6,7 @@ title: PGP pour Windows
 
 Courriel chiffré pour Windows
 
-**Leçon à lire :** [Courriel](umbrella://lesson/courriel)**  
+**Leçon à lire : [Courriel](umbrella://lesson/courriel)**  
 **Téléchargement :**
 - GPG4Win   
 - Mozilla Thunderbird  
