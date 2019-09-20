@@ -6,20 +6,21 @@ title: PGP pour Windows
 
 Courriel chiffré pour Windows
 
-**Leçon à lire :**
-- **[Courriel](umbrella://lesson/courriel)**  
+**Leçon à lire :** [Courriel](umbrella://lesson/courriel)**  
 **Téléchargement :**
-- GPG4Win
-- Mozilla Thunderbird
-- Enigmail
-** Configuration requise pour l’ordinateur: ** Une connexion Internet, un ordinateur exécutant Windows, un compte de messagerie
+- GPG4Win   
+- Mozilla Thunderbird  
+- Enigmail  
+
+**Configuration requise pour l’ordinateur:** Une connexion Internet, un ordinateur exécutant Windows, un compte de messagerie  
 **Version utilisée dans ce guide :**
-- Windows : Windows 7 Ultimate
-- Mozilla Thunderbird 24.6.0
-- Enigmail 1.7
-- GPG4Win 2.2.1
-**Licence :** Logiciel libre ; mélange de licences de logiciels libres
-**Niveau :** Avancé
+- Windows : Windows 7 Ultimate  
+- Mozilla Thunderbird 24.6.0  
+- Enigmail 1.7  
+- GPG4Win 2.2.1  
+
+**Licence :** Logiciel libre ; mélange de licences de logiciels libres  
+**Niveau :** Avancé  
 **Temps requis :** 30-60 minutes
 
 **L’utilisation de PGP vous donnera :**
