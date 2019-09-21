@@ -20,6 +20,6 @@ Censura principiante describe la elusión.
 
 [Censura Experto](umbrella://communications/censorship/expert) describe cómo probar y recopilar evidencia de censura.
 
-Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital] de Access Now (https://www.accessnow.org/help/#contact-us).
+Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital](https://www.accessnow.org/help/#contact-us) de Access Now.
 
 (Obtenga más información sobre esto en [Asistencia de Emergencia](umbrella://emergency-support).)
