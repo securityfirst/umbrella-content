@@ -23,6 +23,6 @@ Si se cierra la totalidad de Internet, Internet móvil o aplicaciones móviles e
 
 ## Reportar la censura
 
-Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital] de Access Now (https://www.accessnow.org/help/#contact-us).
+Si es un activista, periodista independiente o actor de la sociedad civil que experimenta censura en su sitio web o en las redes sociales, comuníquese con la [Línea de Ayuda de Seguridad Digital](https://www.accessnow.org/help/#contact-us) de Access Now.
 
 (Obtenga más información sobre esto en [Soporte de Emergencia](umbrella://emergency-support).)
