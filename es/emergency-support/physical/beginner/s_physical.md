@@ -41,7 +41,7 @@ Londres, Tel: (+44) 203 219 7860
 
 **Dónde:** Global  
 **Tipo de amenaza:** Enfermedad, brote, protección médica de la salud  
-**Idioma: ** Inglés  
+**Idioma:** Inglés  
 **¿Aceptan Apelaciones Urgentes?** No  
 
 **Descripción:** La agencia del gobierno de los EE. UU. es una fuente pública de información sobre enfermedades comunes, trastornos y tratamientos. El sitio web de CDC proporciona información sobre enfermedades, vida saludable, seguridad y atención de emergencia, y preparación y respuesta ante desastres.
@@ -135,7 +135,7 @@ Washington, DC, Tel: (+1) 202 347-7488
 
 **Descripción:** Human Rights First, con sede en los Estados Unidos, protege a las personas en riesgo, incluidas las víctimas de violaciones de derechos humanos y discriminación. Su programa de Defensores de los Derechos Humanos apoya a los defensores de los derechos humanos que buscan apoyo en los EE. UU., lo que incluye conectarlos con funcionarios de los EE. UU. capaces de influir en la política exterior.
 
-**Sitio web:** [humanrightsfirst.org](https://www.humanrightsfirst.org/resource/resources-human-rights-defenders)  
+**Sitio web:** [humanrightsfirst.org](https://www.humanrightsfirst.org/resource/resources-human-rights-defenders)   
 Nueva York, Tel: (+1) 212 845-5200
 
 ## Human Rights Watch
@@ -147,7 +147,7 @@ Nueva York, Tel: (+1) 212 845-5200
 
 **Descripción:** Human Rights Watch apoya a las víctimas y los activistas para prevenir la discriminación, defender la libertad política, proteger a las personas de conductas inhumanas en tiempos de guerra y llevar a los delincuentes ante la justicia al exponer las violaciones de los derechos humanos y responsabilizar a los abusadores. La principal estrategia de defensa de HRW es avergonzar a los infractores mediante la atención de la prensa, ejercer presión diplomática y económica y formar coaliciones en torno a temas específicos de derechos humanos.
 
-**Sitio web: ** [www.hrw.org](www.hrw.org)  
+**Sitio web:** [www.hrw.org](www.hrw.org)  
 Nueva York, Tel: (+1) 212-290-4700  
 **Correo electrónico:** hrwnyc@hrw.org  
 
@@ -278,7 +278,7 @@ Además de las organizaciones del sector ciudadano, las instituciones interguber
 
 **Descripción:** El Representante Especial de la ONU de los Defensores de Derechos Humanos apoya y recopila información en nombre de los defensores de los derechos humanos en todo el mundo. El Representante Especial opera con total independencia de cualquier estado, no es un miembro del personal de la ONU y no recibe un salario.
 
-**Sitio web:** [http://www2.ohchr.org/english/issues/defenders/](www2.ohchr.org/english/issues/defenders/)  
+**Sitio web:** [www2.ohchr.org/english/issues/defenders/](http://www2.ohchr.org/english/issues/defenders/)  
 Ginebra, Tel: (+41) 22 917 1234  
 **Enviar una queja por correo electrónico:** urgent-action@ohchr.org
 
