@@ -30,6 +30,7 @@ Un experto puede recomendar:
 ## Contexto social y cultural.
 
 *   Algunas culturas son más resistentes que otras cuando se trata de reconocer el TEPT. Si hay poca conciencia del tema:
+
     * Encuentra aliados de apoyo;
     * Consulte recursos en línea;
     * Pregunte lo que necesite.
