@@ -12,7 +12,7 @@ Pueden rastrear su ubicación, sus intereses, sus hábitos de navegación web y 
 
 *El 4 de abril de 2018, Facebook [dijo](https://newsroom.fb.com/news/2018/04/restricting-data-access/) Es posible que la información de Facebook de hasta 87 millones de personas se haya compartido de manera inadecuada con Cambridge. Analytica, una empresa del Reino Unido que promete a las empresas y los políticos que puede utilizar los datos para cambiar el comportamiento de la audiencia.*
 
-*La información fue recopilada por una aplicación de terceros llamada This is Your Digital Life, e [incluía](https://www.theguardian.com/uk-news/2018/apr/13/revealed-aleksandr-kogan-collected- facebook-users-direct-messages), al menos algunos mensajes directos y privados intercambiados entre los usuarios de Facebook que instalaron la aplicación y que, sin pensarlo, le dieron permiso para acceder a su buzón.*
+*La información fue recopilada por una aplicación de terceros llamada This is Your Digital Life, e [incluía](https://www.theguardian.com/uk-news/2018/apr/13/revealed-aleksandr-kogan-collected-facebook-users-direct-messages), al menos algunos mensajes directos y privados intercambiados entre los usuarios de Facebook que instalaron la aplicación y que, sin pensarlo, le dieron permiso para acceder a su buzón.*
 
 ## Lea la letra pequeña
 
