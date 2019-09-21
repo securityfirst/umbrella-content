@@ -41,6 +41,6 @@ La hiperactividad a menudo conduce a irritabilidad, arrebatos de enojo, problema
 *   Depresión, ansiedad y fobias;
 *   Abuso de sustancias;
 *   Dolores de cabeza, mareos, dolores en el pecho y dolores de estómago;
-*     Otros efectos físicos, de comportamiento, relacionados con el trabajo o emocionales.
+*   Otros efectos físicos, de comportamiento, relacionados con el trabajo o emocionales.
 
 (Obtenga más información sobre esto en [estrés avanzado](umbrella://stress/stress/advanced)) y [estrés principiante](umbrella://stress/stress/beginner).)
