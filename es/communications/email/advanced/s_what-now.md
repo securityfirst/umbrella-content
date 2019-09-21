@@ -15,4 +15,4 @@ Aprenda a mejorar la seguridad básica del correo electrónico en [Principiante 
 
 ### OTRAS LECTURAS
 
-*   EFF, Surveillance Self-Defense, [Una inmersión profunda en el cifrado de extremo a extremo: ¿Cómo funcionan los sistemas de cifrado de clave pública?](Https://ssd.eff.org/en/module/introduction-public-key-cryptography -y-pgp
+*   EFF, Surveillance Self-Defense, [Una inmersión profunda en el cifrado de extremo a extremo: ¿Cómo funcionan los sistemas de cifrado de clave pública?](Https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
