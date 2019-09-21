@@ -21,8 +21,8 @@ Si puede correr el riesgo de un ataque, o si se comunica con otras personas que 
 
 Si alguien que usted conoce es víctima de un ataque de phishing, el atacante puede usar su cuenta para comunicarse con usted por correo electrónico, redes sociales o chat.
 
-        * ¿Sus amigos suenan como ellos mismos?
-        * ¿Cometen errores inesperados?
+* ¿Sus amigos suenan como ellos mismos?
+* ¿Cometen errores inesperados?
 
 *Si una cuenta de confianza está comprometida, su instinto puede ser lo único que le impida hacer clic en un enlace defectuoso.*
 
