@@ -12,7 +12,7 @@ WhatsApp ofrece mensajería gratuita a individuos y grupos en una variedad de di
 
 *   Los mensajes de WhatsApp se cifran de extremo a extremo siempre que todas las partes utilicen la versión más reciente; WhatsApp no puede ver o verse obligado a revelar el contenido.
 
-(Lea la [política de seguridad] de WhatsApp (https://www.whatsapp.com/security/).)
+(Lea la [política de seguridad](https://www.whatsapp.com/security/) de WhatsApp.)
 
 ## Consideraciones de Seguridad
 
@@ -39,4 +39,4 @@ WhatsApp enviará por correo electrónico un enlace para deshabilitar 2FA a los 
 *   Si omite este paso y luego olvida su PIN, WhatsApp no le permitirá volver a verificar durante siete días. Perderá todos los mensajes pendientes cuando vuelva a verificar.
 *   Si vuelve a verificar después de 30 días, su cuenta anterior será eliminada y reemplazada por una nueva.
 
-(Lea la política de [verificación en dos pasos] de WhatsApp (https://faq.whatsapp.com/en/general/26000021/?category=5245245).)
+(Lea la política de [verificación en dos pasos](https://faq.whatsapp.com/en/general/26000021/?category=5245245) de WhatsApp.)
