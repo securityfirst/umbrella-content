@@ -1,0 +1,15 @@
+index: 5
+title: Crise Physique
+list:
+- check: "Approcher une [frontière] (umbrella://travel/borders/beginner)"
+- check: "Approcher d’un [poste de contrôle] (umbrella://travel/checkpoints/beginner/s_on-approach.md)"
+- check: "[accidents] automobiles (umbrella://travel/vehicles/beginner/s_accidents.md)"
+- check: "Si vous êtes [kidnappé] (umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md),
+[arrêté] (umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md), ou [agressé sexuellement] (umbrella://incident-response/sexual-assault/advanced)"
+- check: "Si un membre de l’équipe est [kidnappé] (umbrella://incident-response/kidnapping/expert),
+[arrêté] (umbrella://incident-response/arrests/advanced), ou [agressé sexuellement] (umbrella://incident-response/sexual-assault/expert)"
+- check: "Être [suivi] (umbrella://work/being-followed)"
+- check: "Quand [évacuer] (umbrella://incident-response/evacuation/advanced)"
+- check: "[SSPT] (umbrella://stress/stress/expert)"
+- check: "[Assistance d’Urgence] (umbrella://emergency-support/physical/beginner)"
+- check: "Signaler ou enregistrer des [incidents de sécurité physique] (umbrella://forms/f_physical-security-incident.yml)"
