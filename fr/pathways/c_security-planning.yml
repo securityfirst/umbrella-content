@@ -5,9 +5,9 @@ list:
 - check: Identifier les [menaces pour l’information] (umbrella://information/managing-information/beginner) et comment la protéger
 - check: Créer un plan pour [protéger votre espace de travail] (umbrella://information/protect-your-workspace/beginner)
 - check: Faites un plan de [sécurité pour voyage] (umbrella://travel/preparation/beginner)
--check: Évaluez votre risque avant de traverser [les frontières] (umbrella://travel/borders/beginner)
+- check: Évaluez votre risque avant de traverser [les frontières] (umbrella://travel/borders/beginner)
 - check: Préparez un [véhicule] sécurisé (umbrella://travel/vehicles/beginner) lors de vos voyages
 - check: Réduisez le risque de [kidnapping] (umbrella://incident-response/kidnapping/beginner),
 [arrestation] (umbrella://incident-response/arrests/beginner), et [agression sexuelle] (umbrella://incident-response/sexual-assault/beginner)
 - check: Préparez-vous à [couvrir] (umbrella://work/protests/beginner) ou [participer] (umbrella://work/protests/advanced) à des protestations
--check: Créez un plan d’[évacuation] (umbrella://incident-response/evacuation/beginner)
+- check: Créez un plan d’[évacuation] (umbrella://incident-response/evacuation/beginner)
