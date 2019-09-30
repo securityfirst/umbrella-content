@@ -1,8 +1,6 @@
 ---
 index: 4
-title: Debe llevar consigo una tarjeta de emergencia médica. Compruebe con antelación
-  cuál es el mejor hospital de la zona que va a visitar y también tenga un plan médico
-  B.
+title: Debe llevar consigo una tarjeta de emergencia médica. Compruebe con antelación cuál es el mejor hospital de la zona que va a visitar y también tenga un plan médico B.
 ---
 ## Instalar una VPN
 
