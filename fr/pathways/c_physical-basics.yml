@@ -6,7 +6,7 @@ list:
 - check: "Les avantages et les inconvénients de la communication par [radio et téléphone satellite] (umbrella://communications/radios-and-satellite-phones)"
 - check: "Précautions [Médicales] (umbrella://travel/preparation/beginner/s_medical.md) pour un voyage"
 - check: "Simples [précautions] (umbrella://travel/borders/beginner) au sein d’environnements hostiles"
-- check; "Toujours [porter une ceinture de sécurité] (umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+- check: "Toujours [porter une ceinture de sécurité] (umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
 - check: "Préparez une [histoire de couverture] (umbrella://travel/checkpoints/beginner)"
 - check: "Établissez des [codes] (umbrella://communications/mobile-phones/beginner/s_information-sent.md), [mots forcés] (umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md) et [preuve de vie] (umbrella://forms/f_proof-life-form.yml) for your team\n"
 - check: "Gestion des [relations] (umbrella://work/public-communications) avec les autorités, les médias et le public"
