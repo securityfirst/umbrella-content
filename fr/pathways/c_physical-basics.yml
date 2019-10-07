@@ -10,5 +10,5 @@ list:
 - check: "Préparez une [histoire de couverture](umbrella://travel/checkpoints/beginner)"
 - check: "Établissez des [codes](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [mots forcés](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md) et [preuve de vie](umbrella://forms/f_proof-life-form.yml) for your team\n"
 - check: "Gestion des [relations](umbrella://work/public-communications) avec les autorités, les médias et le public"
-- check: "Faire sa valise pour le [voyage](umbrella://travel/preparation/beginner), [véhicule](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [sécurité de la maison](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), ou [sac à main]d’urgence (umbrella://travel/protective-equipment/beginner) \n"
+- check: "Faire sa valise pour le [voyage](umbrella://travel/preparation/beginner), [véhicule](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [sécurité de la maison](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), ou [sac à main](umbrella://travel/protective-equipment/beginner) d’urgence \n"
 - check: "[Équipement](umbrella://travel/protective-equipment/advanced) pour des conditions extrêmes ou de combat"
