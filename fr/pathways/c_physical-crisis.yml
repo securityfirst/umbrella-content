@@ -3,7 +3,7 @@ title: Crise Physique
 list:
 - check: "Approcher une [frontière](umbrella://travel/borders/beginner)"
 - check: "Approcher d’un [poste de contrôle](umbrella://travel/checkpoints/beginner/s_on-approach.md)"
-- check: "[accidents]automobiles (umbrella://travel/vehicles/beginner/s_accidents.md)"
+- check: "[accidents](umbrella://travel/vehicles/beginner/s_accidents.md) automobiles"
 - check: "Si vous êtes [kidnappé](umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md),
 [arrêté](umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md), ou [agressé sexuellement](umbrella://incident-response/sexual-assault/advanced)"
 - check: "Si un membre de l’équipe est [kidnappé](umbrella://incident-response/kidnapping/expert),
