@@ -3,9 +3,9 @@ title: Crise Numérique
 list:
 - check: "Vous avez trouvé un [programme malveillant](umbrella://information/malware) sur votre ordinateur"
 - check: "Votre courriel a été [piraté](umbrella://communications/courriel)"
-- check: "[Censure]d’Internet (umbrella://communications/censorship)"
+- check: "[Censure](umbrella://communications/censorship) d’Internet"
 - check: "Traitez un [discours de haine](umbrella://communications/online-abuse/advanced/s_hate-speech.md) sur les réseaux sociaux"
 - check: "Répondre au chantage, au doxxing, au vol d’identité ou à d’autres [harcèlements en ligne](umbrella://communications/online-abuse)"
 - check: "Réception d’un message de [phishing](umbrella://communications/phishing/beginner)"
 - check: "[Assistance d’Urgence](umbrella://emergency-support/digital)"
-- check: "Signaler ou enregistrer des [incidents de sécurité numérique]umbrella://forms/f_digital-security-incident.yml)"
+- check: "Signaler ou enregistrer des [incidents de sécurité numérique](umbrella://forms/f_digital-security-incident.yml)"
