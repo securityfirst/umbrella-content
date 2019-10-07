@@ -1,23 +1,23 @@
 index: 2
 title: Bases Numériques
 list:
-- check: "Sécurisez votre [iPhone] (umbrella://tools/encryption/s_encrypt-your-iphone.md)
-ou [Android] (umbrella://tools/other/s_android.md)"
-- check: "En savoir plus sur [HTTPS] (umbrella://communications/courriel/beginner) et comment l’utiliser partout"
-- check: "Utilisez des [mots de passe forts] (umbrella://information/passwords/beginner),
-[KeePassXC] (umbrella://tools/encryption/s_keepassxc.md) et [2FA] (umbrella://information/passwords/advanced)"
-- check: "Utilisez Signal pour l’envoi de [message] (umbrella://communications/sending-a-message/beginner) et [appels] (umbrella://communications/making-a-call/beginner)
-([Android] (umbrella://tools/messaging/s_signal-for-android.md) et [iOS] (umbrella://tools/messaging/s_signal-for-ios.md))"
-- check: "[Supprimer] (umbrella://information/safely-deleting/beginner), [sauvegarder] (umbrella://information/backing-up/advanced),
-[restaurer] (umbrella://information/backing-up/advanced/s_accidental-file-deletion.md) ou [chiffrer] (umbrella://information/protecting-files/beginner) des fichiers"
+- check: "Sécurisez votre [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
+ou [Android](umbrella://tools/other/s_android.md)"
+- check: "En savoir plus sur [HTTPS](umbrella://communications/courriel/beginner) et comment l’utiliser partout"
+- check: "Utilisez des [mots de passe forts](umbrella://information/passwords/beginner),
+[KeePassXC](umbrella://tools/encryption/s_keepassxc.md) et [2FA](umbrella://information/passwords/advanced)"
+- check: "Utilisez Signal pour l’envoi de [message](umbrella://communications/sending-a-message/beginner) et [appels](umbrella://communications/making-a-call/beginner)
+([Android](umbrella://tools/messaging/s_signal-for-android.md) et [iOS](umbrella://tools/messaging/s_signal-for-ios.md))"
+- check: "[Supprimer](umbrella://information/safely-deleting/beginner), [sauvegarder](umbrella://information/backing-up/advanced),
+[restaurer](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md) ou [chiffrer](umbrella://information/protecting-files/beginner) des fichiers"
 - check: "Choisissez un logiciel à [code source ouvert] (umbrella://information/malware/beginner) et
-des [paramètres sécurisés] (umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)"
-- check: "Défendez-vous contre les [programmes malveillants] (umbrella://information/malware/advanced), le [phishing] (umbrella://communications/phishing/beginner),
-et l’[ingénierie sociale] (umbrella://communications/phishing/beginner/s_social-engineering.md)"
-- check: "Faites un choix éclairé concernant le chiffrement des [courriels] (umbrella://communications/courriel/advanced)"
-- check: "Confidentialité sur les [réseaux sociaux, blogs et cloud] (umbrella://communications/online-privacy/beginner)"
-- check: "Protégez vos [métadonnées] (umbrella://communications/online-privacy/advanced/s_anonymity-online.md)
-avec des outils tels que [ObscuraCam] (umbrella://tools/messaging/s_obscuracam.md)"
-- check: "Utilisez un [VPN] (umbrella://communications/censorship/beginner/s_virtual-private-networks.md) pour dissimuler votre localisation ou
-[Tor] (umbrella://communications/online-privacy/advanced/s_tor.md) pour protéger votre anonymat ([Windows] (umbrella://tools/tor/s_tor-for-windows.md),
-[Mac] (umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux] (umbrella://tools/tor/s_tor-for-linux.md))"
+des [paramètres sécurisés](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)"
+- check: "Défendez-vous contre les [programmes malveillants](umbrella://information/malware/advanced), le [phishing](umbrella://communications/phishing/beginner),
+et l’[ingénierie sociale](umbrella://communications/phishing/beginner/s_social-engineering.md)"
+- check: "Faites un choix éclairé concernant le chiffrement des [courriels](umbrella://communications/courriel/advanced)"
+- check: "Confidentialité sur les [réseaux sociaux, blogs et cloud](umbrella://communications/online-privacy/beginner)"
+- check: "Protégez vos [métadonnées](umbrella://communications/online-privacy/advanced/s_anonymity-online.md)
+avec des outils tels que [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)"
+- check: "Utilisez un [VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md) pour dissimuler votre localisation ou
+[Tor](umbrella://communications/online-privacy/advanced/s_tor.md) pour protéger votre anonymat ([Windows](umbrella://tools/tor/s_tor-for-windows.md),
+[Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))"
