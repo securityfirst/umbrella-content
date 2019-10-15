@@ -6,7 +6,7 @@ Pase a la derecha para la lista de verificación de esta lección.
 
 Aprenda a desarrollar relaciones con diferentes partes interesadas en [principiante en comunicaciones públicas](umbrella://work/public-communications/beginner).
 
-#### ** LECCIONES RELACIONADAS **
+#### **LECCIONES RELACIONADAS**
 
 * [Phishing](umbrella://communications/phishing/beginner)
 * [Contraseñas](umbrella://information/passwords)
