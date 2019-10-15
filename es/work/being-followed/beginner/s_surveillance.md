@@ -48,6 +48,6 @@ Esta lección trata sobre la vigilancia humana.
 
 Siendo Seguido principiante involucra ubicaciones fijas, como su oficina.
 
-[Siendo Seguido avanzado]](umbrella://work/being-followed/advanced) implica vigilancia a pie.
+[Siendo Seguido avanzado](umbrella://work/being-followed/advanced) implica vigilancia a pie.
 
 [Siendo Seguido experto](umbrella://work/being-followed/expert) implica la vigilancia en un vehículo.
