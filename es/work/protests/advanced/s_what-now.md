@@ -21,7 +21,7 @@ Obtenga información sobre cómo presenciar protestas en [protestas principiante
 
 ### FUENTES
 
-*   EFF - Asistir a las protestas [Estados Unidos](https://ssd.eff.org/en/module/attending-protests-united-states) e [Internacional](https://ssd.eff.org/en/module/ asistentes-protestas-internacional)
+*   EFF - Asistir a las protestas [Estados Unidos](https://ssd.eff.org/en/module/attending-protests-united-states) e [Internacional](https://ssd.eff.org/en/module/asistentes-protestas-internacional)
 *   EFF - [Consejos de seguridad digital para manifestantes](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
 ### OTRAS LECTURAS
