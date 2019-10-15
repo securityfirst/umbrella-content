@@ -24,7 +24,7 @@ Estos pueden ser necesarios si las redes de telecomunicaciones no son confiables
 
 *Nota: las antenas de radio son conspicuas. Use teléfonos móviles con un teléfono satelital como respaldo si viaja de perfil bajo.*
 
-(Obtenga información sobre [radio](umbrella://communications/radios-and-satellite-phones/beginner) ) y [teléfonos satelitales](umbrella://communications/radios-and-satellite-phones/advanced).)
+(Obtenga información sobre [radio](umbrella://communications/radios-and-satellite-phones/beginner) y [teléfonos satelitales](umbrella://communications/radios-and-satellite-phones/advanced).)
 
 ## Contactos
 
