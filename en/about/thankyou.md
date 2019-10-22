@@ -11,7 +11,7 @@ Umbrella would not be possible without the work, advice, friendship and cups of 
 *   Committee to Project Journalists
 *   Dart Center for Journalism and Trauma
 *   Electronic Frontier Foundation
-*   European Commission\\'s Humanitarian Aid and Civil Protection Department
+*   European Commission Humanitarian Aid and Civil Protection Department
 *   European Interagency Security Forum
 *   Frontline Defenders
 *   Humanitarian Response
