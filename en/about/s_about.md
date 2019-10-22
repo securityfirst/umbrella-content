@@ -28,11 +28,11 @@ Friends from the past now working on new things:
 *   Mitesh Patel -> improved things
 *   Adam Schakaki -> fixed things
 
+[Licences](umbrella://licences/)  
+[Thank you to many awesome people](umbrella://thankyou/)
+
 Special thanks to the [OSCE ODIHR](https://www.osce.org/odihr) team who helped us in 2018/19. In particular they helped us review and build content for new audiences, test with a wide variety of new users, make it easier to navigate, gamify and share Umbrella's advice with more people and generally were an awesome source of impartial advice and friendship:
 *   David Mark -> connected things
 *   Johanna Pruessing -> corralled things
 *   Marine Constant -> supported things
 *   Mattia Gambini -> continued things
-
-[Licences](umbrella://licences/)  
-[Thank you to many other awesome people](umbrella://thankyou/)
