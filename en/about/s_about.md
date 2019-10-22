@@ -36,3 +36,5 @@ Special thanks to the [OSCE ODIHR](https://www.osce.org/odihr) team who helped u
 *   Johanna Pruessing -> corralled things
 *   Marine Constant -> supported things
 *   Mattia Gambini -> continued things
+
+![image](OSCE ODIHR.jpg)
