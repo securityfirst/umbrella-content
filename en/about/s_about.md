@@ -37,4 +37,4 @@ Special thanks to the [OSCE ODIHR](https://www.osce.org/odihr) team who helped u
 *   Marine Constant -> supported things
 *   Mattia Gambini -> continued things
 
-![image](OSCE ODIHR.jpg)
+![image](osce.jpg)
