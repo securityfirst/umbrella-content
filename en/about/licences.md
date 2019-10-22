@@ -15,9 +15,9 @@ Umbrella is a community project and could not have been created without the incr
 - BBC. (2009). Journalism Safety Guide. BBC. Available at http://www.bbc.co.uk. Proprietry
 - Eguren, Enrique. &amp; Caraj, Marie. 2008. New Protection Manual for Human Rights Defenders (3rd Ed.). Protection International. Available at http://www.protectioninternational.org. Proprietry. Copyright© 2008 by Protection International. This manual has been produced for the benefit of human rights defenders and may be quoted from or photocopied for non commercial purposes as long as the source/authors are acknowledged. For its inclusion in other publications or other uses please ask for authorization.
 
-## UMBRELLA LICENCE
+## UMBRELLA CONTENT LICENCE
 
-Umbrella by Security First is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Umbrella by Security First is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. It's terms also apply to parts of the project supported by the OSCE Office for Democratic Institutions and Human Rights.
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
@@ -148,7 +148,9 @@ For the avoidance of doubt, this Section 6(b) does not affect any right the Lice
 3. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 4. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-## Umbrella - Code Licence:
+## UMBRELLA CODE LICENCE
+
+Umbrella by Security First is licensed under a GPLv3 Licence. It's terms also apply to parts of the project supported by the OSCE Office for Democratic Institutions and Human Rights.
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
