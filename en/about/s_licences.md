@@ -1,3 +1,7 @@
+---
+index: 2
+title: Licences
+---
 ## CONTRIBUTING LICENCES
 
 Umbrella is a community project and could not have been created without the incredible work of many people and partners – especially those who helped provide content and code. We can&#39;t thank you all enough. We&#39;ve done our best to make sure all the licences and credit for your hard work are included here but if we made a mistake please let us know at legal@secfirst.org
