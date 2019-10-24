@@ -1,5 +1,8 @@
-THANK YOU
----------
+---
+index: 3
+title: Thank you
+---
+# THANK YOU
 
 Umbrella would not be possible without the work, advice, friendship and cups of tea from our friends at:
 
