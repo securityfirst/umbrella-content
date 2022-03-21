@@ -23,4 +23,4 @@ title: 2FA
 
 پیام های متنی SMS می توانند مورد سوء قصد قرار گیرند و بیشتر دستگاه های U2F هزینه بر هستند. بهترین راه حل برای اکثر افراد این است که از یک برنامه مانند [Google Authenticator](https://play.google.com/store/apps/details؟id=com.google.android.apps.authenticator2) استفاده کنید.
 
-پروژه [Two Factor Auth](https://twofactorauth.org/) پروژه خدمات و نرم افزار را دنبال می کند که به شما امکان اضافه کردن 2FA را می دهد.
+پروژه [2FA Directory](https://2fa.directory/) پروژه خدمات و نرم افزار را دنبال می کند که به شما امکان اضافه کردن 2FA را می دهد.

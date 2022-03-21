@@ -23,4 +23,4 @@ title: 2FA
 
 يمكن اعتراض رسائل SMS النصية ، ومعظم أجهزة U2F تكلف المال. أفضل حل لمعظم الأشخاص هو استخدام تطبيق مثل [Google Authenticator] في (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2). 
 
-[عامل التوثيق الثنائي] في  (https://twofactorauth.org/) يتتبع المشروع الخدمات والبرامج التي تسمح لك بإضافة 2FA.
+[عامل التوثيق الثنائي] في  (https://2fa.directory/) يتتبع المشروع الخدمات والبرامج التي تسمح لك بإضافة 2FA.

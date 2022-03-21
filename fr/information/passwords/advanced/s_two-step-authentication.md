@@ -23,4 +23,4 @@ Même si votre mot de passe est piraté ou volé, le voleur ne pourra pas se con
 
 Les messages SMS peuvent être interceptés et la plupart des appareils U2F sont coûteux. La meilleure solution pour la plupart des gens consiste à utiliser une application telle que [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).
 
-Le projet [Two Factor Auth](https://twofactorauth.org/) suit les services et les logiciels permettant d’ajouter 2FA.
+Le projet [2FA Directory](https://2fa.directory/) suit les services et les logiciels permettant d’ajouter 2FA.

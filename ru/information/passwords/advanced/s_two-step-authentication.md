@@ -23,4 +23,4 @@ title: Двухэтапная аутентификация
 
 Текстовые сообщения SMS могут быть перехвачены, и большинство устройств U2F стоят денег. Лучшим решением для большинства людей является использование приложения, такого как [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).
 
-Проект [Two Factor Auth](https://twofactorauth.org/) отслеживает сервисы и программное обеспечение, которые позволяют добавлять 2FA.
+Проект [2FA Directory](https://2fa.directory/) отслеживает сервисы и программное обеспечение, которые позволяют добавлять 2FA.
