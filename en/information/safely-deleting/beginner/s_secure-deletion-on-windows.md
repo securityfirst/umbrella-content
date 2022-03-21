@@ -6,7 +6,7 @@ title: Secure deletion on Windows
 
 Bleachbit is a free, open-source secure deletion tool for Windows. It is much better than the built-in options.
 
-[Download](http://bleachbit.sourceforge.net/download/windows) it from the official website and save the file. Double click on the downloaded file to install it. 
+[Download](https://www.bleachbit.org/download/windows) it from the official website and save the file. Double click on the downloaded file to install it. 
 
 ## To securely delete a single file or folder:
 

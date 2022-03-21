@@ -6,7 +6,7 @@ title: La suppression sécurisée sous Windows
 
 Bleachbit est un outil de suppression sécurisé gratuit et à code source ouvert pour Windows. Il est beaucoup mieux que les options intégrées.
 
-[Téléchargez-le](http://bleachbit.sourceforge.net/download/windows) à partir du site officiel et enregistrez le fichier. Double-cliquez sur le fichier téléchargé pour l’installer.
+[Téléchargez-le](https://www.bleachbit.org/download/windows) à partir du site officiel et enregistrez le fichier. Double-cliquez sur le fichier téléchargé pour l’installer.
 
 ## Pour supprimer en toute sécurité un seul fichier ou dossier :
 

@@ -6,7 +6,7 @@ title: Eliminación segura en Windows
 
 Bleachbit es una herramienta de eliminación segura y de código abierto para Windows. Es mucho mejor que las opciones integradas.
 
-[Descargue](http://bleachbit.sourceforge.net/download/windows) desde el sitio web oficial y guarda el archivo. Haga doble clic en el archivo descargado para instalarlo.
+[Descargue](https://www.bleachbit.org/download/windows) desde el sitio web oficial y guarda el archivo. Haga doble clic en el archivo descargado para instalarlo.
 
 ## Para eliminar de forma segura un solo archivo o carpeta:
 
