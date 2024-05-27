@@ -6,7 +6,7 @@ title: Windows上的安全刪除
 
 Bleachbit是一款適用於Windows的免費開源安全刪除工具。它比內置選項好得多。
 
-從官方網站上[下載](http://bleachbit.sourceforge.net/download/windows)它並保存文件。雙擊已下載的文件進行安裝。
+從官方網站上[下載](https://www.bleachbit.org/download/windows)它並保存文件。雙擊已下載的文件進行安裝。
 
 ## 要安全刪除單個文件或文件夾：
 
