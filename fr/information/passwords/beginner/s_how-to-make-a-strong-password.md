@@ -22,8 +22,6 @@ Plus le mot de passe est long, plus il est difficile à deviner. Les mots de pas
 
 Un petit effort pour rendre un mot de passe plus complexe est toujours bénéfique. En augmentant la longueur de celui-ci de quelques caractères, ou en ajoutant des chiffres ou des caractères spéciaux, cela le rend beaucoup plus difficile à pirater.
 
-(Jetez un œil à la force des mots de passe sur [Passfault](http://www.passfault.com/).)
-
 ## 3. Aléatoires
 
 *   **N’utilisez pas votre prénom, numéro de téléphone, prénom de vos enfants ou de vos animaux, date de naissance ou toute autre information personnelle.**

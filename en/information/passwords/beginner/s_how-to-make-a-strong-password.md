@@ -22,8 +22,6 @@ The longer a password is, the longer it takes to guess. Short passwords of any k
 
 A little effort to make the password more complex goes a very long way. Increasing the length by a few characters, or adding numbers or special characters, makes it much more difficult to crack. 
 
-(Check the strength of passwords at [Passfault](http://www.passfault.com/).)
-
 ## 3. Random
 
 *	**Don't use your name, telephone number, child's name, pet's name, birth date, or anything personal.** 
